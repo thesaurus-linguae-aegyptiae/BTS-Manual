@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_pxz_dzt_kr">
+  <title>Quick view</title>
+  <body>
+    <p>When you have maximized or minimized one or several windows of the workspace (Corpus
+      Navigator, Text Editor, etc.), their icons will appear on the right or left side of the User
+      Interface. You can open a quick view of the chosen window (and a chosen tab of that window) by
+      clicking on its icon on the right or left side of the User Interface. </p>
+    <p>This example shows the maximized Text Editor. Other sections are minimized on the right and
+      left (marked red).</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/Quick%20view.png"
+        id="image_q3q_w1y_st"/></p>
+    <p>On mouse-over at <image href="Images/icons/full/icon16/corpora.png" id="image_k2m_fzd_4r"/> a
+      ToolTip "Corpus Navigator" will appear. If you click it, the quick view of the Corpus
+      Navigator will be displayed.</p>
+    <p>The symbol of the currently chosen quick view is encircled. The quick view is completely
+      functional. To close it, you need to click the symbol again. The entire window remains
+      minimized. </p>
+  </body>
+</topic>

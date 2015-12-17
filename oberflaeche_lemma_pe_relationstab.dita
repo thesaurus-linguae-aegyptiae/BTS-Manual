@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_lv5_cpd_vt">
+  <title>Relations</title>
+  <body>
+    <p>This tab provides information on the relation between the lemmata. </p>
+    <p><b>Relation</b></p>
+    <p>Choose different types of relations:</p>
+    <p><u>partOf</u> a lemma is a part of another lemma.</p>
+    <p><u>contains/is composed of</u> a relation between a compositum and its components.</p>
+    <p><u>Referencing / referencedBy</u> in cases of lemmas, that have been proven to be wrong
+        (<image href="Images/icons/full/icon16/lemma-wrong.png" id="image_i5l_mlp_nt"/>) a relations
+      is set to the correct lemma by "referencing". In the correct lemma (<image
+        href="Images/icons/full/icon16/lemma-ok.png" id="image_ywh_plp_nt"/>) the relation to the
+      wrong lemmata will be defined through "referenced by".</p>
+    <p><u>rootOf</u> a relation between a lemma and its root.</p>
+    <p><u>successor / predecessor</u> correlation between the Egyptian and Demotic word lists.</p>
+    <p><u>is cross-reference to</u> this option is offered but is not relevant at the moment.</p>
+    <p><u>Object</u></p>
+    <p>Enter the Name of the related object here. </p>
+    <p><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/>
+      <u>Search Object</u></p>
+    <p>Search for a text or an object in the corpora of your current project, so that you do not
+      have to enter it manually. </p>
+    <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
+      <u>Add Relation</u></p>
+    <p>Click it to add more relations.</p>
+    <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
+      <u>Remove Relation</u></p>
+    <p>This removes a relation from the Object.</p>
+  </body>
+</topic>

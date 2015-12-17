@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_u2k_qc5_kr">
+  <title>Mouse-over</title>
+  <body>
+    <p>To see context information for a button, you just need to move your mouse to this button.
+      This action is called "mouse-over". The example here is the hint of the "Maximize" button
+      above the Texteditor (note:
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>you cannot see the cursor
+      itself<?oxy_custom_end?>):</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p>Benutzeroberflaeche_mouse_over_maximize.jpg</p>
+    <?oxy_custom_end?>
+  </body>
+</topic>

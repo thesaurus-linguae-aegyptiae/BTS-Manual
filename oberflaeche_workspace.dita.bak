@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dts_pjd_4r">
+ <title>Workspace</title>
+ <conbody>
+  <p>"Workspace" is a part of the BTS user interface, located between tool bar and status bar. It
+      changes appearance when the user switchs between "Corpus", "Lemma" or "Thesaurus" views. </p>
+  <p>The workspace consists of three or four windows depending on the view you have chosen. You can
+        <xref href="oberflaeche_funktionen_e5.dita">maximize or minimize and relocate</xref> windows
+      separately.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_u2k_qc5_kr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="P:\Handbuch\howto_onmouseover_e7.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="P:\Handbuch\howto_onmouseover_e7.dita" xtrc="title:1;4:10">mouse-over</title>
+  <body class="- topic/body " xtrf="P:\Handbuch\howto_onmouseover_e7.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_onmouseover_e7.dita" xtrc="p:1;6:8">To see context information for a button, you just need to move your mouse to this button.
+      This movement is called "mouse-over". The example here is the hint of the "Maximize" button
+      above the Texteditor (note: you cannot see the cursor itself):</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_onmouseover_e7.dita" xtrc="p:2;9:8">Um Kontextinformationen in Form von Kurzmeldungen zu den Buttons des BTS abzurufen, genügt
+      es, den Mauszeiger auf den gewünschten Button zu bewegen. Diese Bewegung wird im Handbuch
+      "on-mouse-over" genannt. Beispielhaft sei das hier für den "Maximize"-Button oberhalb des
+      Texteditors dargestellt (der Mauszeiger selbst ist nicht sichtbar): </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_onmouseover_e7.dita" xtrc="p:3;14:8">Benutzeroberflaeche_mouse_over_maximize.jpg</p>
+    <?oxy_custom_end?>
+  </body>
+</topic>

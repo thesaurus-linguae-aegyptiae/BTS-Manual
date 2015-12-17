@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_wmn_1kb_lt">
+  <title>Suffixes</title>
+  <body>
+    <p>Suffixes are to be marked consistently by “=”. Note the whitespace between a word and “=”.
+      Lexically bound suffixes have to be marked by “≡” to declare the suffix as included in the
+      word (e.g. personal names).</p>
+    <p>
+      <table id="table_lfm_bkb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry namest="col1" nameend="col2"><b>Examples</b></entry>
+            </row>
+            <row>
+              <entry namest="col1" nameend="col2">Morphological Suffixes:</entry>
+            </row>
+            <row>
+              <entry>correct: <i>sḏm =f</i></entry>
+              <entry>incorrect: <i>s</i><i>ḏ</i><i>m=f</i></entry>
+            </row>
+            <row>
+              <entry>Lexical Bound Suffixes:</entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>correct: <i>Nṯ</i><i>r-ꜥpr</i><b>≡</b><i>f</i></entry>
+              <entry>incorrect: <i>Nṯr-ꜥpr =f</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

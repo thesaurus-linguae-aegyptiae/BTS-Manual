@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /P:\Handbuch\temp\topic-pdf?><?workdir-uri file:/P:/Handbuch/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_rjs_nw2_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="title:1;4:9">User Manager</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:1;6:6"><image href="Images/icons/full/icon16/users.png" id="image_ehx_rrk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:1;6:78"/><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="b:1;6:81">Open User
+    Manager</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:2;8:6">This opens the window "User Management" with two tabs "Manage Users and User Groups" and
+   "Administrate User Roles and Rights".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:3;10:6">"Manage Users and User Groups" tab offers the opportunity to create new users and add users to
+   project groups, which have a specific set of rights in the editing process.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:4;12:6">In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:2;12:89"/> "Active
+   Users" active user groups are displayed. In the tab "Bin" deleted user groups are shown. In the
+   brackets behind the group names the number of assigned users is displayed. Clicking on a group
+   name the list of assigned users will open. The last entry in the list "_Orphans" shows on click
+   all available users. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:5;17:6">Functions of the buttons:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:6;18:6"><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:3;18:82"/> "New Group" adds a
+   new group to your list of groups. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:7;20:6"><image href="Images/icons/full/obj16/delete.png" id="image_tml_hxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:4;20:78"/> "Delete" deletes the
+   selected user and moves him into the bookmark <image href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:5;22:28"/>"Bin".
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: The User Management
+   disappears, whenever you click the header "Bin" and reappears on the next click.
+   <?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:8;26:6"><image href="Images/icons/full/icon16/undo.png" id="image_sjs_sxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:6;26:77"/> undo last action.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:9;27:6"><image href="Images/icons/full/icon16/redo.png" id="image_ldc_xxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:7;27:77"/> redo last undone
+   action. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:10;29:6"><image href="Images/icons/full/icon16/userrole-edit.png" id="image_bx3_cyk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:8;29:86"/> "Edit updaters
+   of selected database object" opens the User Manager, where you can assign either "Reader" or
+   "Updater" role to a user in relation to the user group. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:11;32:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:1;32:9">"Manage Users and User Groups" tab:</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:12;33:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:2;33:9">Group Settings</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:13;34:6">Each group has an ID and a name which appear in the field on the right after clicking on the
+   chosen group. For each group a "type" can also be given and there is a possibility to write a
+   comment. Also on the right side, below the group data, there is a section for creating new
+   individual members within the group "Create New User". A
+   "Userna<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>me<?oxy_custom_end?>"
+   and a "Password of New
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(user?)<?oxy_custom_end?>" are
+   to be entered while creating a ne user.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: words do not appear
+   entirely<?oxy_custom_end?>. In the third section below there is a drop-down menu, where you can
+   choose existing users and add them to the chosen group by clicking on the "Add user to Group"
+   (blue) below.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:14;46:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:3;46:9">User Settings</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:15;47:6">For every user there is a field on the right, where he or she can see, enter or edit their
+   data, such as: user ID, Forname and Surname (required fields marked with *), Email, Website,
+   Description, Web
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Descriptin<?oxy_custom_end?>,
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Sigle<?oxy_custom_end?> and
+   Comment. In the field below, user can see (but not change!) their username. They have also an
+   option to change their
+   Passwo<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>rd<?oxy_custom_end?> and
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>check the box "User is
+   Database Administrator" which will make a chosen user an administrator of the
+   database.<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:16;58:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:4;58:9">"Administrate User Roles and Rights" tab:</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:17;59:6">A toolbar above consists of:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:18;60:6"><image href="Images/icons/full/icon16/project-add.png" id="image_lzv_rfq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:9;60:84"/> "New Project"
+   adds new project <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(passiert
+   nichts)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:19;63:6"><image href="Images/icons/full/obj16/delete.png" id="image_n3x_5fq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:10;63:78"/> "Delete" deletes a
+   project <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(passiert
+   nichts)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:20;66:6"><image href="Images/icons/full/icon16/undo.png" id="image_hh1_zfq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:11;66:77"/> "Undo" undo last
+   action.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:21;68:6"><image href="Images/icons/full/icon16/redo.png" id="image_rh1_zfq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:12;68:77"/> "Redo" redo last undone
+   action. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:22;70:6"><image href="Images/icons/full/icon16/userrole-edit.png" id="image_lgv_1gq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="image:13;70:86"/> "Edit updaters
+   of selected database
+   object"<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(passiert
+   nichts)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:23;74:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:5;74:9">1st Level: Projects</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:24;75:6">List of projects is displayed in the field on the left side. Upon clicking on a chosen project,
+   its data will appear in the field on the right. The data includes: Project ID, Project Name,
+   Project Prefix, Description,
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Conntection<?oxy_custom_end?>
+   Type, Server URL and DB Path. You can also click on the blue link below "Add Database Collection"
+   and in the pop-up window give the name of the collection and check boxes
+   "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Syncronize<?oxy_custom_end?>
+   Collection" and "Index Collection for Full Text Search" if needed. Clicking OK will add the
+   collection to the chosen project and it will appear at the bottom after opening the project
+   tree.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:25;85:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:6;85:9">2nd Level: DB Collections</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:26;86:6">For each collection data will also be displayed on the right. "DB Collection Name" will be
+   displayed, but cannot be edited at this point. Two boxes can be checked:
+   "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Syncronize<?oxy_custom_end?>
+   with Server" and "Index Collection". Below is a drop-down menu "Create New Roles Description"
+   where you can choose: admins, editors, researchers, transcribers or guest roles for the users.
+   After choosing one option from the drop-down menu, click on the blue link below it "Add New User
+   Roles Description" to add the role.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:27;93:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:7;93:9">3rd Level: User Roles</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:28;94:6">In the tree on the left, the added roles will appear after expanding the collection. On the
+   right, Role Name and User Role Definition (a description of tasks and rights) will appear, which
+   cannot be changed. In the two fields below you can assign a user or a group to each role. At the
+   bottom there is a blue link "Remove this Role and its members form DB collection". Cliking on it
+   will remove the chosen role from the collection on the left.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:29;99:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="u:8;99:9">4th Level: Users</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_usermanager.dita" xtrc="p:30;100:6">Further expanding a role, users with the assigned roles will be displayed. Cliking on
+   individual user will cause their forename and surname to appear on the right, in the case where
+   an entire group has a specific role, the name of the group will appear. You can remove users and
+   groups from specific roles by clicking the blue link on the bottom "Remove Role from User" or
+   "Remove Group from Role".</p>
+ </conbody>
+</concept>

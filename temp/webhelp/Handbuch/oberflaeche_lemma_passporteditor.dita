@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ws4_2pd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="title:1;4:9">Passport Editor (Lemma)</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="shortdesc:1;5:13">The Passport Editor for lemmata is located in the lower centre of the User
+    Interface.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="conbody:1;7:11">
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:1;8:8">The functions of the Passport Editor in the Lemma-View are generally equal to those of the
+      Passport-Manager in the <xref href="oberflaeche_passporteditor.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="xref:1;9:76">Corpora view</xref> with
+      the exception of a few differences (that are explained below). The lemma passport contains a
+      modified "Type"- drop-down-menu to define the part of speech to which the lemma belongs.
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Some registers are without
+      function at the moment??????.<?oxy_custom_end?>
+    </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:2;15:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="b:1;15:11">Differences in the Passport</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:3;16:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="u:1;16:11">Menu</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:4;17:8">Clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_q5d_4fc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="image:1;17:101"/>
+      opens the Menu (see <xref href="oberflaeche_funktionen_e5.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="xref:2;18:72"/>) containing two entries:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:5;19:8"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="i:1;19:11">Inherit Passport Data</i></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:6;20:8">This function can also be triggered by leftclicking <image href="Images/icons/full/icon16/inherit.png" id="image_tzz_pfc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="image:2;21:76"/>. The use of inheriting
+      passport data transfers data from a higher level lemma to a lower level (root entry to child
+      entry).</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:7;24:8"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="i:2;24:11">Inherit Overwrite Passport Data</i></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_passporteditor.dita" xtrc="p:8;25:8">Using this option overwrites passport data if data has already been commited before.</p>
+  </conbody>
+</concept>

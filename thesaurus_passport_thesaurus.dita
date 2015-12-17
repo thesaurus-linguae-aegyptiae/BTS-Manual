@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wh5_yxl_yr">
+ <title>Thesaurus Tab (will be deleted)</title>
+ <shortdesc>Define and comment your thesaurus entry here.</shortdesc>
+ <conbody>
+  <p>Comment: Comment your term here.</p>
+  <p>Definition: Define your term here.</p>
+  <p>If your entry already appeared in the old BTS-Database use the following fields to deliver the
+   connection between old and new entry.</p>
+  <p>Old_id: Enter the old id here.</p>
+  <p>Old_thesaurus_number: Enter the old number of the Thesaurus entry here.</p>
+  <p>Variants: Enter variants of your entry here. This may be useful for variably used terms such as
+   "El-Bersche", "Al-Bairsheh", "Al-Bersche".</p>
+ </conbody>
+</concept>

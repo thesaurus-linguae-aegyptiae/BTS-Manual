@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fck_pr2_yr">
+ <title>Edit Configuration</title>
+ <conbody>
+  <p/>
+  <p>Here you can edit the BTS configuration. A configuration is a set of predefined parameters
+   applicable to your projects. It provides rules for arranging database content. </p>
+  <p>A regular user, however, is not allowed to change or set own configuration.</p>
+ </conbody>
+</concept>

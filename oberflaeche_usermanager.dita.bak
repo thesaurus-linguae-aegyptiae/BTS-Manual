@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rjs_nw2_yr">
+ <title>Open User Manager</title>
+ <conbody>
+  <p/>
+  <p>NOTE: This menu item is only available to administrator. </p>
+  <p>To all other user types it is greyed out. Clicking on this menu item opens the window "User
+   Management" with two tabs "Manage Users and User Groups" and "Administrate User Roles and
+   Rights".</p>
+  <p><b><u>"Manage Users and User Groups" tab:</u></b></p>
+  <p>"Manage Users and User Groups" tab offers the opportunity to create new users and add users to
+   project groups, which have a specific set of rights in the editing process.</p>
+  <p>In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r"/> "Active
+   Users" the active user groups are displayed. In the tab "Bin" deleted user groups are shown. In
+   the brackets behind the group names the number of the assigned users is displayed. Clicking on a
+   group name will open the list of assigned users. The last entry in the list "_Orphans" shows on
+   click all available users. </p>
+  <p>Each group has an ID and a name which appear in the field on the right. For each group a "type"
+   can also be given and there is a possibility to write a comment. Also on the right side, below
+   the group data, there is a section for creating new individual members within the group: "Create
+   New User". A username and a password are to be entered while creating a new user.  In the third
+   section below there is a drop-down menu, where you can choose existing users and add them to the
+   group by clicking on the "Add user to Group".</p>
+  <p>Clicking on a username allows to modify his/her information on the right side of the window. It
+   contains such fields as "ID of User", "First name" and "Surname" (both required fields marked
+   with *), "Email", "Website", "Description", "Web Description", "Siglum" and "Comment". In the
+   "ID" field a username given earlier appears, but cannot be edited anymore. Password of a user can
+   be changed here (e.g. in the case that a user forgets his/her password). Users can also change
+   own passwords any time (as long as they know their previous password). The checkbox "User is
+   Database Administrator" can be checked.</p>
+  <p/>
+  <p>Functions of the buttons in this tab:</p>
+  <p><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r"/> "New Group" adds a
+   new group to your list of groups. </p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_tml_hxk_4r"/> "Delete" deletes the
+   selected user and moves him into the bookmark <image href="Images/icons/full/icon16/bin.png"
+    id="image_tlk_kxk_4r"/>"Bin". </p>
+  <p><image href="Images/icons/full/icon16/undo.png" id="image_sjs_sxk_4r"/> undo last action.</p>
+  <p><image href="Images/icons/full/icon16/redo.png" id="image_ldc_xxk_4r"/> redo last undone
+   action. </p>
+  <p><image href="Images/icons/full/icon16/userrole-edit.png" id="image_bx3_cyk_4r"/> "Edit updaters
+   of selected database object" opens the window, where you can assign either "Reader" or "Updater"
+   role to a user in relation to the user group.</p>
+  <p/>
+  <p><u><b>"Administrate User Roles and Rights" tab:</b></u></p>
+  <p>The user role administration in BTS follows a certain procedure: Project -> DB Collection (ex.
+   Corpus) -> User Role -> User Name. Which means that not a certain corpus and certain role are
+   assigned to the user, but the other way round: first roles are assigned to a corpus and then
+   users are assigned to these roles. </p>
+  <p/>
+  <p><u>1st Level: Projects</u></p>
+  <p>A List of projects is displayed in the field on the left side. Upon clicking on a chosen
+   project, its data will appear in the field on the right. The data includes: Project ID, Project
+   Name, Project Prefix, Description, Connection Type, Server URL and DB Path. You can also click on
+   the blue link below "Add Database Collection" and in the pop-up window give the name of the
+   collection and check boxes "Synchronize Collection" and "Index Collection for Full Text Search"
+   if needed. Clicking OK will add the collection to the chosen project and it will appear at the
+   bottom after opening the project tree.</p>
+  <p><u>2nd Level: DB Collections</u></p>
+  <p>For each collection the data will also be displayed on the right. "DB Collection Name" is
+   shown, but cannot be edited. Two checkboxes can be selected: "Synchronize with Server" and "Index
+   Collection". Below is a drop-down menu "Create New Roles Description" where you can choose:
+   admins, editors, researchers, transcribers or guest roles for the users. After choosing one
+   option from the drop-down menu, click on the blue link "Add New User Roles Description" to add
+   the role.</p>
+  <p><u>3rd Level: User Roles</u></p>
+  <p>In the tree on the left, the added roles will appear after expanding the collection. On the
+   right, Role Name and User Role Definition (a description of tasks and rights) will appear, which
+   cannot be changed. In the two fields below you can assign a user or a group to each role. At the
+   bottom there is a blue link "Remove this Role and its members form DB collection". Clicking it
+   will remove the chosen role from the collection on the left.</p>
+  <p><u>4th Level: Users</u></p>
+  <p>Expanding (clicking on) a role, users with the assigned roles will be displayed. Clicking on
+   individual user will make their first name and surname to appear on the right, in the case where
+   an entire group has a specific role, the name of the group will appear. You can remove users and
+   groups from specific roles by clicking the blue link on the bottom "Remove Role from User" or
+   "Remove Group from Role".</p>
+  <p/>
+  <p>Functions of the buttons in this tab:</p>
+  <p><image href="Images/icons/full/icon16/project-add.png" id="image_fqt_vqg_ks"/> "New Project"
+   adds new project.</p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_ftt_vqg_ks"/> "Delete" deletes a
+   project.</p>
+  <p><image href="Images/icons/full/icon16/undo.png" id="image_kxt_vqg_ks"/> "Undo" undo last
+   action.</p>
+  <p><image href="Images/icons/full/icon16/redo.png" id="image_k15_vqg_ks"/> "Redo" redo last undone
+   action. </p>
+  <p><image href="Images/icons/full/icon16/userrole-edit.png" id="image_q25_vqg_ks"/> "Edit updaters
+   of selected database object".</p>
+ </conbody>
+</concept>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_d3p_htf_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="title:1;4:9">How to manage database objects</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="shortdesc:1;5:13">How to create, move and delete database object.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="conbody:1;6:11">
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:1;7:8">Corpus navigator window can be found on the left side of the BTS user interface in the
+      default view. It cosists of two tabs:<image href="Images/icons/full/icon16/thss.png" id="image_syz_dzp_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:1;9:32"/> "Corpora" and <image href="Images/icons/full/icon16/bin.png" id="image_ors_bzp_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:2;10:32"/> "Bin"; and a toolbar. See <xref href="oberflaeche_corpusnavigator_e9.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="xref:1;11:53"/> for a description of its elements.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:2;12:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="b:1;12:9">Creating a new corpus</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:3;13:6">Your database contains all your corpora, objects and texts and every new one you create. To
+      create new corpora click <image href="Images/icons/full/icon16/corpus-add.png" id="image_nj2_lcv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:3;15:32"/> "New corpus" above the Corpus Navigator window. A window opens where
+      you can enter a name and corpus ürefix. The prefix is the path through which your new corpus
+      will be reached (e.g. aaew/tempelbib reaches the project "Altägyptisches Wörterbuch" (prefix
+      "aaew") and the corpus "Tempelbibliotheken" with the prefix "tempelbib").
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Ticking the box
+      "Synchronize Corpus With Central Database" does not seem to have an effect
+      yet<?oxy_custom_end?>. Clicking "OK" will add a new corpus to the list of corpora, appearing
+      in alphabetical order. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:4;23:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="b:2;23:11">Creating a new object</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:5;24:6">Click the corpus you wish to create the object in and click <image href="Images/icons/full/icon16/tcobject-add.png" id="image_zpf_vfv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:4;25:81"/> "addNewTCObject" a
+      new object will be added as subentry of the corpus (note: currently the new objects and texts
+      will be saved in your main working corpus and not in the selected corpus if they differ. The
+      new objects will appear in the selected corpus though). </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:6;29:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="b:3;29:9">Creating a new text </b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:7;30:6">To create a new text, you have to select a corpus and click <image href="Images/icons/full/icon16/text-add.png" id="image_z4t_4gv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:5;31:73"/> "addNew Text" above the
+   Corpus Navigator window.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:8;33:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="b:4;33:9">Moving database objects</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:9;34:6">To move a database object (corpus, object, text) from one project to another, right click the
+      object and select "Move among projects" in the appearing context menu. In the opened window
+      current location is displayed. Alter the entries as you wish (upper field for new project and
+      lower field for new collection in the project
+      -<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>-&gt; not yet tested because
+      only one project exists)<?oxy_custom_end?>.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:10;40:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="b:5;40:9">Deleting database objects</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="p:11;41:6">To delete a database object, click it and then click <image href="Images/icons/full/obj16/delete.png" id="image_dd4_ghv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:6;42:74"/> "Delete". It will be moved
+      to the bin (<image href="Images/icons/full/icon16/bin.png" id="image_bdk_mhv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_datenbankobjekte.dita" xtrc="image:7;43:89"/>"Bin" tab in
+      the Corpus Navigator window), where you have the opportunity to restore it (right click the
+      object, context menu, "Restore") or to delete it permenantly. </p>
+ </conbody>
+</concept>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_usd_smb_lt">
+  <title>Transliteration-signs with variable conventions</title>
+  <body>
+    <p>The following list shows the convention-variant used in the BTS:</p>
+    <p>
+      <table id="table_tkx_tmb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry><b>BTS var.:</b></entry>
+              <entry><b>Comparison / Identification:</b></entry>
+            </row>
+            <row>
+              <entry><i>j</i></entry>
+              <entry><i>j, i, ı͗</i> : Strong radical ( also used for nisba-endings in
+                dual-endings)</entry>
+            </row>
+            <row>
+              <entry><i>i̯</i></entry>
+              <entry><i>j</i> (weak)</entry>
+            </row>
+            <row>
+              <entry><i>y </i></entry>
+              <entry><i>jj</i>, sometimes <i>j</i> : duplicate M17</entry>
+            </row>
+            <row>
+              <entry><i>u̯ </i></entry>
+              <entry><i>w</i> (weak)</entry>
+            </row>
+            <row>
+              <entry><i>s</i></entry>
+              <entry><i>ś</i></entry>
+            </row>
+            <row>
+              <entry><i>z </i></entry>
+              <entry><i>s</i></entry>
+            </row>
+            <row>
+              <entry><i>q </i></entry>
+              <entry><i>ḳ</i></entry>
+            </row>
+            <row>
+              <entry><i>ṯ </i></entry>
+              <entry><i>č</i></entry>
+            </row>
+            <row>
+              <entry><i>d </i></entry>
+              <entry><i>ṭ</i></entry>
+            </row>
+            <row>
+              <entry><i>ḏ </i></entry>
+              <entry><i>č̣</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_i2s_qwf_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="title:1;4:9">Lemmatizing and encoding inflections</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:1;6:6">To lemmatize a transcribed text the lemmatizer is used. It is part of the PassportEditor part
+   of the BTS.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:2;8:6">Click the second header <image href="Images/icons/full/icon16/lemmatizer.png" id="image_dhr_pqv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="image:1;9:28"/> "Lemmatizer" in this part of the screen and select the "Sign-Text
+   Editor" view below the TextEditor window: </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:3;12:6">Images/Lemmatizer.png</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:4;14:6">You can see several fields:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:5;15:6">The first white rectangle "Selected Word" displays the word that you activated by clicking (in
+   our example: pn). It is already lemmatized, so the other fields are filled: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:6;17:6">"Lemma" provides the lemma number from the lemma list. Next to it, the selected lemma should be
+   displayed. To select a lemma, click the right suggestion in the field below. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:7;19:6">"Flexion" shows the code referring to the grammatical form of the inflection of the selected
+   word. A menu to select should be
+   added.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> [LINK zur Liste der
+   Flexionscodes]</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:8;24:6">In the field "Translation" you can choose one or several fitting translations from the field
+   below (in the example there is only one option, but there can be more). Make sure to have
+   selected the right language in the drop-down menu to the right. Your default language is the one
+   connected with your log in data. Choose several translations by left clicking and holding CTRL at
+   the same time. If none of the options seems fitting to you, you can enter your own translation as
+   well. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:9;30:6">If you cannot find a lemma, click the magnifying glass and search for it in the lemma list. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:10;31:6">To get to the next lemmatizable lemma, either click<image href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="image:2;32:73"/> "Confirm current lemma
+   editing and continue to next lemma" or &gt; on the right above the lemmatizer. &gt;| brings you to the
+   end of the line and &gt;|| to the end of the text
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(BUG: currently the lemmatizer
+   goes to the next element in the text, which is not necessarily a lemma. You can control whether a
+   lemma is selected or not by looking what element in the Sign Text Editor part is marked
+   yellow).<?oxy_custom_end?>
+  </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_lemmatizierung.dita" xtrc="p:11;40:6">Only white marked objects in the Sign Text Editor are lemmata. </p>
+ </conbody>
+</concept>

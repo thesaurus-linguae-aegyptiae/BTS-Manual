@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Berlin Text System V 3.0 User Manual </title>
+ <topicref href="intro.dita">
+  <topicref href="intro_system.dita"/>
+  <topicref href="intro_install.dita"/>
+  <topicref href="intro_init_config.dita">
+   <topicref href="intro_install_keyboard.dita"/>
+   <topicref href="intro_keyboard.dita"/>
+  </topicref>
+  <topicref href="intro_uninstall_update.dita"/>
+ </topicref>
+ <topicref href="howto.dita">
+  <topicref href="howto_ui.dita"/>
+  <topicref href="howto_create_corpus.dita"/>
+  <topicref href="howto_create_corpusobject.dita"/>
+  <topicref href="howto_edittext2.dita">
+   <topicref href="howto_transliteration.dita"/>
+   <topicref href="howto_satzuebersetzung.dita"/>
+   <topicref href="howto_lemmatizierung.dita"/>
+   <topicref href="howto_annotationen.dita"/>
+   <topicref href="howto_corpus_enterhieros2.dita">
+    <topicref href="howto_destructions.dita"/>
+    <topicref href="howto_specialsigns.dita"/>
+    <topicref href="howto_inversions.dita"/>
+    <topicref href="howto_grouping.dita"/>
+   </topicref>
+  </topicref>
+  <topicref href="howto_Grammatikueberpruefung_e6.dita"/>
+  <topicref href="howto_lemma.dita"/>
+  <topicref href="howto_thesaurus.dita"/>
+  <topicref href="howto_passport.dita"/>
+  <topicref href="howto_konfiguration.dita">
+   <topicref href="howto_schriftgroesse__e1.dita"/>
+   <topicref href="howto_schnellansicht_e2.dita"/>
+  </topicref>
+  <topicref href="searching.dita"/>
+  <topicref href="saving.dita"/>
+ </topicref>
+ <topicref href="user_roles.dita">
+  <topicref href="UserRoles_Admin.dita"/>
+  <topicref href="UserRoles_Editor.dita"/>
+  <topicref href="UserRoles_Researcher.dita"/>
+  <topicref href="UserRoles_Transcriber.dita"/>
+  <topicref href="UserRoles_Guest.dita"/>
+ </topicref>
+ <topicref href="admin.dita"/>
+ <topicref href="oberflaeche_e1.dita">
+  <topicref href="oberflaeche_menuleiste.dita">
+   <topicref href="oberflaeche_file.dita"/>
+   <topicref href="oberflaeche_edit.dita"/>
+   <topicref href="oberflaeche_window.dita"/>
+   <topicref href="oberflaeche_preferences.dita">
+    <topicref href="oberflaeche/oberflaeche_configuration_setting.dita"/>
+    <topicref href="oberflaeche_usermanager.dita"/>
+    <topicref href="oberflaeche_databasemanager.dita"/>
+    <topicref href="oberflaeche_preferences2.dita"/>
+    <topicref href="oberflaeche_openfuton.dita"/>
+    <topicref href="oberflaeche_esgui.dita"/>
+    <topicref href="oberflaeche_changepassword.dita"/>
+   </topicref>
+   <topicref href="oberflaeche_help.dita"/>
+  </topicref>
+  <topicref href="oberflaeche_toolbar_e3.dita"/>
+  <topicref href="oberflaeche_statusleiste_e8.dita"/>
+  <topicref href="oberflaeche_workspace.dita">
+   <topicref href="oberflaeche_funktionen_e5.dita"/>
+   <topicref href="oberflaeche_corpora.dita">
+    <topicref href="oberflaeche_corpusnavigator_e9.dita"/>
+    <topicref href="oberflaeche_texteditor_e10.dita"/>
+    <topicref href="oberflaeche_passporteditor.dita">
+     <topicref href="oberflaeche_maintab.dita"/>
+     <topicref href="oberflaeche_relationstab.dita"/>
+     <topicref href="oberflaeche_idtab.dita"/>
+     <topicref href="oberflaeche_definition.dita"/>
+     <topicref href="oberflaeche_findspot.dita"/>
+     <topicref href="oberflaeche_presloctab.dita"/>
+     <topicref href="oberflaeche_datetab.dita"/>
+     <topicref href="oberflaeche_objecttab.dita"/>
+     <topicref href="oberflaeche_texttab.dita"/>
+     <topicref href="oberflaeche_bibliography.dita"/>
+     <topicref href="oberflaeche_synonyms.dita"/>
+    </topicref>
+    <topicref href="oberflaeche_lemmatizer.dita"/>
+    <topicref href="oberflaeche_htw.dita"/>
+    <topicref href="oberflaeche_annotationsfenster.dita"/>
+   </topicref>
+   <topicref href="oberflaeche_lemmanaview.dita">
+    <topicref href="oberflaeche_lemmanavigator.dita"/>
+    <topicref href="oberflaeche_lemma_lemmaeditor.dita"/>
+    <topicref href="oberflaeche_lemma_passporteditor.dita">
+     <topicref href="oberflaeche_lemma_pe_Maintab.dita"/>
+     <topicref href="oberflaeche_lemma_pe_relationstab.dita"/>
+     <topicref href="oberflaeche_lemma_pe_Ids.dita"/>
+     <topicref href="oberflaeche_lemma_pe_definition.dita"/>
+     <topicref href="oberflaeche_lemma_pe_bibl.dita"/>
+     <topicref href="oberflaeche_lemma_pe_Lemma.dita"/>
+    </topicref>
+    <topicref href="oberflaeche_lemmatizer.dita"/>
+    <topicref href="oberflaeche_htw.dita"/>
+    <topicref href="oberflaeche_lemma_annotation.dita"/>
+   </topicref>
+   <topicref href="oberflaeche_thesaurus.dita">
+    <topicref href="oberflaeche_thesaurusnavigator.dita"/>
+    <topicref href="oberflaeche_thesaurs_passporteditor.dita">
+     <topicref href="thesaurus_passport_main.dita"/>
+     <topicref href="thesaurus_passport_relations.dita"/>
+     <topicref href="thesaurus_passport_id.dita"/>
+     <topicref href="thesaurus_passport_definition.dita"/>
+     <topicref href="thesaurus_passport_date.dita"/>
+     <topicref href="thesaurus_passport_bibliography.dita"/>
+     <topicref href="thesaurus_passport_coordinates.dita"/>
+    </topicref>
+    <topicref href="oberflaeche_thesaurus_annotation.dita"/>
+   </topicref>
+  </topicref>
+ </topicref>
+ <topicref href="howto_Grammatikfehler_e5.dita">
+  <topicref href="grammar_about.dita"/>
+  <topicref href="grammar_visualization.dita"/>
+  <topicref href="grammar_transcribing_rules.dita">
+   <topicref href="grammar_notation.dita"/>
+   <topicref href="grammar_structurereflection.dita">
+    <topicref href="grammar_structure_theory.dita"/>
+    <topicref href="grammar_structure_convention.dita">
+     <topicref href="grammar_structure_structuralsigns.dita"/>
+     <topicref href="grammar_prefixes.dita"/>
+     <topicref href="grammar_suffixes.dita"/>
+     <topicref href="grammar_endings.dita"/>
+     <topicref href="grammar_stemmodification.dita"/>
+     <topicref href="grammar_compoundwords.dita"/>
+     <topicref href="grammar_idiomaticexpressions.dita"/>
+    </topicref>
+   </topicref>
+  </topicref>
+  <topicref href="grammar_transliteration_system.dita">
+   <topicref href="grammar_transliterationsigns.dita"/>
+   <topicref href="grammar_weakconsonants.dita"/>
+   <topicref href="grammar_unwrittenconsonants.dita">
+    <topicref href="grammar_unwrittenconsonants_convention.dita"/>
+    <topicref href="grammar_unwrittenconsonants_rules.dita"/>
+    <topicref href="grammar_unwrittenconsonants_numerus.dita"/>
+   </topicref>
+  </topicref>
+  <topicref href="grammar_brackets.dita">
+   <topicref href="grammar_brackets_theory.dita"/>
+   <topicref href="grammar_brackets_conventionalbrackets.dita"/>
+   <topicref href="grammar_brackets_nonconventionalbrackets.dita"/>
+  </topicref>
+  <topicref href="grammar_destructions.dita">
+   <topicref href="grammar_destructions_theory.dita"/>
+   <topicref href="grammar_destructions_representation.dita"/>
+   <topicref href="grammar_destructions_representatives.dita"/>
+  </topicref>
+  <topicref href="grammar_flexioCodes.dita">
+   <topicref href="inflection_verbs.dita"/>
+  </topicref>
+ </topicref>
+</map>

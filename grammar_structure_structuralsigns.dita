@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ejj_tjb_lt">
+  <title>Structural Signs</title>
+  <body>
+    <p>The following list shows the necessary structure of a transcribed entity to represent the
+      morphemic structure correctly (explanations follow below):</p>
+    <p>
+      <table id="table_zl2_wjb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry><b>Structural Signs</b></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Prefixes</entry>
+              <entry>“:”</entry>
+            </row>
+            <row>
+              <entry>Suffix-pronouns</entry>
+              <entry> “=”</entry>
+            </row>
+            <row>
+              <entry>Lexical bound suffixes</entry>
+              <entry> “≡”</entry>
+            </row>
+            <row>
+              <entry>Endings (morph.)</entry>
+              <entry>“.”</entry>
+            </row>
+            <row>
+              <entry>Endings (word formation)</entry>
+              <entry> “,”</entry>
+            </row>
+            <row>
+              <entry>Stem modification</entry>
+              <entry> “!”</entry>
+            </row>
+            <row>
+              <entry>Linking compound words</entry>
+              <entry> “-“</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

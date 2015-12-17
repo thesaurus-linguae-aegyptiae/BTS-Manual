@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_qmv_p2b_sr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="title:1;4:9">Hieroglyph Type Writer (HTW)</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="shortdesc:1;5:13">"Hieroglyph Type Writer" is a tool for entering or editing hieroglyphs for the lemmas
+  displayed in the "Sign-Text-Editor" tab. "Hieroglyph Type Writer" can be found in the lower part
+  of the BTS UI in the default view, next to the "Passport Editor" and "Lemmatizer".</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="conbody:1;8:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:1;9:6">In order to use the HTW you need to open the Sign-Text-Editor first and select a word for which
+   hieroglyphs are to be entered/edited.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:2;11:6">The HTW consists of five tab-sections: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:3;12:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="u:1;12:9"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="b:1;12:12">A Toolbar:</b></u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:4;13:6">Placed in the upper-right corner of the HTW, consists of:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:5;14:6"><image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_nsc_5fx_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:1;14:89"/> Confirm
+   current hieroglyph editing and continue to the next word.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:6;16:6"><image href="Images/icons/extra%20icons/pfeil_anfang_dokument.png" id="image_kgg_r31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:2;16:96"/> Move
+   selection to start of document.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: Internal
+   Error<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:7;20:6"><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_obl_s31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:3;20:93"/> Move
+   selection to start of line.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: Moves selection to the
+   start of document<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:8;24:6"><image href="Images/icons/extra%20icons/pfeil_links.png" id="image_ocj_t31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:4;24:86"/> Move selection
+   to previous word.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:9;26:6"><image href="Images/icons/extra%20icons/pfeil_rechts.png" id="image_m5h_531_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:5;26:87"/> Move
+   selection to next word.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:10;28:6"><image href="Images/icons/extra%20icons/pfeil_ende_zeile.png" id="image_upn_v31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:6;28:91"/> Move
+   selection to end of line.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:11;30:6"><image href="Images/icons/extra%20icons/pfeil_ende_dokument.png" id="image_k3r_y31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="image:7;30:94"/> Move
+   selection to end of document.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:12;32:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="b:2;32:9"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="u:2;32:12">A text-input field "Type here":</u></b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:13;33:6">Here you can enter the hieroglyphs for a word chosen in the Sign-Text-Editor. Read more on
+    <xref href="corpus_hieroglyphen.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="xref:1;34:44"/>.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:14;35:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="u:3;35:9"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="b:3;35:12">Two display-fields: </b></u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:15;36:6">The upper one displays options for signs based on your input in "Type here". The lower one
+   displays already chosen hieroglyphs as they will appear with the selected word in
+   Sign-Text-Editor.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:16;39:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="b:4;39:9"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="u:4;39:12">A tab-section "Select Single Glyphs":</u></b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:17;40:6">This section serves for marking the hieroglyphic inversions. See more on inversions in the
+   section on <xref href="corpus_hieroglyphen.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="xref:2;41:54"/>.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_htw.dita" xtrc="p:18;42:6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: this function is not
+   available yet.<?oxy_custom_end?></p>
+ </conbody>
+</concept>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_krj_pyk_mr">
+ <title>Common features </title>
+<body>
+    <p>BTS workspace consists of dynamic sections, which can be hidden, moved and resized. Each
+      section can contain one or more subsections which will be grouped into tabs. Tabs can be moved
+      from one section to another or opened in a separate window. Subsections cannot be moved
+      independently of a section they are assigned to.</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/BTS_Section_subsection.png"
+        id="image_tmv_klp_5t"/></p>
+    <p>The icons common for all sections are the following: </p>
+    <p><image href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> minimizes
+      section (places the window icon on the icon bar on the left or right side of the
+      workspace).</p>
+    <p><image href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/> maximizes one
+      section. All other sections are automatically minimized.</p>
+    <p><image href="Images/icons/extra%20icons/restore.png" id="image_ikr_ycb_qr"/> restores section
+      to the default (non-maximized and non-minimized)
+      view.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+    <?oxy_custom_end?>
+    <p><u>NOTE</u>: Each section in every view mode can be moved and grouped together in other
+      sections. E.g. the Lemmatizer can be moved to the Annotations / Translation section and be
+      grouped with them into tabs. The sections can even be placed in a separate window outside of
+      the BTS program window. To do this, left-click on a tab and drag &amp; drop it to the
+      necessary position. See also <xref href="howto_ui.dita#topic_t1b_tkq_zs">Introduction to BTS
+        User Interface</xref>.</p>
+    <p>The arrangement will be saved for the current view mode (Corpus, Thesaurus, Lemma and
+      Abstract Text). Restarting the programme will undo the changes and restore the default windows
+      arrangement. </p>
+  </body>
+</topic>

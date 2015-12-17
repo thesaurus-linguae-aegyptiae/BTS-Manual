@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_cpy_xss_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="title:1;4:9">Annotation tab</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="shortdesc:1;5:13">In the default view of the BTS user interface, the annotations window is placed on the
+  right. It shows all annotations of the active text.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="conbody:1;7:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:1;8:6"><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Images/AnnotationFenster.jpg</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:2;9:6">Elements which can be displayed in the Annotation Tab:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:3;10:6"><image href="Images/icons/full/icon16/annotation.png" id="image_p3k_pz3_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:1;10:83"/> "Annotation".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:4;11:6"><image href="Images/icons/full/icon16/rubrum.png" id="image_fjn_yz3_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:2;11:79"/> "Rubrum".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:5;12:6"><image href="Images/icons/full/icon16/comment.png" id="image_qrx_zz3_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:3;12:80"/> "Comment".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:6;13:6"><image href="Images/icons/full/icon16/subtext.png" id="image_mck_31j_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:4;13:80"/>
+   "<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Glosse"<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>.</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:7;16:6">Click on them in order to display their content.  The related content will be marked in the
+   text with different colours: bright red for Rubra; yellow for comments; black for Annotations and
+   blue for Glosses. Clicking on an annotation will also cause the underlining of the related
+   fragment in the text to appear thicker. Additionally, for Annotations, Rubra and Comments, a
+   small bar will appear on the right side of the Text-Editor with the corresponding colour.
+   Clicking on the bar will bring you to the marked fragment of the text. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:8;22:6">Each annotation, Rubrum, Comment and Gloss contains a toolbar consisting of:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:9;23:6"><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:5;23:82"/> Add Current Text
+   Selection as Reference. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:10;25:6"><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:6;25:83"/> Update Current
+   Reference.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:11;27:6"><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:7;27:85"/> Remove Current
+   Reference. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:12;29:6"><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:8;29:77"/> "Edit Comment" or "Edit
+   Annotation": see the entire content or edit it. This feature is different for Annotation, Rubrum
+   and Comment. It is not available for <image href="Images/icons/full/icon16/subtext.png" id="image_mb4_q1j_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:9;32:28"/>
+   "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Glosse<?oxy_custom_end?>".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:13;34:6">For Annotations and Rubra by clicking on the "Edit Annotation" a passport editor will be
+   displayed. Each Annotation will have its own ID and its relation to the chosen text will be
+   displayed in the Relations tab. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:14;37:6">By selecting a "Edit Comment" function, a "Comment Editor" window will appear. You can enter a
+   title for your comment in the upper text-input field and the content of your comment in the lower
+   text-input field. Below there is also a section where you can see or edit a relation of the
+   comment to the text, using the ID.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:15;41:6"><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:10;41:78"/> "Delete" will delete
+   selected annotations.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:16;43:6">To learn more about annotations click <xref href="corpus_annotationen.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="xref:1;43:82">here</xref>. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:17;44:6">There is another bookmark <image href="Images/icons/full/icon16/locale.png" id="image_jjr_kvt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:11;45:28"/> above in the annotation window. If you click it, an entire translation
+   of the chosen text will be displayed. Be sure to check which language the text was translated in,
+   to choose the right language in the <image href="Images/icons/full/icon16/locale.png" id="image_j3z_jvt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:12;48:28"/>drop-down menu in the upper-right corner of the translation tab. If, for
+   instance, only German translation is available, by selecting "en" (English), the display-field
+   will show "## no trans: en ##§". The language options available are: de (German), en (English),
+   fr (French), es (Spanish) and ru (Russian).</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="p:18;52:6"><xref href="oberflaeche_funktionen_e5.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="xref:2;52:50">Maximize and minimize</xref> the window with <image href="Images/icons/extra%20icons/maximize.png" id="image_hdm_wbc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:13;53:75"/> and <image href="Images/icons/extra%20icons/minimize.png" id="image_e5c_xbc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_annotationsfenster.dita" xtrc="image:14;54:75"/>.</p>
+ </conbody>
+</concept>

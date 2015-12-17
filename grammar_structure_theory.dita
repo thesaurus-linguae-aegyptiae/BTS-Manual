@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_p1w_njb_lt">
+  <title>Theory</title>
+  <body>
+    <p>The following structural elements shall be reflected by a transcription: every element of
+      phonology which is a part of a written word, as well as the complete morphology. Graphical
+      elements without function for the phonological or morphological substance of a word are not
+      allowed to be reflected (e.g. determinatives). We do not want to represent each single written
+      glyph/sign, we want to represent the written word.</p>
+  </body>
+</topic>

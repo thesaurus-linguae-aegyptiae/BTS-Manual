@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_s2p_vgb_lt">
+ <title>About</title>
+ <conbody>
+  <p>Every text is a standalone element and is at least a part (child) of a text-corpus. It can
+   relate to another corpus or to an object directly by being attached to it or indirectly by
+   standing in a certain relation (part of etc...) to it. Therefore, each text is potentially
+   independent of other texts and objects as a standalone element. The designation of the
+   relationship is conducted by grouping and assigning of the text to a corpus or an object.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qyr_vyc_cs">
+ <title>Destructions and omissions</title>
+ <conbody>
+  <p><b>Shading (a complete destruction of a hieroglyph)</b></p>
+  <p>A complete destruction of the hieroglyphs (when the sign cannot be recognized anymore) is not
+   to be reconstructed in square brackets (as in the transliteration). Instead, shading is applied
+   to indicate that the destroyed sign cannot be read. The size of the destruction is not important,
+   the shading will always be one size (see screenshot below). You can enter it by using "//".</p>
+  <p><b>Partial Destruction</b></p>
+  <p>When a sign is only partially destroyed (part of it still visible and identifiable), it is
+   rendered by half-square brackets. The half-square brackets are entered with [? + Hieroglyph + ?].
+   Please enter each partially destroyed sign separately (i.e. for each sign the brackets have to be
+   entered separately; only one sign is allowed oin one set of brackets).</p>
+  <p><b>Missing Hieroglyphs</b></p>
+  <p>If a sign or a word is missing altogether (not destroyed) by omission of the scribe in
+   antiquity, it is not to be supplemented. Only what is present in the text is to be encoded. If
+   there is an empty space between two signs left in antiquity it is to be encoded with '..', as in
+   the example below:</p>
+  <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/L%C3%BCcke.png"
+    id="image_byq_xdy_st"/><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
+  <?oxy_custom_end?>
+  <p><u>NOTE</u>:Mistakes made in antiquity are not to be reproduced as such in the encoding!</p>
+ </conbody>
+</concept>

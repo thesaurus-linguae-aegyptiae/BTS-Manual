@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cpy_xss_mr">
+  <title>Passport Editor</title>
+  <conbody>
+    <p>The "Passport Editor" is located in the bottom part in the middle of the "Corpus" work space.
+      It contains the metadata of corpus objects. The "Passport Editor" is divided into different
+      categories which are organized in tabs inside the window. These categories vary depending on
+      the workspace (perspective): Text Corpus, Lemma, Thesaurus or Abstract Text. </p>
+  </conbody>
+</concept>

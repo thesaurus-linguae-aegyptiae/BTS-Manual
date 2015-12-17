@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_axv_vfm_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="title:1;4:9">Corpus Navigator </title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="shortdesc:1;5:13">The "Corpus Navigator" tab is by default located on the left side of the "Corpus" work
+  space. Here you can see the position of the text in the corpus, which is displayed hierarchically.
+  You can navigate through the hierarchical "tree" by clicking or using the "up" and "down" arrow
+  keys on your keyboard.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="conbody:1;9:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:1;10:6"><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:1;10:79"/> marks all <xref href="oberflaeche_preferences.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="xref:1;11:41">activated</xref> corpora, for which you have the updater or
+   reader role. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:2;13:6"><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:2;13:88"/> marks all
+   other corpora.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:3;15:6">"Corpus Navigator"  has two tabs: <image href="Images/icons/full/icon16/thss.png" id="image_jzk_pjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:3;16:28"/> "Corpora" and <image href="Images/icons/full/icon16/bin.png" id="image_vqw_pjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:4;17:28"/> "Bin". By default the tab "Corpora" is activated. In "Bin" you can find
+   your deleted texts and objects. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:4;19:6">At the top of the "Corpus Navigator" window there are several buttons. Two of them - <image href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:5;20:75"/> and <image href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:6;21:75"/> - are also available in
+   other windows and are therefore explained in <xref href="oberflaeche_funktionen_e5.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="xref:2;22:93">"Common
+    features"</xref>- section. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:5;24:6">"Corpus Navigator"-specific buttons are the following: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:6;25:6"><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:7;25:83"/> "New Corpus":
+   Click to create a new corpus. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:7;27:6"><image href="Images/icons/full/icon16/tcobject-add.png" id="image_szx_zjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:8;27:85"/>
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: the path, shown in
+   brackets, contains a default corpus, and not where the obejct has really been
+   created!<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:8;31:6"><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:9;31:81"/> "addNewText": Add a
+   "child" text to the selected corpus
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: the path, shown in
+   brackets, contains a default corpus, and not where the obejct has really been
+   created!<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>.<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:9;36:6"><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:10;36:87"/>
+   "addAnnotation": Add an annotation to active text.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>CLARIFY: Annotation can be
+   added to Corpus / Object / Text. Is this OK?<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:10;40:6"><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:11;40:78"/> "Delete": Delete
+   selected element in the "Corpus Navigator". You can find it under the header "Bin" to restore or
+   permantly delete it. <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>FEATURE
+   REQUEST: Abfrage fehtl: Do you really want to delete the selected object?<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:11;44:6"><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:12;44:79"/> "Open Simple Search
+   Dialog": Open a search dialog.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Click to get information on
+   encoding your sear<?oxy_custom_end?>ch. [LINK]</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:12;48:6">Clicking on the triangle will display the drop-down menu with the following entries: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:13;49:6"><image href="Images/icons/full/icon16/userrole.png" id="image_yjj_x3c_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:13;49:81"/> "Edit Updaters /
+   Readers" and <image href="Images/icons/full/icon16/history.png" id="image_kn5_gjc_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="image:14;50:91"/> "Open
+   revision history" share the functionality with the eponymous <xref href="oberflaeche_edit.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="xref:3;52:6">entries</xref> in the menu bar. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:14;53:6">"Filter"  - filters the corpora acoording to certain criteria. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:15;54:6">"Delete permanently" - deletes the selected object.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_corpusnavigator_e9.dita" xtrc="p:16;55:6">"Restore" - restores the selected object (moves it from "Bin" to "Corpus Navigator" tab).</p>
+ </conbody>
+</concept>

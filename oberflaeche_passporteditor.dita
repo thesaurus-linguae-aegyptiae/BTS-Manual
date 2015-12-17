@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cpy_xss_mr">
+  <title>Passport Editor</title>
+  <conbody>
+    <p>The Passport Editor section is located in the bottom part in the middle of the Text Corpus
+      view. It contains the metadata of a selected text corpus object. It's divided into different
+      subsections which are organized in tabs. These categories vary depending on the view: Text
+      Corpus, Lemma, Thesaurus or Abstract Text. The rights to modify object's passport data depend
+      on your <xref href="user_roles.dita#topic_yqt_fpq_zs">user role</xref> for the selected
+      corpus.</p>
+    <p><image
+        href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Passport_Editor.png"
+        id="image_j12_mtp_5t"/></p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_umb_xrq_nt">
+  <title>Creating / modifying a corpus</title>
+  <body>
+    <p> The following function is available to the user with global administrator privileges only.
+      The detailed description of the UI elements can be found in <xref
+        href="oberflaeche_corpora.dita">Text Corpus</xref>  section.</p>
+    <p><b>Creating a corpus</b></p>
+    <p>
+      <ol id="ol_ikk_dsy_qt">
+        <li>Click the <image href="Images/icons/full/icon16/corpus-add.png" id="image_rbk_ssv_ps"/>
+          New Corpus icon. It is located above the <xref href="oberflaeche_corpusnavigator_e9.dita"
+            >Corpus Navigator</xref>. Alternatively, right-click on any corpus and select Create New
+          Text Corpus.</li>
+        <li>Choose a name and a prefix (a prefix is a short name under which the corpus will be
+          saved in the database). <p><u>NOTE</u>: No special signs, spaces or capital letters are
+            allowed in the prefix!</p></li>
+        <li>Select the check box if you want to "Synchronize corpus with central database". Other
+          users will be able to see your new corpus only if it is synchronized. Otherwise, it will
+          rest in offline mode on your PC. After you have finished, click "OK". Cancel the creation
+          with the "Cancel" button.</li>
+        <li>Your new corpus will appear in the corpora list, in alphabetical order.</li>
+      </ol>
+    </p>
+  </body>
+</topic>

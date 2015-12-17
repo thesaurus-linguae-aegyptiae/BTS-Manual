@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_mj1_dkb_lt">
+  <title>Endings</title>
+  <body>
+    <p>Morphological endings are to be marked by “.”, endings of word formations by “,”. Endings of
+      personal names have to be written at the end of the full name, no matter if a name consists of
+      compound words and/or suffixes. </p>
+    <table id="table_lkz_dkb_lt">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="col1"/>
+        <colspec colnum="2" colname="col2"/>
+        <tbody>
+          <row>
+            <entry namest="col1" nameend="col2"><b>Examples</b></entry>
+          </row>
+          <row>
+            <entry>Morphology: <i>rmṯ.w</i>(Menschen)</entry>
+            <entry>Word Formation:<i>mn,w</i>(Denkmal)</entry>
+          </row>
+          <row>
+            <entry>Personal Name: <i>jni̯-jt(j)=f.j</i></entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

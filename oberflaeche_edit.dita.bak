@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qkz_rqd_4r">
+ <title>Edit</title>
+ <conbody>
+  <p/>
+  <p>The "Edit" drop-down menu contains the following entries: "Edit", "Edit current project", "Edit
+   Updaters/Readers", "Open Conflict Dialog", "Open Revision History".</p>
+  <p><b>Edit</b></p>
+  <p><i>we do not know what this means - remove from BTS or clarify</i></p>
+  <p><b>Edit current Project</b></p>
+  <p>If you click on the "Edit current Project", a window comes up, where you can edit the current
+   project's name and description.</p>
+  <p>The Button "Next >" leads to the "Project Connection Settings" window. Here you can enter your
+   connection type (BTS uses "couchdb"), "Server URL" and the Database Path.</p>
+  <p>Clicking on "Next >" will display a window with options to select additional features, such as
+   corpus data, thesaurus data, wordlist data and abstract text. Select the relevant checkboxes and
+   click "Next". </p>
+  <p>In the "Project Database Collection" window you can add the existing databases to the new
+   project. You can edit the name of the collection by clicking the "Edit" button. </p>
+  <p>Confirm the changes made to your project with "Finish". To go to the previous window you can
+   always click "&lt;Back". Cancel all the changes with the "Cancel" button.</p>
+  <p><b>Edit Updaters/Readers</b></p>
+  <p>This option allows you to set user roles for the currently selected database object (corpus,
+   text, lemma, thesaurus entry etc.). </p>
+  <p>On the left side of the "Edit Updaters/Readers" window click on a user role. </p>
+  <p><u>NOTE</u>: Clicking anywhere in this window will make it disappear, but it reappears at the
+   next click. </p>
+  <p>Currently two user roles are offered: Readers and Updaters. Select the user or user group from
+   the drop-down menus, appearing on the right side of the window. Click on "Assign role to user" or
+   "Assign role to whole user group" to assign a user / user group to a role. The selected user /
+   user group will then appear under the relevant role on the left. </p>
+  <p>Click "Save and Close" to save your changes. </p>
+  <p><b>Open Conflict Dialog</b></p>
+  <p><i>we do not know what this means - remove from BTS or clarify</i></p>
+  <p>
+   <b>Open Revision History</b></p>
+  <p>Having selected a node ( an entry in the navigation tree )  in the "Corpus Navigator", clicking
+   this option will open a "Revision History" window. Two display fields under "Select Master
+   Version" and "Select Compare Version" allow you to compare the changes you made to the object.
+   The master (current) version is shown on the left, the auto-saved versions ("revisions") appear
+   on the right. You can navigate between the tabs "Passport Editor" and "Egyptian Text Editor" to
+   see the changes made in the respective areas. </p>
+  <p>If you want to return to a certain version of the text, right-click on the revision and
+   select "Replace current with selected revision". </p>
+ </conbody>
+</concept>

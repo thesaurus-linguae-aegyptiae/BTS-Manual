@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_axv_vfm_mr">
+ <title>Corpus Navigator </title>
+ <conbody>
+  <p>The Corpus Navigator section is located on the left side of the Text Corpus view. Here you can
+   see the position of the text in the corpus tree, displayed hierarchically. You can navigate
+   through the corpus by clicking the database objects or using the "up" and "down" arrow keys on
+   your keyboard, and using "right" and "left" arrows in order to expand or close a node (entry in a
+   tree). Only one text can be opened at a time.</p>
+  <p><image
+    href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Corpus_Navigator.png"
+    id="image_exj_k4p_5t"/></p>
+  <p>Apart from the object name, physical location of the database object is displayed in square
+   brackets. The number of elements it contains is displayed in round brackets. </p>
+  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/> is displayed for any
+    <xref href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">active</xref> corpus in the tree,
+   for which you have an updater or reader status. </p>
+  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/> is displayed
+   for every other corpus.</p>
+  <p>Corpus Navigator has two subsections: <image href="Images/icons/full/icon16/corpora.png"
+    id="image_o21_2y3_zs"/> Text Corpora and <image href="Images/icons/full/icon16/bin.png"
+    id="image_vqw_pjs_4r"/> Bin. A third tab with the search results will appear, when you open the
+   search dialog. By default the tab Text Corpora is activated. In the Bin tab you can find your
+   deleted texts and objects. Please note that generating the list of the objects in the "Bin" tab
+   may take up to one minute the first time you click it after installing BTS. Thereafter the
+   preview works faster. </p>
+  <p>At the top of the Corpus Navigator section there are several buttons. Two of them, <image
+    href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
+    href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/>, are also available in
+   other windows and are therefore explained in the <xref href="oberflaeche_funktionen_e5.dita"
+    >Common features</xref> section. </p>
+  <p>Corpus Navigator-specific buttons are the following: </p>
+  <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r"/>
+   <u>Create New Text Corpus</u><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+   ADMIN?<?oxy_custom_end?></p>
+  <p>Click to create a new corpus.</p>
+  <p><image href="Images/icons/full/icon16/tcobject-add.png" id="image_szx_zjs_4r"/>
+   <u>Add Text Corpus Object </u></p>
+  <p>Adds a "child" (a lower level)-object to the currently selected database object. Choose the
+   active element by clicking it. It is called "BTSTC Object" until you rename it in the Passport
+   Editor. </p>
+  <p><u>NOTE</u>: The physical location where the child element is saved is not the active corpus
+   but your main working corpus which you have chosen in the <xref
+    href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref> . </p>
+  <p><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r"/>
+   <u>Add Text </u></p>
+  <p>Adds a "child" text to the selected node. It is called "BTS Text" until you rename it in the
+   Passport Editor. </p>
+  <p><u>NOTE</u>: The physical location where the child element is saved is not the active corpus
+   but your main working corpus you have chosen in the <xref
+    href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>.</p>
+  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
+   <u>Add Annotation </u></p>
+  <p>Adds an annotation to the active node. </p>
+  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/>
+   <u>Add Comment </u></p>
+  <p>Adds a comment to the active node.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p><?oxy_custom_end?><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r"/>
+   <u>Delete</u>
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>ADMIN?<?oxy_custom_end?></p>
+  <p>Moves the selected element from the Corpus Navigator section to the Bin. In the Bin you can
+   either restore it or permanently delete it per right-click. Note that you are only allowed to
+   delete your own objects, texts etc..</p>
+  <p><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>
+   <u>Open Simple Search Dialog</u></p>
+  <p>Open a search dialog in order to search for specific database objects, phrases. etc..</p>
+  <p>Clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_zj3_d2g_ys"/>
+   will display the drop-down menu with the previously described options and a few more:</p>
+  <p><u>Delete Permanently</u>
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>ADMIN?<?oxy_custom_end?></p>
+  <p>Use this option to delete an item completely (it will not be moved to the bin).</p>
+  <p><u>Restore</u>
+  </p>
+  <p>Click to restore an item from the bin.</p>
+  <p><u>Move Object among Projects</u></p>
+  <p>Allows you to assign the given database object to another project </p>
+  <p><u>Open Conflict Dialog</u></p>
+  <p><i>currently inactive</i></p>
+  <p><u>Present</u></p>
+  <p><image href="Images/icons/full/icon16/history.png" id="image_kn5_gjc_sr"/> Open Revision
+   History </p>
+  <p>See <xref href="oberflaeche_edit.dita">Menu bar -> Edit</xref>.</p>
+  <p><image href="Images/icons/full/icon16/userrole.png" id="image_yjj_x3c_sr"/> Edit
+   Updaters/Readers </p>
+  <p>See <xref href="oberflaeche_edit.dita">Menu bar -> Edit</xref>.</p>
+  <p><u>Filter</u></p>
+  <p>Filters the corpora according to the listed criteria. </p>
+ </conbody>
+</concept>

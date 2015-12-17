@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kw2_xwf_yr">
+ <title>Object</title>
+ <conbody>
+    <p>This tab is specific for an object, it does not appear when you are working on a text.</p>
+    <p>This tab is divided into three parts: "Description of Object", "Technical Details",
+      "Archaeological and Cultural Context of Object".</p>
+    <p><b>Description of Object</b></p>
+    <p><u>Type of Object</u>
+    </p>
+    <p>Choose the type of your object (e.g. Schriftrolle for a scroll: entry 21- Objekttyp).</p>
+    <p><u>Object is component</u>
+    </p>
+    <p>Use this option if your object is a part of an other object. E.g. if you have a "lid" which
+      is a part of a "coffin".</p>
+    <p><u>Owner</u></p>
+    <p><u>Description</u></p>
+    <p><u>Comment</u>
+    </p>
+    <p>Allows you to write your own comment on the object.</p>
+    <p>There are also four check boxes available: Model, Imitation, Miniature, Skeuomorph. Select if
+      any of them apply to your object.</p>
+    <p><b>Technical Details</b></p>
+    <p><u>Material</u>
+    </p>
+    <p>Choose a material your object is made of from the Thesaurus.</p>
+    <p><u>Dimensions</u>
+    </p>
+    <p>Enter the size of your object (hight, width and length) into the input fields.</p>
+    <p><u>Condition</u>
+    </p>
+    <p>Choose a condition your object is in.</p>
+    <p><u>Technique</u>
+    </p>
+    <p>Choose a technique your object has been worked in from the drop-down menu.</p>
+    <p><u>Comment</u>
+    </p>
+    <p>Add a comment of your object's technical data.</p>
+    <p><b>Archaeological and Cultural Context of Object</b></p>
+    <p><u>Grouping</u>
+    </p>
+    <p>Choose an option from a drop-down menu.</p>
+    <p><u>Cultural Context</u>
+    </p>
+    <p>Choose a context of your object form the Thesaurus.</p>
+    <p><u>Comment</u>
+    </p>
+    <p>Add a comment on the cultural context of your object.</p>
+ </conbody>
+</concept>

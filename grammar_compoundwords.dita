@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_wdf_hkb_lt">
+  <title>Compound Words</title>
+  <body>
+    <p>Compound words such as prepositions (e.g. <i>m-ẖnw</i>) and nouns (<i>wnn-nfr</i>) have to be
+      connected by writing a “-“ between both words.</p>
+    <p>
+      <table id="table_gvd_3kb_lt">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="col1"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+            </row>
+            <row>
+              <entry><i>m-ẖnw</i></entry>
+            </row>
+            <row>
+              <entry><i>m-</i><i>ḫ</i><i>t</i></entry>
+            </row>
+            <row>
+              <entry><i>ḥr-tp</i></entry>
+            </row>
+            <row>
+              <entry><i>wnn-nfr</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

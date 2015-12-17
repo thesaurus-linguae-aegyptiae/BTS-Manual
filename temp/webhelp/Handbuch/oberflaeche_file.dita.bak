@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_xpn_pqd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="title:1;4:9">File</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="shortdesc:1;5:13">Clicking on "File" opens a menu with the entries "New" / "New Project", "Insert",
+  "ExitBTS" and "RestartBTS". The following will provide the description of each entry.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="conbody:1;7:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:1;8:6">
+   <b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="b:1;9:7">New Project</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:2;10:6">When you choose to create a new project, the "Edit project name" window appears. Here you can
+   enter the project name, prefix (how it is reached in the database) and a description
+   (optional).</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:3;14:6">Images/New_project.png<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:4;15:6">"Next &gt;" leads to "Project Connection Settings" window. Here you can enter your connection type
+   (BTS uses "couchdb"), "Server URL" and the Database Path. </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:5;18:6">Images/New_project_settings.png<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:6;19:6"> Clicking on "Next &gt;" will display a window to select additional features, such as corpus data,
+   thesaurus data and wordlist data. Select the relevant checkboxes and click "Next".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:7;21:6"><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Images/New_project_features.PNG<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:8;22:6">In the "Project Database Collection" window you can add the existing databases to the new
+   project. You can edit the name of the collection upon clicking the "Edit" button. </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:9;25:6">Images/New_project_expert.PNG <?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:10;26:6">Finish your project with "Finish". To go to the previous window you can always click "&lt;
+   Back". Cancel the whole new project with "Cancel".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:11;28:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="b:2;28:9">Insert</b></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:12;30:6">BUG: Currently no function</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:13;32:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="b:3;32:9">Exit BTS</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:14;33:6">Click to exit the programme.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:15;34:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="b:4;34:9">Restart BTS</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_file.dita" xtrc="p:16;35:6">Click to restart the programme. </p>
+ </conbody>
+</concept>

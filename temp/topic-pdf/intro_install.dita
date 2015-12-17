@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /P:\Handbuch\temp\topic-pdf?><?workdir-uri file:/P:/Handbuch/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_sdt_t4g_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\intro_install.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\intro_install.dita" xtrc="title:1;4:9">Install, uninstall &amp; update BTS</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\intro_install.dita" xtrc="conbody:1;5:11">
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:1;6:9"/>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:2;7:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:1;7:11"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\intro_install.dita" xtrc="b:1;7:14">Preparing the installation</b></u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:3;8:8">Make sure that you have the latest Java-version installed on your OS. Receive the latest
+      zip-archive "bts.zip" from the server.
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Should be changed into
+      "download from..." or whatever the possibility to get the file may be later
+      on.<?oxy_custom_end?> Locate your "bts.zip" file on your system and open the archive. Extract
+      all files into a directory of your choice.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:4;14:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:2;14:11"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\intro_install.dita" xtrc="b:2;14:14"> Notice</b></u>: We recommend that you use the "standard" installation path which is
+      "c:\bts". Otherwise you will have to make some changes within the next steps.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:5;16:9"/>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:6;17:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:3;17:11"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\intro_install.dita" xtrc="b:3;17:14">Installing BTS</b></u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:7;18:8">Locate the directory you just extracted in the step before and start "bts.exe" by
+      double-clicking or pressing enter on your keyboard. BTS Installation Wizard will start:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:8;20:8">
+      <ol id="ol_vlk_qsj_2s" class="- topic/ol " xtrf="P:\Handbuch\intro_install.dita" xtrc="ol:1;21:30">
+        <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:1;22:13"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:4;22:16">Database Installation Settings</u><p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:9;22:53">
+            <ul id="ul_y51_mtj_2s" class="- topic/ul " xtrf="P:\Handbuch\intro_install.dita" xtrc="ul:1;23:36">
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:2;24:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:1;24:22">Database Installation Directory</i>: The directory of your repository must be
+                entered here. A standard location is automatically entered here refering to:
+                "C:\bts\dbdir". In case you have extracted your bts-archive somewhere else you will
+                have to change the path of "dbdir" here. Click "Browse File System..." to determine
+                the path of directory of your BTS by browsing through explorer if you are not sure
+                about the correct path.</li>
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:3;30:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:2;30:22">Http Port of your CouchDB on Localhost</i>: Enter the number of the port of the
+                server here where your CouchDB service is installed and configurated.
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>At the moment
+                this is the localhost of the TLA-server<?oxy_custom_end?>. <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:10;33:80"/>Click "Next" to
+                continue to the next step. Click "Cancel" to abort the installation.</li>
+            </ul>
+          </p></li>
+        <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:4;37:13"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:5;37:16">Welcome to the Berlin Text System Installation</u><p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:11;37:69">
+            <ul id="ul_x14_b5j_2s" class="- topic/ul " xtrf="P:\Handbuch\intro_install.dita" xtrc="ul:2;38:36">
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:5;39:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:3;39:22">Do you have a BTS Server URL?</i>: Click yes if you have access to a project
+                using BTS or no if you are a single user (local version). Click "Next" to continue
+                to the next step. Click "Cancel" to abort the installation.</li>
+            </ul>
+          </p></li>
+        <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:6;44:13"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:6;44:16">Server Connection</u><p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:12;44:40">
+            <ul id="ul_srb_d5j_2s" class="- topic/ul " xtrf="P:\Handbuch\intro_install.dita" xtrc="ul:3;45:36">
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:7;46:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:4;46:22">Server URL</i>: Enter the URL of the server that you have access to.
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Standard BBAW at
+                the moment: http://aaew64.bbaw.de:9586<?oxy_custom_end?></li>
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:8;49:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:5;49:22">Your User Name</i>: Enter your username.</li>
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:9;50:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:6;50:22">Your Password for Authentication</i>: Enter your password.</li>
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:10;51:19">After entering the information required, click "Connect to server". Afterwards
+                click "Next" to continue to the next step. Click "Cancel" to abort the installation.
+                  <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:13;53:22"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Notice: Do
+                  not click "Finish" (AT THE MOMENT).<?oxy_custom_end?></p></li>
+            </ul>
+          </p></li>
+        <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:11;57:13"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:7;57:16">Select Projects to Load</u><p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:14;57:46">
+            <ul id="ul_b1c_g5j_2s" class="- topic/ul " xtrf="P:\Handbuch\intro_install.dita" xtrc="ul:4;58:36">
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:12;59:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:7;59:22">Select your main working project</i>: Select the project you are part of. The
+                possibility of selecting-options depends on the server you connected with within the
+                step before.</li>
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:13;62:19"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\intro_install.dita" xtrc="i:8;62:22">Further projects from which you want to load and read data</i>: Select a
+                project from "Available Projects" (left text box) and click "Add" to add a project.
+                The project should then appear in the right text box. </li>
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:14;65:19">Click "Next" to continue to the next step. Click "Cancel" to abort the
+                installation.</li>
+            </ul>
+          </p></li>
+        <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:15;69:13"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:8;69:16">Finish Installation of BTS</u><p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:15;69:49">
+            <ul id="ul_zrc_35j_2s" class="- topic/ul " xtrf="P:\Handbuch\intro_install.dita" xtrc="ul:5;70:36">
+              <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:16;71:19">The Installation Wizard will now install the BTS files on your system. Click
+                "Finish" to start the installation.
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Notice: The
+                installation will not start until you click the "Finish" button, eventhough it looks
+                like it would.<?oxy_custom_end?></li>
+            </ul>
+          </p></li>
+      </ol>
+    </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:16;80:8">
+      <ul id="ul_zvn_35j_2s" class="- topic/ul " xtrf="P:\Handbuch\intro_install.dita" xtrc="ul:6;81:30">
+        <li class="- topic/li " xtrf="P:\Handbuch\intro_install.dita" xtrc="li:17;82:13">After the installation has finished, the programm will automatically start and the
+          programm will index the necessary data from the server you have entered byfore. The
+          "Database Manager" will open. Notice that you have to wait until indexing is finished.
+          This may take a while. Congratulations, your BTS-installation is complete.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:17;88:9"/>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:18;89:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\intro_install.dita" xtrc="u:9;89:11"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\intro_install.dita" xtrc="b:4;89:14">Configure your BTS</b></u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:19;90:8">Whithin your first BTS-start, you will have to configure your program individually. A few
+      preferences are set by standard, but checking and setting individual options are recommended.
+      Therefore open the <xref href="oberflaeche_preferences.dita" class="- topic/xref " xtrf="P:\Handbuch\intro_install.dita" xtrc="xref:1;92:68" type="concept"><?ditaot usertext?>preferences</xref>:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:20;93:8">Go to "Berlin Text System General":</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:21;94:8">1) "Configuration" and check wether your prefered setting is currently activated.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:22;95:8">2) "Corpus Settings" -&gt; "Corpus Navigator Settings": Activate "Corpus Navigator sort by key".
+      Press "Apply" to save this setting. You can also apply all changes together by pressing
+      "Apply" after setting all required options. This will save all changes together. Notice that
+      closing the preferences-window or pressing "Cancel" will discard all changes.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:23;99:8">3) "EgyTextEditor" -&gt; "SignTextEditor": Activate every option you wish. Activating "Show
+      Hieroglyphs", "Show Lemma ID", "Show Flexion" and "Show Translation" (language you will work
+      with) are recommended to use the Sign Text Editor properly.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:24;102:8">4) "Lemma List Settings":  If you selected "Yes" in Installating BTS -&gt; 2) then the project
+      of your workgroup should appear here in selection. If not, select it (If it does not show up
+      at all, contact your admin). Select all Lemma lists you want and add them to the active
+      tree.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:25;106:8">5) "Lemma Navigator Settings": Activate "Lemma Navigator sort by sort key".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:26;107:8">6) "Project Settings": Compare "4) Lemma List Settings".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:27;108:8">7) "Thesaurus Settings": Compare 4) Lemma List Settings".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:28;109:8">8) Press "Apply" to save all changes and close the window by pressing "OK".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\intro_install.dita" xtrc="p:29;110:8">Congratulations, your BTS is now configured.</p>
+  </conbody>
+</concept>

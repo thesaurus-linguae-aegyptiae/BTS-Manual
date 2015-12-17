@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_pfs_n4g_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="title:1;4:9">System requirements</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="shortdesc:1;5:13"/>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="conbody:1;6:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="p:1;7:7"/>
+  <p class="- topic/p " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="p:2;8:6">This is a test reference to another chapter: <xref href="oberflaeche_lemmanavigator.dita" class="- topic/xref " xtrf="P:\Handbuch\sonstiges_system.dita" xtrc="xref:1;8:97"/></p>
+ </conbody>
+</concept>

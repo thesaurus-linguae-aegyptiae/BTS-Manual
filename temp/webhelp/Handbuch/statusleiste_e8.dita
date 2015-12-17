@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_azx_hrl_mr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="title:1;4:10">Status bar </title>
+  <body class="- topic/body " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="p:1;6:8">The status bar is at the bottom of the program. It shows in the lower part the path to the
+      file you are currently working on. Above it, your location in the activ text is displayed
+      (line, column, etc):</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="p:2;10:8">Images/Statusleiste.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="p:3;11:8">Clicking on will display the status messages. You can activate status messages with the white
+      "i".</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\statusleiste_e8.dita" xtrc="p:4;14:8">Images/Status_messages.jpg</p>
+  </body>
+</topic><?oxy_custom_end?>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_i1b_fc2_mr">
+  <title>Menu bar</title>
+  <body>
+    <p/>
+    <p>Menu bar is located at the upper edge of the BTS programme window. </p>
+    <p>There are six different menu entries, each one opens a separate dropdown menu on click.</p>
+  </body>
+</topic>

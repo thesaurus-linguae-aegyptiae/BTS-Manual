@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_hzq_trd_vt">
+  <title>Lemma</title>
+  <body>
+    <p>Lemma tab provides information about different properties of the lemma. These are the
+      following:</p>
+    <p><u>Comment</u></p>
+    <p>Any comment to the Lemma which did not fit in any other subsection.</p>
+    <p><u>Comment (english translation)</u></p>
+    <p>Any comment to the english translation of the Lemma.</p>
+    <p><u>lsort</u>, <u>arb_vermerk</u>, <u>simplify</u>, <u>wclassnum</u>, <u>woart</u>,
+        <u>word_class</u> are all information which were transformed from the old program and are no
+      longer relevant.</p>
+  </body>
+</topic>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_pxz_dzt_kr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="title:1;4:10">Quick view/Schnellansicht</title>
+  <body class="- topic/body " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:1;6:8">When you have maximized or minimized one window or several of the workspace (Corpus
+      Navigator, Texteditor, etc.), you can open a quick view of minimized windows. Just click one
+      of the buttons on the left or right, respectively.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:2;9:8">This example shows the maximized Texteditor. On the left there are two symbols on the right
+      seven:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:3;11:8"> Wenn Sie einen oder mehrere der vier Hauptbereiche (Baumstruktur, Texteditor,
+      Passporteditor, Annotationsfenster) maximiert bzw. minimiert haben, können Sie eine
+      Schnellansicht eines anderen Bereiches aufrufen . Dazu klicken Sie auf die Buttons, die sich
+      am linken und rechten Rand befinden.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:4;15:8"> Beispielhaft sei hier die Maximierung des Texteditors als Ausgangssituation gewählt. Links
+      sind zwei Symbole sichtbar, rechts sieben: </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:5;18:8">Images/maximize_Text_Editor_Buttons_markiert.jpg</p>
+    <?oxy_custom_end?>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:6;20:8">On mouse-over at <image href="Images/icons/full/icon16/corpora.png" id="image_k2m_fzd_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="image:1;20:99"/>
+      the hint "CorpusNavigatorPart" appears. If you click it, the quick view of the Corpus
+      Navigator appears: </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:7;23:8">On-mouse-over beim zweiten Symbol am linken Rand erscheint die Meldung "CorpusNavigatorPart".
+      Klicken Sie auf das Symbol, erscheint die Schnellansicht des Corpusmenus (Baumstruktur): </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:8;26:8">Images/maximize_Text_Editor_Corpus_Schnellansicht.jpg</p>
+    <?oxy_custom_end?>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:9;28:8">The symbol of the currently chosen quick view is encircled. The quick view is completely
+      functional. To close it , you need to click the symbol again. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_schnellansicht_e2.dita" xtrc="p:10;30:8">Das Symbol der jeweils ausgewählten Schnellansicht ist umrahmt. Die Schnellansichten sind
+      voll funktionsfähig. Durch klicken auf das umrahmte Symbol schließt sich die Schnellansicht
+      wieder.</p>
+  </body>
+</topic>

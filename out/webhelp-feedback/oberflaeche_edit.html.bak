@@ -1,0 +1,81 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xml:lang="en-us" lang="en-us">
+<head><meta name="description" content="The &#34;Edit&#34; drop-down menu contains the following entries: &#34;Edit&#34;, &#34;Edit current project&#34;, &#34;Edit Updaters/Readers&#34;, &#34;Open Conflict Dialog&#34;, &#34;Open Revision History&#34;. Edit Edit current Project If you ..."></meta><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><meta name="copyright" content="(C) Copyright 2005"></meta><meta name="DC.rights.owner" content="(C) Copyright 2005"></meta><meta name="DC.Type" content="concept"></meta><meta name="DC.Title" content="Edit"></meta><meta name="DC.Relation" scheme="URI" content="oberflaeche_menuleiste.html"></meta><meta name="DC.Format" content="XHTML"></meta><meta name="DC.Identifier" content="concept_qkz_rqd_4r"></meta><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/commonltr.css"><!----></link><title>Edit</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_topic.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/skins/skin.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/jquery.realperson.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/comments.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/jquery.cleditor.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/admin.css"><!----></link><script type="text/javascript"><!--
+          
+          var prefix = "index.html";
+          
+          --></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.8.2.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-ui.custom.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/webhelp_topic.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/localization/strings.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/init.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/comments-functions.js"><!----></script></head>
+<body onload="init('')" class="frmBody" id="concept_qkz_rqd_4r">
+<table class="nav"><tbody><tr><td colspan="2"><div id="printlink"><a href="javascript:window.print();" title="Print this page"></a></div><div id="permalink"><a href="#" title="Link to this page"></a></div></td></tr><tr><td width="75%"><a class="navheader_parent_path" href="oberflaeche_e1.html" title="UI Reference">UI Reference</a> / <a class="navheader_parent_path" href="oberflaeche_menuleiste.html" title="Menu bar">Menu bar</a></td><td><div class="navheader">
+<span class="navparent"><a class="link" href="oberflaeche_menuleiste.html" title="Menu bar"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Menu bar</span></a></span>  </div></td></tr></tbody></table>
+
+ <h1 class="title topictitle1">Edit</h1>
+
+ <div class="body conbody">
+  <p class="p"></p>
+
+  <p class="p">The "Edit" drop-down menu contains the following entries: "Edit", "Edit current project", "Edit
+   Updaters/Readers", "Open Conflict Dialog", "Open Revision History".</p>
+
+  <p class="p"><strong class="ph b">Edit</strong></p>
+
+  <p class="p"><strong class="ph b">Edit current Project</strong></p>
+
+  <p class="p">If you click on "Edit Project Name" window comes up, where you can edit the current project's
+   name and description.</p>
+
+  <p class="p">Button "Next &gt;" leads to the "Project Connection Settings" window. Here you can enter your
+   connection type (BTS uses "couchdb"), "Server URL" and the Database Path.</p>
+
+  <p class="p">Clicking on "Next &gt;" will display a window with options to select additional features, such as
+   corpus data, thesaurus data and wordlist data. Select the relevant checkboxes and click "Next". </p>
+
+  <p class="p">In the "Project Database Collection" window you can add the existing databases to the new
+   project. You can edit the name of the collection by clicking the "Edit" button. </p>
+
+  <p class="p">Confirm the changes made to your project with "Finish". To go to the previous window you can
+   always click "&lt; Back". Cancel the entire changes with "Cancel" button.</p>
+
+  <p class="p"><strong class="ph b">Edit Updaters/Readers</strong></p>
+
+  <p class="p">This option allows you to set user roles for the currently selected database object (corpus,
+   text, lemma, thesaurus entry etc.). </p>
+
+  <p class="p">On the left side of "Edit Updaters/Readers" window click on a user role. </p>
+
+  <p class="p"><u class="ph u">NOTE</u>: Clicking anywhere in this window will make it disappear, but it reappears at the
+   next click. </p>
+
+  <p class="p">Currently two user roles are offered: Readers and Updaters. Select the user or user group from
+   the drop-down menus, appearing on the right side of the window. Click on "Assign role to user" or
+   "Assign role to whole user group" to assign a user /user group to a role. The selected user /
+   user group will then appear under the relevant role on the left. </p>
+
+  <p class="p">Click "Save and Close" to save your changes. </p>
+
+  <p class="p"><strong class="ph b">Open Conflict Dialog</strong></p>
+
+  <p class="p">
+   <strong class="ph b">Open Revision History</strong></p>
+
+  <p class="p">Having selected a project, an object or a text, clicking this option will open a "Revision
+   History" window. Two display fields under "Select Master Version" and "Select Compare Version"
+   allow you to compare the changes you made to the object. The master (current) version is shown on
+   the left, the auto-saved versions ("revisions") appear on the right. You can navigate between
+   tabs "Passport Editor" and "Egyptian Text Editor" to see the changes made in the respective
+   areas. </p>
+
+  <p class="p">If you want to return to a certain version of the text, right mouse-click on the revision and
+   select "Replace current with selected revision". </p>
+
+ </div>
+
+<div class="related-links"></div>
+<div class="navfooter"><!---->
+<span class="navparent"><a class="link" href="oberflaeche_menuleiste.html" title="Menu bar"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Menu bar</span></a></span>  </div><div class="footer">WebHelp output generated by<a href="http://www.oxygenxml.com" target="_blank"><span class="oXygenLogo"><img src="oxygen-webhelp/resources/img/LogoOxygen100x22.png" alt="Oxygen"></img></span><span class="xmlauthor">XML Author</span></a></div>
+<div id="productInfo" style="display:none;"><span id="oxy_productID">oxy-webhelp</span><span id="oxy_productVersion">1.0</span></div><div id="loginData" style="display: none"><span class="bt_close" title="Close"><!----></span><form action="" target="passwordIframe" method="post" name="form_login" onsubmit="return loggInUser();" id="loginFormData" autocomplete="on"><input type="hidden" id="reloadComments" value="yes"><!----></input><table class="login"><thead><tr><td colspan="2"><span id="l_login2"><script type="text/javascript">$('#l_login2').html(getLocalization('label.login'));</script></span></td></tr><tr><td colspan="2"><div id="loginResponse"><!----></div></td></tr></thead><tr><td><span id="l_userName"><script type="text/javascript">$('#l_userName').html(getLocalization('label.userName'));</script></span></td><td><input name="usernameW" type="text" id="myUserName" autocomplete="on" required="required" autofocus="autofocus"><!----></input></td></tr><tr><td><span id="l_pswd"><script type="text/javascript">$('#l_pswd').html(getLocalization('label.pswd'));</script></span></td><td><input name="passwordW" type="password" id="myPassword" autocomplete="on" required="required"><!----></input></td></tr><tr><td colspan="2" align="left"><span id="ll_remember"><script type="text/javascript" xml:space="preserve">
+								$('#ll_remember').html(getLocalization('label.rememberme'));
+							</script></span>     <input name="myLoginRemember" type="checkbox" class="ck" id="myRemember" value="no"><!----></input></td></tr><tr><td colspan="2" align="center"><input id="l_bt_submit_log" type="submit" value="Submit" name="loginFormButton"><!----></input><script type="text/javascript">$('#l_bt_submit_log').attr('value',getLocalization('label.login'));</script><span class="btnHGlue"><!----></span><input class="bt_cancel" id="l_cancelLog" type="button" value="Cancel" name="loginFormButton"><!----></input><script type="text/javascript">$('#l_cancelLog').attr('value',getLocalization('label.cancel'));</script></td></tr></table><div class="loginAlternative"><span id="link_lostPwd" onclick="showLostPwd()"><script type="text/javascript">$('#link_lostPwd').html(getLocalization('label.lostPswd'));</script></span><span id="link_signUp" onclick="showSignUp()"><script type="text/javascript">$('#link_signUp').html(getLocalization('label.signUp'));</script></span></div></form><iframe id="passwordIframe" name="passwordIframe" style="display:none"><!----></iframe></div><div id="cmts"><!----></div></body>
+</html>

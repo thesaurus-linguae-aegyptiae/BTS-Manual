@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dzk_2wf_mr">
+ <title>2. Translation</title>
+ <conbody>
+  <p>You can type the translation of individual sentences in the text input field "Sentence
+            translation". This window will remain deactivated (greyed out) during transliteration,
+            until you press the button "Load Text Lemmata" or until you switch to the "Sign Text
+            Editor" and back.</p>
+  <p>Make sure to have selected the right language in the dropdown menu on the right. (<image
+                href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/> : de, en, fr, es,
+            ru). In the standard view only one line will be visible. Extend the text editor window
+            and scroll up and down if the sentence contains more than one line. The complete
+            translation of the text will appear on the right of your BTS screen in the "Text
+            translation" tab. Clicking on a sentence here will highlighten it and the same sentence
+            will be underlined in the "Transliteration" tab.</p>
+ </conbody>
+</concept>

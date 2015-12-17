@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_rmk_rrf_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="title:1;4:9">How to set the working project and corpus</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="shortdesc:1;5:13">Choose your corpora and your projects</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="conbody:1;6:11">
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="p:1;7:8">Before you can start working with texts, you need to set your working corpora in the <xref href="konfiguration_configuration.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="xref:1;8:49">Preference Settings</xref>. If you cannot see the
+      corpora you expected, try changing the project you work in ("Project settings"). You can also
+      access preferences quickly by clicking on <image href="Images/icons/full/icon16/preferences.png" id="image_fzt_t1q_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="image:1;11:80"/> "Preferences" in the
+      upper right corner of the user interface. Make sure that you have opened the correct view on
+      the BTS (the symbol <image href="Images/icons/full/icon16/corpora.png" id="image_exm_y1v_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="image:2;14:9"/>"Textcorpus" in the toolbar in the upper right corner should be encircled, as opposed to the
+      Lemma or Thesaurus). Now you can start.</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_grundeinstellung.dita" xtrc="p:2;17:8">More detail about corpus choice?<?oxy_custom_end?></p>
+  </conbody>
+</concept>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_w4c_cxf_mr">
+ <title>4. Annotations, Rubra, Glosses and Comments</title>
+ <conbody>
+    <p>An annotation can be a free annotation, a rubrum, a gloss or a comment by the translator. You
+      can annotate a word or a sequence of words, a sentence or several sentences.</p>
+    <p>Mark the sequence you want to annotate (for only one word you just need to place the cursor
+      somewhere in the word except the word is made of one character only: then you must place the
+      cursor directly behind the character). In General, you can create more than one annotation for
+      the same token. In Addition, you can create one (same) annotation for more than one token. </p>
+    <p><u>NOTE</u>: Sometimes the buttons may be shown as inactive, click somewhere outside of your
+      text and then again into it. It should be working after that. Now choose the right kind of
+      annotation with the <xref href="oberflaeche_texteditor_e10.dita">buttons</xref> above the Text
+      Editor.</p>
+    <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
+      <u>Add Annotation</u>
+    </p>
+    <p>Adds an <xref href="howto_annotationen.dita">Annotation</xref> in the active part of your
+      text. It is indicated by a black bar on the right side of the Text Editor. For this type of
+      annotations there is the possibility to enter Passport Data. This is because you may want to
+      give extratextual information for tokens or parts of the text you are entering.</p>
+    <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
+      <u>Add Rubrum</u>
+    </p>
+    <p>Converts the active lemma on the word sequence into a rubrum, which is indicated by red
+      script in the text and a red bar on the right. </p>
+    <p><u>NOTE</u>: At the moment you cannot delete rubra via the "Undo" button.</p>
+    <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
+      <u>Add Subtext/Gloss</u>
+    </p>
+    <p>Adds a subtext or a gloss respectively as a "child" of your text in the corpora tree. You can
+      edit it separately. The subtext will also appear on the left in the Corpora view under the
+      chosen text.</p>
+    <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
+      <u>Add Comment</u>
+    </p>
+    <p>Adds a comment to the selected part of the transliteration. It will be underlined yellow.</p>
+    <p>You can also use these functions via the drop-down menu that appears when you click the
+      triangle to the right of the annotation symbols.</p>
+    <p>The existing annotations are displayed in the <xref
+        href="oberflaeche_annotationsfenster.dita">Annotation section</xref> on the right. A new
+      annotation will appear at the bottom of this list. With the arrow on the right you can expand
+      the annotation and see more information as well as further editing options. </p>
+    <p>Subtext/gloss will be edited like a regular text. </p>
+    <p>You can delete an annotation by selecting it and clicking <image
+        href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/>
+      <u>Delete</u> in the upper right corner of the Annotations tab. A confirmation window will
+      appear, click Delete again to confirm your decision or Cancel if you change your mind.</p>
+    <p><b>What is the difference between an annotation, a subtext, a rubrum or a comment?</b></p>
+    <p><u>Annotation</u>
+    </p>
+    <p>An annotation can be used to mark parts of a text with the intention to give extratextual
+      information including bibliographical references using the Thesaurus. Therefore, annotations
+      can include metadata. Annotations are not limited to one fragment, they can be connected with
+      more than one section of a text or beyond. See <xref
+        href="oberflaeche_annotationsfenster.dita#concept_cpy_xss_mr">Annotation and text
+        translation window</xref>.</p>
+    <p><i>Examples</i>: If you want to divide your text into chapters (e.g. first part being a
+      biography and the next offering scene) then use annotations to mark them (the titles of
+      particular sections cannot be inserted in the transliteration in the Text Editor). </p>
+    <p><u>Subtext</u>
+    </p>
+    <p>Use it to mark sections of a text as a subtext, e.g. in a case where the sequence of the
+      chapters is not clear.</p>
+    <p><u>Rubrum</u>
+    </p>
+    <p>Rubra act as special annotations and therefore you should use this instead of annotations to
+      mark rubra in the text.</p>
+    <p><u>Comment</u>
+    </p>
+    <p>A comment is an information to a text which can discuss problems of a phrase or a word but
+      cannot be related to other sections (unlike annotations, comments cannot have metadata such as
+      e.g. bibliographical information). A comment is a continuous text where you can insert
+      anything you wish to say outside of the transliteration.</p>
+  </conbody>
+</concept>

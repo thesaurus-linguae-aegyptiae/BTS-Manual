@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_i1b_fc2_mr">
+  <title>Menu bar</title>
+  <body>
+    <p>The BTS provides a menu bar at the upper edge of the User Interface (UI): </p>
+    <p><image href="Images/Benutzeroberflaeche_Menuleiste_markiert.jpg" id="image_oly_tf2_mr"
+        width="780"/></p>
+    <p>There are six different options, each of which opens a seperate menu on click:</p>
+    <p><xref href="oberflaeche_file.dita">File</xref>
+    </p>
+    <p><xref href="oberflaeche_edit.dita">Edit</xref></p>
+    <p><xref href="oberflaeche_analyse.dita">Analyse</xref></p>
+    <p><xref href="oberflaeche_window.dita">Window</xref></p>
+    <p><xref href="oberflaeche_preferences.dita">Preferences</xref>
+    </p>
+    <p><xref href="oberflaeche_help.dita">Help</xref></p>
+    <p>Durch Klicken auf die Schaltfläche "File" gelangen Sie in ein Kontextmenu, in dem sie ein
+      neues Projekt erstellen können, INSERT?, das BTS sicher verlassen können ("Exit BTS") und das
+      BTS neu starten können ("Restart BTS").</p>
+    <p>Die Schaltfläche "Edit" führt in dieses Kontextmenu: </p>
+    <p><image href="Images/Edit_Kontextmenu.jpg" id="image_xbh_zh2_mr" width="780"/></p>
+    <p>Klicken Sie auf den Eintrag "Edit...", hat das noch keine Auswirkung. Über "Edit Current
+      Project" erreichen Sie ein Fenster, das die Möglichkeit bietet den Namen Ihres Projektes und
+      die Beschreibung zu verändern:</p>
+    <p><image href="Images/Edit_Current_Project.PNG" id="image_y4j_t32_mr"/>
+    </p>
+    <p>Eine Änderung in diesem Bereich führt nach dem Neustart des Systems dazu, dass alle zuvor
+      indizierten Corpora Fehlermeldungen anzeigen und erneut indiziert werden müssen.</p>
+    <p>Solange kein Corpus ausgewählt ist, sind die anderen Menupunkte inaktiv. Nach Auswahl eines
+      Corpus und eines Objekts können diesem durch Klick auf "Edit Updaters/Readers" im sich
+      öffnenden Fenster Bearbeiter bzw. Leser (ohne Änderungsrechte) hinzugefügt werden. Dazu
+      brauchen Sie die Rechte am Objekt. So sieht das Fenster aus, das sich dann öffnet:</p>
+    <p><image href="Images/Edit_Updaters_Readers.jpg" id="image_wjl_lk2_mr"/></p>
+    <p>"Open Revision History" ist inaktiv, solange Sie kein Corpus ausgewählt haben. BUG: Nach
+      Aktivierung eines Corpus und einem Klick bekommen Sie eine Fehlermeldung ausgegeben.</p>
+    <p>Die Schaltfläche "Analyse" im Menu öffnet ein Menu mit der Option "Analyse Text...", die
+      bisher noch keine Funktion erfüllt.</p>
+    <p>Durch Klicken auf "Window" öffnet sich ein Kontextmenu, das sich mit verschiedenen Ansichten
+      des BTS beschäftigt:</p>
+    <p><image href="Images/Menuleiste_Window.jpg" id="image_hfq_g4f_mr" width="780"/></p>
+    <p>Ein Klick auf "Switch Font Size/CSS Theme" vergrößert die vom BTS dargestellte Schriftgröße.
+      Es gibt zwei Vergrößerungsstufen, der dritte Klick führt wieder zur kleinsten Größe.</p>
+    <p>Durch Klicken auf "Open Perspective" erreichen Sie diese Ansicht: </p>
+    <p><image href="Images/Toolbar_open_perspectives.jpg" id="image_shz_s4f_mr" width="780"/></p>
+    <p>Hier können Sie zwischen der <xref href="lemmaliste.dita">Lemmaliste</xref>, der <xref
+        href="corpus.dita">Corpusansicht</xref> und dem <xref href="thesaurus.dita">Thesaurus</xref>
+      wechseln. </p>
+    <p>Durch Klicken auf <image href="Images/icons/full/icon16/annotations.png"
+        id="image_bkf_z4f_mr"/> "Open Annotation Part" öffnet sich automatisch die <xref
+        href="howto_schnellansicht_e2.dita">Schnellansicht</xref> des Annotationsfensters, wenn Sie
+      sich in einer anderen Ansicht als der Standardansicht befinden. Durch Klicken auf die anderen
+      mit Symbolen versehenen Menupunkte darunter öffnen Sie ebenfalls die jeweilige Schnellansicht. </p>
+    <p>Die nächste Schaltfläche "Preferences" erlaubt Ihnen, Ihre bevorzugten Einstellungen am BTS
+      vorzunehmen. Durch einen Klick öffnen Sie dieses Kontextmenu: </p>
+    <p><image href="Images/Menuleiste_Preferences.jpg" id="image_gtb_fqf_mr" width="780"/></p>
+    <p>Klicken Sie auf <image href="Images/icons/full/icon16/configuration-edit.png"
+        id="image_lqq_qqf_mr"/> "Edit Configuration" erscheint dieses Fenster:</p>
+    <p><image href="Images/Menuleiste_Preferences_Edit_Configuration.jpg" id="image_lnp_jqf_mr"
+        width="780"/></p>
+    <p>Wie und was Sie mit den Konfigurationen ändern, erfahren Sie <xref href="konfiguration.dita"
+        >hier</xref>.</p>
+    <p>Klicken Sie auf den nächsten Eintrag <image href="Images/icons/full/icon16/users.png"
+        id="image_b43_5qf_mr"/> "Open User Manager", öffnet sich ein neues Fenster: </p>
+    <p><image href="Images/Menuleiste_Preferences_User%20Manager.jpg" id="image_wcw_1rf_mr"
+        width="780"/></p>
+    <p>Hier werden die Benutzer <xref href="konfiguration_usermanager.dita">verwaltet</xref>, d.h.
+      Projekte können angelegt und gelöscht und Rechte vergeben. </p>
+    <p>Über "Open Database Manager" öffnet sich ein separates Fenster mit den Informationen über die
+      Datensynchronisation. Im Online-Modus findet diese ständig im Hintergrund statt. im<xref
+        href="konfiguration_databasemanager.dita"> Database Manager</xref> sehen Sie den aktuellen
+      Stand der Indizierung der einzelnen Corpora. bevor ein Corpus nicht ordnungsgemäß indiziert
+      und eventuelle Änderungen übernommen sind, können Sie damit nicht arbeiten:</p>
+    <p><image href="Images/Database_manager.jpg" id="image_pxm_4dl_mr" width="780"/></p>
+    <p>Über den Menupunkt "Preferences" können Sie Einstellungen am BTS vornehmen und zum Beispiel
+      ein anderes Projekt aktivieren, in dem Sie arbeiten möchten, oder Schriftfarben und -arten des
+      BTS verändern. </p>
+    <p>Die Auswahl von "Open Futon" öffnet die "Couch DB" - Datenbank des BTS in Ihrem
+      Standardbrowser. BUG: Im Internet Explorer funktioniert das nicht. TEST: Google Chrome? Hier
+      können Sie den Inhalt Ihrer Datenbank überblicken [EXTRA HOW TO ERSTELLEN?!]: </p>
+    <p><image href="Images/Open_Futon.jpg" id="image_tfg_rml_mr" width="780"/></p>
+    <p>"Open ES GUI" öffnet das <xref href="konfiguration_elasticsearch.dita">Elastic Search</xref>
+      Plugin in Ihrem Standardbrowser. Hier können Sie Suchanfragen stellen. </p>
+    <p>Über "Change Password" können Sie das Passwort des aktiven Nutzers ändern:</p>
+    <p><image href="Images/Change_Password.jpg" id="image_xnb_rjl_mr"/></p>
+    <p>Über den nächste Punkt der Menuleiste "Help" gelangen Sie in ein Hilfemenu:</p>
+    <p><image href="Images/Menuleiste_Help.jpg" id="image_ngy_5pl_mr" width="780"/>Wenn Sie auf den
+      ersten Punkt "Help" klicken, wird Ihnen die Hilfe angezeigt (zurzeit noch nicht implementiert) </p>
+    <p>"Update Application" sucht nach Updates für das Programm. </p>
+    <p>"Install New Software" wird zurzeit noch nicht unterstützt. </p>
+    <p>Nachdem Sie auf "Uninstall Software" geklickt haben, öffnet sich ein Fenster, das Ihnen die
+      Möglichkeit gibt, einzelne Komponenten des Programms zu deinstallieren. Benutzen Sie diese
+      Funktion bitte nicht.</p>
+  </body>
+</topic>

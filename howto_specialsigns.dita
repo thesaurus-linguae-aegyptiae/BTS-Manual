@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ivy_kzc_cs">
+ <title>Special signs</title>
+ <conbody>
+  <p><b>Dots</b></p>
+  <p>The black dot is rendered by the capital letter "O" and the red dot by the small letter "o". </p>
+        <p><u>NOTE</u>: These are not verse points, but dots with an uncertain meaning found
+            sometimes in hieratic texts.</p>
+  <p><b>Cartouches</b>
+        </p>
+  <p>A cartouche is an oval form surrounding a word: <image
+                href="Images/Hypszer/Handbuch-Screenschots/ovalencl.png" id="image_s4h_5cj_qr"/> It
+            is to be entered by &lt;-G7->.</p>
+  <p><b>Serekhs</b>
+        </p>
+  <p>A serekh <image href="Images/Hypszer/Handbuch-Screenschots/rectframe.png" id="image_cds_jcj_qr"
+            /> is to be entered with &lt;S-G7->.</p>
+  <p><b>Hw.t-sign</b>
+        </p>
+  <p>A sign enclosed in a rectangular enclosure (Gardiner's O6)<image
+                href="Images/Hypszer/Handbuch-Screenschots/rectencl.png" id="image_icx_qcj_qr"/> is
+            to be entered with &lt;H-G5->.</p>
+  <p><b>Haplographies</b></p>
+  <p>Haplographies are encoded normally at the position of the first occurrence. In the further
+            occurrence they are to be encoded in double angle brackets: [&amp;-[&amp;- + Hieroglyph
+            + -&amp;]-&amp;] . E.g. in this case <image
+                href="Images/Hypszer/Handbuch-Screenschots/Haplo.jpg" id="image_dkv_r25_mr"/> the
+            sign X8 should be written twice, so it needs to be inserted into double angle brackets
+            in the position where it should occur for the second time: M23-X1 R4 X8
+            [&amp;-[&amp;-X8-&amp;]-&amp;] E15 R4.</p>
+        <p><u>NOTE</u>: If some hieratic signs cannot be transcribed into hieroglyphs (lines or dots
+            without hieroglyphic equivalent), they are available in the Ff group.</p>
+ </conbody>
+</concept>

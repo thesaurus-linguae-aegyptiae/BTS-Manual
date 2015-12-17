@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_otp_cjv_wt">
+  <title>Inflection of Verbs</title>
+  <body>
+    <p><b>Suffix conjugation</b></p>
+    <p>Entering the inflection of verbs only represents the verbal genus, but neither semantic nor
+      syntactic information. Attached suffixes have numbers for each pronoun, counted from 1 to 9.
+      These numbers will be combined with the numbers of the verb forms, see below. For the list of
+      suffix pronoun inflection numbers see LINK. Inflected verbs with a nominal subject are
+      expressed by number "0".</p>
+    <p><u>Example</u>:</p>
+    <p>Suffix conjugation (="SC"), base stem. (="base"), active: <i>jri̯.n=f</i> : 10384 ("10380"
+      for the verbal inflection + "4" for suffix, 3rd p. sg. m.)</p>
+    <p/>
+    <p><u/></p>
+    <p>10000 -> "SC"</p>
+    <p>11000 -> "pref. SC"</p>
+    <p>10020 -> "SC.act.base"</p>
+    <p>10040 -> "SC.pass.base"</p>
+    <p>10100 -> "SC.act.gem"</p>
+    <p>10120 -> "SC.pass.gem=redupl"</p>
+    <p><u>List of Inflections for SC (not prefixed:10000; prefixed 11000)</u></p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_vrv_c1w_wt">
+        <title>sDm=f</title>
+        <tgroup cols="4">
+          <colspec colname="c1" colnum="1" colwidth="1.42*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.34*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.15*"/>
+          <colspec colname="newCol4" colnum="4" colwidth="1*"/>
+          <thead>
+            <row>
+              <entry><i>śḏm</i>
+              </entry>
+              <entry align="center" valign="middle">base stem</entry>
+              <entry align="center" valign="middle">geminated stem</entry>
+              <entry align="center" valign="middle">special</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>active</entry>
+              <entry align="center" valign="middle">10020 (<i>jri̯</i>)</entry>
+              <entry align="center" valign="middle">10100 (<i>jrr</i>)</entry>
+              <entry align="center" valign="middle">10140 (<i>jnt, mꜣn</i> etc.)</entry>
+            </row>
+            <row>
+              <entry>passive</entry>
+              <entry align="center" valign="middle">10040 (<i>jri̯</i>)</entry>
+              <entry align="center" valign="middle">10120 (redupl., <i>śḏmm</i>)</entry>
+              <entry align="center" valign="middle">10160 (final j, y)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_mrh_zwv_wt">
+        <title>sDm.w=f</title>
+        <tgroup cols="4">
+          <colspec colname="c1" colnum="1" colwidth="1.42*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.34*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.15*"/>
+          <colspec colname="newCol4" colnum="4" colwidth="1*"/>
+          <thead>
+            <row>
+              <entry><i>śḏm.w</i></entry>
+              <entry align="center" valign="middle">base stem</entry>
+              <entry align="center" valign="middle">geminated stem</entry>
+              <entry align="center" valign="middle">special</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>active</entry>
+              <entry align="center" valign="middle">10180 (<i>jri̯.w</i>)</entry>
+              <entry align="center" valign="middle">10220 (<i>jrr.w</i>)</entry>
+              <entry align="center" valign="middle">10140 (<i>jnt.tw</i>)</entry>
+            </row>
+            <row>
+              <entry>passive</entry>
+              <entry align="center" valign="middle">10240 (<i>jri̯.w</i>)</entry>
+              <entry align="center" valign="middle">-</entry>
+              <entry align="center" valign="middle">10160 (final j, y)</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

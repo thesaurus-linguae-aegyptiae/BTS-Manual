@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_f5w_3z5_kr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="title:1;4:10">BTS Grammar Reference</title>
+  <body class="- topic/body " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:1;6:8">The BTS works based on a system grammar that defines which characters can be written in a
+      transcribed text and how they match. If you type something that is not allowed according to
+      those rules, the system produces an <xref href="howto_Grammatikueberpruefung_e6.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="xref:1;8:93">error
+        message</xref>. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:2;10:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="b:1;10:11">The Rules:</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:3;11:8">You have to start and end each sentence with the sentence marker §</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:4;12:8">Hit space only in between two words or extratextual information, not after typing a
+      sentencemarker or brackets</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:5;14:8">Brackets are pairs. You have to close every bracket you opened. Sometimes the system will do
+      it automatically, but there are cases where that does not work. You can take a look at all
+      available brackets with CTRL+Space. For recurring elements you also can define a template in
+        the<xref href="konfiguration_preferences.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="xref:2;17:56"> Preference Settings</xref>.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:6;18:8">Dual  and plural endings that are written solely graphically (dual/plural strokes or
+      double/triple repetition of signs) are transcribed with ".du" respectively ".pl".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:7;20:8">Ambiguities are entered as: %case 1: rd.du| case 2: war.t.du%  Watch out not to type a space
+      in front of the vertical stroke. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:8;22:8">It is not allowed to leave out an ending ("nb.") or write to full stops ("nb..") or to close
+      brackets before you open them ("n]b[") or to interlace different kinds of brackets wrongly
+      ("{n[b}]")</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:9;25:8">Adding Extratextual Information:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:10;26:8">Linecounts are introduced by #lc and end with #:  Line 1 = #lc: [1]#</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:11;27:8">Paragraphs start with #para and end with #: CT VI 106a = #para: CT VI 106a#</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikfehler_e5.dita" xtrc="p:12;28:8">Other information (destruction etc.) is indicated by two hyphens: --rest of line
+      destructed--, --3Q-- (destruction of 3 scriptorial squares) </p>
+  </body>
+</topic>

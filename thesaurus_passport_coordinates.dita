@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ux4_gyl_yr">
+ <title>Coordinates </title>
+ <conbody>
+  <p>After entering a location, you can insert its coordinates here:</p>
+  <p><u>Latitude</u> (German: "Breite")</p>
+  <p>Enter the latitude of the location.</p>
+  <p><u>Longitude</u> (German: "Länge")</p>
+  <p>Enter the longitude of the location.</p>
+ </conbody>
+</concept>

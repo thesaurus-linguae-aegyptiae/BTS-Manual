@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jqz_5wf_yr">
+ <title>Definition</title>
+ <conbody>
+  <p>This tab is helpful for recording the working process. The provided input fields are the
+   following:</p>
+  <p><u>Line count</u></p>
+  <p>Enter the modus of the text's line count (e.g. define how the lines are counted in your text).
+   Line count is only visible for the item-type "text".</p>
+  <p><u>Protocol</u></p>
+  <p>Enter the dates of your working process here (e.g. first entering, editing etc.).</p>
+  <p><u>Definition</u></p>
+  <p>Define the type of your textual witness/object here.</p>
+  <p><u>Comment</u></p>
+  <p>Write any additional comments you may have to your work.</p>
+ </conbody>
+</concept>

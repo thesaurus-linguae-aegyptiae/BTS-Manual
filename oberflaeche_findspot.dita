@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xt1_ryf_yr">
+ <title>Findspot</title>
+ <conbody>
+  <p>Another tab specific to an object, serves to enter information about the findspot of the
+   object.</p>
+  <p>This tab is divided into two sections: "Place" and "Former Place".</p>
+  <p><b>Place</b></p>
+  <p><u>Place</u></p>
+  <p>Choose the findspot from the Thesaurus.</p>
+  <p><u>Comment</u></p>
+  <p>Add a comment to the findspot.</p>
+  <p><u>is_origin</u></p>
+  <p>Select this check box if the chosen findspot is the original site where the object was
+   created.</p>
+  <p><u>Certainty</u></p>
+  <p>Choose between "Certain", "Probable" and "Uncertain"</p>
+  <p><b>Former place</b></p>
+  <p><u>former_place</u></p>
+  <p>Select a previous find spot from the thesaurus. </p>
+  <p><u>Comment</u></p>
+  <p>Add any comment to the findspot.</p>
+  <p><u>is_origin</u>
+  </p>
+  <p>Add the origin of the object if the find spot is not equal to the original location.</p>
+  <p><u>Certainty</u>
+  </p>
+  <p>Choose between "Certain", "Probable" and "Uncertain".</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+ </conbody>
+ <?oxy_custom_end?>
+</concept>

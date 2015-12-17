@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_qkz_rqd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="title:1;4:9">Edit</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="shortdesc:1;5:13">The "Edit" menu contains the following enties: "Edit", "Edit current project", "Edit
+  Updaters/Readers", "Open Conflict Dialog", "Open Revision History"</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="conbody:1;7:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:1;8:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="b:1;8:9">Edit</b></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:2;10:6">BUG: Currently no function<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:3;11:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="b:2;11:9">Edit current Project</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:4;12:6">On click the "Edit Project Name" window comes up, where you can edit the current project's name
+   and description.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:5;15:6">IMAGE: Images/Edit_Current_Project_Next.PNG<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:6;16:6">"Next &gt;" leads to "Project Connection Settings" window. Here you can enter your connection type
+   (BTS uses "couchdb"), "Server URL" and the Database Path.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:7;19:6">IMAGE: Images/Edit_Current_Project_Next.PNG<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:8;20:6">Clicking on "Next &gt;" will display a window to select additional features, such as corpus data,
+   thesaurus data and wordlist data. Select the relevant check boxes and click "Next". </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:9;23:6">IMAGE: Images/New_project_features.PNG<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:10;24:6">In the "Project Database Collection" window you can add the existing databases to the new
+   project. You can edit the name of the collection upon clicking the "Edit" button. </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:11;27:6"><?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>IMAGE:
+   Images/Edit_Current_Project_DatabaseCollection.PNG<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:12;29:6">"Finish your project with "Finish". To go to the previous window you can always click "&lt;
+   Back". Cancel the whole new project with "Cancel".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:13;31:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="b:3;31:9">Edit Updaters/Readers</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:14;32:6">This option allows you to set user roles for the current database object (corpus, text, lemma,
+   thesaurus entry etc.). The option is activated only if any object has been selected in the
+   windows "Corpus navigator", "Lemma navigator" or "Thesaurus navigator". </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:15;35:6">Clicking on "Edit Updaters/Readers" entry will  open the window under the same name.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:16;37:6">IMAGE: Images/EditUpdaters_Readers.PNG<?oxy_custom_end?></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:17;39:6">BUG: Clicking anywhere will make the window disappear, but it reappears at the next click (BUG
+   NUMBER ????). <?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:18;41:6">On the left side of this window click on a user role. Currently two user roles are offered:
+   Readers and Updaters. Select the user or user group from the drop-down menus, appearing on the
+   right side of the window. Click on "Assign role to user" or "Assign role to whole user group" to
+   assign  a user /user group to a role. The selected user / user group will then appear under the
+   relevant role on the left. </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:19;47:6">IMAGE: Images/EditUpdaters_Readers_Readers.PNG<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:20;48:6">Click "Save and Close" to save your changes. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:21;49:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="b:4;49:9">Open Conflict Dialog</b></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:22;51:6">BUG: Currently no function<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:23;52:6"><image href="Images/icons/full/icon16/history.png" id="image_pc5_nvj_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="image:1;52:80"/>
+   <b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="b:5;53:7">Open Revision History</b></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_edit.dita" xtrc="p:24;55:6">BUG: Clicking leads to an "Internal Error"-message.<?oxy_custom_end?></p>
+ </conbody>
+</concept>

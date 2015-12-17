@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ofh_tgk_qr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\topic.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\topic.dita" xtrc="title:1;4:9">How to create a new Lemma entry</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\topic.dita" xtrc="shortdesc:1;5:13">It may be necessary to enter new lemmata. Here you can see how. </shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\topic.dita" xtrc="conbody:1;6:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\topic.dita" xtrc="p:1;7:6">To create a new lemma entry you need to open the BTS lemma view via  <image href="Images/icons/full/icon16/lemmata.png" id="image_e4l_hny_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\topic.dita" xtrc="image:1;8:72"/> in the toolbar. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\topic.dita" xtrc="p:2;9:6">Now, either click <image href="Images/icons/full/icon16/lemmata.png" id="image_ejj_xgk_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\topic.dita" xtrc="image:2;9:98"/>
+   "Add Lemma Root Entry" or (if your lemma belongs to an existing root) <image href="Images/icons/full/icon16/lemma-add.png" id="image_zlh_1hk_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\topic.dita" xtrc="image:3;11:74"/> "Add Lemma Child Entry".
+   Children can only be added to roots, so you have to select the right one first.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\topic.dita" xtrc="p:3;13:6">A new entry will be created. Its name will always be "Lemma Root" or "Lemma Subentry". Edit the
+   name in the passport Editor in the lower centre of the User Interface in the bar "Name".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\topic.dita" xtrc="p:4;15:6">In the passport Editor you can also choose a part of speech in "Type" and a more accurate
+   definition in "Subtype", select a
+   "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Visibility<?oxy_custom_end?>"
+   and mention the review state via the grey drop-down menus.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\topic.dita" xtrc="p:5;19:6">The passport editor also provides other registers. You can see (and edit) your current lemma's
+   "ID", mention "bibliography" (e.g. Wb) and comment on the word (in "lemma").</p>
+ </conbody>
+</concept>

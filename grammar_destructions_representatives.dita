@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_vhb_tnb_lt">
+  <title>Representatives</title>
+  <body>
+    <p>Representatives are substitutes for distinctive word classes and they can be used if there is
+      nothing else to identify except the word class or even a word only.</p>
+    <p>List of Representatives:</p>
+    <p>
+      <table id="table_zbz_5nb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry>-W-</entry>
+              <entry>Word</entry>
+            </row>
+            <row>
+              <entry>-WS-</entry>
+              <entry>Substantive</entry>
+            </row>
+            <row>
+              <entry>-WA-</entry>
+              <entry>Adjective</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

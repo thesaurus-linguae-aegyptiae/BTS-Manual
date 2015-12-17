@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_k3c_35y_qt">
+  <title>Editing a text</title>
+  <body>
+    <p>To edit a text, select it in the corpora tree in the <xref
+        href="oberflaeche_corpusnavigator_e9.dita#concept_axv_vfm_mr">Corpus Navigator</xref>.
+      However, you first need to <xref href="intro_install_keyboard.dita"> install and configure the
+        keyboard</xref>, provided by the BBAW.</p>
+  </body>
+</topic>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cpy_xss_mr">
+ <title>Annotation and text translation section</title>
+ <conbody>
+  <p>The annotations and text translation section is placed on the right of the default BTS user
+   interface in every view. You can <xref href="oberflaeche_funktionen_e5.dita">maximize and
+    minimize</xref> the window with <image href="Images/icons/extra%20icons/maximize.png"
+    id="image_w3j_gn3_ns"/> and <image href="Images/icons/extra%20icons/minimize.png"
+    id="image_qkj_gn3_ns"/> buttons.</p>
+  <p><image
+    href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Annotations.png"
+    id="image_jnl_vtp_5t"/></p>
+  <p><b>Annotations</b></p>
+  <p>The Annotations section can contain the following elements if previously inserted while editing
+   the text (see <xref href="howto_annotationen.dita#concept_w4c_cxf_mr">Quick guide</xref>): </p>
+  <p><image href="Images/icons/full/icon16/annotation.png" id="image_p3k_pz3_sr"/>
+   <u>Annotation</u></p>
+  <p><image href="Images/icons/full/icon16/rubrum.png" id="image_fjn_yz3_sr"/>
+   <u>Rubrum</u></p>
+  <p><image href="Images/icons/full/icon16/comment.png" id="image_qrx_zz3_sr"/>
+   <u>Comment</u></p>
+  <p><image href="Images/icons/full/icon16/subtext.png" id="image_mck_31j_sr"/>
+   <u>Glosse</u><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
+  <?oxy_custom_end?>
+  <p>Click one of them in order to display their content. The related content will be marked in the
+   text with different colours: bright red for Rubra; yellow for comments; gray for Annotations and
+   blue for Glosses. Clicking an annotation will also trigger underlining of the related segment in
+   the text to appear thicker. Additionally, for Annotations, Rubra and Comments, a small bar will
+   appear on the right side of the Text-Editor with the corresponding colour. Clicking on the bar
+   will bring you to the marked segment of the text. </p>
+  <p>Each annotation, rubrum, comment and gloss contains a toolbar with the following buttons:</p>
+  <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
+   <u>Add Current Text Selection as Reference</u></p>
+  <p>The selected text part is referenced to the current annotation, rubrum, element and gloss. This
+   feature provides an opportunity, for example, to reference multiple text parts to a single
+   annotation.</p>
+  <p><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/>
+   <u>Update Current Reference</u></p>
+  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
+   <u>Remove Current Reference</u>
+  </p>
+  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
+   <u>Edit Comment</u> or <u>Edit Annotation</u>
+  </p>
+  <p>This opens a window with different content for annotation, rubrum and comment. It is not
+   available for <image href="Images/icons/full/icon16/subtext.png" id="image_mb4_q1j_sr"/>
+   "Glosses".</p>
+  <p>You can use the first three buttons to connect the existing comments, annotations, rubra and
+   subtexts/glosses to other parts of the text. </p>
+  <p>Clicking on the "Edit Annotation" will display the passport editor for annotations and rubra.
+   Each annotation will have its own ID and its relation to the chosen text will be shown in the
+   "Relations" tab. </p>
+  <p>By clicking the "Edit Comment" button, a "Comment Editor" a window will appear. You can enter
+   or edit a title for your comment in the upper input field and the content of your comment in the
+   lower input field. Below there is also a section where you can see or edit a relation of the
+   comment to the text, using the ID.</p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
+   <u>Delete</u></p>
+  <p>Will delete the currently selected element.</p>
+  <p>To learn more about annotations click <xref href="howto_annotationen.dita">here</xref>. </p>
+  <p><b>Text translation</b></p>
+  <p>The "Text translation" section shows a continuous, sentence by sentence, translation, enabling
+   a continuous proofreading. The languages <image href="Images/icons/full/icon16/locale.png"
+    id="image_w1q_vm3_ns"/> drop-down menu allows to select a translation in the relevant languages.
+   Sentences which have not been translated yet are marked as "## no trans: de ##§" / "## no trans:
+   en ##§" etc. A left-click on a sentence activates the same sentence in the "Sign text editor", in
+   the "Transliteration" subsection, and in the "Sentence translation" input field. A typo or
+   another problem observed in the continuous translation can be altered in the "Sentence
+   translation" input field.</p>
+ </conbody>
+</concept>

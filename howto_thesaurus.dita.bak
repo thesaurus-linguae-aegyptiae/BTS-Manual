@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cgq_1gj_cs">
+    <title>Creating a new thesaurus entry</title>
+    <taskbody>
+        <context>The main function of the Thesaurus is to provide standardized vocabulary for the
+            text metadata (extra-textual information), like dating, location or material. For a
+            detailed description of the individual elements of the Thesaurus view see <xref
+                href="oberflaeche_thesaurus.dita"/>.</context>
+        <steps>
+            <step>
+                <cmd>Open the Thesaurus view by clicking the <image
+                        href="Images/icons/full/icon16/thss.png" id="image_fck_tgj_cs"/> "Thesaurus"
+                    icon in the <xref href="oberflaeche_toolbar_e3.dita"/>.</cmd>
+            </step>
+            <step>
+                <cmd>In the Thesaurus Navigator on the left, click either <image
+                        href="Images/icons/full/icon16/thss_add.png" id="image_vbs_52k_qr"/> "Add
+                    Thesaurus Root Entry" or <image href="Images/icons/full/icon16/ths-add.png"
+                        id="image_v3d_w2k_qr"/> "Add Thesaurus Child Entry". A root entry is an
+                    umbrella key word, while the child entry may stand on its own or have other
+                    children. </cmd>
+            </step>
+            <step>
+                <cmd>Click on the Thesaurus entry to edit its content. A Passport Editor <image
+                        href="Images/icons/full/icon16/passport.png" id="image_ott_5fk_qr"/> will
+                    appear in the middle.</cmd>
+            </step>
+            <step>
+                <cmd>In the Passport Editor you can type in a name (default name is either
+                    "Thesaurus Root" or "Thesaurus Child"), define type and subtype via the dropdown
+                    menus and edit visibility and review status. For a detailed description of the
+                    individual tabs and elements of the passport editor of the Thesaurus, see <xref
+                        href="oberflaeche_thesaurs_passporteditor.dita"/>.</cmd>
+            </step>
+            <step>
+                <cmd>To add an annotation or a comment to a Thesaurus entry, click <image
+                        href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/>
+                    "Add Annotation" and <image href="Images/icons/full/icon16/comment-add.png"
+                        id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Thesaurus
+                    Navigator. </cmd>
+            </step>
+            <step>
+                <cmd>To delete a thesaurus entry, use the <image
+                        href="Images/icons/full/obj16/delete.png" id="image_xdl_2wm_wr"/> "Delete"
+                    button in the Thesaurus Navigator toolbar. It will move an entry to the bin,
+                    where you can manually permanently delete it. Closing or restarting the BTS will
+                    also lead to the permanent deletion of an entry from the Bin.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

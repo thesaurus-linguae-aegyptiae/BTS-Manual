@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_t3c_c4d_4r">
+ <title>Text Corpus</title>
+ <conbody>
+  <p>Text Corpus is the default view of the BTS workspace. Here you can work on text corpus objects
+   and texts, including transliteration, translation, lemmatization, hieroglyphs and their
+   metadata.</p>
+  <p>There are sections tabs to work with: </p>
+  <p><u>Corpus Navigator</u> (default position: left column)</p>
+  <p><u>Text Editor</u> (default position: middle part, top)</p>
+  <p><u>Passport Data Editor</u> (default position: middle part, bottom)</p>
+  <p><u>Lemmatizer</u> (default position: middle part, bottom)</p>
+  <p><u>Hieroglyph Type Writer (HTW)</u> (default position: middle part, bottom)</p>
+  <p><u>Annotation and Text translation</u> (default position: right column)</p>
+  <p><u>NOTE</u>: that in the default view the tabs "Passport Data Editor", "Lemmatizer" and "HTW"
+   are grouped together in one section. Nevertheless they can be moved separately. </p>
+  <p>As soon as you select a text in the Corpus Navigator, titles of these tabs as well as those of
+   the "Text editor", "Annotation" and "Text Translation" change to the text title. </p>
+  <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>SCREENSHOT?<?oxy_custom_end?></p>
+ </conbody>
+</concept>

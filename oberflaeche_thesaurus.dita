@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_w5m_g4d_4r">
+ <title>Thesaurus</title>
+ <conbody>
+  <p>The Thesaurus view can be activated by clicking the <image
+                href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr"/> Thesaurus icon in
+            the <xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>. The Thesaurus contains a
+            uniform terminology, which can be used for the object's metadata (Passport data). New
+            entries can be added as well. Any user can see the contents of the Thesaurus view,
+            although the ability to modify them is restricted by the relevant user role. </p>
+  <p>The three windows from left to right are: Thesaurus Navigator, Passport Data Editor,
+      Annotations.</p>
+        <p><image href="Images/new%20screenshots/BTS%20Screenshots/Ths_view.png"
+                id="image_yhp_psd_vt"/></p>
+ </conbody>
+</concept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_zy3_tm5_kr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="title:1;4:10">Keyboard layout</title>
+  <body class="- topic/body " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:1;6:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:1;6:11">Installating "Tastaturlayout für ägyptologische Transkription 2"</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:2;7:8">Download the layout
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>here<?oxy_custom_end?>. and
+      extract the
+      "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>bbawegy.zip<?oxy_custom_end?>"
+      to a location of your choice. Move to the position of the extracted "bbawegy" directory and
+      double click the "setup.exe" to install the layout. Follow the instructions on your
+      screen.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:3;14:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:2;14:11">Activating the Keyboard-Layout</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:4;15:8">To activate a keyboard layout, you will have to install the layout of your choice before or
+      create one by yourself. We recommend the use of our custom layout named "Tastaturlayout für
+      ägyptologische Transkription 2" for the input of transcription in BTS. Activate the layout by
+      clicking the keyboard-icon in the windows taskbar or press <b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:3;18:69">CTRL + SHIFT</b> (Windows 7) /
+        <b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:4;19:12">CTRL + SPACE</b> (Windows 8).</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:5;20:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:5;20:11">Assignment of Tastaturlayout für ägyptologische Transkription 2</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:6;21:8">This keyboard-layout includes all necessary characters, brackets,
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>VERSPUNKTE<?oxy_custom_end?>
+      and cartridges. The following screenshot shows you the assignment of the currently used
+      keyboard-layout:</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:7;26:8">Images/Tastaturlayout.jpg</p>
+    <?oxy_custom_end?>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:8;28:8">The given values can be processed by entering the following keys or combinations of keys:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:9;29:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:6;29:11">Single Key</b> -&gt; sign in the left bottom (similar to the casual assignment of lower case
+      letters)</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:10;31:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:7;31:11">Shift + Key</b> -&gt; sign in the left top (similar to the casual assignment of upper case
+      letters)</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:11;33:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="b:8;33:11">Alt Gr + Key</b> -&gt; sign in the bottom right (similar to those signs usually achieved by
+      alt gr such as "€" and "@")</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:12;35:8">Example: "Alt Gr" + "8" = "["</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:13;36:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="u:1;36:11">Some of those signs who are necessary to transribe don't appear on the layout, how can I
+        produce them?</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:14;38:8">Signs such as "ẖ" are generated by "deadkeys". That means you will have to write those signs
+      by combinating it's elements. Writing ̣̣"ḏ" is processed by pressing the deadkey (always at
+      first), in this case that is "-" + "d" sequently.</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:15;42:8">Images/Tastaturlayout_Deadkeys.jpg </p>
+    <?oxy_custom_end?>
+    <p class="- topic/p " xtrf="P:\Handbuch\corpus_tastaturlayout_e4.dita" xtrc="p:16;44:8"> </p>
+  </body>
+</topic>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_l15_dyc_xt">
+  <title>Templates</title>
+  <body>
+    <p>It is possible to use templates in order to speed up the transliteration process. Note that
+      you can create your own templates (<xref
+        href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
+      the templates by right-clicking in Text Editor and choosing "Content Assist". Depending on the
+      position of your cursor (within a sentence / word or outside the sentence marked by §§) you
+      will get a different set of templates to choose from. This can be influenced by changing the
+      "Context" of your templates (see <xref href="oberflaeche_preferences2.dita#concept_trz_tw2_yr"
+        >Preferences</xref>).</p>
+  </body>
+</topic>

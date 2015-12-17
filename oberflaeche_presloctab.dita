@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_otk_ywf_yr">
+ <title>Present Location</title>
+ <conbody>
+  <p><image href="Images/icons/full/icon16/category.png" id="image_knt_php_sr"/> This is another tab
+   specific for an object.</p>
+  <p><u>Location</u></p>
+  <p>Choose the location of your object from the Thesaurus.</p>
+  <p><u>Inventory Number</u></p>
+  <p>Enter the number of your object if provided.</p>
+  <p><u>Comment</u></p>
+  <p>Enter a comment about the location of the object if necessary.</p>
+  <p><u>in_situ</u></p>
+  <p>Select this check box if the object is still preserved in its original location.</p>
+  <p><u>is_present_location</u></p>
+  <p>Select this check box if the present location differs from its original location (e.g. on
+   display or in inventory of a museum).</p>
+  <p><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr"/>
+   <u>Add widget</u></p>
+  <p>Click to add an additional "location" section so you can enter a previous location (if it
+   differs from the present location).</p>
+  <p><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_pnl_c3p_sr"/>
+   <u>Delete widget</u></p>
+  <p>Click to delete a section.</p>
+ </conbody>
+</concept>

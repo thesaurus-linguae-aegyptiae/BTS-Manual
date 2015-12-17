@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_uwr_vvl_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="title:1;4:9">UI Reference </title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="shortdesc:1;5:13">General description of the UI after the programm start. Definition of the major parts of
+    the UI. </shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="conbody:1;7:11">
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:1;8:8">After startup the BTS main window appears. At the top there are the <xref href="oberflaeche_menuleiste.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:1;9:44">menu bar</xref> (highlighted on the picture below with
+      dark blue) and the <xref href="oberflaeche_toolbar_e3.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:2;10:67">toolbar</xref> (pink). Below them
+      there is the <xref href="oberflaeche_workspace.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:3;11:61"/>, which is divided into four parts
+      representing the program's elements: Navigator on the left (which, depending on the view
+      selected, displays Corpus-, Thesaurus- or Lemma-Navigator) (maked green on the screenshot) and
+        <xref href="oberflaeche_annotationsfenster.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:4;14:58">Commentary (Annotation)</xref> on the right
+      (dark red). In the top centre there is the "Editor", displaying <xref href="oberflaeche_texteditor_e10.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:5;16:48">Text-</xref>(light blue). In the lower centre there
+      are the Data elements ( "<xref href="oberflaeche_lemma_lemmaeditor.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:6;17:80">Lemma-</xref>" or/and
+        <xref href="oberflaeche_passporteditor.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:7;18:54">Passporteditor</xref> (orange) aswell as the
+        <xref href="corpus_htw.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:8;19:38">HTW</xref>.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:2;20:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="u:1;20:11">Organization of the program's elements</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:3;21:8">Each element of the workspace just presented (Navigator, Editor, Data, Commentary) is
+      organized in three levels: View, Window and Tab.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:4;23:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="u:2;23:11">Contentual Organization: View</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:5;24:8">The "View" is a fix level being grouped into Corpus, Lemma and Thesaurus. Switching the View
+      from one to another loads the associated content-elements (Navigator, Editor, Data,
+      Commentary) into the workspace. This means the complete workspace can be switched.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:6;27:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="u:3;27:11">Optical Organisation: Windows and Tabs</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:7;28:8">The elements inside a View are organized in windows and tabs. These two levels of the UI are
+      dynamic which means you can change the position of those windows as you wish and group
+      elements into tabs inside each window or seperate them. Note that after programm restart the
+      default view is restored.</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:8;33:8"><?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>PIC:
+      Images/Benutzeroberflaeche_bunt.jpg<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+    <?oxy_custom_end?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:9;36:9"/>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:10;37:8">With the entries in the <xref href="oberflaeche_menuleiste.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:9;37:73">menu bar</xref> you can
+      configure your settings and view help texts
+      (<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: curently
+      unavailable)<?oxy_custom_end?>. The butons of the <xref href="oberflaeche_toolbar_e3.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:10;41:10">tool bar</xref> offer functions like "save" or "undo" changes. The <xref href="oberflaeche_corpusnavigator_e9.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:11;42:52">Corpus Navigator</xref> presents the text
+      database in a hierarchic structure. In the <xref href="oberflaeche_texteditor_e10.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:12;44:10">Texteditor</xref> you can see transliteration and hieroglyphs and enter transliteration and
+      translation. The <xref href="oberflaeche_passporteditor.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:13;45:69">Passport Editor</xref> provides
+      the possibility to enter the metadata of the selected texts. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:11;47:8">After startup "Ready" appears in the lower left corner. Later you will see there additional
+      information about your current <xref href="statusleiste_e8.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="xref:14;48:72">position</xref>. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_e1.dita" xtrc="p:12;49:9"/>
+  </conbody>
+</concept>

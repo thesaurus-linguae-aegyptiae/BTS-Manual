@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ixc_zlj_cs">
+ <title>9. Revision Status</title>
+ <conbody>
+  <p>The options "awaiting-review", "awaiting-update", "new", "published", "reviewed" and
+   "transformed_awaiting_update" are valid for all owner objects.</p>
+  <p>The options "obsolete", "published-awaiting-review" and "published-obsolete" are only valid for
+   the Object Owner "Lemma".</p>
+ </conbody>
+</concept>

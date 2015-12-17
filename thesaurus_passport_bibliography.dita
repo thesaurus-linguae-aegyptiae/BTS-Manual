@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ewq_twf_yr">
+ <title>Bibliography</title>
+ <conbody>
+  <p>Enter the bibliographical information here. This tab contains: </p>
+  <p><u>Bibliographical text field</u></p>
+  <p><u>Bibliographical entry / Bib. item</u></p>
+  <p>Navigate through Thesaurus with <image href="Images/icons/full/icon16/search.png"
+    id="image_q3l_yfp_sr"/>
+   <u>Search</u> to find the correct bibliographical reference. </p>
+  <p><u>Bibliographical entry / pages/plates</u></p>
+  <p>Enter the plate number and select the check box with a letter below. </p>
+  <p><u>Comment</u></p>
+  <p>Use this input field to comment your reference.</p>
+ </conbody>
+</concept>

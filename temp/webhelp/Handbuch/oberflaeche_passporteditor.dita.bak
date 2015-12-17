@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_cpy_xss_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="title:1;4:9">Passport Editor</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="shortdesc:1;5:13">A short description of the functions found in the "Passport Editor" window.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="conbody:1;6:11">
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:1;7:8">In the default view, the Passport Editor is located in the lower centre of the BTS user
+      interface. Here you can create a "passport" for your texts and objects by entering metadata
+      about them. The Passport Editor is divided into different categories which are organized in
+      tabs inside the Passport Editor window. For the Corpus these categories are: Main, Relations,
+      IDs, </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:2;13:8">Images/PassportEditor.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:3;14:8"><image href="Images/icons/full/icon16/passport.png" id="image_ecw_mvh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:1;14:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:1;15:10">Main tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:4;16:8">The text-input fields and drop-down menus give you diverse options to enter metadata for your
+      text or object. If you are working on a "child" object and want it to have the same metadata
+      as the "parent" object has, you can click<image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:2;19:32"/> "Inherit Passport Data" in the top right corner of the Passport
+      Editor. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:5;21:8">(Depending on whether you chose an object or a text, there are different registers for
+      metadata. The following is selected for texts, objects also include "object" tab for general
+      information on its type, context and function and "present location" tab. They can all be
+      edited by using the search fuction and dropdown menus.)</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:6;25:8">"Name": you can change the name of your object or text.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:7;26:8">"Type" and "Subtype": choose a type and subtype (e.g. text, object, etc.) from the <xref href="thesaurus.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="xref:1;27:31">Thesaurus</xref>.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:8;28:8">"SortKey": rearrange the texts in the Corpus Navigator tree (the default order is
+      alphabetical).</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:9;30:8">"ID": see the ID of the text.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:10;31:8">"Author": see and edit the author of a text. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:11;32:8">"Date": see the date of creation of the text. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:12;33:8">"Visibility": change who can see the object or Text (public, project, group, user).</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:13;34:8">"Review State": enter or edit the Review state of the object or text (published, reviewed,
+      awaiting-update, awaiting-review, new). </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:14;36:8">"Project": see and change the project you are working in. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:15;37:8">"Corpus": see and change the corpus you are working in. Both "Project and "Corpus" can be
+      edited by clicking <image href="Images/icons/full/icon16/preferences.png" id="image_jdd_xxh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:3;39:32"/> right from the respective field.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:16;40:8"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:2;40:11">Relations tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:17;41:8">"Relations" tab gives information on the relation between yours and other objects. The
+      default setting is a relation to the element that is directly above yours in the hierarchy. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:18;43:8">Relation: You can choose between "partOf" and "is composed of".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:19;44:8">Object: Enter the ID of the related object here. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:20;45:8"><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:4;45:81"/> Search Object:
+      Search for the object in the corpora of your current project, so that you do not have to enter
+      it manually. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:21;48:8"><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:5;48:77"/> Add Relation: Click it
+      to add more relations.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:22;50:8"><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:6;50:80"/> Remove Relation:
+      This removes a relation from the Object.
+        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="b:1;52:79">Watch out!</b>: One
+      relation has to remain, otherwise the edited object disappears.?</p>
+    <?oxy_custom_end?>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:23;56:8">Images/PassportEditor_Relations.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:24;57:8">
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:3;58:10">IDs tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:25;59:8"><image href="Images/icons/full/obj16/add.png" id="image_mmm_qsz_tr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:7;59:77"/> Add Identifier: You can
+      link objects with other projects and external IDs (e.g. Trismegistos numbers) by adding an
+      identifier. Click it. <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>NOT
+      WORKING YET<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:26;63:8"><image href="Images/icons/full/icon16/category.png" id="image_f55_vlt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:8;63:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:4;64:10">date tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:27;65:8">You can enter the dating of your piece. Click on the <image href="Images/icons/full/icon16/search.png" id="image_agq_qyh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:9;66:75"/> to search the <xref href="oberflaeche_thesaurus.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="xref:2;67:44"/> for valid dates. To add another blank space click <image href="Images/icons/full/icon16/widget-reference-add.png" id="image_ovn_hmt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:10;68:89"/> "Add
+      widget". To delete one click <image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_im2_kmt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:11;70:92"/> "Delete
+      widget". You can also enter a free comment to the date, e.g. how certain it is. To add a new
+      group (date and comment field) click<image href="Images/icons/full/obj16/widget-group-add.png" id="image_anl_bnt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:12;73:32"/> "Add new group".</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:28;74:8"><image href="Images/icons/full/icon16/category.png" id="image_vwx_4nt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:13;74:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:5;75:10">Bibliography tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:29;76:8">You can enter a bibliographical item from the <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Thesaurus?<?oxy_custom_end?>
+      <image href="Images/icons/full/icon16/search.png" id="image_q3l_yfp_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:14;77:80"/> In
+      "bibliographical_reference" the page range of the reference is to be entered. You can also add
+      your comment to the reference below. From the drop-down menu "type" you can choose a type of
+      your bibliographical reference (e.g. photo, facsimile
+      -<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> is not possible yet).
+      <?oxy_custom_end?>In the "bibliographical_text_field you can enter your references as a
+      continuous text:</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:30;85:8">Images/PassportEditor_bibliography.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:31;86:8"><image href="Images/icons/full/icon16/category.png" id="image_d1v_s4t_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:15;86:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:6;87:10">Definition tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:32;88:8">Definition shows six textboxes. The uppermost is for a definition of the object, the second
+      is for a protocol of your working process (e.g. the date you first entered it in BTS, review
+      date etc.). The third field is for the editors comment. Three smalle fields below are for
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Line-count, folder,
+      slips???<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:33;93:8"><image href="Images/icons/full/icon16/category.png" id="image_b5n_qpt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:16;93:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:7;94:10">Text tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:34;95:8">This allows to enter textual metadata for the text:</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:35;97:8">Images/PassportEditor_text.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:36;98:8">"Script": edit the script of the text by choosing an entry from the Thesaurus <image href="Images/icons/full/icon16/search.png" id="image_u5w_gzh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:17;99:75"/>.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:37;100:8">"Language": edit the language of the text by choosing an entry from the Thesaurus <image href="Images/icons/full/icon16/search.png" id="image_fmw_kzh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:18;101:75"/>.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:38;102:8">"Texttype": change the type of the text by choosing an entry from the Thesaurus <image href="Images/icons/full/icon16/search.png" id="image_vcl_pzh_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:19;103:75"/>.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:39;104:8">Be careful to choose the right Thesaurus, because there is no error message if you choose a
+      false option (e.g. script: Gott would not make any sense). You can, of course, comment on your
+      data in the comment fields below. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:40;107:8">If you enter metadata for an object instead of text, the tabs for metadata apart from the
+      main tab: "Relations", "ID", "date", "object", "bibliography", "definition" and "present
+      location". Notice that "object" and "present location" tabs are not present in the passport
+      for a text, whereas an object does not have the "text" tab.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:41;111:8"><image href="Images/icons/full/icon16/category.png" id="image_gxr_5gp_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:20;111:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:8;112:10">Object tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:42;113:8">Object allows you to choose type, material, agent, context and component form the Thesaurus
+        <image href="Images/icons/full/icon16/search.png" id="image_g1g_ygp_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:21;114:82"/>. You can also
+      choose from five options: Model, Imitation,
+      Miniatur<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>e<?oxy_custom_end?>,
+      Skeuomo<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>rphic
+      <?oxy_custom_end?> and
+      Secondar<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>y? (words not
+      displayed entirely)<?oxy_custom_end?> by checking their boxes. Additionally, you can add your
+      own comment in the text-input field below.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:43;122:8"><image href="Images/icons/full/icon16/category.png" id="image_knt_php_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:22;122:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="u:9;123:10">Present location tab</u></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="p:44;124:8">This allows you to enter a location of your object by choosing it from the Thesaurus<image href="Images/icons/full/icon16/search.png" id="image_kfz_rhp_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:23;125:75"/>. You can check the boxes
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>is-presen<?oxy_custom_end?>
+      below the location field or in_situ below the comment field. Additionally, you can enter the
+      objects Inventory Number and add your comment in the field below. To add another blank space
+      click <image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:24;129:100"/>
+      "Add widget". To delete one click <image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_pnl_c3p_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_passporteditor.dita" xtrc="image:25;131:92"/> "Delete
+      widget".</p>
+  </conbody>
+</concept>

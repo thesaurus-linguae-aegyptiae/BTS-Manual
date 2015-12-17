@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_iwm_crd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="title:1;4:9">Preferences</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="shortdesc:1;5:13">Drop-down menu "Preferences" contains the following entries:</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="conbody:1;6:11">
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:1;8:6">IMAGE: Images/preferences_menu.png<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:2;9:6"><image href="Images/icons/full/icon16/configuration-edit.png" id="image_yc3_4qk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:1;9:91"/><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:1;9:94">Edit
+    Configuration</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:3;11:6">Here you can edit your configuration. A configuration is a set of predefined parameters
+   applicable to your projects. You can set new parameters and define "Owner Object Types".
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: Internal error upon
+   clicking<?oxy_custom_end?></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:4;16:6">Clarify the functionality<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:5;17:6"><image href="Images/icons/full/icon16/users.png" id="image_ehx_rrk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:2;17:78"/><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:2;17:81">Open User
+    Manager</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:6;19:6">This opens the window "User Management" with two tabs "Manage Users and User Groups" and
+   "Administrate User Roles and Rights". </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:7;22:6">IMAGE: Images/User_Manager.png</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:8;24:6">""Manage Users and User Groups" tab offers the opportunity to create new users and add users to
+   project groups, which have a specific set of rights in the editing process.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:9;26:6">In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:3;26:89"/> "Active
+   Users" active user groups are displayed. In the tab "Bin" deleted user groups are shown. In the
+   brackets behind the group names the number of assigned users is displayed. Clicking on a group
+   name the list of assigned users will open. The last entry in the list "_Orphans" shows on click
+   all available users. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:10;31:6">Functions of the buttons:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:11;32:6"><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:4;32:82"/> "New Group" adds a
+   new group to your list of groups. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:12;34:6"><image href="Images/icons/full/obj16/delete.png" id="image_tml_hxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:5;34:78"/> "Delete" deletes the
+   selected user and moves him into the bookmark <image href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:6;36:28"/>"Bin".<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+   BUG: The User Management disappears, whenever you click the header "Bin" and reappears on the
+   next click. </p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:13;40:6"><image href="Images/icons/full/icon16/undo.png" id="image_sjs_sxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:7;40:77"/> undo last action.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:14;41:6"><image href="Images/icons/full/icon16/redo.png" id="image_ldc_xxk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:8;41:77"/> redo last undone
+   action. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:15;43:6"><image href="Images/icons/full/icon16/userrole-edit.png" id="image_bx3_cyk_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:9;43:86"/> "Edit updaters
+   of selected database object" opens the User Manager, where you can assign either "Reader" or
+   "Updater" role to a user in relation to the user group. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:16;46:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:1;46:9">"Manage Users and User Groups" tab:</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:17;47:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:2;47:9">Group Settings</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:18;48:6">Each group has an ID and name which appear in the field on the right after clicking on the
+   chosen group. For each group a "type" can also be given and there is a possibility to write a
+   comment. Also on the right side, below the group data, there is a section for creating new
+   individual members within the group "Create New User". A
+   "Userna<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>me<?oxy_custom_end?>"
+   and a "Password of New
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(user?)<?oxy_custom_end?>" are
+   to be entered while creating a ne user.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: words do not appear
+   entirely<?oxy_custom_end?>. In the third section below there is a drop-down menu, where you can
+   choose existing users and add them to the chosen group by clicking on the "Add user to Group"
+   (blue) below.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:19;60:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:3;60:9">User Settings</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:20;61:6">For every user there is a field on the right, where he or she can see, enter or edit their
+   data, such as: user ID, Forname and Surname (required fields marked with *), Email, Website,
+   Description, Web
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Descriptin<?oxy_custom_end?>,
+   Sigle and Comment. In the field below, user can see (but not change!) their username. They have
+   also an option to change their
+   Passwo<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>rd<?oxy_custom_end?> and
+   check the box "User is Database Administrator" which will make a chosen user an administrator of
+   the database.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:21;70:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:4;70:9">"Administrate User Roles and Rights" tab:</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:22;71:6">A toolbar above consists of:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:23;72:6"><image href="Images/icons/full/icon16/project-add.png" id="image_lzv_rfq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:10;72:84"/> "New Project"
+   adds new project <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(passiert
+   nichts)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:24;75:6"><image href="Images/icons/full/obj16/delete.png" id="image_n3x_5fq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:11;75:78"/> "Delete" deletes a
+   project <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(passiert
+   nichts)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:25;78:6"><image href="Images/icons/full/icon16/undo.png" id="image_hh1_zfq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:12;78:77"/> "Undo" undo last
+   action.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:26;80:6"><image href="Images/icons/full/icon16/redo.png" id="image_rh1_zfq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:13;80:77"/> "Redo" redo last undone
+   action. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:27;82:6"><image href="Images/icons/full/icon16/userrole-edit.png" id="image_lgv_1gq_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:14;82:86"/> "Edit updaters
+   of selected database
+   object"<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(passiert
+   nichts)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:28;86:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:5;86:9">1st Level: Projects</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:29;87:6">List of projects is displayed in the field on the left side. Upon clicking on a chosen project,
+   its data will appear in the field on the right. The data includes: Project ID, Project Name,
+   Project Prefix, Description,
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Conntection<?oxy_custom_end?>
+   Type <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(?)<?oxy_custom_end?>,
+   Server URL and DB Path. You can also click on the blue link below "Add Database Collection" and
+   in the pop-up window give the name of the collection and check boxes
+   "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Syncronize<?oxy_custom_end?>
+   Collection" and "Index Collection for Full Text Search" if needed. Clicking OK will add the
+   collection to the chosen project and it will appear at the bottom after opening the project
+   tree.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:30;98:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:6;98:9">2nd Level: DB Collections</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:31;99:6">For each collection data will also be displayed on the right. "DB Collection Name" will be
+   displayed, but cannot be edited at this point. Two boxes can be checked:
+   "<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Syncronize<?oxy_custom_end?>
+   with Server" and "Index Collection". Below is a drop-down menu "Create New Roles Description"
+   where you can choose: admins, editors, researchers, transcribers or guest roles for the users.
+   After choosing one option from the drop-down menu, click on the blue link below it "Add New User
+   Roles Description"</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:32;106:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:7;106:9">3rd Level: User Roles</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:33;107:6">In the tree on the left the added roles will appear after expanding the collection. On the
+   right, Role Name and User Role Definition (a description of tasks and rights) will appear, which
+   cannot be changed. In the two fields below you can assign a user or a group to each role. At the
+   bottom there is a blue link "Remove this Role and its members form DB collection". Cliking on it
+   will remove the chosen role from the collection on the left.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:34;112:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:8;112:9">4th Level: Users</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:35;113:6">Further expanding a role, users with the assigned roles will be displayed. Cliking on
+   individual user will cause their forename and surname to appear on the right, in the case where
+   an entire group has a specific role, the name of the group will appear. You can remove users and
+   groups from specific roles by clicking the blue link on the bottom "Remove Role from User" or
+   "Remove Group from Role".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:36;118:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:3;118:9">Open Database Manager</b></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:37;120:6">IMAGE: Images/database_manager_start.jpg<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:38;121:6">In online working mode your BTS constantly communicates with the server database, updating the
+   local database and sending new data to the server. This process of synchronization is displayed
+   in "Database Manager" window.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:39;124:6">The corpora, which were correctly synchronized ("indexed") are marked green in the Database
+   Manager table. Red-colored rows were not correctly indexed. The number of documents per corpus is
+   shown in the column "DB Doc Co...". BTS works only with corpora, which were correctly
+   synchronised and indexed. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:40;128:6">"Re-Index all" indexes all available corpora. This can take up to 60 minutes.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:41;129:6">"Re-Index all non-OK" indexes all rows marked yellow (currently indexed) or red (problem
+   detected). This is usually the faster option. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:42;131:6">Specific corpora can also be reindexed individually. For this scroll and click "Re-Index" in a
+   corpus's row. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:43;133:6"><image href="Images/icons/full/icon16/preferences.png" id="image_ybd_1tq_4r" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="image:15;134:7"/><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:4;134:10">Preferences...</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:44;135:6">In your Preferene Settings you can e.g. choose your main working corpus, which corpora you like
+   to generally work with or import and define templates. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:45;137:6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>IMAGE:
+   Images/Preference_Settings.png<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:46;139:6">Click on the white triangle next to "<b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:5;139:46">Berlin Text System General</b>" will open the following
+   options: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:47;141:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:9;141:9">Configuration</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:48;142:6">You can choose a predefined <xref href="konfiguration_configuration.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="xref:1;142:80">configuration</xref>,
+   when you click the grey bar that appears on the right at the bottom. Currently the only option is
+   "Altaegyptisches Woerterbuch (AAEW) (10)". Click "Apply" to use the new configuration. Click
+   "Restore Default" to go back to the default configuration. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:49;146:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:10;146:9">Corpus Settings</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:50;147:6">You can select your main working corpus via a drop-down list on the right.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: This is the corpus, where
+   all your new objects and texts will be saved (fixed already??)<?oxy_custom_end?>. Beneath this
+   you can choose a set of corpora to work on. Every corpus that does not appear in the "Active
+   corpora" list on the right won't be accessed by BTS. To activate a corpus select it in the left
+   list and then click "Add". To remove the corpus from your working list, select it and click
+   "Remove". "Add all" "Remove all" will add or remove all avaiable corpora to/from the "Active
+   Corpora" list.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:51;155:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:11;155:9">Project settings</u>
+  </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:52;157:6">Here you can choose your main working project from the drop-down menu. The field below gives
+   you an option to choose further projects from which you want to load and read data. In the box on
+   the left is a list of available projects. Clicking on one will give you an option to "Add" it to
+   the "Projects to be downloaded" on the right. Clicking on "Apply" below will dowload the project.
+   Between the two fields you also have an option to remove the project from the right field and to
+   "Add All" from available to to-be-downloaded and "Remove All" from to-be-downloaded to available.
+   Next to the "Apply" button there is also one that will restore default settings "Restore
+   Default".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:53;165:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:12;165:9">Remember me</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:54;166:6">Select the checkbox "Remember my login credentials on startup" to be logged in automatically,
+   when starting BTS.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:55;168:6">Each option is finally applied by clicking "OK". "Cancel" cancels every change you made.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:56;169:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:6;169:9">EgyDsl</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:57;170:6">In EgyDsl menu entry you can change the appearance of your BTS: different colours and scripts
+   ("Syntax Colouring": currently inactive) and import, edit and apply Templates.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:58;172:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="u:13;172:9">Syntax Coloring</u>
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(BUG: not
+   working)<?oxy_custom_end?></p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:59;176:6">IMAGE: Images/preferences_syntaxcoloring.jpg<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:60;177:6">"Token Styles": Choose a font template. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:61;178:6">"Color": Choose a font colour. (???)</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:62;179:6">"Background": Choose a background colour.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:63;180:6">"Style": select the checkboxes for font style.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:64;181:6">"Change": Click to change and select new font.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:65;182:6">"Apply": Click to apply new style.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:66;183:6">"Restore Default": Click to restore default settings.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:67;184:6">"OK": Click to use new style.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:68;185:6">"Cancel": Click to cancel all changes.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:69;186:6">Templates</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:70;187:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:7;187:9">Open Futon</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:71;188:6">Opens the CouchDB that runs as your background database while working.
+   <?oxy_custom_start type="oxy_content_highlight" color="180,215,3"?>EXPLAIN <?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:72;190:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:8;190:9">Open ES GUI</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:73;191:6">Opens the "Elastic Search"
+   <?oxy_custom_start type="oxy_content_highlight" color="180,215,3"?>EXPLAIN<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:74;193:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="b:9;193:9">Change Password</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:75;194:6">Follow the instructions in the window to change your password. "OK" confirms the new password.
+   "Cancel" cancels your changes. </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_preferences.dita" xtrc="p:76;197:6">IMAGE: Images/Change_Password.jpg</p>
+  <?oxy_custom_end?>
+ </conbody>
+</concept>

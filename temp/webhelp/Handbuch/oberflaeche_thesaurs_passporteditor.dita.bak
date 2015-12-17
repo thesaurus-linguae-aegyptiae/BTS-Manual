@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_wpd_hqd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="title:1;4:9">Passport Editor (genauere Erklärung nötig)</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="shortdesc:1;5:13">Functions of Passport Editor in Thesaurus view. The Passport Editor is located in the
+  centre of the User Interface in the Thesaurus view. Here, you can enter metadata about your
+  Thesaurus entries, e.g. dating and coordinates, or links to external websites
+  -<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>-&gt; genauer
+  erklären<?oxy_custom_end?>.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="conbody:1;10:11">
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="p:1;12:6">To open more metadata options cick the arrows on the right. A dropdown menu will appear. Be
+   sure to only enter data that features your Thesaurus entry. A geographical entry lika "Assuan"
+   may not be suitable to have dates, whereas a dating like "6th Dynasty" may not corelate with
+   information on latitude and longitude.<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="p:2;16:6">There are several buttons on top of the Passport Editor: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="p:3;17:6"><image href="Images/icons/full/icon16/inherit.png" id="image_np2_22c_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="image:1;17:80"/> "Inherit Passport
+   Data From Parent Object": Copy all data of a parent Thesaurus object and apply it for the active
+   child. A child entry may have the same metadata as its parent, so this may save time. If several
+   pieces of data are different fill them in beforehand, they will not be overwritten.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="p:4;21:6"><image href="Images/icons/extra%20icons/options_dreieck.png" id="image_q5d_4fc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="image:2;21:90"/> "View
+   Menu": Open a dropdown menu with two entries: <image href="Images/icons/full/icon16/inherit.png" id="image_tzz_pfc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="image:3;23:28"/> "Inherit Passport Data" and "Inherit Overwrite Passport Data".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="p:5;24:6">The second option gives you the oportunity to overwrite already filled in blanks with the
+   parent object's metadata.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="p:6;26:6"><xref href="oberflaeche_funktionen_e5.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="xref:1;26:50">Maximize and minimize</xref> the window with <image href="Images/icons/extra%20icons/maximize.png" id="image_hdm_wbc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="image:4;27:75"/> and <image href="Images/icons/extra%20icons/minimize.png" id="image_e5c_xbc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_thesaurs_passporteditor.dita" xtrc="image:5;28:75"/>.</p>
+ </conbody>
+</concept>

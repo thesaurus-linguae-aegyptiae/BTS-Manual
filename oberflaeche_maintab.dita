@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_isp_k5f_yr">
+ <title>Main</title>
+ <conbody>
+    <p><image href="Images/icons/full/icon16/passport.png" id="image_ecw_mvh_sr"/> The text-input
+      fields and drop-down menus in this tab allow you to enter technical data of your text or
+      object. If you are working on a "child object" and want it to have the same metadata as the
+      "parent object", you can click<image href="Images/icons/full/icon16/inherit.png"
+        id="image_fdk_2rt_mr"/> "Inherit Passport Data" in the top right corner of the Passport
+      Editor. Note that the "parent" data will be copied in the empty fields only. If the fields
+      were filled out, their content will remain unchanged. </p>
+  <p><u>Name</u></p>
+    <p>Enter or change the name of your object or text.</p>
+    <p><u>Type</u> and Subtype</p>
+    <p>Choose a type and subtype (e.g. text, object, etc.).</p>
+    <p><u>SortKey</u>
+    </p>
+    <p>By default, all objects on the same level have "0" as a sort key and are thus sorted
+      alphabetically. Defining a "SortKey" in the Passport data of the object will change its
+      position regarding other objects, "0" being on top. </p>
+    <p><u>ID</u></p>
+    <p>Displays the ID of the object, which is generated automatically by the BTS. It cannot be
+      changed.</p>
+    <p><u>Author</u></p>
+    <p>Displays the author (creator) of the object. </p>
+    <p><u>Date</u></p>
+    <p>Displays the date of creation of the object.</p>
+    <p><u>Visibility</u></p>
+    <p>Define who can see the object or Text (public, project, group, reader,
+      all_authenticated).</p>
+    <p><u>Review State</u></p>
+    <p>Enter or edit the review state of the object or text (published, reviewed, awaiting-update,
+      awaiting-review, new, in progress, transformed awaiting update). The default review state is
+      "published". Additional "review states" can be created /added by administrator in "Preferences
+      / Edit Configuration/Revision Status"</p>
+    <p><u>Project</u> and <u>Corpus</u>
+    </p>
+    <p>Clicking on <image href="Images/icons/full/icon16/preferences.png" id="image_ohg_55x_ls"/>
+      you can assign the object or text to another project / corpus. You can only move corpora or
+      projects such you have permission for. Note that only the physical position of an object will
+      change (displayed in the Corpus Navigator in the square brackets), not its position in the
+      hierarchical tree of objects. (If you want to change the position of an item in the
+      hierarchical tree then you have to change the relation of your text or object. See <xref
+        href="oberflaeche_relationstab.dita#concept_qvz_mwf_yr">Relations Tab</xref>.</p>
+    <p><u>History</u></p>
+    <p>Click to see all changes of the selected database object. Information includes the username
+      of the editor and the date. In order for the history information not to be displayed, change
+      to another "Corpus Navigator" object and then back.</p>
+ </conbody>
+</concept>

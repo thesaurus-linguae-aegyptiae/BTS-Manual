@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ezx_rwf_yr">
+ <title>Date</title>
+ <conbody>
+  <p>Enter the dating of your thesaurus entry, including the "Beginning", "End" and "Reference"
+   information.</p>
+  <p><image href="Images/icons/full/obj16/widget-group-add.png" id="image_adl_4xf_yr"/>
+   <u>Add entry group</u></p>
+  <p>Click to add a new section.</p>
+  <p><image href="Images/icons/full/obj16/widget-group-delete.png" id="image_lkx_lwl_yr"/>
+   <u>Delete entry group</u></p>
+  <p>Click to delete a section.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xpn_pqd_4r">
+ <title>File</title>
+ <conbody>
+  <p/>
+  <p>Clicking on "File" opens a dropdown menu with the entries "New / New Project", "Insert",
+   "ExitBTS" and "RestartBTS".</p>
+  <p>
+   <b>New Project</b></p>
+  <p>Selecting "New Project" will open "Edit project name" window. Here you can enter the "Project
+   name", "Project prefix" and "Description" (optional). "Project prefix" is the internal name of
+   the project, under which it will be saved in the database. Please don't use special characters,
+   spaces, or capital letters in the "Project prefix"!</p>
+  <p>The "Next >" button leads to the "Project Connection Settings" window. Here you can enter the
+   connection type ("couchdb" is set as standard), "Server URL" and the "Database Path". </p>
+  <p>Clicking on the "Next >" button will display a window to select additional features, such as
+   corpus data, thesaurus data and wordlist data. Select the relevant checkboxes and click
+   "Next".</p>
+  <p>In the "Project Database Collection" window you can add the existing databases to the new
+   project. You can edit the name of the collection upon clicking the "Edit" button. </p>
+  <p>Confirm the creation of your project with the "Finish" button. To change or view infomation in
+   the previous windows you can always click "&lt; Back". Cancel the creation of the new project
+   with "Cancel".</p>
+  <p><b>Insert</b></p>
+  <p><b>Exit BTS</b></p>
+  <p>Click to exit the program.</p>
+  <p><b>Restart BTS</b></p>
+  <p>Click to restart the program. </p>
+ </conbody>
+</concept>

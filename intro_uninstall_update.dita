@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ohd_sq5_fs">
+ <title>Update / Uninstall BTS</title>
+ <conbody>
+  <p>
+   <ol id="ol_vhy_cr5_fs">
+    <li><u>Update BTS</u><p>BTS automatically checks for updates every time you start the
+                                                application. In case an update is found, you will be
+                                                offered a choice to install it or to postpone it.
+                                                The update can be installed via program UI of BTS as
+                                                well. In order to do so click "Help / Update
+                                                Application" in the top menu bar.</p></li>
+    <li><u>Uninstall BTS</u><p>BTS is not listed in the "Control Panel / Programs / Programs and
+      Features" section of your operating system. Thus it is not possible to uninstall it in the
+      regular way. To uninstall the application, close the program window and delete all files from
+      the installation folder. </p><p><u>NOTE</u>: You might have to restart your system before
+      deleting the folder. The reason for this is that the DB services of the program might be still
+      running in background after closing the application and therefore might block the deletion.
+       </p><p><u>NOTE</u>: Using "Help / Uninstall software" entry in the upper menu bar of BTS will
+      not uninstall the application completely. It only uninstalls individual components, and
+      sometimes this may not be possible because Database service was started and is still running.
+      You will have to close the program window and delete the files again. </p></li>
+   </ol>
+  </p>
+ </conbody>
+</concept>

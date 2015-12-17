@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_mvz_rmv_bt">
+  <title>Editor</title>
+  <body>
+    <p>Editors may review and correct objects owned by other users even if no special rights for a
+      very object were granted to them. Thus they can review and improve the quality of the
+      data.</p>
+    <p><b>Rights</b></p>
+    <p>
+      <ul id="ul_v25_l4v_bt">
+        <li>Can edit all items in a corpus where he or she has the editor rights.</li>
+        <li>Can add or remove texts/objects within a corpus.</li>
+        <li>Can assign a status of an Updater or Reader to other users, but only for individual
+          database objects.</li>
+        <li>Can, technically, change his or her own status as a Reader or an Updater, but it is
+          without meaning, since the user role "Editor" takes precedence, as in the case of an
+          Admin.</li>
+      </ul>
+    </p>
+    <p><b>Limitations</b></p>
+    <p>
+      <ul id="ul_lwp_n4v_bt">
+        <li>As in the case of an Admin, if a corpus was created by somebody else, an Editor has a
+          role of a guest for the corpus (cannot edit the corpus passport data, or edit
+          updaters/readers for an entire corpus), but is listed as an editor for individual
+          texts/objects.</li>
+        <li>Cannot create new corpora within a project.</li>
+        <li>Lemma view: can view Lemma entries but not edit them or add new ones.</li>
+        <li>Thesaurus view: can view the Thesaurus entries but not edit them or add new ones.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_p15_rwv_ns">
+  <title>Creating and modifying a corpus / an object / a text</title>
+  <body>
+    <p/>
+    <p> ADMIN</p>
+    <p><b>Creating a corpus</b></p>
+    <p>
+      <ul id="ul_j3p_gzv_ns">
+        <li>Click the <image href="Images/icons/full/icon16/corpus-add.png" id="image_rbk_ssv_ps"/>
+          "New Corpus" icon. It is located above the <xref href="oberflaeche_corpusnavigator_e9.dita">Corpus Navigator</xref>. </li>
+        <li>Choose a name and a prefix (a prefix is a short name under which the corpus will be
+          saved in the database.) No special signs, spaces or capital letters are allowed in the
+          prefix! Select the checkbox if you want to "Synchronize corpus with central database".
+          Other users will be able to see your new corpus only if it is synchronized. Otherwise, it
+          will rest in offline mode on your PC. After you have finished, click "OK". Cancel the
+          creation with the "Cancel" button. </li>
+        <li>Your new corpus will appear in the corpora list, in alphabetical
+            order.<p>ADMIN?</p><b>Creating an object</b></li>
+        <li>Choose the corpus from the corpora tree where you wish your object to appear. You can
+          add an object to a corpus, a text, or even to an other, already existing, object. </li>
+        <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
+          subentry of the chosen corpus. NOTE: currently the new objects and texts will be saved in
+          your main working corpus and not in the selected corpus if they differ. The new objects
+          will appear in the selected corpus though. </li>
+        <li>Name your object in the <xref href="oberflaeche_maintab.dita"/> of the Passport Editor.
+          (The "Name" input field will appear red until it is named.) You can actually start working
+          without naming your object and name it later. Before it is named, it will appear in the
+          corpora tree as "BTST Object"- its default name.</li>
+        <li>
+          <p>Define the Type and in case also the Subtype of the object. You can and you also should
+            give as much informations as you can by using the tabs of the <xref href="oberflaeche_passporteditor.dita">Passport Editor</xref>.</p>
+          <p><b>Creating a text</b></p>
+        </li>
+        <li>Select a loaction in the Corpus Navigator on the left of the User Interface where you'd
+          like to allocate your text. You can add a text to a corpus, an object, or even to an
+          already existing text. </li>
+        <li>Then click <image href="Images/icons/full/icon16/text-add.png" id="image_g1w_bj3_qr"/>
+          "Add Text" in the <xref href="oberflaeche_corpusnavigator_e9.dita">Corpus Navigator</xref>
+          toolbar. Depending on the object you selected, a "child"-text will be added in the next
+          lower hierarchical status in relation to it. In the Navigator it will be named: "BTS Text"
+          (in order to see it, you might have to open the parent object).</li>
+        <li>Name your text in the <xref href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main
+            Tab</xref> of the Passport Editor. (The "Name" input field will appear red until it is
+          named.) You can actually start working without naming your text and name it later. Before
+          it is named, it will appear in the corpora tree as "BTS Text"- its default
+              name.<p/><p><b>Moving database objects</b></p><p>To move a database object (corpus,
+            object, text) from one project or corpus to another, right click the chosen item and
+            select "Move among projects" in the appearing context menu. In the opened window the
+            current location is displayed. Alter the entries as you wish (upper field for a new
+            project and lower field for a new corpus in the project).</p><p><b>Deleting database
+              objects</b></p><p>To delete a database object (corpus, object, text) select it and
+            then click on <image href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/>
+            "Delete". It will be moved to the bin (<image href="Images/icons/full/icon16/bin.png"
+              id="image_std_3cw_ns"/>"Bin" tab in the Corpus Navigator window), where you have the
+            opportunity to restore it (right click the object, context menu, "Restore") or to delete
+            it permanently. All subordinate elements will be deleted as well. Upon closing or
+            restarting the BTS all the item in the Bin will be permanently deleted.</p></li>
+      </ul>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_o2k_jpd_4r">
+ <title>Annotations</title>
+ <conbody>
+  <p>In the default view of the Lemma view, the annotations window is placed on the right. The
+   following elements will be displayed once they are added to a lemma entry in the WL (word-list on
+   the left):</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p><?oxy_custom_end?><image href="Images/icons/full/icon16/annotation.png" id="image_p3k_pz3_sr"/>
+   <u>Annotation</u></p>
+  <p><image href="Images/icons/full/icon16/comment.png" id="image_qrx_zz3_sr"/>
+   <u>Comment</u><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
+  <?oxy_custom_end?>
+  <p>Each annotation or comment offers additionally the following functions:</p>
+  <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
+   <u>Add Current Text Selection as Reference</u></p>
+  <p><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/>
+   <u>Update Current Reference</u></p>
+  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
+   <u>Remove Current Reference</u></p>
+  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
+   <u>Edit Comment / Edit Annotation</u></p>
+  <p>See the entire content or edit it. This feature is different for Annotation and Comment.</p>
+  <p>Clicking on the Edit Annotation button will display a passport editor. Each annotation will
+   have its own ID and its relation to the chosen lemma will be displayed in the Relations tab. </p>
+  <p>By selecting an Edit Comment function, a Comment Editor window will appear. You can enter a
+   title for your comment in the upper input field and the content of your comment in the lower
+   input field. Below there is also a section where you can see or edit a relation of the comment to
+   the text, using the ID.</p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
+   <u>Delete</u>
+  </p>
+  <p>Will delete selected annotations / comments.</p>
+  <p>To learn more about annotations click <xref href="howto_annotationen.dita">here</xref>. </p>
+ </conbody>
+</concept>

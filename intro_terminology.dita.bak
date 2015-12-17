@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rph_5p5_tr">
+ <title>UI Terminology</title>
+ <conbody>
+  <p/>
+  <p>This manual uses the following terms partially adopted from the "Glossary of UI terminology" by
+   Microsoft. </p>
+  <p>
+   <ul id="ul_udd_vkp_ps">
+    <li>Dropdown menu</li>
+    <li>Navigation tree</li>
+    <li>Node:  an entry in a navigation tree</li>
+    <li>Menu bar / menu bar entry</li>
+    <li>Tab</li>
+    <li>Tab section: a field within a tab that's not an input field: e.g. "select single glyphs" in
+     the HTW tab.</li>
+    <li>Text Input field</li>
+    <li>Tool bar / tool bar entry </li>
+    <li>Tooltip</li>
+    <li>Window</li>
+    <li>Workspace / workspace mode</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ptg_3nb_lt">
+  <title>Theory</title>
+  <body>
+    <p>Only consonants of words or full words that are destroyed or partially destroyed are allowed
+      to be clamped into the brackets “[ ]” / “⸢ ⸣“ if signs representing the consonants are
+      intrinsically part of the writing. This means that you do not have to clamp consonants that
+      are complements of fully existing ideograms. If a word is partially destroyed but is still
+      fully readable (that happens if a determinative or a complement is destroyed, but the word is
+      clearly written) then there is no need for a bracket.</p>
+    <p><u>Example</u>: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
+        id="image_ghr_yy5_wt"/> has to be transcribed as “<i>nfr</i>”, not “<i>nf[r]</i>”.</p>
+    <p><u>Example 2</u>: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
+        id="image_rmm_nz5_wt"/> has to be transcribed as "<i>⸢nfr⸣</i>".</p>
+  </body>
+</topic>

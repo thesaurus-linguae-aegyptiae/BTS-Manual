@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_w5m_g4d_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="title:1;4:9">Thesaurus</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="shortdesc:1;5:13">Thesaurus view</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="conbody:1;6:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="p:1;7:6">The "Thesaurus" is an optional part of the workspace. It is reached by clicking the <image href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="image:1;8:69"/> "Thesaurus" icon in the <xref href="oberflaeche_toolbar_e3.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="xref:1;9:40">Toolbar</xref>. The "Thesaurus" is not part of the work space
+   startup.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="p:2;12:6">Images/Thesaurs.jpg<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="p:3;13:6">The three windows from left to right are:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="p:4;14:6"><xref href="oberflaeche_thesaurusnavigator.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="xref:2;14:55">Thesaurus Navigator</xref></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="p:5;15:6"><xref href="oberflaeche_thesaurs_passporteditor.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="xref:3;15:60">Passport Editor</xref></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="p:6;16:6"><xref href="oberflaeche_thesaurus_annotation.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_thesaurus.dita" xtrc="xref:4;16:57">Annotation part</xref></p>
+ </conbody>
+</concept>

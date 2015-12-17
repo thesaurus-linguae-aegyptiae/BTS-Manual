@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fgn_4nb_lt">
+  <title>General Representation of Destructions</title>
+  <body>
+    <p>Destructions where words or even the number of words cannot be reconstructed have to be
+      represented by the following mark: </p>
+    <p>“--nQ--“ with “n” as count of destroyed quadrats. </p>
+    <p>Complete destruction of a line: “- -Rest_<u>der_Zeile_zerstört- -“ ???</u></p>
+    <p>
+      <table id="table_ejz_rnb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry> 3 quadrats destroyed</entry>
+              <entry> “--3Q--“</entry>
+            </row>
+            <row>
+              <entry>1,5 quadrats destroyed</entry>
+              <entry>”--1,5Q--“</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

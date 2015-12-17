@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_azx_hrl_mr">
+  <title>Status bar </title>
+  <body>
+    <p>The status bar is located at the bottom of the program. In the lower part, next to the <image
+        href="Images/icons/full/icon32/parent-node32.png" id="image_v4r_rm3_2s"/> icon, it shows the
+      path to the object you are currently working on. Above, your location in the active text is
+      displayed (line, column, etc):</p>
+    <p>Clicking on <image href="Images/icons/full/icon32/Information.png" id="image_ltl_fn3_2s"
+      />will display a window with status messages. </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  </body>
+</topic>
+<?oxy_custom_end?>

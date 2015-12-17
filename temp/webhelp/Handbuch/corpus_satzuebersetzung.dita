@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_dzk_2wf_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="title:1;4:9">Translation</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="shortdesc:1;5:13">How to insert translation for sentences</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="conbody:1;6:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="p:1;7:6">You can insert the translations for a single sentence in the bar below the Text Editor</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="p:2;9:6">Images/satz%C3%BCbersetzung.png<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="p:3;10:6">In a new text this bar is empty. Click the sentence you would like to translate and click the
+   white bar to write your translation in it. Be sure to have selected the right language in the
+   drop-down menu on the right. (<image href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="image:1;13:28"/> : de, en, fr, es, ru). Then just type your translation for this
+   sentence. In the standard view only one line wil be visible. Scroll up and down with the black
+   triangles (on the right of the bar) if you need to see more. The complete translation of the text
+   (as far as it is entered) will appear on the right of your BTS screen in the header <image href="Images/icons/full/icon16/locale.png" id="image_ozc_vnv_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="image:2;17:71"/> of the <xref href="oberflaeche_annotationsfenster.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_satzuebersetzung.dita" xtrc="xref:1;18:48">Annotation window</xref>
+   (<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: currently you have to
+   refresh the view of your text to see the complete translation)<?oxy_custom_end?>.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_f4v_hqm_mr">
+ <title>Text Editor</title>
+ <conbody>
+  <p>The "Text Editor" tab is located in the upper part in the middle of the "Corpus" work space.
+   The text input field is empty if no text from the Corpora is selected. Upon selecting the text
+   you will be able to transliterate it and enter the hieroglyphs. This chapter provides a general
+   description of the tab. For a step-by-step instruction of how to enter a new text please refer to
+   the relevant <xref href="howto_edittext.dita">chapter </xref> in the "How-to" section of this
+   manual. </p>
+  <p>The "Text Editor" window contains two input fields. The upper one displays either
+   "Transliteration", "Sign Text Editor" or "JSesh View" - depending on the tab selected. The lower
+   input field displays translation of the sentence, selected in the upper window. </p>
+  <p><b><u>Transliteration tab</u></b></p>
+  <p>Here you can enter or modify the transliteration of the text. Be careful to follow the <xref
+    href="howto_Grammatikfehler_e5.dita"/>, otherwise the autochecker system will trigger an error.
+   The "Transliteration" tab is semantically connected to the <xref
+    href="oberflaeche_lemmatizer.dita"/> tab below, where the transliterated words are referenced to
+   individual lemmata. </p>
+  <p><b><u>Sign Text Editor tab </u></b></p>
+  <p>The "Sign-Text-Editor" tab provides the hieroglyphic version of the text. Initially only the
+   transliteration is displayed there - each word / lemma in a separate box. The hieroglyphic input
+   is done in the <image href="Images/icons/full/icon16/hieroglyphetw.png" id="image_ok5_nlw_nr"/>
+   "Hieroglyph Type Writer" tab below. The hieroglyphic values, entered there, are automatically
+   applied to the selected lemmata in the "Sign-Text-Editor" window. </p>
+  <p><b><u>JSesh View</u></b></p>
+  <p>Displays a cohesive hieroglyphic text. </p>
+  <p>There are several buttons above the "Text-Editor" window: </p>
+  <p><image href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/> "Load Lemmata of
+   Text" loads the word borders and the sentence borders of your texts in order to be able to add a
+   translation and to lemmatize the words in the next step.</p>
+  <p>"Check Text Lemmata, Flexcodes..." checks the completeness of text lemmatization, translation
+   and hieroglyphic transcription. </p>
+  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/> "Add
+   Annotation" <xref href="howto_annotationen.dita">adds</xref> an <xref
+    href="howto_annotationen.dita">Annotation</xref> to the selected part of your text. It will be
+   underlined with a gray dotted line. </p>
+  <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/> "Add Rubrum"
+   converts the active lemma into a rubrum, which is marked red in the text.</p>
+  <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/> "Add
+   Subtext/Glosse" adds a subtext or a gloss respectively as a "child" of your text. You can edit it
+   separately.</p>
+  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/> "Add Comment"
+   adds a comment to the selected part. It will be underlined yellow.</p>
+  <p>You can use these functions also via the dropdown menu that appears when you click on the arrow
+   on the right. </p>
+  <p>Additionally, for Annotations, Rubra and Comments, a small, rectangular bar will appear on the
+   right side of the Text-Editor with the corresponding colour. Clicking on the bar will bring you
+   to the marked fragment of the text. </p>
+  <p><b><u>"Sentence translation" text input field</u></b></p>
+  <p>At the bottom of the "Text Editor" window there is the text-input field, where you can enter
+   your translation. It is empty unless a lemma has been selected in the "Text editor" window.</p>
+  <p>The <image href="Images/icons/full/icon16/locale.png" id="image_plt_3yt_mr"/> "Languages" icon
+   offers a dropdown menu with a number of languages (English, German, French, Spanish, Russian) to
+   choose from. Choose the language of your translation.</p>
+  <p> </p>
+ </conbody>
+</concept>

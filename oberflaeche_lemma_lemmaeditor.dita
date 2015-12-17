@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_atc_z4d_4r">
+ <title>Lemma Editor</title>
+ <conbody>
+  <p>The Lemma Editor is located in the upper centre of the workspace while Lemma view is active. It
+   contains three subsections.</p>
+  <p><b>Transliteration</b></p>
+  <p>The lemma transliteration tab is identical to the similar section in the <xref
+    href="oberflaeche_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>. Transliterate the
+   lemma in this field within the "§" signs (marks the beginning and the end of the lemma). If the
+   transliteration is not enclosed in "§" (like in the case of the text transliteration), it will
+   not be valid. Each lemma has to be enclosed in it (left and right of the written word, without
+   "space"). </p>
+  <p><i>Compound-word-lemmata:</i> If you want to enter a lemma that consists of multiple words
+   (e.g. as in m-ẖnw), use "-" between each element. If you want to split them into multiple
+   elements (but have it as one entry) then just use "space" between each word. Do not enclose each
+   word individually with "§". </p>
+  <p>The consequence of splitting the compounds into multiple elements is that in the case of
+   searching for a part of the compound (e.g. "ḥm" in the case of <i>ḥm-nṯr</i>) the evidence of the
+   token lemmatized as compound will appear.</p>
+  <p><i>Example:</i></p>
+  <p>"m-ẖnw": Typing §<i>m-ẖnw</i>§ marks one element while §<i>m ẖnw</i>§ marks two elements:
+    <i>m</i> and <i>ẖnw</i>.</p>
+  <p>Wrong: §<u>m</u>§ §<i>ẖnw</i>§.</p>
+  <p><b>Sign-Text</b></p>
+  <p>In the Sign-Text subsection every lemma appears as a single element, no matter if the element
+   is part of a compound word or not. This means that you can sub-lemmatize every part of a compound
+   in addition to the compound itself (which would be lemmatized as one lemma only).</p>
+  <p><b>Translation</b></p>
+  <p>Enter the translation for the complete lemma into this field. Select the language of your
+   choice by left-clicking the drop-down menu marked by <image
+    href="Images/icons/full/icon16/locale.png" id="image_jwn_h5c_qr"/>. The default language is
+   English.</p>
+ </conbody>
+</concept>

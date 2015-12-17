@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_b2l_gmg_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="title:1;4:9">Entering Hieroglyphs</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="shortdesc:1;5:13">How to edit hieroglyphs for a transliteration</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="conbody:1;6:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:1;7:6">To edit hieroglyphs, you need to open the hieroglyph-editor. Click in the Tetxeditor on the
+   'Sign-Text-Editor' bookmark (marked red on the screenshot) and on the bookmark 'HTW' Hieroglyph
+   Type Writer beneath (orange). You can also open the hieroglyph type writer by clicking <xref href="oberflaeche_window.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="xref:1;10:36">Window</xref> in the <xref href="oberflaeche_menuleiste.dita" class="- topic/xref " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="xref:2;10:99"/>
+   and choosing 'Open Hieroglyph Type Writer' option, but you still have to select the
+   Sign-Text-Editor seperately.You can enter the hieroglyphs for a chosen word by clicking on the
+   word (yellow) and then clicking in the 'Type here' field. You can now begin with the hieroglyph
+   input.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:2;15:6"><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Images/Hypszer/Handbuch-Screenschots/Sign-Text-Editor.png</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:3;17:6">The input of the hieroglyphs is possible in two different ways. One of them is through entering
+   the Gardiner numbers of the signs: </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:4;20:6">Images/Hypszer/Handbuch-Screenschots/Gardiner%20number.jpg </p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:5;22:6">Another way is to enter the transliteration (Manuel de Codage) of the wanted sign:</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:6;24:6">Images/Hypszer/Handbuch-Screenschots/Translit.jpg</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:7;26:6">After entering each sign, press SPACE on your keyboard. Otherwise the programme will recognize
+   it as one word. Sometimes when entering first letters of a transliteration of the word the
+   programme will present you with a list of a few options which you can choose from. If you wish to
+   choose a sign which does not appear as first on the list (in this case you would only need to
+   press SPACE), You can select them by pressing CTRL button on your keyboard together with a number
+   corresponding to the number of the sign appearing in red (see screenshot below). E.g. in the
+   following screenshot there are four options given for the input of the letter 'n'. If you would
+   like to select the N35B-sign you would have to press CTRL+3.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:8;35:6">Images/Hypszer/Handbuch-Screenschots/Zeichenauswahl.jpg</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:9;37:6">In order to confirm the input of sign and end the work on one word, either press ENTER on your
+   keyboard, or click on the icon of the scribe's outfit <image href="Images/icons/full/icon16/hieroglyphetw.png" id="image_ok5_nlw_nr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:1;39:78"/> in HTW. You can also
+   simply click on another word in the Texteditor if the word on which you would like to work does
+   not come as next. Additionally you can navigate between the words with those icons in HTW: <image href="../Praktikanten/Hypszer/Handbuch-Screenschots/Ikone-Navigation.jpg" id="image_mmt_qbn_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:2;43:6"/>.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:10;44:6">||&lt; and &gt;|| will bring you to the first and last word of the document respectively.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:11;45:6">|&lt; and &gt;| will bring you to the word at the beginning and end of the line respectively (line
+   as appears in the texteditor, not the line of the given text).</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:12;47:6">&lt; and &gt; will bring you to the previous and next word respectively.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:13;48:6"> Additionally, the function of each icon will be displayed on mouseover.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:14;49:6">After the input and confirmation of the signs, upon returning to the already-processed word, in
+   the field 'type here', the Gardiner numbers of the signs will be shown, even if the signs were
+   entered by their transliteration. This is how it will look like after a successful hieroglyph
+   entry: </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:15;54:6">Images/Hypszer/Handbuch-Screenschots/Hieros.png<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:16;55:6">If you need to correct the already confirmed word, you can return to it by clicking on it or
+   with previously described navigation icons. If you need to delete the already entered
+   hieroglyphs, you can simply use BACKSPACE or DELETE button on your keyboard and confirm by
+   pressing ENTER.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:17;59:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:1;59:9"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="u:1;59:12">Input of special signs:</u></b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:18;60:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:2;60:9">Shading:</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:19;61:6">A complete destruction of the hieroglyphs (when the sign cannot be seen anymore) is not
+   reconstructed in square brackets. Instead, shading is applied to indicate that the fragment
+   cannot be read. The size of the destruction is not important, the shading will always be one size
+   (see screenshot below). You can enter it by using '//':</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:20;66:6">Images/Hypszer/Handbuch-Screenschots/Schraffur.jpg<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:21;67:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:3;67:9">Partial Destruction:</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:22;68:6">When a sign is only partially destroyed (part of it still visible and identifiable), it is
+   rendered by half-quare brackets. The half-square brackets are entered with [?sign?]:</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:23;71:6">Images/Hypszer/Handbuch-Screenschots/Halb-Klammern.png.jpg<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:24;72:6">If a sign or a word is missing (not destroyed), it is not to be supplemented. Only what is
+   found in the text is to be coded. If there is space left between two signs left there in
+   antiquity it is to be coded with '..', as in the example below:</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:25;76:6">Images/Hypszer/Handbuch-Screenschots/L%C3%BCcke.jpg<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:26;77:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:4;77:9">Superfluous signs:</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:27;78:6">When a sign appears to be superfluous it is still to be coded as found in the script. The
+   superfluous signs outside from a wordform are to be pragmatically assigned to a previous or
+   following wordform. This can be rendered with [{sign}]:
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(example?)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:28;82:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:5;82:9">Other signs: </b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:29;83:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:6;83:9">Dots</b>: black dot is rendered by capital letter 'O' and the red dot by a small letter
+   'o'.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:30;85:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:7;85:9">Cartouches</b>: cartouche in oval form surrounding a word <image href="Images/Hypszer/Handbuch-Screenschots/ovalencl.png" id="image_s4h_5cj_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:3;86:85"/> is to be
+   entered by &lt;sign(s)&gt;. A rectangular frame <image href="Images/Hypszer/Handbuch-Screenschots/rectframe.png" id="image_cds_jcj_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:4;88:86"/> is to be
+   entered with &lt;Ssign(s)&gt;A sign enclosed in a rectangular enclosure (Gardiner's O6)<image href="Images/Hypszer/Handbuch-Screenschots/rectencl.png" id="image_icx_qcj_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:5;90:85"/> is to be
+   entered with &lt;Hsign&gt;.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:31;92:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:8;92:9">Haplographies</b>: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:32;93:6">Haplographies are coded normally by the first appearance/occurence. In the further occurence
+   they are to be coded in double angle brackets using [&amp;sign&amp;]. E.g. in this case <image href="Images/Hypszer/Handbuch-Screenschots/Haplo.jpg" id="image_dkv_r25_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:6;95:82"/> the sign X8 should
+   be written twice, so it needs to be inserted into double angle brackets: </p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:33;98:6">Images/Hypszer/Handbuch-Screenschots/Haplo2.jpg</p>
+  <?oxy_custom_end?>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:34;100:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:9;100:9">Inversions</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:35;101:6">When the inverted Words form a lemma: the sign-sequence is to be entered as it appears in the
+   script. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:36;103:6">When the inverted words do not form a lemma: each word is to be coded with the signs that
+   belong to it
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(example?)<?oxy_custom_end?>.
+   The inverted sign-sequence cannot be reproduced/depicted. Such a case must be noted
+   separately.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:37;108:6">Wenn the inversion occurs within a word, e.g. <image href="Images/Hypszer/Handbuch-Screenschots/Hieros.jpg" id="image_hdj_gzt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:7;109:83"/>, the signs have
+   to be assigned to words they belong to (in this case V30+G7 and I9 separately). The inversed
+   sign-sequence cannot be reproduced/depicted. Such a case is to be noted separetely.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:38;112:6">The box at the bottom 'Select Single Glyphs' will serve for marking the inversions, however
+   this function is not yet available.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:39;114:6">Mistakes done in the antiquity are not to be noted in the coding. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:40;115:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="b:10;115:9">Grouping hieroglyphs</b>:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:41;116:6">Use : and * to group hieroglyphs.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Please, only do that, if you
+   saw the original. Publications may differ from the original text.<?oxy_custom_end?> Due to
+   technical reasons, columns have to be transcribed into lines, though. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:42;120:6">Example: </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:43;121:6">H t:p = <image href="Images/grouphieroglyphs1.png" id="image_kyr_32y_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:8;121:80"/></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="p:44;122:6">Q3_*X1_:N1 = <image href="Images/grouphieroglyphs2.png" id="image_g4q_p2y_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\corpus_hieroglyphen.dita" xtrc="image:9;122:85"/></p>
+ </conbody>
+</concept>

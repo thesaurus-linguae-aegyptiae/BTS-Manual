@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bd2_jwj_qr">
+ <title>1. Transliteration</title>
+ <conbody>
+  <p>To enter and edit the transliteration of your texts, click in the Transliteration subsection of
+      the <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> section in the upper
+      centre of the Text Corpus view and enter your text. </p>
+  <p>Transliteration follows the BTS <xref href="howto_Grammatikfehler_e5.dita">grammar
+      rules</xref>. </p>
+    <p><u>The most important rules are the following</u></p>
+    <p>
+      <ul id="ul_wh1_bxw_ns">
+        <li>Start and end each sentence with the sentence marker "§".</li>
+        <li>Use space only between two words or extratextual information, not after typing a
+          sentence marker "§" or after opening brackets.</li>
+        <li>Brackets come in pairs. You have to close every bracket you have opened. Sometimes the
+          system will do this automatically, but there are cases where that does not work. Clicking
+          "CTRL+Space" will show the markers that are allowed at the position of the cursor. For
+          recurring elements you also can define a template in the <xref
+            href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
+        <li>The dual and plural endings are transcribed with ".w" or ".wj/.tj" when written
+          phonetically. When marked graphically, they are transcribed with ".pl" or ".du". When the
+          plural and dual endings are written both phonetically and graphically they are transcribed
+          with both options: "w.pl" or ".wj/.tj.du".</li>
+        <li>Ambiguities are entered as: "%case 1: rd.du| case 2: war,t.du%". Be careful not to type
+          a space in front of the vertical stroke. You can input as many cases as you need.</li>
+        <li>It is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."), to
+          close brackets before you open them ("n]b[") or to interlace different kinds of brackets
+          wrongly ("{n[b}]").</li>
+      </ul>
+    </p>
+    <p><u>Using Templates</u></p>
+    <p>It is possible to use templates in order to speed up the transliteration process. Note that
+      you can create your own templates (<xref
+        href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
+      the templates by right-clicking in Text Editor and choosing "Content Assist". Depending on the
+      position of your cursor (within a sentence / word or outside the sentence marked by §§) you
+      will get a different set of templates to choose from. This can be influenced by changing the
+      "Context" of your templates (see <xref href="oberflaeche_preferences2.dita#concept_trz_tw2_yr"
+        >Preferences</xref>).</p>
+    <p><u>Adding Extratextual Information</u></p>
+    <p>
+      <ul id="ul_ugx_ryw_ns">
+        <li>Line counts are introduced by #lc: and end with <b>#</b>. The numbers are written in
+          square brackets. E.g.: Line 1 = #lc: [1]#</li>
+        <li>Paragraphs start with #para: and end with <b>#</b>. E.g.: CT VI 106a = #para: CT VI
+          106a#</li>
+        <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
+          destroyed--, --3Q-- (destruction of 3 scriptorial squares).</li>
+        <li>If the number of words missing can be determined, use underscores in brackets "[___]".
+          E.g.: "[___] [___]" for 2 missing words.</li>
+        <li>All other descriptive information is to be put between "#": E.g.: #in front of the first
+          person looking left:#; #3Q are left empty#.</li>
+      </ul>
+    </p>
+    <p><u>Some transliteration conventions</u></p>
+    <p>
+      <ul id="ul_kkp_dwy_qt">
+        <li>Ending within word-stems: "," (comma). E.g. <i>ḥm,t</i>.</li>
+        <li>Grammatical endings: "." (dot). E.g. <i>nṯr.w; sḏm.n =f</i>.</li>
+        <li>J-Augmentation: ":" (colon). <u>NOTE</u>: Not for causatives or other prefixes!</li>
+        <li>Suffix: "=" (equality sign). <u>NOTE</u>: A space has to be inserted before this sign
+          (e.g. sḏm.n =f).</li>
+        <li>Use of "j" instead of "ı͗".<p>Use of "q" instead of "ḳ".</p>Use "~" for syllabic
+          writings, e.g. gꜢ~wꜣ~šꜣ.</li>
+      </ul>
+    </p>
+    <p>See <xref href="grammar_transcribing_rules.dita#concept_ops_zgb_lt">Grammar Reference</xref>
+      for explicit information.</p>
+ </conbody>
+</concept>

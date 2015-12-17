@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_atc_z4d_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="title:1;4:9">Lemma Editor</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="shortdesc:1;5:13">Lemma Editor Tab. The Lemma Editor is located in the upper centre of the User Interface
+  while Lemma View is active.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="conbody:1;7:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:1;8:6">The Lemma Editor consists of three windows:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:2;9:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="u:1;9:9">Transliteration</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:3;10:6">The transliteration of a lemma is analog to the <xref href="oberflaeche_texteditor_e10.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="xref:1;10:100"/>.
+   Transliterate the lemma inside of this field. "§" marks the lemma. Each lemma has to be
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>embraced<?oxy_custom_end?>
+   with it (left and right to the written word, without "space"). </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:4;14:6"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="i:1;14:9">Compound-word-lemmata:</i> If you want to enter a lemma that consists of multiple words
+   (e.g. as in m-Xnw), use "-" between each element. The elements will then appear in "Sign-Text" as
+   a single element. If you want to split them into multiple elements (but have it as one entry)
+   then just use "space" between each word. Do not
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>embrace <?oxy_custom_end?>each
+   word with "§". Just the whole entry has to
+   be<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+   embraced!<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:5;22:6"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="i:2;22:9">Example:</i></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:6;23:6">"m-Xnw": Typing "§m-Xnw§" marks one element while "§m Xnw§" marks two elements: "m" and
+   "Xnw".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:7;25:6">Wrong: "§m§ §Xnw§".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:8;26:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="u:2;26:9">Sign-Text</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:9;27:6">In "Sign-Text" the entered lemma appears as element (or elements, if it is sub-divided into
+   more than one entry). This means that you can sub-lemmatize every element of a lemma-entry, if
+   you have splitted the element before as explained above.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:10;30:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="u:3;30:9">Translation</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:11;31:6">Enter the translation for the complete lemma into this field. Select the language of your
+   choice by leftclicking the drop-down-menu marked by <image href="Images/icons/full/icon16/locale.png" id="image_jwn_h5c_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="image:1;33:71"/>.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemma_lemmaeditor.dita" xtrc="p:12;34:7"/>
+ </conbody>
+</concept>

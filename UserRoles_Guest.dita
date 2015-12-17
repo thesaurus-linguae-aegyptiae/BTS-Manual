@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_bvq_b4v_bt">
+  <title>Guest</title>
+  <body>
+    <p>Guests can read data but are not allowed to create new database objects, edit or delete
+      anything.</p>
+    <p>If a guest is given no status (Reader/Updater), he or she will not be able to see the
+      database objects in the corpus with a visibility status: Reader, Group, or Project. However
+      the entire corpora with one of the statuses will still be displayed for her/him and the
+      database objects within it will be viewable.</p>
+    <p>Even if a guest has not been given such status for a particular corpus, they will still be
+      able to view its content.</p>
+    <p>A guest may view the lemma and the thesaurus views.
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+    <?oxy_custom_end?>
+  </body>
+</topic>

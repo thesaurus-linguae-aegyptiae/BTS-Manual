@@ -1,0 +1,95 @@
+
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xml:lang="en-us" lang="en-us">
+<head><meta name="description" content="The &#34;Text Editor&#34; tab is located in the upper part in the middle of the &#34;Corpus&#34; work space. The text input field is empty if no text from the Corpora is selected. Upon selecting the text you will be ..."></meta><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><meta name="copyright" content="(C) Copyright 2005"></meta><meta name="DC.rights.owner" content="(C) Copyright 2005"></meta><meta name="DC.Type" content="concept"></meta><meta name="DC.Title" content="Text Editor"></meta><meta name="DC.Relation" scheme="URI" content="oberflaeche_corpora.html"></meta><meta name="DC.Format" content="XHTML"></meta><meta name="DC.Identifier" content="concept_f4v_hqm_mr"></meta><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/commonltr.css"><!----></link><title>Text Editor</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/webhelp_topic.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/skins/skin.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/jquery.realperson.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/comments.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/jquery.cleditor.css"><!----></link><link rel="stylesheet" type="text/css" href="oxygen-webhelp/resources/css/admin.css"><!----></link><script type="text/javascript"><!--
+          
+          var prefix = "index.html";
+          
+          --></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-1.8.2.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.cookie.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery-ui.custom.min.js"><!----></script><script type="text/javascript" src="oxygen-webhelp/resources/js/jquery.highlight-3.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/webhelp_topic.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/localization/strings.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/init.js"><!----></script><script type="text/javascript" charset="utf-8" src="oxygen-webhelp/resources/js/comments-functions.js"><!----></script></head>
+<body onload="init('')" class="frmBody" id="concept_f4v_hqm_mr">
+<table class="nav"><tbody><tr><td colspan="2"><div id="printlink"><a href="javascript:window.print();" title="Print this page"></a></div><div id="permalink"><a href="#" title="Link to this page"></a></div></td></tr><tr><td width="75%"><a class="navheader_parent_path" href="oberflaeche_workspace.html" title="Workspace">Workspace</a> / <a class="navheader_parent_path" href="oberflaeche_corpora.html" title="Textcorpus">Textcorpus</a></td><td><div class="navheader">
+<span class="navparent"><a class="link" href="oberflaeche_corpora.html" title="Textcorpus"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Textcorpus</span></a></span>  </div></td></tr></tbody></table>
+
+ <h1 class="title topictitle1">Text Editor</h1>
+
+ <div class="body conbody">
+  <p class="p">The "Text Editor" tab is located in the upper part in the middle of the "Corpus" work space.
+   The text input field is empty if no text from the Corpora is selected. Upon selecting the text
+   you will be able to transliterate it and enter the hyeroglyphs. This chapter provides the general
+   description of the tab. For a step-by-step instruction of how to enter a new text please refer to
+   the relevant <a class="xref" href="howto_edittext.html">chapter </a> in the "How-to" section of this
+   manual. </p>
+
+  <p class="p">The "Text Editor" window contains two input fields. The upper one displays either
+   "Transliteration", "Sign Text Editor" or "JSesh View" - depending on the tab selected. The lower
+   input field displays translation of the sentence, selected in the upper window. </p>
+
+  <p class="p"><strong class="ph b"><u class="ph u">Transliteration tab</u></strong></p>
+
+  <p class="p">Here you can enter or modify the transliteration of the text. Be careful to follow the <a class="xref" href="howto_Grammatikfehler_e5.html">BTS Grammar Reference</a>, otherwise the autochecker system will trigger an error.
+   The "Transliteration" tab is semantically connected to the <a class="xref" href="oberflaeche_lemmatizer.html">Lemmatizer</a> tab below, where the transliterated words are referenced to
+   individual lemmata. </p>
+
+  <p class="p"><strong class="ph b"><u class="ph u">Sign Text Editor tab </u></strong></p>
+
+  <p class="p">The "Sign-Text-Editor" tab provides the hieroglyphic version of the text. Initially only the
+   transliteration is displayed there - each word / lemma in a separate box. The hieroglyphic input
+   is done in the <img class="image" id="concept_f4v_hqm_mr__image_ok5_nlw_nr" src="Images/icons/full/icon16/hieroglyphetw.png"></img>
+   "Hieroglyph Type Writer" tab below. The hieroglyphic values, entered there, are automatically
+   applied to the selected lemmas in the "Sign-Text-Editor" window. </p>
+
+  <p class="p"><strong class="ph b"><u class="ph u">JSesh View</u></strong></p>
+
+  <p class="p">Displays a cohesive hieroglyphic text. </p>
+
+  <p class="p">There are several buttons above the "Text-Editor" window: </p>
+
+  <p class="p"><img class="image" id="concept_f4v_hqm_mr__image_sws_dns_mr" src="Images/icons/full/icon16/lemma-load.png"></img> "Load Lemmata of
+   Text" loads the word borders and the sentence borders of your texts in order to be able to add a
+   translation and to lemmatize the words in the next step.</p>
+
+  <p class="p">"Check Text Lemmata, Flexcodes..." checks the completeness of text lemmatization, translation
+   and hieroglyphic transcription. </p>
+
+  <p class="p"><img class="image" id="concept_f4v_hqm_mr__image_ixh_g4s_mr" src="Images/icons/full/icon16/annotation-add.png"></img> "Add
+   Annotation" <a class="xref" href="howto_annotationen.html">adds</a> the <a class="xref" href="howto_annotationen.html">Annotation</a> to the selected part of your text. It will be
+   underlined with a black dotted line. </p>
+
+  <p class="p"><img class="image" id="concept_f4v_hqm_mr__image_gwm_dqs_mr" src="Images/icons/full/icon16/rubrum-add.png"></img> "Add Rubrum"
+   converts the active lemma into a rubrum, which is marked red in the text.</p>
+
+  <p class="p"><img class="image" id="concept_f4v_hqm_mr__image_zxr_pqs_mr" src="Images/icons/full/icon16/subtext-add.png"></img> "Add
+   Subtext/Glosse" adds a subtext or a gloss respectively as a "child" of your text. You can edit it
+   separately.</p>
+
+  <p class="p"><img class="image" id="concept_f4v_hqm_mr__image_d5g_krs_mr" src="Images/icons/full/icon16/comment-add.png"></img> "Add Comment"
+   adds a comment to the selected part. It will be underlined yellow.</p>
+
+  <p class="p">You can use these functions also via the dropdown menu that appears when you click on the arrow
+   on the right. </p>
+
+  <p class="p">Additionally, for Annotations, Rubra and Comments, a small, rectangular bar will appear on the
+   right side of the Text-Editor with the corresponding colour. Clicking on the bar will bring you
+   to the marked fragment of the text. </p>
+
+  <p class="p"><strong class="ph b"><u class="ph u">"Sentence translation" text input field</u></strong></p>
+
+  <p class="p">At the bottom of the "Text Editor" window there is the text-input field, where you can enter
+   your translation. It is empty unless a lemma has been selected in the "Text editor" window.</p>
+
+  <p class="p"><img class="image" id="concept_f4v_hqm_mr__image_plt_3yt_mr" src="Images/icons/full/icon16/locale.png"></img> "Languages" icon
+   offers a drop-down with a number of languages ( English, German, French, Spanish, Russian) to
+   choose from. Choose the language of your translation.</p>
+
+  <p class="p"> </p>
+
+ </div>
+
+<div class="related-links"></div>
+<div class="navfooter"><!---->
+<span class="navparent"><a class="link" href="oberflaeche_corpora.html" title="Textcorpus"><span class="navheader_label">Parent topic</span><span class="navheader_separator">: </span><span class="navheader_linktext">Textcorpus</span></a></span>  </div><div class="footer">WebHelp output generated by<a href="http://www.oxygenxml.com" target="_blank"><span class="oXygenLogo"><img src="oxygen-webhelp/resources/img/LogoOxygen100x22.png" alt="Oxygen"></img></span><span class="xmlauthor">XML Author</span></a></div>
+<div id="productInfo" style="display:none;"><span id="oxy_productID">oxy-webhelp</span><span id="oxy_productVersion">1.0</span></div><div id="loginData" style="display: none"><span class="bt_close" title="Close"><!----></span><form action="" target="passwordIframe" method="post" name="form_login" onsubmit="return loggInUser();" id="loginFormData" autocomplete="on"><input type="hidden" id="reloadComments" value="yes"><!----></input><table class="login"><thead><tr><td colspan="2"><span id="l_login2"><script type="text/javascript">$('#l_login2').html(getLocalization('label.login'));</script></span></td></tr><tr><td colspan="2"><div id="loginResponse"><!----></div></td></tr></thead><tr><td><span id="l_userName"><script type="text/javascript">$('#l_userName').html(getLocalization('label.userName'));</script></span></td><td><input name="usernameW" type="text" id="myUserName" autocomplete="on" required="required" autofocus="autofocus"><!----></input></td></tr><tr><td><span id="l_pswd"><script type="text/javascript">$('#l_pswd').html(getLocalization('label.pswd'));</script></span></td><td><input name="passwordW" type="password" id="myPassword" autocomplete="on" required="required"><!----></input></td></tr><tr><td colspan="2" align="left"><span id="ll_remember"><script type="text/javascript" xml:space="preserve">
+								$('#ll_remember').html(getLocalization('label.rememberme'));
+							</script></span>     <input name="myLoginRemember" type="checkbox" class="ck" id="myRemember" value="no"><!----></input></td></tr><tr><td colspan="2" align="center"><input id="l_bt_submit_log" type="submit" value="Submit" name="loginFormButton"><!----></input><script type="text/javascript">$('#l_bt_submit_log').attr('value',getLocalization('label.login'));</script><span class="btnHGlue"><!----></span><input class="bt_cancel" id="l_cancelLog" type="button" value="Cancel" name="loginFormButton"><!----></input><script type="text/javascript">$('#l_cancelLog').attr('value',getLocalization('label.cancel'));</script></td></tr></table><div class="loginAlternative"><span id="link_lostPwd" onclick="showLostPwd()"><script type="text/javascript">$('#link_lostPwd').html(getLocalization('label.lostPswd'));</script></span><span id="link_signUp" onclick="showSignUp()"><script type="text/javascript">$('#link_signUp').html(getLocalization('label.signUp'));</script></span></div></form><iframe id="passwordIframe" name="passwordIframe" style="display:none"><!----></iframe></div><div id="cmts"><!----></div></body>
+</html>

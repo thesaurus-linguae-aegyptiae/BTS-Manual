@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_axv_vfm_mr">
+ <title>Corpus Navigator </title>
+ <conbody>
+  <p>The "Corpus Navigator" tab is located on the left side of the "Text Corpus" work space. Here
+   you can see the position of the text in the corpus, displayed hierarchically. You can navigate
+   through the corpus by clicking the database objects or using the "up" and "down" arrow keys on
+   your keyboard.</p>
+  <p>Apart from the object title, the physical location of the database object is displayed in the
+   square brackets. The number of elements it contains is shown in round brackets. </p>
+  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/> marks all <xref
+    href="oberflaeche_preferences.dita">activated</xref> corpora, for which you have the updater or
+   reader role. </p>
+  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/> marks all
+   other corpora.</p>
+  <p>"Corpus Navigator" has two tabs: <image href="Images/icons/full/icon16/corpora.png"
+    id="image_o21_2y3_zs"/> "Text Corpora" and <image href="Images/icons/full/icon16/bin.png"
+    id="image_vqw_pjs_4r"/> "Bin". By default the tab "Text Corpora" is activated. In the "Bin" tab
+   you can find your deleted texts and objects. Please note that generating the list of the objects
+   in the "Bin" tab may take up to one minute the first time you click it after installing BTS.
+   Thereafter the preview works faster. </p>
+  <p>At the top of the "Corpus Navigator" window there are several buttons. Two of them, <image
+    href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
+    href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/>, are also available in
+   other windows and are therefore explained in the <xref href="oberflaeche_funktionen_e5.dita"
+    >"Common features"</xref> section. </p>
+  <p>"Corpus Navigator"-specific buttons are the following: </p>
+  <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r"/> "New Corpus":
+   Click to create a new corpus. </p>
+  <p><image href="Images/icons/full/icon16/tcobject-add.png" id="image_szx_zjs_4r"/> "Add Text
+   Corpus Object": Adds a "child"-object to the currently selected database object. You choose the
+   active element by clicking it. It is called "BTSTC Object" until you rename it in the Passport
+   Editor. NOTE: The physical location where the child element is saved is not the active corpus but
+   your main working corpus you have choosen in the Preference Settings . </p>
+  <p><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r"/> "addNewText": Adds
+   a "child" text to the selected corpus. It is called "BTS Text" until you rename it in the
+   Passport Editor. NOTE: The physical location where the child element is saved is not the active
+   corpus but your main working corpus you have choosen in the Preference Settings .</p>
+  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
+   "addAnnotation": Adds an annotation to the active object. </p>
+  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/> "Add Comment":
+   Adds a comment to the active object.</p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r"/> "Delete": Moves the
+   selected element from the "Corpus Navigator" tab to the "Bin" tab. In the "Bin" you can either
+   restore it or permanently delete it per right-click. </p>
+  <p><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/> "Open Simple Search
+   Dialog": Open a search dialog. </p>
+  <p/>
+  <p>Clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_zj3_d2g_ys"/>
+   will display the drop-down menu with the following options:</p>
+  <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_g2q_ydg_ys"/> "Create New Text
+   Corpus": see above.</p>
+  <p><image href="Images/icons/full/icon16/tcobject-add.png" id="image_t3d_xdg_ys"/> "Add TC
+   Object": see above.</p>
+  <p><image href="Images/icons/full/icon16/text-add.png" id="image_px5_wdg_ys"/> "Add Text": see
+   above.</p>
+  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_pzk_wdg_ys"/> "Add
+   Annotation": see above.</p>
+  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_kdb_wdg_ys"/> "Add Comment":
+   see above.</p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_d2r_vdg_ys"/> "Delete": see
+   above.</p>
+  <p>"Delete Permanently": Use this option to delete an item completely (it will not be moved to the
+   bin).</p>
+  <p>"Restore": Click to restore an item from the bin.</p>
+  <p>"Move Object among Projects":</p>
+  <p>"Open Conflict Dialog":</p>
+  <p>"Present"</p>
+  <p><image href="Images/icons/full/icon16/history.png" id="image_kn5_gjc_sr"/> "Open Revision
+   History": see <xref href="oberflaeche_edit.dita">Menu bar -> Edit</xref>.</p>
+  <p><image href="Images/icons/full/icon16/userrole.png" id="image_yjj_x3c_sr"/> "Edit
+   Updaters/Readers": see <xref href="oberflaeche_edit.dita">Menu bar -> Edit</xref>.</p>
+  <p>"Filter": filters the corpora according to the listed criteria. </p>
+ </conbody>
+</concept>

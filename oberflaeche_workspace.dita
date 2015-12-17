@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dts_pjd_4r">
+ <title>Workspace</title>
+ <conbody>
+  <p>The workspace is a part of the BTS user interface, located between the toolbar and the status
+      bar. It changes appearance whenever the user switches between Text Corpus, Lemma, Thesaurus
+      and Abstract Text views.</p>
+ </conbody>
+</concept>

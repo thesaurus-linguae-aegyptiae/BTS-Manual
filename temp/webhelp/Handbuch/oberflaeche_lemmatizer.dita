@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_chh_3k1_sr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="title:1;4:9">Lemmatizer</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="shortdesc:1;5:13">The Lemmatizer is used to reference the selected transliterated word to the lemma-entry
+  in the lemma list. It has a toolbar and an input-surface.</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="conbody:1;7:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:1;8:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="b:1;8:9">Activating and closing the Lemmatizer</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:2;9:6">Go to "Window" (Menu bar) -&gt; "Open Lemmatizer" to open the Lemmatizer. See <xref href="oberflaeche_window.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="xref:1;10:37"/>. Leftclick <image href="Images/icons/extra%20icons/close.png" id="image_ycv_ts1_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:1;11:28"/> to close the Lemmatizer-window. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:3;12:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="b:2;12:9">Toolbar</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:4;13:6"><image href="Images/icons/full/icon16/lemma-ok.png" id="image_mp5_3j1_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:2;13:81"/> Confirm current
+   lemma editing and continue to next lemma.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:5;15:6"><image href="Images/icons/extra%20icons/pfeil_anfang_dokument.png" id="image_kgg_r31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:3;15:96"/> Move
+   selection to start of document.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:6;17:6"><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_obl_s31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:4;17:93"/> Move
+   selection to start of line.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:7;19:6"><image href="Images/icons/extra%20icons/pfeil_links.png" id="image_ocj_t31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:5;19:86"/> Move selection
+   to previous word.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:8;21:6"><image href="Images/icons/extra%20icons/pfeil_rechts.png" id="image_m5h_531_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:6;21:87"/> Move
+   selection to next word.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:9;23:6"><image href="Images/icons/extra%20icons/pfeil_ende_zeile.png" id="image_upn_v31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:7;23:91"/> Move
+   selection to end of line.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:10;25:6"><image href="Images/icons/extra%20icons/pfeil_ende_dokument.png" id="image_k3r_y31_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:8;25:94"/> Move
+   selection to end of document.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:11;27:6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>FUNKTIONIEREN ALLE NOCH
+   NICHT BISAUF CONFIRM<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:12;29:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="b:3;29:9">Surface</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:13;30:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="u:1;30:9">Selected Word</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:14;31:6">This textbox displays a word that you select in the Text-Editor, in Transliteration
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>window?/Text-input
+   field?<?oxy_custom_end?>.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:15;34:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="u:2;34:9">Lemma</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:16;35:6">This part of the surface is split into three text-input fields
+   (<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Lemma-list<?oxy_custom_end?>,
+   WCN or Lemma ID, Lemma, ) and a toolbar.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:17;38:6"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:1;38:9">Lemma-list</i></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:18;39:6">Once a word from your transliteration is selected, a list of lemmata containing the word will
+   show up here. Leftclicking a lemma inside the list selects it. Afterwards, "Inflection" and
+   "Translation" receive selectable values or can be filled manually (see below). The represented
+   Lemma-list inside the lemmatizer can be filtered by "WCN", "Lemma" and "Search Object".</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:19;43:6"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:2;43:9">WCN</i>
+  </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:20;45:6">Type in the WCN into this field to only list a specific lemma. If the WCN of a lemma is unknown
+   it can be achieved by searching for the lemma on the homepage of the Thesaurus Linguae Aegyptiae.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>FUNKTIONIERT NOCH
+   NICHT<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:21;49:6"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:3;49:9">Lemma</i>
+  </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:22;51:6">Type in the lemma into this field to only list a specific lemma (basicly the same as WCN).
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>FUNKTIONIERT NOCH
+   NICHT<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:23;54:6"><image href="Images/icons/full/icon16/search.png" id="image_s52_kb1_sr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:9;54:79"/><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:4;54:82">Search
+   Object</i></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:24;56:6">Leftclicking this option opens a popup-window where you can search by single words or parts of
+   words. Once the search dialog is open, type in a lemma or part of it that you are looking for and
+   leftclick the "Search"-button. "Cancel" will abort the search and close the dialog. After
+   processing the search, a list in the window below will show every lemma that contains the values
+   given by the search.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(BUG)<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:25;62:6"><image href="Images/icons/full/icon16/lemmata.png" id="image_ncd_mtb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:10;62:80"/>
+   <i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:5;63:7">Open Lemma Navigator</i></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:26;64:6">Leftclick opens a seperate <xref href="oberflaeche_lemmanavigator.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="xref:2;64:78"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:6;64:81">Lemma
+    Navigator</i></xref> popup window.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:27;66:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="u:3;66:9">Inflection
+    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(Flexion)<?oxy_custom_end?></u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:28;68:6">This part contains two value-fields
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>// Das feature wird noch
+   überarbeitet, daher hier erstmal kurz gehalten<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:29;71:6">1. Manual Entering of the inflection-number (upper field)</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:30;72:6">2. Inflection-List (lower field)
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>NOCH NICHT FUNKTIONSFÄHIG
+   ENTHALTEN<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:31;75:6"><u class="+ topic/ph hi-d/u " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="u:4;75:9">Translation</u></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:32;76:6">This part contains two text-input-fields and one drop-down-menu and can only be used if a word
+   has been selected in the "Texteditor" or in the "Lemma Navigator" before. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:33;78:6"><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:7;78:9">Fields</i></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:34;79:6">Once a lemma has been selected from the "Lemma" surface in the "Lemmatizer" (explained above),
+   translation(s) will become visible and you can mark the matching one by leftclicking into the
+   lower field. If done correctly, the translation will show in the upper field (left to the
+   drop-down-menu for the language-selection).</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:35;83:6"><image href="Images/icons/full/icon16/locale.png" id="image_plt_3yt_mr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="image:11;83:79"/><i class="+ topic/ph hi-d/i " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="i:8;83:82">Language
+    Selection</i></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmatizer.dita" xtrc="p:36;85:6">Drop-down-menu to select the language of the translation of a lemma.
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: Internal
+   Error<?oxy_custom_end?></p>
+ </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_r4k_zqf_mr">
+ <title>Configuration</title>
+ <conbody>
+  <p>The BTS allows you to adjust various settings in a way that best suits your needs.</p>
+  <p>The features available for configuration are:</p>
+  <p>
+   <ul id="ul_ats_ntv_ps">
+    <li>Changing font size</li>
+    <li>Quick view</li>
+    <li>Syntax Coloring</li>
+    <li>Templates</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_hkj_w55_kr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="title:1;4:10">Grammar check</title>
+  <body class="- topic/body " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:1;6:8">The BTS is capable to search a transliteration for errors. Therefore, it uses a system <xref href="corpus_grammatik.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="xref:1;7:38">grammar</xref>. That does not mean that it can recognize false
+      lemmata or transcription and correct them. In fact, it has an internal logic according to
+      which specific signs can only occur in specific combinations:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:2;10:8"> Das BTS ist in der Lage aufgrund einer <xref href="howto_Grammatikfehler_e5.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="xref:2;11:10">Grammatik</xref> den Text der Transkription auf Fehler zu überprüfen. Das heißt nicht, dass
+      es falsche Lemmata oder Transkriptionen erkennt oder korrigiert, sondern nur, dass aus Sicht
+      der Programmlogik auftretende Fehler markiert werden:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:3;14:8">I<?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>mages/Ansicht_mit_Fehlern.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:4;15:8">Errors are marked by a red encircled rectangle on the right next to the scroll bar of the
+        <xref href="oberflaeche_texteditor_e10.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="xref:3;16:54">Texteditor</xref>. There are also light red
+      encircled rectangles. These give the location of a rubrum (in this example l.19 and l.37). A
+      red wavy line marks errors in the Texteditor window itself. On mouse-over at the red square on
+      the left of the Texteditor you can see a hint with information about the cause of the error: </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:5;20:8">Die Fehler sind durch einen rot umrandetes Rechteck am rechten Rand neben der Scrollleiste
+      des <xref href="oberflaeche_texteditor_e10.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="xref:4;21:56">Texteditors</xref> zu erkennen. Es gibt
+      heller und dunkler rot umrandete Felder. Die helleren geben aber die Stelle eines Rubrums an
+      (hier z.B: Z19 und Z37). Im Feld des Texteditors selbst sehen Sie rote Wellenlinien unter dem
+      Grammatikfehler. Durch on-mouse-over beim links neben der fehlerhaften Textzeile erscheinenden
+      roten Kästchen erfahren Sie den Grund des Fehlers: </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:6;27:8">Images/Ansicht_mit_Fehlern_on_mouse_over.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:7;28:8">In this case a hyphen is missing in front of the line-end marker "§". If you insert the
+      required symbol the error message will vanish. </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:8;30:8">In diesem Fall fehlt ein "-" vor dem durch "§" markierten Ende der Zeile. Wenn sie das
+      Zeichen einfügen verschwindet die Fehlermeldung:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:9;32:8"><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Images/Fehler_behoben.jpg<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:10;33:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="b:1;33:11">List of error messages and their solutions</b>:</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:11;34:8"><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Liste der
+      Fehlermeldungen und -behebungen<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\howto_Grammatikueberpruefung_e6.dita" xtrc="p:12;36:9"/>
+  </body>
+</topic>

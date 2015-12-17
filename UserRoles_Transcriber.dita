@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_k1v_znv_bt">
+  <title>Transcriber</title>
+  <body>
+    <p>Users who are allowed to transcribe a text. They may not create new objects and may not
+      change anything except adding transcription to text for which they are granted update
+      rights.</p>
+    <p><b>Rights</b></p>
+    <p>
+      <ul id="ul_v25_l4v_bt">
+        <li>Can edit hieroglyphs for items within a particular corpus (only with the Updater
+          status).</li>
+      </ul>
+    </p>
+    <p><b>Limitations</b></p>
+    <p>
+      <ul id="ul_lwp_n4v_bt">
+        <li>Cannot edit transliteration, lemma or passport data of the corpus items.</li>
+        <li>Without a reader status in a given corpus, database object or text: can only view the
+          corpus items, but is not allowed to edit them in any way, which also includes hieroglyph
+          input.</li>
+        <li>Database objects with a visibility status <u>Reader, Group or Project</u> will not be
+          visible when no status is assigned to the Transcriber.</li>
+        <li>Cannot edit the Thesaurus and Lemma entries.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

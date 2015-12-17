@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /P:\Handbuch\temp\topic-pdf?><?workdir-uri file:/P:/Handbuch/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_vfb_sw2_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="title:1;4:9">Database Manager</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:1;6:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="b:1;6:9">Open Database Manager</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:2;7:6">Whenever you open your BTS, this window will pop up:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:3;8:6">You can also open the manager any time, through "Preferences" in the Menu bar and selecting
+   "Open Database Manager" from the drop-down menu.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:4;10:6">This is the Database Manager, where you can index your database. Your database contains all
+   data you are able to work with. The data is organised in corpora (column "Name") which contain
+   your texts. Each corpus is reflected by a line in the Database Manager table. The number of
+   documents per corpus is shown in the column "DB Doc
+   Co<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>unt<?oxy_custom_end?>"
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>(last letters shown upon
+   expanding the column<?oxy_custom_end?>). In online working mode your database is synchronised
+   constantly with new information available. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:5;18:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="b:2;18:9">Indexing</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:6;19:6">To work with a corpus, its documents have to be synchronised/indexed properly. The status of a
+   corpus' indexing process is indicated by the background colour of its line in the Database
+   Manager. Each line can have one of four background colours. Green means that everything is
+   properly indexed. Yellow indicates that this corpus is currently being indexed, while red stands
+   for a problem that ocurred. The column "Index Doc
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Count<?oxy_custom_end?>" shows
+   the number of the already indexed documents in this corpus. If you click into a line, it will
+   appear grey. Additionally, the Status of the corpus will be diplayed in the "Status" column (OK-
+   green, ERROR- red or INDEXING...- yellow). The second-to-last column "% indexed" also shows the
+   precentage of the indexing process.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:7;29:6">At the first start of the BTS every corpus will have to be indexed. To do so, you can click
+   "Re-index all corpora" at the top of the window. This can take up to 60 minutes. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:8;31:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="b:3;31:9">Re-Indexing</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:9;32:6">At every other start there might be red corpora when someone changed something in them. You do
+   not have to wait for all corpora to be indexed again, because that would probably take long.
+   Click "Re-index all non-OK" instead and the system will just index the problematic corpora. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:10;35:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="b:4;35:9">Re-Indexing specific corpora</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:11;36:6">If you want to choose one specific corpus to solely be indexed, you can scroll to the right by
+   clicking, holding and dragging the grey bar or clicking and holding the arrow at the bottom. At
+   the far end to the right there are buttons "Reindex" next to each corpus. By clicking you will
+   start to index the corpus next to the selected button. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:12;40:6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Describe the table elements
+   in detail?<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:13;42:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="b:5;42:9">Close</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_databasemanager.dita" xtrc="p:14;43:6">You leave the Database Manager by clicking the "Close" button in the lower right corner. </p>
+ </conbody>
+</concept>

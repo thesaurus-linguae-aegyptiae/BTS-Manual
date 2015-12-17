@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_hkj_w55_kr">
+  <title>Grammar check</title>
+  <body>
+    <p>The BTS is capable of checking a transliteration for errors by using system grammar rules.
+      This does not mean that it can recognize false lemmata or transliteration errors and correct
+      them. In fact, it follows the internal logic according to which specific signs can only occur
+      in specific combinations. It detects disagreements with this logic and marks them:</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/Ansicht_mit_Fehlern.png"
+        id="image_ug2_v5c_xt"/></p>
+    <p>Errors are marked by a dark red rectangle on the right next to the scroll bar of the
+      Transliteration tab. There are also light red rectangles. These show the location of a rubrum.
+        A<image href="Images/new%20screenshots/BTS%20Screenshots/Fehler.png" id="image_z4w_2vc_xt"/>
+      sign on the left of the text also indicated a mistake. On mouse-over at the red square on the
+      left of the Text Editor you can see a ToolTip with information about the cause of the error. </p>
+    <p>In this case a  square bracket was opened, but the second one is missing. If you insert the
+      required symbol the error message will disappear:</p>
+    <p><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><b>List of error
+        messages and their solutions</b>:<?oxy_custom_end?></p>
+  </body>
+</topic>

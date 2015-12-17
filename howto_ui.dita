@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_t1b_tkq_zs">
+  <title>Introduction to BTS User Interface</title>
+  <body>
+    <p>This chapter provides the brief introduction to the BTS User Interface (= BTS UI). </p>
+    <p>The BTS program window is split into four major sections:</p>
+    <p>
+      <ul id="ul_yxf_j2z_4t">
+        <li><xref href="oberflaeche_menuleiste.dita">Menu bar</xref></li>
+        <li><xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>
+        </li>
+        <li><xref href="oberflaeche_workspace.dita">Workspace</xref></li>
+        <li><xref href="oberflaeche_statusleiste_e8.dita#topic_azx_hrl_mr">Status bar</xref></li>
+      </ul>
+    </p>
+    <p>The Menu bar and the Toolbar are located at the top of the program window. The area below
+      them is called Workspace. The contents of the Workspace area change depending on the viewing
+      mode. BTS has four such modes, activated by clicking a relevant button on the Toolbar: </p>
+    <p><image href="Images/icons/full/icon16/corpora.png" id="image_fzs_xyx_qt"/>
+      <u>Text Corpus view</u></p>
+    <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ffx_yyx_qt"/>
+      <u>Lemma view</u></p>
+    <p><image href="Images/icons/full/icon16/thss.png" id="image_fsz_zyx_qt"/>
+      <u>Thesaurus view</u></p>
+    <p><image href="Images/icons/full/icon16/abstracttexts.png" id="image_zpz_1zx_qt"/>
+      <u>Abstract Text view</u></p>
+    <p>Within each view there are sections with content. Different sections can be grouped into
+      subsections (e.g. if they refer to one heading section). If there is more than one section or
+      subsection in the same position, then they are grouped in tabs. Additionally, those individual
+      sections or sub-sections can be dragged and dropped into other positions of the workspace or
+      outside of the BTS program window. </p>
+    <p> In this case subsections belong to the Passport Editor section:</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/BTS_Section_subsection.png"
+        id="image_sdv_dzw_st"/></p>
+    <p>In the following example the sections have been moved within the workspace:</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/Sections_moved.png"
+        id="image_nlq_ccx_st"/></p>
+    <p>The default arrangement of the sections is currently the following (see also screenshot
+      below):</p>
+    <p>
+      <ul id="ul_eb5_z2z_4t">
+        <li><u>Navigator section on the left</u><p>Depending on the view selected, it can be called
+            Corpus-, Thesaurus- or Lemma Navigator. The subsections are the following:  for the
+            Corpus Navigator: "Text Corpora" + "Bin"; for the Lemma Navigator: "WL" + "Bin"; for the
+            Thesaurus Navigator: "Thesauri" + "Bin"; and for the Abstract Text Navigator: "Ths" +
+            "Bin". </p></li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_z2l_ggz_4t">
+        <li><u>Annotation and Translation sections on the right</u><p>In Lemma and Thesaurus view
+            the translation tab is not displayed.</p></li>
+        <li><u>Editor section at the center top</u><p>In Text Corpus view this section is called
+            "Text editor" and contains three subsections: "Transliteration", "Sign Text Editor" and
+            "JSesh View". In Lemma view it is called "Lemma editor" and has no subsections. Abstract
+            Text view contains both "Text editor" with its three subsections and "Abstract text
+            editor" section. </p></li>
+      </ul>
+    </p>
+    <ul id="ul_xjh_why_qt">
+      <li>
+        <p><u>At the bottom the three sections are placed: Passport Data Editor, Lemmatizer and
+            Hieroglyph Type Writer (HTW)</u>
+        </p>
+        <p>The Text Corpus and Lemma views display all three. Thesaurus and Abstract text views have
+          only Passport Data Editor. Note that as soon as a database object is selected in the
+          Navigator window, the titles of the sections Text Editor, Passport Data Editor, Lemmatizer
+          and Translation change to the text name.</p>
+      </li>
+    </ul>
+    <p>At the bottom of the program window the Status bar is displayed.</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/BTS.png" id="image_knr_fdx_st"/></p>
+    <p><b>UI glossary</b></p>
+    <p>This manual uses the following terms adopted from the "Glossary of UI terminology" by
+      Microsoft. </p>
+    <p>
+      <ul id="ul_udd_vkp_ps">
+        <li>Menu bar / drop-down menus / drop-down entry<p><image
+              href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Menu%20bar.png"
+              id="image_gmt_dyw_st"/></p></li>
+        <li>Toolbar / toolbar button<p><image
+              href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Toolbar.png"
+              id="image_flf_4yw_st"/></p></li>
+        <li>Icon / ToolTip<p><image
+              href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png"
+              id="image_ptv_pyw_st"/></p></li>
+        <li>Workspace / View (workspace mode)<p><image
+              href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
+              id="image_qp5_syw_st"/></p></li>
+        <li>Navigation tree / Node (an entry in a navigation tree, which can be a text corpus, text
+          corpus object or a text)<p><image
+              href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
+              id="image_vgm_5yw_st"/></p></li>
+      </ul>
+    </p>
+  </body>
+</topic>

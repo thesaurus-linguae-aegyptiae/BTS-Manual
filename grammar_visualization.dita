@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_av2_ygb_lt">
+ <title>The Visualization</title>
+ <conbody>
+  <p>The UI of BTS visualizes the data of a text into the text-editor, sign-text-editor or
+   J-Sesh-viewer. This information belongs to a text and acts as a bridge between a text and its
+   content. This means in practice:</p>
+  <p>The data of a text is divided into visual (optical -&gt; tokens) data: transcription etc., as
+   well as content data: the information behind an element of the text (semantic, morphology,
+   phonetic, mistakes, corrosions, deletions and additions etc.). The nature of the relation between
+   Interface, Text and Data is:</p>
+  <p>Corpus / Object - Text - Visual Data (Tokens) - Content Data (Collocation).</p>
+  <p>The "collocation" is standardized in BTS. This is defined through lemmatization (represented by
+   Lemmatizer and Lemma View) and lexicalization (represented by Thesaurus and Thesaurus View).</p>
+  <p>Therefore, a text-editor will connect "visual data" with "content" by writing down any
+   transcription / translation and lemmatizing it afterwards. Due to that, there is not necessarily
+   a relationship between the style of a token and a lemma since a token is assigned to the correct
+   lemma-entry of the TLA's lemma-list.</p>
+  <p>Example: The written word "wrd" (to be tired): this is the visual entry of the text =
+   token.</p>
+  <p>The correct lemma-entry: "wrD" (to be tired): this is the content entry you can bind to the
+   token above.</p>
+ </conbody>
+</concept>

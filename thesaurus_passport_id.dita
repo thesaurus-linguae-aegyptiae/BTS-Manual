@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_at4_qwf_yr">
+ <title>IDs</title>
+ <conbody>
+  <p>Since there is the possibility that the thesaurus entry appears in external projects, the ID
+   tab provides the opportunity to enter the external ID, thus linking the projects.</p>
+  <p><u>Provider</u></p>
+  <p>Choose the provider from the drop-down list. </p>
+  <p><u>Type</u></p>
+  <p>Enter the type of the ID.</p>
+  <p><u>External ID</u></p>
+  <p>Enter the external ID here (e.g. Trismegistos).</p>
+  <p><image href="Images/icons/full/obj16/add.png" id="image_mmm_qsz_tr"/>
+   <u>Add Identifier</u></p>
+  <p>Add another set of information, including the "Provider", "Type" and "External ID" in the case
+   of multiple appearances of the used thesaurus entries in more than one project.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_pvg_kqd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_thesaurus_annotation.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_thesaurus_annotation.dita" xtrc="title:1;4:9">Annotation part (Thesaurus)</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_thesaurus_annotation.dita" xtrc="shortdesc:1;5:13">Functions of the annotation part in Thesaurus view</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_thesaurus_annotation.dita" xtrc="conbody:1;6:11">
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_thesaurus_annotation.dita" xtrc="p:1;8:6">Currently without function<?oxy_custom_end?></p>
+ </conbody>
+</concept>

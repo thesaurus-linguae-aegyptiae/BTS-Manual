@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_pgn_j4d_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="title:1;4:9">Lemma Navigator</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="shortdesc:1;5:14"/>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="conbody:1;6:11">
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:1;7:6">The "Lemma Navigator" is a bar to navigate through, coordinate and control the complete
+   existing lemma-entries of the TLA. The standard position of the bar is the left side of the <xref href="oberflaeche_workspace.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="xref:1;9:39">work space</xref> after switching to the <xref href="oberflaeche_lemmanaview.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="xref:2;10:41">lemma view</xref>. It is divided into two tabs: WL (Word
+   list) and Bin. Clicking one of those will show up either the WL or the Bin in the field of the
+   respective tab.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:2;13:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="b:1;13:9">Tools</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:3;14:6">The Lemma Navigator's toolbar includes the <xref href="oberflaeche_funktionen_e5.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="xref:3;14:93">standard
+    tools</xref> plus the following additional ones (from left to right):</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:4;16:6"><image href="Images/icons/full/icon16/lemmata.png" id="image_ncd_mtb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="image:1;16:80"/> Add Lemma Root
+   Entry</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:5;18:6">This adds a new lemma root entry into the position of the lemma navigation tree. The position
+   has to be marked before by clicking into the position intended by the user inside the tree. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:6;20:6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: "Internal error" when
+   trying to do this!<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:7;22:6"><image href="Images/icons/full/icon16/lemma.png" id="image_ofx_ptb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="image:2;22:78"/> Add Lemma Child
+   Entry</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:8;24:6">This adds a new child entry to a selected root entry.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:9;25:6"><image href="Images/icons/full/obj16/delete.png" id="image_klw_ttb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="image:3;25:78"/> Delete</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:10;26:6">This moves an entry (no matter if child or root) from the WL to the Bin. Deleting entries that
+   are moved to bin will be deleted permanently.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:11;28:6"><image href="Images/icons/full/icon16/search.png" id="image_oct_xtb_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="image:4;28:79"/> Open Simple Search
+   Dialog</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:12;30:6">This opens a search dialog to filter the WL for specific entries.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:13;31:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="b:2;31:9">WL</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:14;32:6">In the WL the lemmata are presented as groups in a tree. The label of a specific group shows
+   the start and end of each group, sorted by the general egyptological "alphabetic" order. Clicking
+   on a group opens new subgroups (if such exist) until lemma root entries show up. Root entries can
+   have child entries. To display child entries simply leftclick the root entry.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:15;36:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="b:3;36:9">Bin</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:16;37:6">Entrys (root or child) deleted in the WL appear inside the Bin. Then entries are no more
+   grouped. Deleting an item here will remove it permanently.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:17;39:6"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="b:4;39:9">Menu</b></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:18;40:6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>"Delete
+   Permanently<?oxy_custom_end?>": Delete a selected entry completely.</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:19;42:6"><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="image:5;42:81"/> "Edit
+   Updaters/Readers": Assign <xref href="oberflaeche_preferences.dita" class="- topic/xref " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="xref:4;43:72">user roles</xref> for Lemma
+   entries. </p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:20;45:6">Open conflict Dialog:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> not
+   working<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:21;47:6"><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="image:6;47:80"/> "Open Revision
+   History": <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BUG: currently
+   producing an error message<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:22;50:6">"Filter": Apply different filters on the available lemma-list:</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:23;51:6">...by Project</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:24;52:6">...by Creator</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:25;53:6">...by Updaters</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:26;54:6">...by Review Status</p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:27;55:6">...by
+   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Visibilitys<?oxy_custom_end?></p>
+  <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_lemmanavigator.dita" xtrc="p:28;57:6">Click the intended filter in the "Menu" and activate the filter(s) of your choice by activating
+   the check box(es) or remove currently active filter(s) by deactivating the (active)
+   check box(es).</p>
+ </conbody>
+</concept>

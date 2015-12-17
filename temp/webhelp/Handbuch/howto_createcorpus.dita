@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_qh4_pg3_qr" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic ui-d)                            (topic task taskreq-d)                            (topic task+taskreq-d machineryTaskbody-c)   " class="- topic/topic task/task " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="title:1;4:12">How to create a corpus</title>
+    <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="shortdesc:1;5:17"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="p:1;8:16">After startup of the BTS</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="cmd:1;12:22">Close the Database Manager (not necessary, if you worked on something else
+                    previously).</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="cmd:2;16:22">Click <image href="Images/icons/full/icon16/corpus-add.png" id="image_tg3_wg3_qr" placement="inline" class="- topic/image " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="image:1;17:48"/> "New Corpus". It is located above the <xref href="oberflaeche_corpusnavigator_e9.dita" class="- topic/xref " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="xref:1;18:68">Corpus Navigator</xref>. This
+                    will open a window:
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>BILD<?oxy_custom_end?></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="step:3;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="cmd:3;23:22">Choose a name and a prefix (prefix: short name to reach corpus in the
+                    database). Optional: Tick the box to synchronize your new corpus with the
+                    central database. Other users will be able to see your new corpus only when you
+                    synchronize it. Otherwise, it will rest in offline mode on your PC.
+                    -<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>-&gt;
+                    nachträgliche Änderung möglich? <?oxy_custom_end?> After you finished, click
+                    "OK". Cancel the creation with "Cancel".</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="step:4;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="P:\Handbuch\howto_createcorpus.dita" xtrc="cmd:4;32:22">Your new corpus will appear in the corpora list. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

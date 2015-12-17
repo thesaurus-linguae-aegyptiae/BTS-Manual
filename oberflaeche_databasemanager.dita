@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vfb_sw2_yr">
+ <title>Database Manager</title>
+ <conbody>
+  <p><b>Open Database Manager</b></p>
+  <p>The Database manager window displays all available database collections. Each database
+   collection is reflected by a line in the table. The number of documents per collection is shown
+   in the column "DB Doc Count". </p>
+  <p><b>Indexing</b></p>
+  <p>Indexing is a process, which optimises the search in the database. Indexing allows the query to
+   be done not in the database documents themselves, but among their "indexes". The status of a
+   corpus' indexing process is indicated by the background colour of its line in the "Database
+   Manager". Each line can have one of three background colours. Green means that everything is
+   indexed properly. Yellow indicates that this corpus is currently being indexed, while red stands
+   for a problem that occurred. The column "Index Doc Count" shows the number of the already indexed
+   documents in this corpus. Additionally, the Status of the corpus will be displayed in the
+   "Status" column (OK- green, ERROR- red or INDEXING...- yellow). The "% indexed" column shows the
+   percentage of the indexing process.</p>
+  <p><b>Re-Indexing</b></p>
+  <p>Re-indexing may take a while. The more you will have to re-index, the longer it will take.
+   During this process you will not be able to use BTS.</p>
+  <p>Re-indexing has three options: </p>
+  <p>- Re-index all</p>
+  <p>- Re-index all non-OK </p>
+  <p>- Re-index individual DB collection. </p>
+  <p>To re-index individual collections, select them by left-click, scroll to the right of the table
+   and click on Re-index. </p>
+  <p><b>Close</b></p>
+  <p>Leave the "Database Manager" window by clicking the Close button in the lower right corner. </p>
+ </conbody>
+</concept>

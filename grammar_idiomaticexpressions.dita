@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_mb3_kkb_lt">
+  <title>Unmarked Structure: Idiomatic Expressions</title>
+  <body>
+    <p>Some objects are collocated with a verb so that they form an idiomatic expression. This
+      collocation will be determined by setting the correct entry for the verb in the lemmatizer.
+      The object itself has to be lemmatized as it is.</p>
+    <p>
+      <table id="table_qz5_lkb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry>Example</entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry><i>jri̯ </i><i>ꜣ</i><i>h.w</i> – to feel pain</entry>
+              <entry> correct lemmatization: 1) <i>jri̯ (ꜣh.w)</i> (WCN: 851959) 2) <i>ꜣh.w
+                </i>(WCN: 174)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

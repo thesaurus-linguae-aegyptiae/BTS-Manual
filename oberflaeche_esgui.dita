@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ipd_22f_yr">
+ <title>Open ES GUI</title>
+ <conbody>
+  <p>Opens the "Elastic Search" graphic user interface with your standard internet browser. Allows
+      you to see the "backdoor" of the queries done in the BTS. </p>
+ </conbody>
+</concept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_atn_xnv_bt">
+  <title>Researcher</title>
+  <body>
+    <p>Researcher may create new objects within a corpus. He or she can also edit or delete only own
+      database objects, or objects for which they were granted editing rights (Updater status).</p>
+    <p><b>Rights</b></p>
+    <p>
+      <ul id="ul_v25_l4v_bt">
+        <li>Can add own database objects within a corpus.</li>
+        <li>Can edit own database objects (those she or he creates) within a corpus, when given an
+          Updater Status in that corpus.</li>
+        <li>Can assign reader/updater status for other users, but only for his or her own database
+          objects.</li>
+        <li><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Apparently, a
+          Researcher can change their own status from an Updater to a Reader for a database object
+          and thus lose his/her editing rights<?oxy_custom_end?>
+          <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>and he/she will not
+          be able to change back to the Updater. Also removing his status completely from an object
+          with a visibility status <u>Reader, Group or Project</u> will not cause the object to
+          become invisible.</li>
+        <?oxy_custom_end?>
+      </ul>
+    </p>
+    <p><b>Limitations</b></p>
+    <p>
+      <ul id="ul_lwp_n4v_bt">
+        <li>Cannot edit already existing database objects within a corpus (created by other users)
+          when a Reader or no status is assigned to him/her.</li>
+        <li>If a text or an object within a corpus has a visibility status <u>Reader, Group or
+            Project</u>, the Researcher will not be able to see the item, as long as he or she has
+          no status. When they get a status of an Updater/Reader the items will be viewable.</li>
+        <li>Lemma view: can view Lemma entries but not edit them or add new ones.</li>
+        <li>Thesaurus view: can view the Thesaurus entries but not edit them or add new ones.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

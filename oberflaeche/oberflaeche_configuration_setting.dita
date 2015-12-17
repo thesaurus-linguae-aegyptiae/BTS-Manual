@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fvw_qld_cs">
+ <title>Edit Configuration</title>
+ <conbody>
+  <p><u>NOTE</u>: This menu item is only available for an administrator!</p>
+  <p>To open the configuration window, select "Edit Configuration" from the drop-down menu of the
+   menu bar. </p>
+  <p>A "Currently Active Configuration" by default is "Altägyptisches Wörterbuch (AAEW)", but if
+   other configurations should be available, they will appear in the drop-down menu above.</p>
+  <p>A field below shows all available BTS configurations. Expand the "Altägyptisches Wörterbuch
+   (AAEW)", following entries will be displayed:</p>
+  <p>
+   <ol id="ol_zm4_sld_cs">
+    <li>Certainty: upon expanding, three values are displayed: certain, probable or uncertain. No
+     Owner Objects selected.</li>
+    <li>coreExpressions</li>
+    <li>Custom-Entries</li>
+    <li>Identifiers</li>
+    <li>objectTypes</li>
+    <li>Passport</li>
+    <li>Project-Phase</li>
+    <li>Relations</li>
+    <li>Revision-Status</li>
+    <li>Visibility<i> </i><p><i>Expand this part</i></p></li>
+   </ol>
+  </p>
+ </conbody>
+</concept>

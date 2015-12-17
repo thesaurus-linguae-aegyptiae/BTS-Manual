@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /P:\Handbuch\temp\webhelp\Handbuch?><?workdir-uri file:/P:/Handbuch/temp/webhelp/Handbuch/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_nst_wqd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="title:1;4:9">Help</title>
+ <shortdesc class="- topic/shortdesc " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="shortdesc:1;5:13">Options of the "Help" menu</shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="conbody:1;6:11">
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:1;8:8">Images/help.png</p>
+    <?oxy_custom_end?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:2;10:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="b:1;10:11">Help</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:3;11:8">Here a link to the manual will be integrated.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:4;12:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="b:2;12:11">Update Application</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:5;13:8">Searches for available software updates.</p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:6;14:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="b:3;14:11">Install new software</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:7;15:8">Choose software to add to your BTS </p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:8;16:8"><b class="+ topic/ph hi-d/b " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="b:4;16:11">Uninstall Software</b></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:9;17:8">Choose to see which parts of software are installed:</p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:10;19:8">Images/uninstall_software.png<?oxy_custom_end?></p>
+    <p class="- topic/p " xtrf="P:\Handbuch\oberflaeche_help.dita" xtrc="p:11;20:8">Select a specific path. Hit "Uninstall" at the bottom of this window to uninstall selected
+      parts of the programme.</p>
+  </conbody>
+</concept>
