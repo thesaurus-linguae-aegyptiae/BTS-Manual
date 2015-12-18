@@ -3,25 +3,25 @@
 <concept id="concept_ssc_drf_mr">
  <title>Introduction</title>
  <conbody>
-  <p>Welcome to Berlin Text System V 3.0 - a new version of the software, specially designed for
-   editing Ancient Egyptian texts! Three major components of BTS - Text Editor, Lemma List and
+  <p>Welcome to Berlin Text System V 3.0 - the new version of the software, especially designed for
+   editing Ancient Egyptian texts! Its three major components - Text Editor, Lemma List and
    Thesaurus - complement each other to guarantee the extensive word processing of Ancient Egyptian.
    The back-end (technical side) and the user interface of the software have been completely
-   redesigned, now including the new database structure (Couch DB), the new data format (JSON) and
-   the new search engine (Elastic search). </p>
+   redesigned, now including the new database structure (Couch DB), the data format (JSON) and
+   search engine (Elastic search). </p>
   <p>Text Editor provides the tools for transliteration, translation, lemmatization (assigning a
    lemma to a word), annotation and hieroglyphic transcription.</p>
   <p>Lemma List contains an up-to-date list of Ancient Egyptian and Demotic lemmata, accessible for
    any BTS user. The ability to modify the lemma list depends on the individual user rights. Each
    lemma has passport data, transliteration and translation, as well as annotations and comments
    attributed to it.</p>
-  <p>Thesaurus compiles the formalized vocabulary (so-called "controlled vocabulary"), which is used
+  <p>Thesaurus compiles the formalized vocabulary (called "controlled vocabulary"), which is used
    for the metadata of the database objects. Thesaurus entries are offered in the Passport Editor
    section of the Text Corpus and Lemma views. </p>
-  <p>The following User Manual provides the overview of the features now available in BTS V.3.0. </p>
+  <p>The following User Manual offers the overview of the features now available in BTS V.3.0. </p>
   <p>
    <ul id="ul_lwg_xy1_pt">
-    <li><b>Introduction</b> provides the description of the system requirements as well as
+    <li><b>Introduction</b> chapter provides the description of the system requirements as well as
      step-by-step instructions for BTS installation and initial configuration. </li>
    </ul>
   </p>
