@@ -10,6 +10,13 @@
    <topicref href="intro_keyboard.dita"/>
   </topicref>
   <topicref href="intro_uninstall_update.dita"/>
+  <topicref href="user_roles.dita">
+   <topicref href="UserRoles_Admin.dita"/>
+   <topicref href="UserRoles_Editor.dita"/>
+   <topicref href="UserRoles_Researcher.dita"/>
+   <topicref href="UserRoles_Transcriber.dita"/>
+   <topicref href="UserRoles_Guest.dita"/>
+  </topicref>
  </topicref>
  <topicref href="howto.dita">
   <topicref href="howto_ui.dita"/>
@@ -37,13 +44,6 @@
   </topicref>
   <topicref href="searching.dita"/>
   <topicref href="saving.dita"/>
- </topicref>
- <topicref href="user_roles.dita">
-  <topicref href="UserRoles_Admin.dita"/>
-  <topicref href="UserRoles_Editor.dita"/>
-  <topicref href="UserRoles_Researcher.dita"/>
-  <topicref href="UserRoles_Transcriber.dita"/>
-  <topicref href="UserRoles_Guest.dita"/>
  </topicref>
  <topicref href="admin.dita"/>
  <topicref href="oberflaeche_e1.dita">

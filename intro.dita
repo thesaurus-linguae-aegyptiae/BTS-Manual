@@ -3,7 +3,7 @@
 <concept id="concept_ssc_drf_mr">
  <title>Introduction</title>
  <conbody>
-  <p>Welcome to Berlin Text System V 3.0.12 - the newest version of the software, especially designed for
+  <p>Welcome to Berlin Text System V 3.0 - the new version of the software, especially designed for
    editing Ancient Egyptian texts! Its three major components - Text Editor, Lemma List and
    Thesaurus - complement each other to guarantee the extensive word processing of Ancient Egyptian.
    The back-end (technical side) and the user interface of the software have been completely
@@ -28,7 +28,6 @@
   <p>
    <ul id="ul_a1f_mz1_pt">
     <li><b>User guide</b> is a quick guide to start using BTS quickly and easily. </li>
-    <li><b>Administrator guide</b> is ...</li>
    </ul>
   </p>
   <p>
@@ -37,7 +36,7 @@
      the BTS user interface. This chapter serves as a reference for "User guide" and "Administrator
      guide".</li>
     <li><b>BTS Grammar Rules - Reference</b> is a compilation of the rules BTS uses for
-     transliteration and transcription. </li>
+     transliteration and transcription.</li>
    </ul>
   </p>
  </conbody>
