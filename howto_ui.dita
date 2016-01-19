@@ -52,7 +52,7 @@
         <li><u>Annotation and Translation sections on the right</u><p>In Lemma and Thesaurus view
             the translation tab is not displayed.</p></li>
         <li><u>Editor section at the center top</u><p>In Text Corpus view this section is called
-            "Text editor" and contains three subsections: "Transliteration", "Sign Text Editor" and
+            "Text Editor" and contains three subsections: "Transliteration", "Sign Text Editor" and
             "JSesh View". In Lemma view it is called "Lemma editor" and has no subsections. Abstract
             Text view contains both "Text editor" with its three subsections and "Abstract text
             editor" section. </p></li>
