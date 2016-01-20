@@ -25,5 +25,6 @@
   </p>
   <p>The port number used by the Couch DB to communicate with the server should be shared in the
    firewall of your PC. For the port number see "Install BTS / Database Installation Setting". </p>
+  <p>TEST MAX 3</p>
  </conbody>
 </concept>
