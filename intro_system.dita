@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<link rel="stylesheet" type="text/css" href=../style.css>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_pfs_n4g_mr">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="concept_pfs_n4g_mr">
  <title>System requirements</title>
- <conbody>
+ <body>
   <p><b>Supported Operation Systems: Windows 7 SP1 64-bit </b> This is Basti10. And this is Max 11.
    Joa7. Simon5. Simon6.</p>
   <p>BTS has been tested on Windows 7 SP1 64-bit and Windows 8.1 64-bit. We do not guarantee the
@@ -26,5 +25,5 @@
   </p>
   <p>The port number used by the Couch DB to communicate with the server should be shared in the
    firewall of your PC. For the port number see "Install BTS / Database Installation Setting". </p>
- </conbody>
-</concept>
+ </body>
+</topic>
