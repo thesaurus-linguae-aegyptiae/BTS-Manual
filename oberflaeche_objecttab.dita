@@ -6,10 +6,13 @@
     <p>This tab is specific for an object, it does not appear when you are working on a text.</p>
     <p>This tab is divided into three parts: "Description of Object", "Technical Details",
       "Archaeological and Cultural Context of Object".</p>
+    <p>Each of these parts has a "Comment" filed, where explanatory information can be entered (ex.
+      in case the type of an object is undefined) </p>
     <p><b>Description of Object</b></p>
     <p><u>Type of Object</u>
     </p>
-    <p>Choose the type of your object (e.g. Schriftrolle for a scroll: entry 21- Objekttyp).</p>
+    <p>Choose the type of your object (e.g. Schriftrolle for a scroll: entry 21- Objekttyp). Select
+      "unbekannt" or "unbestimmt" if it is not known or nor defined.</p>
     <p><u>Object is component</u>
     </p>
     <p>Use this option if your object is a part of an other object. E.g. if you have a "lid" which
@@ -30,13 +33,14 @@
     <p>Enter the size of your object (hight, width and length) into the input fields.</p>
     <p><u>Condition</u>
     </p>
-    <p>Choose a condition your object is in.</p>
+    <p>Choose a condition of your object.</p>
     <p><u>Technique</u>
     </p>
-    <p>Choose a technique your object has been worked in from the drop-down menu.</p>
+    <p>Choose a technique your object has been worked in from the drop-down menu. In case it is not
+      defined select "unbestimmt".</p>
     <p><u>Comment</u>
     </p>
-    <p>Add a comment of your object's technical data.</p>
+    <p>Add a comment of your object's technical details.</p>
     <p><b>Archaeological and Cultural Context of Object</b></p>
     <p><u>Grouping</u>
     </p>

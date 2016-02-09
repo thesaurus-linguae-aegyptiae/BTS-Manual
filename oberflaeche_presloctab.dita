@@ -5,15 +5,36 @@
  <conbody>
   <p><image href="Images/icons/full/icon16/category.png" id="image_knt_php_sr"/> This is another tab
    specific for an object.</p>
-  <p><u>Location</u></p>
+  <p><b>Location</b></p>
+  <p>
+   <ul id="ul_ajp_qvb_55">
+    <li>Location</li>
+   </ul>
+  </p>
   <p>Choose the location of your object from the Thesaurus.</p>
-  <p><u>Inventory Number</u></p>
+  <p>
+   <ul id="ul_anc_rvb_55">
+    <li>Inventory Number</li>
+   </ul>
+  </p>
   <p>Enter the number of your object if provided.</p>
-  <p><u>Comment</u></p>
+  <p>
+   <ul id="ul_q1k_rvb_55">
+    <li>Comment</li>
+   </ul>
+  </p>
   <p>Enter a comment about the location of the object if necessary.</p>
-  <p><u>in_situ</u></p>
+  <p>
+   <ul id="ul_l2s_rvb_55">
+    <li>in_situ</li>
+   </ul>
+  </p>
   <p>Select this check box if the object is still preserved in its original location.</p>
-  <p><u>is_present_location</u></p>
+  <p>
+   <ul id="ul_ftz_rvb_55">
+    <li>is_present_location</li>
+   </ul>
+  </p>
   <p>Select this check box if the present location differs from its original location (e.g. on
    display or in inventory of a museum).</p>
   <p><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr"/>

@@ -11,42 +11,41 @@
         <li>Choose the corpus from the corpora tree where you wish your object to appear. You can
           add an object to a corpus or to another already existing object. </li>
         <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
-          subentry of the chosen corpus. <p><u>NOTE</u>: Currently the new objects and texts will be
-            saved in your main working corpus and not in the selected corpus if those two differ.
-            New objects will appear in the selected corpus, but will not be saved there.</p></li>
+          sub-entry of the chosen corpus. <p>NOTE: Currently the new objects and texts will be saved
+            in your main working corpus and not in the selected corpus if those two differ. New
+            objects will appear in the selected corpus, but will not be saved there.</p></li>
         <li>Name your object in the <xref href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main
-            Tab </xref> of the Passport Editor. (The "Name" input field will appear red until it is
-          named.) You can actually start working without naming your object and name it later. Until
-          it is named, it will appear in the corpora tree as "BTST Object"- its default name.</li>
-        <li>Define the Type and, if applicable, also the Subtype of the object. You can, and you
-          also should give as much information as you can by using the tabs of the <xref
-            href="oberflaeche_passporteditor.dita">Passport Editor</xref>.</li>
+            Tab </xref> of the Passport Editor (The "Name" input field will appear red). You can
+          actually start working without naming your object and name it later. Until it is named,
+          the object will appear in the corpora tree with the default name "BTST Object".</li>
+        <li>Define the Type and, if applicable, also the Subtype of the object. Provide as much
+          information as you can by filling out the tabs of the <xref
+            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.</li>
       </ol>
     </p>
     <p><b>Creating a text</b></p>
     <p>
       <ol id="ol_z4r_kty_qt">
-        <li>Select a location in the Corpus Navigator (on the left of the default User Interface)
-          where you'd like to allocate your text. You can add a text to an object or even to an
-          already existing text. </li>
-        <li>Then click <image href="Images/icons/full/icon16/text-add.png" id="image_eyb_bty_qt"/>
-          "Add Text" in the <xref href="oberflaeche_corpusnavigator_e9.dita">Corpus Navigator</xref>
-          toolbar. Depending on the object you selected, a "child"-text will be added in the next
-          lower hierarchical status in relation to it. In the Navigator it will be named: "BTS Text"
-          (in order to see it, you might have to open the parent object).</li>
+        <li>Select <xref href="intro_ui_glossary.dita"> a node</xref> in the Corpus Navigator where
+          you'd like to place your text. You can add a text to an object or even to an already
+          existing text. </li>
+        <li>Click <image href="Images/icons/full/icon16/text-add.png" id="image_eyb_bty_qt"/> "Add
+          Text" in the Corpus Navigator toolbar. A "child"-element will be added to the selected
+          object. The default title "BTS Text" will be attributed to it (in order to see it, you
+          might have to open the parent object).</li>
         <li>Name your text in the <xref href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main
             Tab</xref> of the Passport Editor. (The "Name" input field will appear red until it is
-          named.) You can actually start working without naming your text and name it later. Before
-          it is named, it will appear in the corpora tree as "BTS Text"- its default name.</li>
+          filled out.) You can actually start working without naming your text and name it later.
+          Until then the default name will be "BTS Text".</li>
       </ol>
     </p>
     <p><b>Moving database objects</b></p>
-    <p>To change a physical location of a database object (marked in square brackets beside the
-      name) from one project or corpus to another, right click the chosen item and select "Move
-      among projects" in the appearing context menu. In the opened window the current physical
-      location is displayed. Alter the entries as you wish (upper field for a new project and lower
-      field for a new corpus in the project). Changing the physical location does not affect the
-      position of the database object in the Navigator tree. </p>
+    <p>To change a physical location of a database object (marked in square brackets aside the name)
+      from one project or corpus to another, right click the chosen item and select "Move among
+      projects" in the appearing context menu. In the opened window the current physical location is
+      displayed. Alter the entries as you wish (upper field for a new project and lower field for a
+      new corpus in the project). Changing the physical location does not affect the position of the
+      database object in the Navigator tree. </p>
     <p><b>Deleting database objects</b></p>
     <p>To delete a database object (corpus, object, text) select it and then click on <image
         href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Delete". It will be moved

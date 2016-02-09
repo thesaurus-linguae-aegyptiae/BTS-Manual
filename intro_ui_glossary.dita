@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_esv_jpq_55">
+ <title>User Interface glossary</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p></p>
+  <p>This manual uses the following terms adopted from the "Glossary of UI terminology" by
+         Microsoft. </p>
+  <p>
+   <ul id="ul_udd_vkp_ps">
+            <li>Menu bar</li>
+            <li>Drop-down menu</li>
+            <li>Drop-down menu entry<p><image
+                     href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Menu%20bar.png"
+                     id="image_gmt_dyw_st"/></p></li>
+            <li>Toolbar </li>
+            <li>Toolbar entry<p><image
+                     href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Toolbar.png"
+                     id="image_flf_4yw_st"/></p></li>
+            <li>Icon</li>
+            <li>ToolTip<p><image
+                     href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png"
+                     id="image_ptv_pyw_st"/></p></li>
+            <li>Workspace / Workspace mode</li>
+            <li>Viewing mode</li>
+            <li>
+               <p><image
+                     href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
+                     id="image_qp5_syw_st"/></p>
+            </li>
+            <li>Navigation tree </li>
+            <li>Node (an entry in a navigation tree, can be further expanded, ex. text corpus, text
+               corpus object or a text) = Branch. <p><image
+                     href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
+                     id="image_vgm_5yw_st"/></p></li>
+            <li>Text corpus object vs. Database object</li>
+            <li>Child-Parent relation</li>
+            <li>Lemma / Token</li>
+            <li>Local - remote /central database</li>
+            <li>WCN - word count number</li>
+         </ul>
+  </p>
+ </conbody>
+</concept>

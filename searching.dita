@@ -3,11 +3,11 @@
 <topic id="topic_okf_4sh_nt">
   <title>Search Function</title>
   <body>
-    <p>In the Navigator sections of each view (Text Corpus, Lemma, Thesaurus) a search function is
-      available. This part will explain how it works.</p>
+    <p>Search function is available in the Navigator tab of each view (Text Corpus, Lemma,
+      Thesaurus). </p>
     <p>In the toolbar of the Navigator, click on the search icon <image
-        href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>. A window will appear wit
-      an input field and two check boxes.</p>
+        href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>. A window will appear
+      with an input field and two check boxes.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Search_Function.png"
         id="image_fkx_zr2_vt"/></p>
     <p>The search works as a full-text search. This means that any word you insert into the input

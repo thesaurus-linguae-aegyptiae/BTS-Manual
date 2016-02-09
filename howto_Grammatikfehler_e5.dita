@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_f5w_3z5_kr">
-  <title>BTS Grammar Rules - Reference</title>
+  <title>BTS Grammar Rules</title>
   <body>
     <p>Every Text is a standalone Element and is at least a part (child) of a text-corpus. It can
       relate to another corpus or to an object directly by being attached to it or indirectly by

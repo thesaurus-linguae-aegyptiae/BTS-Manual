@@ -3,65 +3,60 @@
 <topic id="topic_yqt_fpq_zs">
   <title>User roles description</title>
   <body>
-    <p>Users can have one of five different user roles which apply only to particular corpora: <xref
-        href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref> (not the BTS Administrator!),
-        <xref href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref>, <xref
+    <p/>
+    <p>User rights in BTS are defined by the interplay of the following factors: </p>
+    <p>- <i>user role</i> with respect to particular corpora</p>
+    <p>- <i>user status</i> with respect to particular database objects</p>
+    <p>- <i>visibility status</i> of particular database objects</p>
+    <p/>
+    <p>Independent of the role or status, every BTS user can: </p>
+    <p>
+      <ul id="ul_lzg_jpm_ft">
+        <li>Access all entries in the drop-down menu "Window".</li>
+        <li>Access "Preferences / Database Manager" .</li>
+        <li>Adjust personal Preferences (see <xref
+            href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref> section for
+          more detail).</li>
+        <li>Change his/her own passwords. (Preferences / Change password)</li>
+        <li>Access all options in the drop-down menu "Help".</li>
+      </ul>
+    </p>
+    <p><b>User roles</b></p>
+    <p>Users can have one of five different user roles, which apply only to particular corpora:
+        <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>, <xref
+        href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref>, <xref
         href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref>, <xref
         href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> or <xref
-        href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
-    <p>Additionally, within the above user roles, a status of a Reader or an Updater can be assigned
-      to a particular user for specific database objects. For instance a Researcher with status of
-      an Updater can edit all items in a given corpus, but when his or her status is changed to
-      Reader he or she can only view the items. Updater and Reader status of specific items within a
-      corpus may be assigned to a user by an <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt"
-        >Admin</xref> or an <xref href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> (Also
-      apparently a <xref href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> who
-      already has an Updater status) of a given corpus. This is done by right-clicking on a database
+        href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>. One user can have varying user
+      roles in different corpora (but just one user role per corpus). E.g. a user can be an <xref
+        href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus
+        <i>"bbawamarna"</i>, but only a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt"
+        >Transcriber</xref> in the corpus <i>"bbawbriefe"</i>.</p>
+    <p><u>NOTE</u>: a user role is only valid in the corpora, where it was assigned to the user by
+      BTS Administrator. For all other corpora, Thesaurus- and Lemma view, a user will immediately
+      assume the role of a <xref href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
+    <p><b>User status</b></p>
+    <p>Additionally to user role, a status of a <i>Reader</i> or an <i>Updater</i> can be assigned
+      to a particular user with respect to specific database objects. </p>
+    <p>For instance a Researcher with status of an Updater can edit all items in a given corpus, but
+      when his or her status is changed to Reader he or she can only view the items. Updater and
+      Reader status of specific database objects of a corpus can be assigned to a user by <xref
+        href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>,<xref
+        href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> or <xref
+        href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> (the latter must already
+      have an Updater status) of a given corpus. This is done by right-clicking on a database
       object, selecting an option "Edit Updaters/Readers" and assigning a user to a user role
       through the menu on the right.</p>
     <p><u>NOTE</u>: A Reader/Updater status for an entire corpus is not effective for individual
       items within a corpus. I.e. such a status has to be assigned for users for every database
       object where a user should have editing rights.</p>
-    <p>Specific user roles and rights may also vary for different database objects in a corpus,
-      according to their visibility status which can be set in the Main Tab of the Passport Editor.
-      The visibility status options are: Public, Reader, Group, Project and All Authenticated.
-      Depending on the visibility status of an item, it may only be available for viewing or editing
-      for users with particular rights. More on visibility status with each user role will be
-      described below.</p>
-    <p>One user can have varying user roles in different corpora (but just one user role per
-      corpus). E.g. a user can be an <xref href="UserRoles_Editor.dita#topic_mvz_rmv_bt"
-        >Editor</xref> in the corpus <i>"bbawamarna"</i>, but only a <xref
-        href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> in the corpus
-        <i>"bbawbriefe"</i>.</p>
-    <p><u>NOTE</u>: a user role is only valid in the corpora, where it was assigned to the user by
-      BTS Administrator. For all other corpora, Thesaurus- and Lemma view, a user will immediately
-      assume the role of a <xref href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
-    <p><b>Toolbar</b>
-    </p>
-    <p>Following Toolbar options are available for every user:</p>
-    <p>
-      <ul id="ul_lzg_jpm_ft">
-        <li>All the options in the Window drop-down menu (visual settings).</li>
-        <li>Database Manager can be accessed.</li>
-        <li>Own Preferences can be adjusted (see <xref
-            href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref> section for
-          more detail).</li>
-        <li>Users can change their own passwords.</li>
-        <li>All the options in the Help drop-down menu are also available.</li>
-      </ul>
-    </p>
-    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
-    <p>Für alle ist offensichtlich die "New project" funktion verfügbar. Kann man eigenes Project
-      lokal herstellen?</p>
-    <?oxy_custom_end?>
-    <p><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>All can add new root and
-      child entries in the Thesaurus und Lemma view???
-      <?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Cannot
-      rename or edit new Thesaurus entries, so it's just actions in the Thesaurus
-      Navigator.ERROR<?oxy_custom_end?></p>
-    <p><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Editing a lemma: users
-      able to enter/change transliteration and translation of a lemma, but not its passport data,
-      lemmatizer or
-      Hieroglyphs.<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>ERROR?<?oxy_custom_end?></p>
+    <p><b>Visibility status</b></p>
+    <p>Another factor restricting user rights is a <i>Visibility status</i> of a database object,
+      which can be set in the Main Tab of the Passport Editor. The visibility status options are:
+      Public, Reader, Group, Project and All Authenticated. Depending on the visibility status of an
+      item, it may only be available for viewing or editing for users with particular rights. More
+      on visibility status of database objects will be outlined in the description of particular
+      user roles below.</p>
+    <p/>
   </body>
 </topic>

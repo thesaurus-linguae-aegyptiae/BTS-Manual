@@ -14,13 +14,13 @@
     <li><u>Uninstall BTS</u><p>BTS is not listed in the "Control Panel / Programs / Programs and
       Features" section of your operating system. Thus it is not possible to uninstall it in the
       regular way. To uninstall the application, close the program window and delete all files from
-      the installation folder. </p><p><u>NOTE</u>: You might have to restart your system before
-      deleting the folder. The reason for this is that the DB services of the program might be still
-      running in background after closing the application and therefore might block the deletion.
-       </p><p><u>NOTE</u>: Using "Help / Uninstall software" entry in the upper menu bar of BTS will
-      not uninstall the application completely. It only uninstalls individual components, and
-      sometimes this may not be possible because Database service was started and is still running.
-      You will have to close the program window and delete the files again. </p></li>
+      the installation folder. </p><p>NOTE: You might have to restart your system before deleting
+      the folder. The reason for this is that the DB services of the program might be still running
+      in background after closing the application and therefore might block the deletion.
+      </p><p>NOTE: Using "Help / Uninstall software" entry in the upper menu bar of BTS will not
+      uninstall the application completely. It only uninstalls individual components, and sometimes
+      this may not be possible because Database service was started and is still running. You will
+      have to close the program window and delete the files again. </p></li>
    </ol>
   </p>
  </conbody>

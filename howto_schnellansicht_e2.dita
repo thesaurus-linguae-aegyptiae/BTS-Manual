@@ -3,19 +3,23 @@
 <topic id="topic_pxz_dzt_kr">
   <title>Quick view</title>
   <body>
+    <p>What is "Quick view"? Why "quick view"? </p>
+    <p><i>Explain the concept more thoroughly: step-by-step ( ex. minimize window - what do you see?
+        how to I get back to the normal view? What happens if I click on an icon of a window (it
+        opens in separate window). Maximize window, etc. )</i></p>
     <p>When you have maximized or minimized one or several windows of the workspace (Corpus
-      Navigator, Text Editor, etc.), their icons will appear on the right or left side of the User
-      Interface. You can open a quick view of the chosen window (and a chosen tab of that window) by
-      clicking on its icon on the right or left side of the User Interface. </p>
-    <p>This example shows the maximized Text Editor. Other sections are minimized on the right and
-      left (marked red).</p>
+      Navigator, Text Editor, etc.), the respective icons will appear on the right or left side of
+      the program window. Clicking on the icon will open a "Quick view" or the selected window. </p>
+    <p/>
+    <p>This example shows the maximized Text Editor. Other sections are minimized and displayed as
+      icons on the right and left (marked by a red rectangle).</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Quick%20view.png"
         id="image_q3q_w1y_st"/></p>
     <p>On mouse-over at <image href="Images/icons/full/icon16/corpora.png" id="image_k2m_fzd_4r"/> a
       ToolTip "Corpus Navigator" will appear. If you click it, the quick view of the Corpus
       Navigator will be displayed.</p>
     <p>The symbol of the currently chosen quick view is encircled. The quick view is completely
-      functional. To close it, you need to click the symbol again. The entire window remains
+      functional . To close it, you need to click the symbol again. The entire window remains
       minimized. </p>
   </body>
 </topic>
