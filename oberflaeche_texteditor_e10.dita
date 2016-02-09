@@ -36,7 +36,7 @@
   <p><b>JSesh View</b></p>
   <p>Displays a cohesive hieroglyphic text. "dot" marks the end of the sentence (signified in
    "Transliteration" and "Sign Text Editor" tabs with "§" sign). </p>
-  <p><u>There are several buttons above the "Text-Editor" window: </u></p>
+  <p>There are several buttons above the "Text-Editor" window: </p>
   <p><image href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/>
    <u>Load Text Lemmata </u></p>
   <p>Loads word and sentence borders of your texts in order to be able to add a translation and to

@@ -3,54 +3,51 @@
 <concept id="concept_i2s_qwf_mr">
  <title>3. Lemmatizing and encoding inflections</title>
  <conbody>
-    <p>To lemmatize a transliterated text, the lemmatizer is used. It can be found in the central
-      lower part of the default Text Corpora view. </p>
-    <p>Only white marked objects in the Sign Text Editor are lemmata and can be lemmatized. </p>
-    <p>Click the second tab <image href="Images/icons/full/icon16/lemmatizer.png"
-        id="image_dhr_pqv_nr"/> "Lemmatizer" in this part of the screen and select the "Sign-Text
-      Editor" tab above in the Text Editor section.</p>
-    <p>You can see several elements:</p>
+    <p>To lemmatize a transliterated text two tabs should be open: "Sign-Text Editor" (default
+      location: top center) and "Lemmatizer" (default location: bottom center; note that the title
+      of the latter changes as soon as you selected an element in the Navigator tab).  Only
+      non-colored (white) tokens in the "Sign Text Editor" are lemmata and can be lemmatized. </p>
+    <p>Several elements are displayed in the <image href="Images/icons/full/icon16/lemmatizer.png"
+        id="image_dhr_pqv_nr"/> "Lemmatizer" tab:</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Lemmatizer_marked.png"
         id="image_iht_myx_st"/></p>
     <p>
       <ol id="ol_xdz_4xy_qt">
         <li>"Activate" button: activates / deactivates other fields</li>
-        <li>The first display field "Selected Word" displays the transliteration of a lemma that you
-          have activated by clicking it in the Sign Text Editor (in our example: <i>wbn</i>). In
-          this example it has already been lemmatized, so the other fields are filled. If you find
-          out that you have made an error in the transliteration, you can modify it in the "Selected
-          Word" field and it will be altered in the Sign-Text-Editor and the Transliteration tab
-          automatically.</li>
-        <li>Lemma provides the lemma number from the WL (word list). Next to it, the selected
-          transliteration of a lemma is displayed. To lemmatize a lemma, click on the correct
-          suggestion in the field below. The default setting in Preferences / Preferences /
-          Lemmatizer allows you to activate the function "automatically select the first lemma
-          proposal".</li>
-        <li>Flexion shows the code referring to the grammatical form of the inflection of the
-          selected word.</li>
+        <li>"Selected Word" displays the transliteration of a lemma selected in the "Sign Text
+          Editor". In the example above <i>wbn</i> has already been lemmatized, so the other fields
+          are filled out. If you find out that you have made an error in the transliteration, you
+          can modify it in the "Selected Word" field and it will be altered in the Sign-Text-Editor
+          and the Transliteration tab automatically.</li>
+        <li>Lemma provides the lemma number from the word list (WL). Next to it, the selected
+          transliteration of a lemma is displayed. To lemmatize a lemma, select the correct
+          suggestion from the list in the field below. The default setting in Preferences /
+          Preferences / Lemmatizer allows you to activate the function "automatically select the
+          first lemma proposal".</li>
+        <li>The field "Flexion" shows the code referring to the grammatical form of the inflection
+          of the selected word.</li>
         <li>In the field "Translation" you can choose one or several fitting translations from the
           lower field (in the example there is only one option, but there can be more). Make sure to
-          have selected the right language in the drop-down menu to the right. Your default language
-          is the one connected with your login data. Choose several available translations by left
-          clicking and holding CTRL at the same time. If none of the options seems fitting to you,
-          you can enter your own translation as well.</li>
+          have selected the right language in the drop-down menu on the right.
+          <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Your default language is
+          the one connected to your login data<?oxy_custom_end?>. Choose several available
+          translations by left-clicking and holding CTRL at the same time. If none of the options
+          seems fitting to you, you can enter your own translation as well.</li>
       </ol>
     </p>
     <p>If you cannot find a lemma, click the magnifying glass <image
         href="Images/icons/full/icon16/search.png" id="image_zyn_pqp_nt"/> and search for it in the
-      lemma list by entering the WCN or the name of the lemma. You can also reduce the search
-      results by using the filters "Search for IDs" or "Search for Names only". Additionally, you
-      can automatically add wild cards / quotation marks by clicking the provided buttons in the
-      Search pop-up. More on search function see the corresponding <xref href="searching.dita"
-        >section</xref>. If the lemma you need does not exist please contact the person who is
-      responsible for the lemmata-list in Berlin.</p>
-    <p>To go to the next lemmatizable lemma, either click<image
-        href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr"/> "Confirm current lemma
-      editing and continue to next lemma" or ">" on the right above the lemmatizer. ">|" brings you
-      to the end of the line and >|| to the end of the text.</p>
-    <p>Deleting a lemmatization can be engaged by clicking <image
+      lemma list by entering the WCN (word count number) or the name of the lemma. You can also
+      reduce the search results by using the filters "Search for IDs" or "Search for Names only".
+      Additionally, you can automatically add wild cards / quotation marks by clicking the provided
+      buttons in the Search pop-up. More on search function see the corresponding <xref
+        href="searching.dita">section</xref>. If the lemma you need does not exist please contact
+      the BTS Project. </p>
+    <p>To confirm click on <image href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr"
+      /> "Confirm current lemma editing and continue to next lemma" or on ">" button. ">|" brings
+      you to the end of the line and >|| to the end of the text.</p>
+    <p>To delete  lemmatization click on <image
         href="Images/Icons_updated/full/icon16/lemmatizer-delete.png" id="image_l33_m2g_ms"/>
-      "Remove lemma information" in the Toolbar of the <xref href="oberflaeche_lemmatizer.dita"
-        >Lemmatizer</xref>.</p>
+      "Remove lemma information" in the Lemmatizer toolbar.</p>
   </conbody>
 </concept>

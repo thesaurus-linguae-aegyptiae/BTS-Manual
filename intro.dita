@@ -3,14 +3,14 @@
 <concept id="concept_ssc_drf_mr">
  <title>Introduction</title>
  <conbody>
-  <p>Welcome to Berlin Text System V 3.0 - the new version of the software, especially designed for
+  <p>Welcome to Berlin Text System V 3.0 - a new version of the software, specially designed for
    editing Ancient Egyptian texts! Its three major components - Text Editor, Lemma List and
    Thesaurus - complement each other to guarantee the extensive word processing of Ancient Egyptian.
    The back-end (technical side) and the user interface of the software have been completely
    redesigned, now including the new database structure (Couch DB), the data format (JSON) and
    search engine (Elastic search). </p>
-  <p>Text Editor provides the tools for transliteration, translation, lemmatization (assigning a
-   lemma to a word), annotation and hieroglyphic transcription.</p>
+  <p>Text Editor provides tools for transliteration, translation, lemmatization (assigning a lemma
+   to a word), annotation and hieroglyphic transcription.</p>
   <p>Lemma List contains an up-to-date list of Ancient Egyptian and Demotic lemmata, accessible for
    any BTS user. The ability to modify the lemma list depends on the individual user rights. Each
    lemma has passport data, transliteration and translation, as well as annotations and comments
@@ -18,25 +18,27 @@
   <p>Thesaurus compiles the formalized vocabulary (called "controlled vocabulary"), which is used
    for the metadata of the database objects. Thesaurus entries are offered in the Passport Editor
    section of the Text Corpus and Lemma views. </p>
-  <p>The following User Manual offers the overview of the features now available in BTS V.3.0. </p>
+  <p>User Manual offers the overview of the features now available in BTS V.3.0. </p>
   <p>
    <ul id="ul_lwg_xy1_pt">
     <li><b>Introduction</b> chapter provides the description of the system requirements as well as
-     step-by-step instructions for BTS installation and initial configuration. </li>
+     step-by-step instructions for BTS installation and initial configuration. It also includes user
+     roles description.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_a1f_mz1_pt">
-    <li><b>User guide</b> is a quick guide to start using BTS quickly and easily. </li>
+    <li><b>User guide</b> allows a prompt and easy start into using BTS.</li>
+    <li><b>Administrator guide</b> dwells on BTS features available for administrator only. </li>
    </ul>
   </p>
   <p>
    <ul id="ul_jhq_nz1_pt">
-    <li><b>BTS User Interface - Reference</b> is a detailed explanation of all elements available on
-     the BTS user interface. This chapter serves as a reference for "User guide" and "Administrator
+    <li><b>BTS User Interface </b> is a detailed explanation of all elements available on the BTS
+     user interface. This chapter serves as a reference for "User guide" and "Administrator
      guide".</li>
-    <li><b>BTS Grammar Rules - Reference</b> is a compilation of the rules BTS uses for
-     transliteration and transcription.</li>
+    <li><b>BTS Grammar Rules </b> is a compilation of the rules BTS uses for transliteration and
+     transcription.</li>
    </ul>
   </p>
  </conbody>

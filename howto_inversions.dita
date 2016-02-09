@@ -3,28 +3,21 @@
 <concept id="concept_erp_wzc_cs">
  <title>Inversions</title>
  <conbody>
-  <p><u>When the inverted words form a single lemma</u>
-    </p>
-    <p>The sign-sequence is to be entered as it appears in the script. </p>
-  <p><u>When the inverted words do not form a single lemma</u>
-    </p>
-    <p>Each word is to be encoded with the signs that belong to it. The inverted sign-sequence
-      cannot be reproduced. </p>
-  <p><u>When the inversion occurs while the word boundaries are broken</u>
-    </p>
-    <p>E.g. <image href="Images/Hypszer/Handbuch-Screenschots/Hieros.jpg" id="image_hdj_gzt_mr"/>
-      The signs have to be assigned to words they belong to (in this case V30+G7 and I9 separately).
-      The inverted sign-sequence cannot be reproduced/depicted with the hieroglyphs but the program
+  <p><i>When the inverted words form a single lemma</i> the sign-sequence is to be entered as it
+      appears in the script. </p>
+  <p><i>When the inverted words do not form a single lemma</i> each word is to be encoded with the
+      signs that belong to it. The inverted sign-sequence cannot be reproduced. </p>
+  <p><i>When the inversion occurs while the word boundaries are broken</i> , e.g. <image
+        href="Images/Hypszer/Handbuch-Screenschots/Hieros.jpg" id="image_hdj_gzt_mr"/> ,the signs
+      have to be assigned to words they belong to (in this case V30+G7 and I9 separately). The
+      inverted sign-sequence cannot be reproduced/depicted with the hieroglyphs but the program
       offers an option to mark such inversions.</p>
-    <p><u>Select Single Glyphs</u></p>
-  <p>This function is available for the last type of inversions. In the example above with "nb=f",
-      you would then select the G7 with arrows below the "Select Single Glyphs" section. The sign
-      will appear red, but only for orientation purposes in the field above, where the word is
-      displayed. You can then set the "Order in Sentence" to the position where the sign occurs in
-      the manuscript (in this case, it appears on the position nr.7, after the I9 sign. Then do the
-      same with the I9 sign, assigning desired position to it in the sentence (in this case nr.6).
-      See also <xref href="oberflaeche_htw.dita#concept_qmv_p2b_sr">Hieroglyph Type Writer
-        (HTW)</xref>.</p>
+    <p><b>Select Single Glyphs</b></p>
+  <p>This function is available for the last type of inversions. To mark the correct position of G7
+      determinative, select it using buttons |&lt; &lt; > >| . The selected sign will be marked red.
+      After that set the "Order in Sentence" to the position where the sign occurs in the
+      manuscript. Then do the same with the I9 sign. In the example below G7 and I9 have to switch
+      to positions 7 and 6 accordingly.  </p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Inversion.png"
     id="image_rbc_12y_st"/></p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Inversion2.png"

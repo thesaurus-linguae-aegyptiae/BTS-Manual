@@ -6,5 +6,10 @@
     <p>The general workspace description is not explicit enough, e.g. one has to know what an
       "arrangement" is, how to enter the two dates, if an object is only dated between a terminus
       ante and post quem.</p>
+    <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> provide two examples –
+      one for text and one for a Text Corpus object. <?oxy_custom_end?></p>
+    <p> For detailed description of passport editor fields  <xref
+        href="oberflaeche_thesaurs_passporteditor.dita#concept_wpd_hqd_4r">Passport
+      Editor</xref>.</p>
   </body>
 </topic>

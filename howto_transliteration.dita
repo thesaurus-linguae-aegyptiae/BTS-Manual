@@ -3,17 +3,17 @@
 <concept id="concept_bd2_jwj_qr">
  <title>1. Transliteration</title>
  <conbody>
-  <p>To enter and edit the transliteration of your texts, click in the Transliteration subsection of
-      the <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> section in the upper
-      centre of the Text Corpus view and enter your text. </p>
+  <p>To enter or edit the transliteration of your texts, click in the "Transliteration" tab of the
+        <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
+      Text Corpus view. </p>
   <p>Transliteration follows the BTS <xref href="howto_Grammatikfehler_e5.dita">grammar
       rules</xref>. </p>
-    <p><u>The most important rules are the following</u></p>
+    <p><b>The most important rules are the following</b></p>
     <p>
       <ul id="ul_wh1_bxw_ns">
         <li>Start and end each sentence with the sentence marker "§".</li>
-        <li>Use space only between two words or extratextual information, not after typing a
-          sentence marker "§" or after opening brackets.</li>
+        <li>Use the "space" key only between two words or extratextual information, not after typing
+          a sentence marker "§" or after opening brackets.</li>
         <li>Brackets come in pairs. You have to close every bracket you have opened. Sometimes the
           system will do this automatically, but there are cases where that does not work. Clicking
           "CTRL+Space" will show the markers that are allowed at the position of the cursor. For
@@ -30,16 +30,16 @@
           wrongly ("{n[b}]").</li>
       </ul>
     </p>
-    <p><u>Using Templates</u></p>
+    <p><b>Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. Note that
       you can create your own templates (<xref
         href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
       the templates by right-clicking in Text Editor and choosing "Content Assist". Depending on the
-      position of your cursor (within a sentence / word or outside the sentence marked by §§) you
+      position of the cursor (within a sentence / word or outside the sentence marked by §§) you
       will get a different set of templates to choose from. This can be influenced by changing the
       "Context" of your templates (see <xref href="oberflaeche_preferences2.dita#concept_trz_tw2_yr"
         >Preferences</xref>).</p>
-    <p><u>Adding Extratextual Information</u></p>
+    <p><b>Adding Extra-textual Information</b></p>
     <p>
       <ul id="ul_ugx_ryw_ns">
         <li>Line counts are introduced by #lc: and end with <b>#</b>. The numbers are written in
@@ -54,19 +54,19 @@
           person looking left:#; #3Q are left empty#.</li>
       </ul>
     </p>
-    <p><u>Some transliteration conventions</u></p>
+    <p><b>Some transliteration conventions</b></p>
     <p>
       <ul id="ul_kkp_dwy_qt">
         <li>Ending within word-stems: "," (comma). E.g. <i>ḥm,t</i>.</li>
         <li>Grammatical endings: "." (dot). E.g. <i>nṯr.w; sḏm.n =f</i>.</li>
-        <li>J-Augmentation: ":" (colon). <u>NOTE</u>: Not for causatives or other prefixes!</li>
-        <li>Suffix: "=" (equality sign). <u>NOTE</u>: A space has to be inserted before this sign
-          (e.g. sḏm.n =f).</li>
+        <li>J-Augmentation: ":" (colon). NOTE: Not for causatives or other prefixes!</li>
+        <li>Suffix: "=" (equality sign). NOTE: A space has to be inserted before this sign (e.g.
+          sḏm.n =f).</li>
         <li>Use of "j" instead of "ı͗".<p>Use of "q" instead of "ḳ".</p>Use "~" for syllabic
           writings, e.g. gꜢ~wꜣ~šꜣ.</li>
       </ul>
     </p>
     <p>See <xref href="grammar_transcribing_rules.dita#concept_ops_zgb_lt">Grammar Reference</xref>
-      for explicit information.</p>
+      for detailed information.</p>
  </conbody>
 </concept>

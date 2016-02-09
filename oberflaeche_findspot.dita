@@ -7,9 +7,17 @@
    object.</p>
   <p>This tab is divided into two sections: "Place" and "Former Place".</p>
   <p><b>Place</b></p>
-  <p><u>Place</u></p>
+  <p>
+   <ul id="ul_asf_55b_55">
+    <li>Place</li>
+   </ul>
+  </p>
   <p>Choose the findspot from the Thesaurus.</p>
-  <p><u>Comment</u></p>
+  <p>
+   <ul id="ul_vdd_w5b_55">
+    <li>Comment</li>
+   </ul>
+  </p>
   <p>Add a comment to the findspot.</p>
   <p><u>is_origin</u></p>
   <p>Select this check box if the chosen findspot is the original site where the object was

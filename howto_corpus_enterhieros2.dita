@@ -32,7 +32,7 @@
           between the hieroglyphs (then all signs will be written one behind the other) or group
           them according to the "Manuel de Codage" rules with "-", "*" and ":". For more details see
           the section <xref href="howto_grouping.dita#concept_u45_b1d_cs">Grouping
-            Hieroglyphs</xref>.<p><u>NOTE</u>: Do not use the space bar to separate the signs.
+            Hieroglyphs</xref>.<p><b>NOTE</b>: Do not use the space bar to separate the signs.
           </p></li>
         <li>In order to confirm the input of the signs and end the work on one word, either press
           ENTER on your keyboard, or click the icon of the scribal tool in HTW. You can also simply
@@ -42,11 +42,11 @@
           respectively.|&lt; and >| will bring you to the word at the beginning and end of the line
           respectively (the line as it appears in the Sign Text Editor, not the line of the given
           text), &lt; and > will bring you to the previous and next word respectively. Furthermore,
-          a ToolTip will be displayed on mouseover for each icon.</li>
+          a Tool-tip will be displayed on mouse-over for each icon.</li>
         <li>After the input and confirmation of the signs, upon returning to a transcribed word,
           Gardiner numbers of the signs will be shown in the "type here" field, even if the signs
           were initially entered as "Manuel de Codage" transliteration. In order to see the number
-          sequence, select an already-processed word.<p><image
+          sequence, select an already processed word.<p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/successful_hieros1.png"
               id="image_tdt_vfy_st"/></p></li>
         <li>If you need to correct an already confirmed word, you can return to it by clicking on it

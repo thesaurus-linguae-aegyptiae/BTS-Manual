@@ -3,9 +3,9 @@
 <topic id="topic_il5_4dt_kr">
   <title>Changing font size</title>
   <body>
-    <p>To change the font size, click <xref href="oberflaeche_window.dita">Window</xref> in the
-        <xref href="oberflaeche_menuleiste.dita">menu bar</xref>.</p>
-    <p>Click the first entry "Switch Font Size/CSS Theme" to change the font size.</p>
+    <p>To change the font size, click menu entry <xref href="oberflaeche_window.dita">Window</xref>
+      in the <xref href="oberflaeche_menuleiste.dita">menu bar</xref>.</p>
+    <p>Select the first entry "Switch Font Size/CSS Theme" to change the font size.</p>
     <p>There is no list of font sizes to choose from. The font size will be enlarged upon clicking
       on the entry.</p>
     <p>There are three different sizes. After reaching the biggest size, next clicks will bring you
