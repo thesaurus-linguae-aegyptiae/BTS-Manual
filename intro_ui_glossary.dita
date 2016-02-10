@@ -7,8 +7,7 @@
   <p></p>
   <p>This manual uses the following terms adopted from the "Glossary of UI terminology" by
          Microsoft. </p>
-  <p>
-   <ul id="ul_udd_vkp_ps">
+  <p><ul id="ul_udd_vkp_ps">
             <li>Menu bar</li>
             <li>Drop-down menu</li>
             <li>Drop-down menu entry<p><image
@@ -24,11 +23,9 @@
                      id="image_ptv_pyw_st"/></p></li>
             <li>Workspace / Workspace mode</li>
             <li>Viewing mode</li>
-            <li>
-               <p><image
-                     href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
-                     id="image_qp5_syw_st"/></p>
-            </li>
+         </ul><image
+            href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
+            id="image_qp5_syw_st"/><ul id="ul_j4y_5vm_y5">
             <li>Navigation tree </li>
             <li>Node (an entry in a navigation tree, can be further expanded, ex. text corpus, text
                corpus object or a text) = Branch. <p><image
@@ -39,7 +36,6 @@
             <li>Lemma / Token</li>
             <li>Local - remote /central database</li>
             <li>WCN - word count number</li>
-         </ul>
-  </p>
+         </ul></p>
  </conbody>
 </concept>
