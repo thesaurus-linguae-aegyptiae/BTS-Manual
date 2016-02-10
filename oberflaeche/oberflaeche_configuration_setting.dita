@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_fvw_qld_cs">
- <title>Edit Configuration</title>
+ <title>Edit configuration</title>
  <conbody>
-  <p><u>NOTE</u>: This menu item is only available for an administrator!</p>
+  <p>NOTE: This function is available to the user with global administrator privileges only.</p>
   <p>To open the configuration window, select "Edit Configuration" from the drop-down menu of the
    menu bar. </p>
   <p>A "Currently Active Configuration" by default is "Altägyptisches Wörterbuch (AAEW)", but if
@@ -22,7 +22,7 @@
     <li>Project-Phase</li>
     <li>Relations</li>
     <li>Revision-Status</li>
-    <li>Visibility<i> </i><p><i>Expand this part</i></p></li>
+    <li>Visibility<i> </i></li>
    </ol>
   </p>
  </conbody>

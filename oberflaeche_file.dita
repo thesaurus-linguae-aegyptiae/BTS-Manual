@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_xpn_pqd_4r">
- <title>File</title>
+ <title>File / Create new project</title>
  <conbody>
   <p>Clicking on File opens a drop-down menu with the entries New / New Project, Insert, Exit BTS
    and Restart BTS.</p>
@@ -9,9 +9,8 @@
   <p>Selecting New Project will open the Edit project name window. Enter the Project name, Project
    prefix and a Description (optional) here. Project prefix is the internal name of the project,
    under which it will be saved in the database. </p>
-  <p><u>NOTE</u>: please don't use special characters, spaces, or capital letters in the Project
-   prefix! It is recommended not to click Finish button until the last configuration window is
-   displayed.</p>
+  <p>NOTE: please don't use special characters, spaces, or capital letters in the Project prefix! It
+   is recommended not to click Finish button until the last configuration window is displayed.</p>
   <p>The "Next >" button leads to the "Project Connection Settings" window. Here you can enter the
    Connection Type, Server URL and the Database Path. The standard connection type used by BTS is
    "couchdb". The Server URL includes the URL and port number and currently is

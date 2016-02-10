@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p15_rwv_ns">
-  <title>Creating / modifying a database object</title>
+  <title>Create / modify a database object</title>
   <body>
     <p> The following functions are available to the user with administrator privileges over a given
       corpus. </p>
