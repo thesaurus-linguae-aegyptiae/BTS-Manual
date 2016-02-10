@@ -3,9 +3,9 @@
 <topic id="topic_ih3_blv_bt">
   <title>Admin</title>
   <body>
-    <p>This status of an administrator applies only to a specific corpus (not the entire BTS!).
-      Administrators may edit or delete all objects in a given corpus, even if no special status for
-      specific objects was assigned to them. </p>
+    <p>The administrator role applies only to a specific corpus (not the entire BTS!). Administrator
+      can edit or delete all objects in a given corpus, even if no Updater status for specific
+      objects was assigned to him/her. </p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_bky_44v_bt">
@@ -13,12 +13,11 @@
           available at the moment.)</li>
         <li>Can edit all items in a given corpus, regardless of their visibility status.</li>
         <li>Can add or remove database objects within a corpus. Deleted items can be found in the
-          bin where he can choose to delete them permanently.</li>
-        <li>Can assign a status of an Updater or Reader to other users who have access to a given
+          "Bin" tab, from where they can be deleted permanently.</li>
+        <li>Can assign the status of Updater or Reader to other users who have access to a given
           corpus.</li>
-        <li>In the case of an Admin, a status as an Updater/Reader is irrelevant, since the user
-          role takes precedence and automatically gives the Admin rights to edit database
-          items.</li>
+        <li>The  Updater/Reader status is irrelevant for the Admin, since the user role takes
+          precedence and automatically gives the Admin rights to edit database items.</li>
         <li>Can alter the visibility of individual database objects in the Passport Editor (Main
           Tab).</li>
       </ul>
@@ -26,13 +25,12 @@
     <p><b>Limitations</b></p>
     <p>
       <ul id="ul_okz_zlv_bt">
-        <li>This Admin user role applies only to particular corpora where a user has been made admin
-          by Super Admin.</li>
-        <li>Cannot edit the passport data or name of an entire corpus if the corpus was created by
-          somebody else, she or he has right only for individual items within the corpus. Even if an
-          entire corpus is marked as "public", the Admin user will still have a status of a guest
-          when selecting the corpus.</li>
-        <li>Cannot create new corpora within a project.</li>
+        <li>Admin user role applies to particular corpora only.</li>
+        <li>Admin cannot edit the passport data or name of an entire corpus if the corpus was
+          created by someone else. Even if the entire corpus has a visibility status "Public", Admin
+          user will still have a guest status when selecting the corpus. Admin has rights only for
+          individual items within the corpus. </li>
+        <li>Admin cannot create new corpora within a project.</li>
         <li>Lemma view: can view Lemma entries but not edit them or add new ones.</li>
         <li>Thesaurus view: can view the Thesaurus entries but not edit them or add new ones.</li>
       </ul>

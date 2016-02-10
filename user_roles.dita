@@ -37,7 +37,8 @@
       assume the role of a <xref href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
     <p><b>User status</b></p>
     <p>Additionally to user role, a status of a <i>Reader</i> or an <i>Updater</i> can be assigned
-      to a particular user with respect to specific database objects. </p>
+      to a particular user with respect to specific database objects. For that right-click on an
+      item and select "Edit Updaters / Readers"</p>
     <p>For instance a Researcher with status of an Updater can edit all items in a given corpus, but
       when his or her status is changed to Reader he or she can only view the items. Updater and
       Reader status of specific database objects of a corpus can be assigned to a user by <xref

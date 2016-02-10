@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_v4v_ttn_y5">
+  <title>Berlin Text System General</title>
+  <body>
+    <p></p>
+    <p>Expanding the "Berlin Text System General" will present the following options: </p>
+    <p><b>Abstract Text Settings</b></p>
+    <p><b>Configuration</b></p>
+    <p>Currently the only available option is Altägyptisches Wörterbuch (AAEW) (10). Click "Apply"
+      to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
+    <p><b>Corpus Settings</b></p>
+    <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
+      appear in the Active corpora list on the right won't be accessed by BTS. To activate a corpus
+      select it in the list on the left and then click "Add". To remove the corpus from your working
+      list, select it and click Remove. Add all / Remove all will add or remove all available
+      corpora to or from the Active Corpora list. </p>
+    <p>The check-box "Activate to select main working corpus" has a specific function. If it is
+      activated all new text or database objects created in the "Corpus Navigator" window will be
+      physically saved in the selected corpus. For example in the Corpus Navigator you have selected
+      Corpus 2, but your main working corpus is Corpus 1. The new database object will be
+        <i>physically</i> saved in Corpus 1, although in the Corpus Navigator it is displayed as a
+      part of Corpus 2. </p>
+    <p><b>Corpus Navigator Settings </b></p>
+    <p>
+      <ul id="ul_ndc_wl2_vt">
+        <li>Check box "Corpus Navigator sort by sort key". By default, all objects on the same level
+          have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey in the
+          Passport data of the object will change its position regarding other objects, "0" being on
+          top. See <xref href="oberflaeche_maintab.dita">Main Tab</xref>.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_egq_wl2_vt">
+        <li>Default Visibility applies to all newly created objects. Defines a visibility status a
+          corpus will have by default after its creation.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_fdd_xl2_vt">
+        <li>Default Review State applies to all newly created objects. Like the "Default Visibility"
+          above, this defines a review state which a corpus will have directly after its
+          creation.</li>
+      </ul>
+    </p>
+    <p><b>Lemma List Settings </b>
+    </p>
+    <p>Here you can choose a project with a main working lemma list. All new lemmas will be saved in
+      this project. You can currently choose Altägyptisches Wörterbuch BBAW and Demotic. If you
+      chose both, the combined lemma list will be displayed in "Lemma Navigator"</p>
+    <p><b>Lemma Navigator Settings</b></p>
+    <p>
+      <ul id="ul_gvc_vl2_vt">
+        <li>Check box "Lemma Navigator sort by sort key". Per default all objects on the same level
+          have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
+          Passport data of the object will change its position relevant to other objects, "0" being
+          on top. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_uy3_vl2_vt">
+        <li>Default Visibility applies to all newly created objects. Defines a visibility status a
+          lemma will have by default after its creation.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ylp_vl2_vt">
+        <li>Default Review State applies to all newly created objects. Like the "Default Visibility"
+          above, this defines a review state which a lemma will have directly after its
+          creation.</li>
+      </ul>
+    </p>
+    <p><b>Lemmatizer</b>
+    </p>
+    <p>The Lemmatizer allows you to set a default inflection (the programmes default inflection is
+      "3") and activate the check box "Automatically select first lemma proposal". More on
+      grammatical rules see <xref href="howto_Grammatikfehler_e5.dita#topic_f5w_3z5_kr">BTS Grammar
+        Rules - Reference</xref>. </p>
+    <p><b>Project settings</b>
+    </p>
+    <p>Here you can choose your main working project from the drop-down menu. The field below gives
+      you an option to choose further projects from which you want to load and read data. In the box
+      on the left is a list of available projects. Clicking on one will give you an option to add it
+      to the "Projects to be downloaded" on the right. Clicking on Apply below will download the
+      project. Between the two fields you also have an option to remove the project from the right
+      field and to "Add All" from available to to-be-downloaded and "Remove All" from
+      to-be-downloaded to available. Next to the "Apply" button there is also one that will restore
+      default settings "Restore Default".</p>
+    <p><b>Remember me</b></p>
+    <p>Select the check box "Remember my login credentials on startup" to be logged in
+      automatically, when starting BTS.</p>
+    <p><b>Text Editor</b></p>
+    <p>
+      <ul id="ul_nwm_zl2_vt">
+        <li>Activate mouse-over pop-up with information on lemmata. Activating this option will
+          display the lemmatization information about the selected lemma in the Text editor
+          (currently unavailable).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ewz_zl2_vt">
+        <li>Show line number ruler on left side. This check box activates the line numbering (of the
+          window) in the <xref href="oberflaeche_texteditor_e10.dita#concept_f4v_hqm_mr">Text
+            editor</xref>. </li>
+      </ul>
+    </p>
+    <p><b>Sign Text Editor </b></p>
+    <p>Defines elements displayed in the lemma-boxes while editing tokens inside the Sign Text
+      Editor. Additionally, the line width can be adjusted by changing the number in the "Line width
+      in pixel" input field.</p>
+    <p>The applied changes will be visible upon refreshing the view of the "Sign Text Editor" tab. </p>
+    <p><b>Thesaurus Settings</b>
+    </p>
+    <p>Here you can choose a project with a main working thesaurus. All new thesaurus entries will
+      be saved there. Currently only one working thesaurus is available "Altägyptisches Wörterbuch
+      BBAW".</p>
+    <p><b>Thesaurus Navigator Settings</b></p>
+    <p>
+      <ul id="ul_dn2_bm2_vt">
+        <li>Check box "Ths Navigator sort by sort key". Per default all objects on the same level
+          have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
+          Passport data of the object will change its position relevant to other objects, "0" being
+          on top. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ojn_bm2_vt">
+        <li>Default Visibility applies to all newly created objects. Defines a visibility status a
+          thesaurus entry will have by default after its creation.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_mfc_cm2_vt">
+        <li>Default Review State applies to all newly created objects. Like the Default Visibility
+          above, this defines a review state which a thesaurus entry will have directly after its
+          creation.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

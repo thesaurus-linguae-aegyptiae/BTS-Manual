@@ -4,9 +4,9 @@
  <title>Database Manager</title>
  <conbody>
   <p><b>Open Database Manager</b></p>
-  <p>The Database manager window displays all available database collections. Each database
-   collection is reflected by a line in the table. The number of documents per collection is shown
-   in the column "DB Doc Count". </p>
+  <p>The "Database manager" window in "Preferences" displays all available database collections.
+   Each database collection is reflected by a line in the table. The number of documents per
+   collection is shown in the column "DB Doc Count". </p>
   <p><b>Indexing</b></p>
   <p>Indexing is a process, which optimises the search in the database. Indexing allows the query to
    be done not in the database documents themselves, but among their "indexes". The status of a
@@ -18,7 +18,7 @@
    "Status" column (OK- green, ERROR- red or INDEXING...- yellow). The "% indexed" column shows the
    percentage of the indexing process.</p>
   <p><b>Re-Indexing</b></p>
-  <p>Re-indexing may take a while. The more you will have to re-index, the longer it will take.
+  <p>Re-indexing may take a while. The more databases you have to re-index, the longer it will take.
    During this process you will not be able to use BTS.</p>
   <p>Re-indexing has three options: </p>
   <p>- Re-index all</p>

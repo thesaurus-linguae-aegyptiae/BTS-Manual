@@ -3,19 +3,21 @@
 <topic id="topic_odn_nkz_1t">
   <title>Administrator guide</title>
   <body>
-    <bodydiv>Quick Guide -></bodydiv>
-    <bodydiv>creating a new lemma entry -> completely<p>Quick Guide -> Creating and modifying a
-        corpus -> Creating a corpus -> evtl.</p><p>Quick Guide -> Creating a new thesaurus entry ->
-        completely</p><p>UI -> Menu bar -> Preferences -> Open User Manager</p><p>UI -> Menu bar ->
-        Preferences -> Open Futon</p><p>UI -> Menu bar -> Preferences -> Open ES GUI</p><p>UI ->
-        Menu bar -> Preferences -> Open User Manager</p><p>UI -> Workspace -> Text Corpus -> Corpus
-        Navigator -> Create New Text Corpus -> evtl.</p><p>UI -> Workspace -> Text Corpus -> Corpus
-        Navigator -> Delete -> teilweise ...</p><p>UI -> Workspace -> Text Corpus -> Corpus
-        Navigator -> Context Menu -> Delete Permanently -> ?</p><p>UI -〉 Workspace -> Lemma -> Lemma
-        Navigator -> Alle Funktionen sind auf den Zuständigen beschränkt. Afaik soll der User aber
-        wenigstens auch als Nicht-Admin den Navigator zu Übersichtzwecken benutzen dürfen!?</p><p>UI
-        -> Workspace -> Lemma -> Entsprechend sind hier alle Funktionen nicht für User, aber auch
-        nicht für normale Admin zugänglich.</p><p>UI -> Thesaurus -> Selbiges wie
-      Lemma...</p></bodydiv>
+    <bodydiv>
+      <p>UI -> Menu bar -> Preferences -> Open User Manager</p>
+      <p>UI -> Menu bar -> Preferences -> Open Futon</p>
+      <p>UI -> Menu bar -> Preferences -> Open ES GUI</p>
+      <p>UI -> Menu bar -> Preferences -> Open User Manager</p>
+      <p>UI -> Workspace -> Text Corpus -> Corpus Navigator -> Create New Text Corpus -> evtl.</p>
+      <p>UI -> Workspace -> Text Corpus -> Corpus Navigator -> Delete -> teilweise ...</p>
+      <p>UI -> Workspace -> Text Corpus -> Corpus Navigator -> Context Menu -> Delete Permanently ->
+        ?</p>
+      <p>UI -〉 Workspace -> Lemma -> Lemma Navigator -> Alle Funktionen sind auf den Zuständigen
+        beschränkt. Afaik soll der User aber wenigstens auch als Nicht-Admin den Navigator zu
+        Übersichtzwecken benutzen dürfen!?</p>
+      <p>UI -> Workspace -> Lemma -> Entsprechend sind hier alle Funktionen nicht für User, aber
+        auch nicht für normale Admin zugänglich.</p>
+      <p>UI -> Thesaurus -> Selbiges wie Lemma...</p>
+    </bodydiv>
   </body>
 </topic>

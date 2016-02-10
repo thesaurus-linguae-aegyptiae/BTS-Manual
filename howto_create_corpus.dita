@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_umb_xrq_nt">
-  <title>Creating / modifying a corpus</title>
+  <title>Create / modify a corpus</title>
   <body>
     <p> The following function is available to the user with global administrator privileges only.
       The detailed description of the UI elements can be found in <xref

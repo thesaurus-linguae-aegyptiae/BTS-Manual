@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_xpn_pqd_4r">
- <title>File</title>
+ <title>File / Create new project</title>
  <conbody>
   <p>Clicking on File opens a drop-down menu with the entries New / New Project, Insert, Exit BTS
    and Restart BTS.</p>
