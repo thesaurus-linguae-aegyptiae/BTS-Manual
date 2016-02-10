@@ -32,8 +32,8 @@
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus
         <i>"bbawamarna"</i>, but only a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt"
         >Transcriber</xref> in the corpus <i>"bbawbriefe"</i>.</p>
-    <p><u>NOTE</u>: a user role is only valid in the corpora, where it was assigned to the user by
-      BTS Administrator. For all other corpora, Thesaurus- and Lemma view, a user will immediately
+    <p>NOTE: a user role is only valid in the corpora, where it was assigned to the user by BTS
+      Administrator. For all other corpora, Thesaurus- and Lemma view, a user will immediately
       assume the role of a <xref href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
     <p><b>User status</b></p>
     <p>Additionally to user role, a status of a <i>Reader</i> or an <i>Updater</i> can be assigned
@@ -48,9 +48,9 @@
       have an Updater status) of a given corpus. This is done by right-clicking on a database
       object, selecting an option "Edit Updaters/Readers" and assigning a user to a user role
       through the menu on the right.</p>
-    <p><u>NOTE</u>: A Reader/Updater status for an entire corpus is not effective for individual
-      items within a corpus. I.e. such a status has to be assigned for users for every database
-      object where a user should have editing rights.</p>
+    <p>NOTE: A Reader/Updater status for an entire corpus is not effective for individual items
+      within a corpus. I.e. such a status has to be assigned for users for every database object
+      where a user should have editing rights.</p>
     <p><b>Visibility status</b></p>
     <p>Another factor restricting user rights is a <i>Visibility status</i> of a database object,
       which can be set in the Main Tab of the Passport Editor. The visibility status options are:

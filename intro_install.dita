@@ -11,8 +11,7 @@
     <p>- Manual (.pdf file) </p>
     <p>- Keyman Keyboard (aaew.kmx) </p>
     <p>- BBAW Libertine Font (BBAWLibertine_ah.ttf) </p>
-    <p>
-      <u>NOTE</u>: We recommend to create and use the "standard" directory on "C" drive: "c:\bts". </p>
+    <p> NOTE: We recommend to create and use the "standard" directory on "C" drive: "c:\bts". </p>
     <p><b>Installing BTS</b></p>
     <p>Double-click "bts.exe". The "BTS Installation Wizard" will start. Fill out the required
       fields in the following windows: </p>
