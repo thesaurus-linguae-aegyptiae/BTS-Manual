@@ -3,7 +3,7 @@
 <concept id="concept_rjs_nw2_yr">
  <title>Open User Manager</title>
  <conbody>
-  <p><u>NOTE</u>: This menu item is only available for an administrator!</p>
+  <p>NOTE: This menu item is only available for an administrator!</p>
   <p>To all other user types it is greyed out. Clicking on this menu item opens the window User
    Management with two tabs Manage Users and User Groups and Administrate User Roles and Rights.</p>
   <p><b>Manage Users and User Groups</b></p>
