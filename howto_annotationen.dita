@@ -4,7 +4,7 @@
  <title>4. Annotations, Rubra, Glosses and Comments</title>
  <conbody>
     <p>BTS text editing tools include an annotation, a rubrum, a gloss or a comment, which can be
-      applied to a word or a sequence of words, a sentence or several sentences.   </p>
+      applied to a word or a sequence of words, a sentence or several sentences. </p>
     <p><b>What is the difference between an annotation, a subtext, a rubrum or a comment?</b></p>
     <p><i>Annotation</i> is intended to provide the extra-textual information for parts of the text,
       which may include bibliographical references via Thesaurus. Annotations can thus include
@@ -14,6 +14,7 @@
       particular sections cannot be inserted in the transliteration in the Text Editor. </p>
     <p><i>Subtext</i> is use it to mark sections of a text in a case when the sequence of the
       chapters is not clear.</p>
+    <p><i>Gloss</i> is a brief explanation of the meaning of a word in a text.</p>
     <p><i>Rubrum</i> is used to mark rubrum in the text.</p>
     <p><i>Comment</i> is an information to a text which can discuss problems of a phrase or a word
       but cannot be related to other sections (unlike annotations, comments cannot have meta-data
@@ -21,7 +22,7 @@
     <p/>
     <p><b>To edit a text, use buttons above the "Text Editor" tab</b></p>
     <p>Mark the sequence you want to annotate: for only one word you just place the cursor within
-      the word;  if the word comprises a single character only, place the cursor directly behind the
+      the word; if the word comprises a single character only, place the cursor directly behind the
       character). You can create more than one annotation for the same token, and vice versa, the
       same annotation can be created for different tokens. </p>
     <p>NOTE: If buttons are deactivated, click somewhere outside of your text and then again in it. </p>
@@ -29,7 +30,7 @@
       <u>Add Annotation</u>
     </p>
     <p>Adds an <xref href="howto_annotationen.dita">Annotation</xref> to the selected part of your
-      text. A grey bar appears in the "Annotation" tab to the right, with a  thin like marking which
+      text. A grey bar appears in the "Annotation" tab to the right, with a thin like marking which
       part of the text the annotation refers to. It is possible to enter Passport Data, as you may
       want to provide meta-data (extra-textual information). </p>
     <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
@@ -41,7 +42,7 @@
     <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
       <u>Add Subtext/Gloss</u>
     </p>
-    <p>Can be used as either a subtext or a gloss . Clicking on a button will add a "child"-element
+    <p>Can be used as either a subtext or a gloss. Clicking on a button will add a "child"-element
       of your text in the corpora tree. It can be edited like a regular text. </p>
     <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
       <u>Add Comment</u>
