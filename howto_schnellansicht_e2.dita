@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_pxz_dzt_kr">
-  <title>Quick view</title>
+  <title>Adjusting display</title>
   <body>
-    <p>What is "Quick view"? Why "quick view"? </p>
-    <p><i>Explain the concept more thoroughly: step-by-step ( ex. minimize window - what do you see?
-        how to I get back to the normal view? What happens if I click on an icon of a window (it
-        opens in separate window). Maximize window, etc. )</i></p>
-    <p>When you have maximized or minimized one or several windows of the workspace (Corpus
-      Navigator, Text Editor, etc.), the respective icons will appear on the right or left side of
-      the program window. Clicking on the icon will open a "Quick view" or the selected window. </p>
-    <p/>
+    <p>BTS is flexible when it comes to the location and display of individual sections within
+      it.</p>
+    <p><b>Minimizing/Maximizing</b></p>
+    <p>Most sections can be minimized or maximized using those two buttons: <image
+        href="Images/icons/extra%20icons/minimize.png" id="image_mry_1y2_1v"/> and <image
+        href="Images/icons/extra%20icons/maximize.png" id="image_bns_by2_1v"/> respectively. When
+      you have maximized or minimized one or several sections of the workspace (Corpus Navigator,
+      Text Editor, etc.), the respective icons will appear on the right or left side of the program
+      window. See <xref href="oberflaeche_window.dita#concept_u43_vqd_4r">Window</xref> for
+      explanations of the icons.</p>
     <p>This example shows the maximized Text Editor. Other sections are minimized and displayed as
-      icons on the right and left (marked by a red rectangle).</p>
+      icons on the right and left (marked by a red rectangle). To restore minimized sections, click
+      either their icon or restore <image href="Images/icons/extra%20icons/restore.png"
+        id="image_eyc_dff_1v"/> icon above it.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Quick%20view.png"
         id="image_q3q_w1y_st"/></p>
-    <p>On mouse-over at <image href="Images/icons/full/icon16/corpora.png" id="image_k2m_fzd_4r"/> a
-      ToolTip "Corpus Navigator" will appear. If you click it, the quick view of the Corpus
-      Navigator will be displayed.</p>
-    <p>The symbol of the currently chosen quick view is encircled. The quick view is completely
-      functional . To close it, you need to click the symbol again. The entire window remains
-      minimized. </p>
+    <p><b>Moving sections</b></p>
+    <p>If you don't like the default arrangement of the BTS sections, most of them are moveable
+      (some have to stay together, like all the subsections of the Text Editor: Transliteration,
+      Sign Text Editor and JSesh View, all the subsections of the Passport Editor and the
+      subsections of the Corpus Navigator: Text Corpora and Bin). You can grab a tab and just pull
+      it to a different location within the workspace. Below is an example of rearranged sections.
+      Annotations have been moved next to the Corpus Navigator, Translation is placed below it, and
+      Text Editor no longer central. </p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/Workspace_rearranged.png"
+        id="image_xxg_pgf_1v"/></p>
+    <p>It is also possible to pull an entire section completely out of the program window. See
+      screenshot below for an example. The sections that have been removed from the program and now
+      have individual windows cannot be put back in. You will have to restart the BTS in order to
+      have the default view again.</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/Display_moving_windows.png"
+        id="image_bvs_lkf_1v"/></p>
   </body>
 </topic>
