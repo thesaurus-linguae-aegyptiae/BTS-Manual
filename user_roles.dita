@@ -4,7 +4,7 @@
   <title>User roles description</title>
   <body>
     <p/>
-    <p>User rights in BTS are defined by the interplay of the following factors: </p>
+    <p>User rights in BTS are defined by interplay of the following factors: </p>
     <p>- <i>user role</i> with respect to particular corpora</p>
     <p>- <i>user status</i> with respect to particular database objects</p>
     <p>- <i>visibility status</i> of particular database objects</p>
@@ -31,23 +31,23 @@
       roles in different corpora (but just one user role per corpus). E.g. a user can be an <xref
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus
         <i>"bbawamarna"</i>, but only a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt"
-        >Transcriber</xref> in the corpus <i>"bbawbriefe"</i>.</p>
-    <p>NOTE: a user role is only valid in the corpora, where it was assigned to the user by BTS
-      Administrator. For all other corpora, Thesaurus- and Lemma view, a user will immediately
-      assume the role of a <xref href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
+        >Transcriber</xref> in the corpus <i>"bbawbriefe"</i>. </p>
+    <p>NOTE: Unless specifically set by BTS administrator, the default user role with respect to all
+      corpora as well as Thesaurus and Lemma-list is <xref
+        href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
     <p><b>User status</b></p>
     <p>Additionally to user role, a status of a <i>Reader</i> or an <i>Updater</i> can be assigned
       to a particular user with respect to specific database objects. For that right-click on an
       item and select "Edit Updaters / Readers"</p>
-    <p>For instance a Researcher with status of an Updater can edit all items in a given corpus, but
-      when his or her status is changed to Reader he or she can only view the items. Updater and
+    <p>For instance a Researcher with status of an Updater can edit all items in a given corpus. If
+      his / her status is changed to Reader, they will only be able to view the items. Updater and
       Reader status of specific database objects of a corpus can be assigned to a user by <xref
         href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>,<xref
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> or <xref
-        href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> (the latter must already
-      have an Updater status) of a given corpus. This is done by right-clicking on a database
-      object, selecting an option "Edit Updaters/Readers" and assigning a user to a user role
-      through the menu on the right.</p>
+        href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> (the latter should have
+      an Updater status) of a given corpus. This is done by right-clicking on a database object,
+      selecting an option "Edit Updaters/Readers" and assigning a user to a user role through the
+      menu on the right.</p>
     <p>NOTE: A Reader/Updater status for an entire corpus is not effective for individual items
       within a corpus. I.e. such a status has to be assigned for users for every database object
       where a user should have editing rights.</p>
