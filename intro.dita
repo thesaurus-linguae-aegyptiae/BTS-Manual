@@ -15,26 +15,27 @@
    any BTS user. The ability to modify the lemma list depends on the individual user rights. Each
    lemma has passport data, transliteration and translation, as well as annotations and comments
    attributed to it.</p>
-  <p>Thesaurus compiles the formalized vocabulary (called "controlled vocabulary"), which is used
-   for the metadata of the database objects. Thesaurus entries are offered in the Passport Editor
-   section of the Text Corpus and Lemma views. </p>
+  <p>Thesaurus compiles the formalized vocabulary (also called "controlled vocabulary"), which is
+   used for the metadata of the database objects. Thesaurus entries are offered in the Passport
+   Editor section of the Text Corpus and Lemma views. </p>
   <p>User Manual offers the overview of the features now available in BTS V.3.0. </p>
   <p>
    <ul id="ul_lwg_xy1_pt">
     <li><b>Introduction</b> chapter provides the description of the system requirements as well as
-     step-by-step instructions for BTS installation and initial configuration. It also includes user
-     roles description.</li>
+     step-by-step instructions for BTS installation and initial configuration. It also includes the
+     description of the user roles. </li>
    </ul>
   </p>
   <p>
    <ul id="ul_a1f_mz1_pt">
     <li><b>User guide</b> allows a prompt and easy start into using BTS.</li>
-    <li><b>Administrator guide</b> dwells on BTS features available for administrator only. </li>
+    <li><b>Administrator guide</b> dwells on BTS features available for the user with administrator
+     privileges. </li>
    </ul>
   </p>
   <p>
    <ul id="ul_jhq_nz1_pt">
-    <li><b>BTS User Interface </b> is a detailed explanation of all elements available on the BTS
+    <li><b>BTS User Interface </b> is a detailed explanation of all elements available in the BTS
      user interface. This chapter serves as a reference for "User guide" and "Administrator
      guide".</li>
     <li><b>BTS Grammar Rules </b> is a compilation of the rules BTS uses for transliteration and

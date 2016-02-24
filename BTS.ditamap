@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Berlin Text System V 3.0 User Manual </title>
+ <title>Berlin Text System 3.0 User Manual (V 1.0) </title>
  <topicref href="intro.dita">
   <topicref href="intro_system.dita"/>
   <topicref href="intro_install.dita"/>
@@ -16,6 +16,7 @@
    <topicref href="UserRoles_Researcher.dita"/>
    <topicref href="UserRoles_Transcriber.dita"/>
    <topicref href="UserRoles_Guest.dita"/>
+   <topicref href="topic.dita"/>
   </topicref>
   <topicref href="intro_ui_glossary.dita"/>
  </topicref>
@@ -133,7 +134,7 @@
      <topicref href="thesaurus_passport_date.dita"/>
      <topicref href="thesaurus_passport_bibliography.dita"/>
      <topicref href="thesaurus_passport_coordinates.dita"/>
-     <topicref href="topic.dita"/>
+     <topicref href="thesaurus_synonyms.dita"/>
     </topicref>
     <topicref href="oberflaeche_thesaurus_annotation.dita"/>
    </topicref>

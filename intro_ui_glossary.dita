@@ -4,10 +4,9 @@
  <title>Glossary</title>
  <shortdesc></shortdesc>
  <conbody>
-  <p></p>
-  <p>This manual uses the following terms adopted from the "Glossary of UI terminology" by
-         Microsoft. </p>
-  <p><ul id="ul_udd_vkp_ps">
+      <p/>
+      <p>This manual used the following terms to for the description of the user interface:</p>
+      <p><ul id="ul_udd_vkp_ps">
             <li>Menu bar</li>
             <li>Drop-down menu</li>
             <li>Drop-down menu entry<p><image
@@ -27,15 +26,21 @@
             href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
             id="image_qp5_syw_st"/><ul id="ul_j4y_5vm_y5">
             <li>Navigation tree </li>
-            <li>Node (an entry in a navigation tree, can be further expanded, ex. text corpus, text
-               corpus object or a text) = Branch. <p><image
+            <li>Node (= Branch) - entry in a navigation tree, which can be further expanded, ex.
+               text corpus, text corpus object or a text.  <p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
-                     id="image_vgm_5yw_st"/></p></li>
-            <li>Text corpus object vs. Database object</li>
-            <li>Child-Parent relation</li>
+                     id="image_vgm_5yw_st"/></p><p/><p>Moreover the following terms are
+               used:</p></li>
+            <li>Database object - any item of the database (text, word, object etc.)</li>
+            <li>Text corpus object - an item of the database, referring to a physical object. Texts
+               and text corpus objects are in child-parent relation, i.e. text is always attributed
+               to the object. </li>
+            <li>Child-parent relation: the relation of subordination between two items of the
+               database. </li>
             <li>Lemma / Token</li>
-            <li>Local - remote /central database</li>
+            <li>Local and remote central database: local databases are running on user's PCs, remote
+               databases are located on BTS central server in Berlin. </li>
             <li>WCN - word count number</li>
          </ul></p>
- </conbody>
+   </conbody>
 </concept>
