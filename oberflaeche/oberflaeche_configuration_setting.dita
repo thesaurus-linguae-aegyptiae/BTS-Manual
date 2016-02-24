@@ -3,7 +3,7 @@
 <concept id="concept_fvw_qld_cs">
  <title>Edit configuration</title>
  <conbody>
-  <p>NOTE: This function is available to the user with global administrator privileges only.</p>
+  <p>This function is available to the user with global administrator privileges only.</p>
   <p>To open the configuration window, select "Edit Configuration" from the drop-down menu of the
    menu bar. </p>
   <p>A "Currently Active Configuration" by default is "Altägyptisches Wörterbuch (AAEW)", but if
