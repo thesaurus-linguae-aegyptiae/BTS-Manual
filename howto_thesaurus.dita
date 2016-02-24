@@ -3,8 +3,7 @@
 <topic id="topic_sjw_lvx_st">
   <title>Create a thesaurus entry</title>
   <body>
-    <p>NOTE: This option is available to the user with the administrator privileges for the
-      thesaurus!</p>
+    <p>This option is available to the user with the administrator privileges for the thesaurus!</p>
     <p>The main function of the Thesaurus is to provide standardized vocabulary for the text
       meta-data (extra-textual information), like dating, location or material. For a detailed
       description of the individual elements of the Thesaurus view see <xref
