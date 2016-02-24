@@ -15,12 +15,8 @@
         <li>Can assign reader/updater status for other users, but only for his or her own database
           objects.</li>
         <li>Researcher can change his/her own status from an Updater to a Reader for a database
-          object and thus lose his/her editing rights. He / She will not be able to upgrade the
-          status again, i.e. to change back to the Updater.
-          <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>Also removing his
-          status completely from an object with a visibility status <u>Reader, Group or Project</u>
-          will not cause the object to become invisible.</li>
-        <?oxy_custom_end?>
+          object and thus lose his/her editing rights. He/She will not be able to upgrade the status
+          again, i.e. to change back to the Updater.</li>
       </ul>
     </p>
     <p><b>Limitations</b></p>

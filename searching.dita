@@ -18,29 +18,24 @@
       results can become complex and confusing (the searching procedure will include any data
       existing in the database including passport data, comments, annotations etc. and therefore you
       might not know where to find the result you are looking for).</p>
+    <p>When you want to locate a specific database object within a project there are two
+      possibilities for the search:</p>
     <p>
-      <ul id="ul_qw2_xc3_nt">
-        <li>When you want to locate a specific database object within a project there are two
-          possibilities for the search:<p>
-            <ol id="ol_fnc_3d3_nt">
-              <li> When you know the ID of a database object, enter the ID into the input field and
-                activate the check box "Search for IDs". </li>
-              <li> If the ID is unknown you can search the name of a database object and activate
-                the check box "Search for Names only". To minimize the result use search-phrases and
-                put them into quotation marks " ".</li>
-            </ol>
-          </p></li>
-      </ul>
-      <ul id="ul_lhy_2d3_nt">
-        <li>When you want to locate specific data inside of database objects you can do this by just
-          entering specific values into the input field without clicking any check boxes. To
-          minimize the result use search-phrases and put them into " ". At the moment there is no
-          option to limit this kind of search to specific sections of the database objects data
-          (e.g. the phrase "ḫpr,w.pl ḥr ḫpr" will be displayed twice in the searching-result if it
-          appears inside the transliteration in Text Editor and is part of any comment or passport
-          data. If you search for a word or a phrase that may appear in the text translation,
-          comments or passport data, it will be displayed multiple times in the results.).</li>
-      </ul>
+      <ol id="ol_o4m_sv2_1v">
+        <li>If you know the ID of a database object, enter the ID into the input field and activate
+          the check box "Search for IDs". </li>
+        <li>If the ID is unknown you can search the name of a database object and activate the check
+          box "Search for Names only". To minimize the result use search-phrases and put them into
+          quotation marks " ".</li>
+      </ol>
     </p>
+    <p>When you want to locate specific data inside of database objects you can do this by just
+      entering specific values into the input field without clicking any check boxes. In order to
+      restrict the result, use search phrases and put them into " ". At the moment there is no
+      option to limit this kind of search to specific sections of the database objects data (e.g.
+      the phrase "ḫpr,w.pl ḥr ḫpr" will be displayed twice in the searching result if it appears
+      inside the transliteration in Text Editor and is part of any comment or passport data). If you
+      search for a word or a phrase that may appear in the text translation, comments or passport
+      data, it will be displayed multiple times for one text in the results.</p>
   </body>
 </topic>

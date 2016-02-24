@@ -28,16 +28,15 @@
           of the selected word.</li>
         <li>In the field "Translation" you can choose one or several fitting translations from the
           lower field (in the example there is only one option, but there can be more). Make sure to
-          have selected the right language in the drop-down menu on the right.
-          <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Your default language is
-          the one connected to your login data<?oxy_custom_end?>. Choose several available
+          have selected the correct language in the drop-down menu on the right. The only choices
+          currently available for the Lemmatizer are German and English. Choose several available
           translations by left-clicking and holding CTRL at the same time. If none of the options
           seems fitting to you, you can enter your own translation as well.</li>
       </ol>
     </p>
     <p>If you cannot find a lemma, click the magnifying glass <image
         href="Images/icons/full/icon16/search.png" id="image_zyn_pqp_nt"/> and search for it in the
-      lemma list by entering the WCN (word count number) or the name of the lemma. You can also
+      lemma list by entering the WCN (word corpus number) or the name of the lemma. You can also
       reduce the search results by using the filters "Search for IDs" or "Search for Names only".
       Additionally, you can automatically add wild cards / quotation marks by clicking the provided
       buttons in the Search pop-up. More on search function see the corresponding <xref

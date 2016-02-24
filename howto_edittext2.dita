@@ -3,9 +3,15 @@
 <topic id="topic_k3c_35y_qt">
   <title>Edit a text</title>
   <body>
-    <p>To edit a text, select it in the corpora tree in the <xref
-        href="oberflaeche_corpusnavigator_e9.dita#concept_axv_vfm_mr">Corpus Navigator</xref>.
-      However, you first need to <xref href="intro_install_keyboard.dita"> install and configure the
-        keyboard</xref>, provided by the BBAW.</p>
+    <p>The process of editing a text begins with entering the transliteration in the Text Editor
+      Transliteration field. However, in order to enter a transliteration, you first need to <xref
+        href="intro_install_keyboard.dita"> install and configure the keyboard</xref> provided by
+      the BBAW. Other steps in the text editing process involve lemmatizing (analyzing a word
+      regardless of its inflected forms) of your transliterated text, assigning <xref
+        href="grammar_flexioCodes.dita#concept_zjw_dsx_nt">inflection codes</xref> to the lemma,
+      entering translation and hieroglyphs to the text. You can also add comments, rubra, etc. to
+      the transliteration whenever you wish. The following order of editing is not compulsory. It is
+      only supposed to help you with particular functions of the BTS. It is up to you to decide the
+      order of the text editing.</p>
   </body>
 </topic>
