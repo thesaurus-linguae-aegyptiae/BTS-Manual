@@ -7,23 +7,35 @@
    the relationship between the selected object and its parent object ("Part of").</p>
   <p><b>Relation</b></p>
   <p> Choose an option from the drop-down menu:</p>
-  <p><u>Partof</u></p>
-  <p>Your current item is a part (child) of another item.</p>
-  <p>The following options are offered but are not relevant for the Text Corpus at the moment:</p>
-  <p><u>Family</u>
+  <p>
+   <ul id="ul_zzb_3ky_bv">
+    <li>Partof: Your current item is a part (child) of another item.</li>
+   </ul>
   </p>
-  <p><u>is composed of</u></p>
-  <p><u>is cross-reference to</u></p>
+  <p>
+   <ul id="ul_eyq_lky_bv">
+    <li>Family </li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_owh_mky_bv">
+    <li>is composed of</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_okq_mky_bv">
+    <li>is cross-reference to</li>
+   </ul>
+  </p>
+  <p>The last three options are offered but are not relevant for the Text Corpus at the moment. </p>
   <p><b>Object</b>: Enter the Name of the related object here.</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/>
-   <u>Search Object</u></p>
-  <p>Search for the object in the corpora of your current project, so that you do not have to enter
-   it manually. The search may take a few seconds until results are displayed.</p>
+   <b>Search Object</b>: Search for the object in the corpora of your current project, so that you
+   do not have to enter it manually. The search may take a few seconds until the results are
+   displayed.</p>
   <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
-   <u>Add Relation</u></p>
-  <p>Click it to add more relations between yours and other items.</p>
+   <b>Add Relation</b>: Click it to add more relations between yours and other items.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
-   <u>Remove Widget</u></p>
-  <p>This removes a relation from the object.</p>
+   <b>Remove Widget</b>: This removes a relation from the object.</p>
  </conbody>
 </concept>

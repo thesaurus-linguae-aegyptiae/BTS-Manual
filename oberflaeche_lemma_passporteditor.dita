@@ -3,20 +3,25 @@
 <concept id="concept_ws4_2pd_4r">
  <title>Passport Editor</title>
  <conbody>
-    <p>In the default view, the Passport Editor is located in the lower centre of the workspace
-      together with two other tabs: Lemmatizer and HTW. It contains the metadata of lemmata. It is
-      divided into different subsections which are organized in tabs inside it. In the case of the
-      Lemma view these tabs are: Main tab, Relations, IDs, Definition, Bibliography, Lemma plus the
-      toolbar.</p>
+    <p>Passport Editor is per default located at the bottom centre of the workspace together with
+      two other tabs: Lemmatizer and HTW. It contains the metadata of lemmata. It is divided into
+      different tabs. In the case of the Lemma view these tabs are: Main, Relations, IDs,
+      Definition, Bibliography, Lemma plus the toolbar. The toolbar will be explained first.</p>
     <p><b>Toolbar</b></p>
     <p>Clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_q5d_4fc_qr"/>
-      opens the Menu (see <xref href="oberflaeche_funktionen_e5.dita#topic_krj_pyk_mr">Common
-        features</xref>) containing the following entries:</p>
-    <p><u>Inherit Passport Data</u></p>
-    <p>This function can also be triggered by left-clicking <image
-        href="Images/icons/full/icon16/inherit.png" id="image_tzz_pfc_qr"/>. It transfers the data
-      from a higher level lemma to a lower level (root entry to child entry).</p>
-    <p><u>Inherit Overwrite Passport Data</u></p>
-    <p>Using this option overwrites passport data if it has already been committed before.</p>
+      opens the Menu containing the following entries:</p>
+    <p>
+      <ul id="ul_ff1_kkf_cv">
+        <li>Inherit Passport Data: This function can also be triggered by clicking on<image
+            href="Images/icons/full/icon16/inherit.png" id="image_tzz_pfc_qr"/>. It transfers the
+          data from a higher level lemma to a lower level (root entry to child entry).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ast_mkf_cv">
+        <li>Inherit Overwrite Passport Data: This option overwrites passport data if it has already
+          been entered</li>
+      </ul>
+    </p>
   </conbody>
 </concept>

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_jqz_5wf_yr">
- <title>Definition</title>
+ <title>Description</title>
  <conbody>
   <p>This tab serves to describe your object and record your working process. Editor's comments can
    also be added here. Use the provided input fields:</p>
-  <p><u>Definition</u></p>
-  <p>Define the type of your thesaurus entry here.</p>
-  <p><u>Comment</u></p>
-  <p>Comment your work.</p>
+  <p>
+   <ul id="ul_nzh_c1g_cv">
+    <li>Description: Describe the type of your thesaurus entry here.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_d44_d1g_cv">
+    <li>Comment: Comment your work.</li>
+   </ul>
+  </p>
  </conbody>
 </concept>

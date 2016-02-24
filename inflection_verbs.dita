@@ -4,16 +4,17 @@
   <title>Inflection of Verbs</title>
   <body>
     <p><b>Suffix conjugation</b></p>
-    <p>Entering the inflection of verbs only represents the verbal genus, but neither semantic nor
-      syntactic information. Attached suffixes have numbers for each pronoun, counted from 1 to 9.
-      These numbers will be combined with the numbers of the verb forms, see below. For the list of
-      suffix pronoun inflection numbers see LINK. Inflected verbs with a nominal subject are
-      expressed by number "0".</p>
-    <p><u>Example</u>:</p>
+    <p>Entering the inflection of verbs only represents the verbal genus (?????), but neither
+      semantic nor syntactic information. Attached suffixes have numbers for each pronoun, counted
+      from 1 to 9. These numbers will be combined with the numbers of the verb forms, see below.
+      Inflected verbs with a nominal subject are expressed by number "0".</p>
+    <p>
+      <ul id="ul_ag3_hfg_cv">
+        <li>Example:</li>
+      </ul>
+    </p>
     <p>Suffix conjugation (="SC"), base stem. (="base"), active: <i>jri̯.n=f</i> : 10384 ("10380"
       for the verbal inflection + "4" for suffix, 3rd p. sg. m.)</p>
-    <p/>
-    <p><u/></p>
     <p>10000 -> "SC"</p>
     <p>11000 -> "pref. SC"</p>
     <p>10020 -> "SC.act.base"</p>

@@ -3,21 +3,30 @@
 <concept id="concept_wpd_hqd_4r">
  <title>Passport Editor</title>
  <conbody>
-  <p>The Passport Editor is located in the lower centre of the default workspace. It contains the
-      metadata of thesaurus entries. The Passport Editor is divided into different subsections which
-      are organized in tabs inside this section. </p>
-  <p><b>Toolbar</b></p>
-  <p>There are several buttons on the toolbar of the Passport Editor: </p>
-  <p><image href="Images/icons/full/icon16/inherit.png" id="image_np2_22c_qr"/>
-   <u>Inherit Passport Data From Parent Object</u></p>
-  <p>Copy all data of a parent Thesaurus object and apply it for the active child (a child entry may
-   have the same metadata as its parent). If several pieces of data are different in the child
-   entry, fill them in beforehand - they will not be overwritten.</p>
-  <p><image href="Images/icons/extra%20icons/options_dreieck.png" id="image_q5d_4fc_qr"/>
-   <u>Menu</u></p>
-  <p>Open a drop-down menu with two entries: <image href="Images/icons/full/icon16/inherit.png"
-    id="image_tzz_pfc_qr"/> Inherit Passport Data and Inherit Overwrite Passport Data.</p>
-  <p>The second option gives you the opportunity to overwrite already filled in blanks with the
-   parent object's metadata.</p>
+    <p>Passport Editor is per default located at the upper centre of the workspace. It contains the
+      metadata of thesaurus entries. Information in the Passport Editor is split between different
+      tabs. </p>
+    <p><b>Toolbar</b></p>
+    <p>There are several buttons on the toolbar of the Passport Editor: </p>
+    <p><image href="Images/icons/full/icon16/inherit.png" id="image_np2_22c_qr"/> Inherit Passport
+      Data From Parent Object:</p>
+    <p>Copy all data of a parent Thesaurus object and apply it for the active child (a child entry
+      may have the same metadata as its parent). If several pieces of data are different in the
+      child entry, fill them in beforehand - they will not be overwritten.</p>
+    <p><image href="Images/icons/extra%20icons/options_dreieck.png" id="image_l45_byf_cv"/> Menu:
+      opens the menu containing the following entries:</p>
+    <p>
+      <ul id="ul_ff1_kkf_cv">
+        <li>Inherit Passport Data: This function can also be triggered by left-clicking <image
+            href="Images/icons/full/icon16/inherit.png" id="image_tzz_pfc_qr"/>. It transfers the
+          data from a higher level lemma to a lower level (root entry to child entry).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ast_mkf_cv">
+        <li>Inherit Overwrite Passport Data: This option overwrites passport data if it has already
+          been entered</li>
+      </ul>
+    </p>
  </conbody>
 </concept>

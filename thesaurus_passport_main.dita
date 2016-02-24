@@ -6,33 +6,69 @@
         <p><image href="Images/icons/full/icon16/passport.png" id="image_ecw_mvh_sr"/> The text
             input fields and drop-down menus give you several options to enter technical information
             of your thesaurus entry.</p>
-  <p><u>Name</u>
-        </p>
-        <p>You can enter or change the name of your entry.</p>
-  <p><u>Type</u> and <u>Subtype</u></p>
-        <p>Choose a type and subtype (e.g. language, date, script) from the <xref
-                href="howto_thesaurus.dita">Thesaurus</xref>.</p>
-  <p><u>SortKey</u></p>
-        <p>Rearrange the entries in the Thesaurus Navigator tree (the default order is
-            alphabetical).</p>
-  <p><u>ID</u></p>
-        <p>Displays the ID of the entry.</p>
-  <p><u>Author</u></p>
-        <p>Displays the author of an entry. </p>
-  <p><u>Date</u></p>
-        <p>Displays the date of the creation of the entry. </p>
-  <p><u>Visibility</u></p>
-        <p>Change who can see the entry (public, project, group, user).</p>
-  <p><u>Review State</u></p>
-        <p>Enter or edit the Review state of the object or text (published, reviewed,
-            awaiting-update, awaiting-review, transformed_awaiting_update, new). </p>
-  <p><u>Project</u></p>
-        <p>Move the thesaurus entry to another project. </p>
-  <p><u>Corpus</u></p>
-        <p>Change the corpus you are working in. Both "Project and "Corpus" can be edited by
-            clicking the <image href="Images/icons/full/icon16/preferences.png"
-                id="image_jdd_xxh_sr"/> button.</p>
-        <p><u>History</u></p>
-        <p>Displays the history of editing of the thesaurus entry.</p>
+  <p>
+                  <ul id="ul_s4m_wyf_cv">
+                        <li>Name: Enter or change the name of your entry.</li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_dq2_yyf_cv">
+                        <li>Type and Subtype: Choose a type and subtype (e.g. language, date,
+                              script) from the <xref href="howto_thesaurus.dita"
+                              >Thesaurus</xref>.</li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_vxg_zyf_cv">
+                        <li>SortKey: Rearrange the entries in the Thesaurus Navigator tree (the
+                              default order is alphabetical).</li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_m2n_bzf_cv">
+                        <li>ID: Displays the ID of the entry.</li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_ws3_czf_cv">
+                        <li>Author: Displays the author of an entry. </li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_m2s_dzf_cv">
+                        <li>Date: Displays the date of the creation of the entry. </li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_rk1_2zf_cv">
+                        <li>Visibility: Change who can see the entry (public, project, group,
+                              user).</li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_m2c_fzf_cv">
+                        <li>Review State: Enter or edit the Review state of the object or text
+                              (published, reviewed, awaiting-update, awaiting-review,
+                              transformed_awaiting_update, new). </li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_r41_gzf_cv">
+                        <li>Project: Move the thesaurus entry to another project. </li>
+                  </ul>
+            </p>
+  <p>
+                  <ul id="ul_hv2_hzf_cv">
+                        <li>Corpus: Change the corpus you are working in. Both "Project and "Corpus"
+                              can be edited by clicking the <image
+                                    href="Images/icons/full/icon16/preferences.png"
+                                    id="image_jdd_xxh_sr"/> button.</li>
+                  </ul>
+            </p>
+        <p>
+                  <ul id="ul_mc1_3zf_cv">
+                        <li>History: Displays the history of editing of the thesaurus entry.</li>
+                  </ul>
+            </p>
  </conbody>
 </concept>

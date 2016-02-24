@@ -5,17 +5,27 @@
  <conbody>
     <p>The Text tab allows you to enter textual metadata for the text. It is displayed for a text
       only. </p>
-    <p><u>Language</u></p>
-    <p>Edit the language of the text by choosing an entry from the Thesaurus <image
-        href="Images/icons/full/icon16/search.png" id="image_fmw_kzh_sr"/> (entry 4- Sprachen).</p>
-    <p><u>Script</u></p>
-    <p>Edit the script of the text by choosing an entry from the Thesaurus <image
-        href="Images/icons/full/icon16/search.png" id="image_u5w_gzh_sr"/> (entry 5-
-      Schriftformen).</p>
-    <p><u>Texttype</u></p>
-    <p>Edit the type of the text by choosing an entry from the Thesaurus <image
-        href="Images/icons/full/icon16/search.png" id="image_vcl_pzh_sr"/> (entry 11-
-      Textsorten).</p>
+    <p>
+      <ul id="ul_qsl_yx2_cv">
+        <li>Language: Edit the language of the text by choosing an entry from the Thesaurus <image
+            href="Images/icons/full/icon16/search.png" id="image_fmw_kzh_sr"/> (entry 4-
+          Sprachen).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_a2b_zx2_cv">
+        <li>Script: Edit the script of the text by choosing an entry from the Thesaurus <image
+            href="Images/icons/full/icon16/search.png" id="image_u5w_gzh_sr"/> (entry 5-
+          Schriftformen).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_q2q_zx2_cv">
+        <li>Texttype: Edit the type of the text by choosing an entry from the Thesaurus <image
+            href="Images/icons/full/icon16/search.png" id="image_vcl_pzh_sr"/> (entry 11-
+          Textsorten).</li>
+      </ul>
+    </p>
   <p>You can, of course, comment your data in the relevant "Comment" fields. </p>
  </conbody>
 </concept>

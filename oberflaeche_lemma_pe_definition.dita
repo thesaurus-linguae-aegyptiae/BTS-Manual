@@ -5,9 +5,15 @@
   <body>
     <p>This tab is to define your lemma and record your working process. Editor's comments can also
       be added here. Use the provided input fields:</p>
-    <p><u>Definition</u></p>
-    <p> Describe the type of your lemma here.</p>
-    <p><u>Comment</u></p>
-    <p>Comment your work.</p>
+    <p>
+      <ul id="ul_m12_znf_cv">
+        <li>Description:  Describe the type of your lemma here.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_pd1_b4f_cv">
+        <li>Comment: Comment your work.</li>
+      </ul>
+    </p>
   </body>
 </topic>

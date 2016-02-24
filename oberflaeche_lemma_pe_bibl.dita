@@ -4,17 +4,29 @@
   <title>Bibliography</title>
   <body>
     <p>Enter a bibliographical information using the Thesaurus here. The tab contains: </p>
-    <p><u>Bibliographical text field</u></p>
-    <p>A field where you can enter the bibliographical data manually. Currently it is recommended to
-      use this field only. </p>
-    <p><u>Bibliographical entry: Bib. item</u>
+    <p>
+      <ul id="ul_cml_24f_cv">
+        <li>Bibliographical text field: A field where you can enter the bibliographical data
+          manually. Currently it is recommended to use this field only. </li>
+      </ul>
     </p>
-    <p>Navigate through the corresponding Thesaurus with <image
-        href="Images/icons/full/icon16/search.png" id="image_q3l_yfp_sr"/>
-      <u>Search</u> to find the correct bibliographical reference. </p>
-    <p><u>Bibliographical entry: Pages / plates</u></p>
-    <p>Enter the plate number and select the check box with a letter below. </p>
-    <p><u>Bibliographical entry: Comment</u></p>
-    <p>Use this input field to comment your reference.</p>
+    <p>
+      <ul id="ul_pnf_f4f_cv">
+        <li>Bibliographical entry (Bib. item): Navigate through the corresponding Thesaurus with
+            <image href="Images/icons/full/icon16/search.png" id="image_q3l_yfp_sr"/>
+          <u>Search</u> to find the correct bibliographical reference. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_iy2_g4f_cv">
+        <li>Bibliographical entry (Pages / plates): Enter the plate number and select the check box
+          with a letter below. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_xzz_g4f_cv">
+        <li>Bibliographical entry (Comment): Use this input field to comment your reference.</li>
+      </ul>
+    </p>
   </body>
 </topic>

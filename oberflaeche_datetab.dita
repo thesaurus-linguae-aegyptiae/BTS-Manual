@@ -5,21 +5,20 @@
  <conbody>
   <p>Define the dating of the selected item. It is necessary to use the "Search" button and use the
    Thesaurus entries. The rights to modify object's date data depend on your user role for the
-   selected corpus.</p>
+   selected corpus. Enter the data in the text input fields "date" (via "Search") and "comment".</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_fvk_4xf_yr"/>
-   <u>Search</u></p>
+   <u>Search</u>: </p>
   <p>Click to search the Thesaurus for valid dates.</p>
   <p><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_pxk_4xf_yr"/>
-   <u>Add widget:</u>
-  </p>
+   <u>Add widget:</u>: </p>
   <p>Click to add another date text input field if the object or text can only be dated between a
    terminus post quem and a terminus ante quem. Use the first date field for the earlier date and
    the second date field for the later date. </p>
   <p><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_p1l_4xf_yr"/>
-   <u>Remove widget</u></p>
+   <u>Remove widget</u>: </p>
   <p>Click to delete a "date" text input field.</p>
   <p><image href="Images/icons/full/obj16/widget-group-add.png" id="image_adl_4xf_yr"/>
-   <u>Add Entry group</u></p>
+   <u>Add Entry group</u>: </p>
   <p>Click to add a new entry group, containing both "date" and "comment" text input fields. </p>
   <p>This feature is available to make "from" and "to" dating possible. </p>
  </conbody>

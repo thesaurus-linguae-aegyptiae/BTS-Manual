@@ -20,9 +20,9 @@
       work in the database object it will be inactive (grey) and after saving it will return to the
       inactive state. If you attempt to close the program the window will ask you to save your
       changes unless you already have done a save before. </p>
-    <p>NOTE There is no autosave in BTS 3.0, but the program will save your file after
-      opening/displaying/switching to a different database object. Make sure you save your work in
-      regular intervals to avoid loss of input!</p>
+    <p>NOTE: There is no auto-save in BTS 3.0, but the program will save your file when you click on
+      another database object. Make sure you save your work in regular intervals to avoid loss of
+      input!</p>
     <p><image href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r"/>
       <u>Save all </u></p>
     <p>Save all changes in all the database objects you have worked on.</p>
@@ -39,10 +39,9 @@
     <p><image href="Images/icons/full/icon16/preferences.png" id="image_rkn_4nr_4r"/>
       <u>Preferences</u>
     </p>
-    <p>This option is available two times on the toolbar and leads to Preferences / Project
-      Settings. </p>
+    <p>This option is available twice on the toolbar and leads to Preferences / Project Settings. </p>
     <p>Next to the cup <image href="Images/icons/full/icon16/user.png" id="image_chv_5nr_4r"/> the
-      user currently logged in is shown. Next to pencil <image
+      currently logged in user is shown. Next to pencil <image
         href="Images/icons/full/icon16/edit.png" id="image_cbs_ynr_4r"/> and key <image
         href="Images/icons/full/icon16/userrole.png" id="image_g5n_14r_4r"/> the user role is
       visible. </p>

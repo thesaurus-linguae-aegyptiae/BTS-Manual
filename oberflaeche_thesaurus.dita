@@ -4,11 +4,12 @@
  <title>Thesaurus</title>
  <conbody>
   <p>The Thesaurus view can be activated by clicking the <image
-                href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr"/> Thesaurus icon in
-            the <xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>. The Thesaurus contains a
-            uniform terminology, which can be used for the object's metadata (Passport data). New
-            entries can be added as well. Any user can see the contents of the Thesaurus view,
-            although the ability to modify them is restricted by the relevant user role. </p>
+                href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr"/> "Thesaurus" icon in
+            the <xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>. Thesaurus contains a
+            uniform terminology, which is used for the database object's metadata (also called
+            "passport data"). New entries can be added here as well. Any user can see the contents
+            of the Thesaurus view, although the ability to modify them is restricted by the relevant
+            user role. </p>
   <p>The three windows from left to right are: Thesaurus Navigator, Passport Data Editor,
       Annotations.</p>
         <p><image href="Images/new%20screenshots/BTS%20Screenshots/Ths_view.png"

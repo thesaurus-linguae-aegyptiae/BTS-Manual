@@ -4,14 +4,16 @@
  <title>Bibliography</title>
  <conbody>
   <p>Enter the bibliographical information here. This tab contains: </p>
-  <p><u>Bibliographical text field</u></p>
-  <p><u>Bibliographical entry / Bib. item</u></p>
-  <p>Navigate through Thesaurus with <image href="Images/icons/full/icon16/search.png"
-    id="image_q3l_yfp_sr"/>
-   <u>Search</u> to find the correct bibliographical reference. </p>
-  <p><u>Bibliographical entry / pages/plates</u></p>
-  <p>Enter the plate number and select the check box with a letter below. </p>
-  <p><u>Comment</u></p>
-  <p>Use this input field to comment your reference.</p>
+  <p>
+   <ul id="ul_d1v_g1g_cv">
+    <li>Bibliographical text field</li>
+    <li>Bibliographical entry ( Bib. item) : Navigate through Thesaurus with <image
+      href="Images/icons/full/icon16/search.png" id="image_q3l_yfp_sr"/> "Search" to find the
+     correct bibliographical reference. </li>
+    <li>Bibliographical entry (pages/plates): Enter the plate number and select the check box with a
+     letter below. </li>
+    <li>Comment: Use this input field to comment your reference.</li>
+   </ul>
+  </p>
  </conbody>
 </concept>

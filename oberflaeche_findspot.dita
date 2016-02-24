@@ -9,32 +9,47 @@
   <p><b>Place</b></p>
   <p>
    <ul id="ul_asf_55b_55">
-    <li>Place</li>
+    <li>Place: Choose the findspot from the Thesaurus.</li>
    </ul>
   </p>
-  <p>Choose the findspot from the Thesaurus.</p>
   <p>
    <ul id="ul_vdd_w5b_55">
-    <li>Comment</li>
+    <li>Comment: Add a comment to the findspot.</li>
    </ul>
   </p>
-  <p>Add a comment to the findspot.</p>
-  <p><u>is_origin</u></p>
-  <p>Select this check box if the chosen findspot is the original site where the object was
-   created.</p>
-  <p><u>Certainty</u></p>
-  <p>Choose between "Certain", "Probable" and "Uncertain"</p>
+  <p>
+   <ul id="ul_hzd_qmy_bv">
+    <li>is_origin: Select this check box if the chosen findspot is the original site where the
+     object was created.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_od4_rmy_bv">
+    <li>Certainty: Choose between "Certain", "Probable" and "Uncertain"</li>
+   </ul>
+  </p>
   <p><b>Former place</b></p>
-  <p><u>former_place</u></p>
-  <p>Select a previous find spot from the thesaurus. </p>
-  <p><u>Comment</u></p>
-  <p>Add any comment to the findspot.</p>
-  <p><u>is_origin</u>
+  <p>
+   <ul id="ul_tzb_5my_bv">
+    <li><u>former_place</u>: Select a previous find spot from the thesaurus. </li>
+   </ul>
   </p>
-  <p>Add the origin of the object if the find spot is not equal to the original location.</p>
-  <p><u>Certainty</u>
+  <p>
+   <ul id="ul_skx_5my_bv">
+    <li><u>Comment</u>: Add any comment to the findspot.</li>
+   </ul>
   </p>
-  <p>Choose between "Certain", "Probable" and "Uncertain".</p>
+  <p>
+   <ul id="ul_hmq_vmy_bv">
+    <li><u>is_origin</u>: Add the origin of the object if the find spot is not equal to the original
+     location.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_pb2_wmy_bv">
+    <li><u>Certainty</u>: Choose between "Certain", "Probable" and "Uncertain".</li>
+   </ul>
+  </p>
   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
  </conbody>
  <?oxy_custom_end?>

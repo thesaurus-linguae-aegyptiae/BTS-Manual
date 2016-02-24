@@ -3,7 +3,7 @@
 <concept id="concept_f4v_hqm_mr">
  <title>Text Editor</title>
  <conbody>
-  <p>The Text Editor section is located in the upper part in the middle of the Text Corpus view. The
+  <p>The Text Editor tab is located in the upper part in the middle of the Text Corpus view. The
    text input field is empty as long as no text from the Corpus Navigator is selected. Upon
    selecting a text you will be able to transliterate it and enter hieroglyphs. This chapter
    provides a general description of the tab. For a step-by-step instruction of how to enter a new
@@ -18,21 +18,19 @@
     id="image_ort_qqp_5t"/></p>
   <p><b>Transliteration</b></p>
   <p>Here you can enter or modify the transliteration of the text which you previously selected in
-   the corpora tree. Be careful to follow the <xref
-    href="howto_Grammatikfehler_e5.dita#topic_f5w_3z5_kr">BTS Grammar Rules - Reference</xref>,
-   otherwise the auto-checker system will trigger an error, which is marked by a red square and red
-   underlinings. </p>
+   the corpora tree. Beware of the <xref href="howto_Grammatikfehler_e5.dita#topic_f5w_3z5_kr">BTS
+    Grammar Rules</xref>, otherwise the auto-checker system will trigger an error, marked by a red
+   square and underlined red. </p>
   <p><b>Sign Text Editor </b></p>
-  <p>The "Sign-Text-Editor" subsection provides the token-focussed presentation of the text block by
-   block. Depending on the Preference Settings of the Sign Text Editor in the Preference menu the
-   Lemma ID, the inflection code, the Lemma Translation and hieroglyphs of each token can be
-   visible. Initially only the transliteration is displayed there - each word / lemma in a separate
-   box. The hieroglyphic input is done in the <image
-    href="Images/icons/full/icon16/hieroglyphetw.png" id="image_ok5_nlw_nr"/> Hieroglyph Type Writer
-   section below. The hieroglyphic values, entered there, are automatically applied to the selected
-   lemmata in the "Sign-Text-Editor" subsection. In every separate word box, apart from the
-   transcription and hieroglyphs, a lemma number and inflection code will be displayed after a
-   successful lemmatization.</p>
+  <p>The "Sign-Text-Editor" provides the token-based presentation of the text. Initially only the
+   transliteration is displayed there - each word / lemma in a separate box. The Lemma ID, the
+   inflection code, the Lemma Translation and hieroglyphs of each token can be made visible via menu
+   entry  "Preferences / Preferences / Berlin Text System General / Text Editor / Sign Text Editor". </p>
+  <p>The hieroglyphic input is done in the <image href="Images/icons/full/icon16/hieroglyphetw.png"
+    id="image_ok5_nlw_nr"/> Hieroglyph Type Writer tab below. The hieroglyphic values, entered
+   there, are automatically applied to the selected lemmata in the "Sign-Text-Editor" sub-tab.
+   Additionally to the transcription and hieroglyphs, a lemma number and inflection code will be
+   displayed in each word box after a successful lemmatization.</p>
   <p><b>JSesh View</b></p>
   <p>Displays a cohesive hieroglyphic text. "dot" marks the end of the sentence (signified in
    "Transliteration" and "Sign Text Editor" tabs with "§" sign). </p>
@@ -43,8 +41,7 @@
    lemmatize the words and add the hieroglyphs in the next steps. Click this button after
    transliteration has been finished. </p>
   <p><image href="Images/icons/full/icon16/chcecklemmata.png" id="image_glp_wld_vt"/><u>Check Text
-    Lemmata,
-    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Flexcodes<?oxy_custom_end?>...</u>
+    Lemmata, Flexcodes...</u>
   </p>
   <p>Checks the completeness of text lemmatization, translation and hieroglyphic transcription. </p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
@@ -53,7 +50,7 @@
    text. It will be underlined with a gray dotted line. </p>
   <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
    <u>Add Rubrum </u></p>
-  <p>Marks the active token as a rubrum, which is marked red in the text.</p>
+  <p>The active token is marked red in the text as rubrum.</p>
   <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
    <u>Add Subtext/Glosses</u></p>
   <p>Adds a subtext or a gloss respectively as a "child" of your text. You can edit it
@@ -67,12 +64,12 @@
    right side of the Text-Editor with the corresponding colour. Clicking on the bar will bring you
    to the marked segment of the text. </p>
   <p><b>Sentence translation</b></p>
-  <p>At the bottom of the Text Editor section there is a text-input field where you can enter a
+  <p>At the bottom of the Text Editor tab there is a text-input field where you can enter a
    translation of every sentence. With the existing transliteration it is deactivated unless a lemma
-   has been selected in the "Text editor" section or until you click somewhere into the sentence.
-   With the new transliteration it is greyed out until you press "Load Text Lemmata" - after this
-   the text-input field will be activated. Note that you have to switch the keyboard layout from
-   "AAeW" to standard to enter the translation.</p>
+   has been selected in the "Text editor" or until you click somewhere into the sentence. With the
+   new transliteration it is greyed out until you press "Load Text Lemmata" - after this the
+   text-input field will be activated. Note that you have to switch the keyboard layout from "AAeW"
+   to standard to enter the translation.</p>
   <p>The <image href="Images/icons/full/icon16/locale.png" id="image_plt_3yt_mr"/> "Languages" icon
    offers a drop-down menu with a number of languages (English, German, French, Spanish, Russian) to
    choose from. Choose the language of your translation.</p>

@@ -4,9 +4,15 @@
  <title>Coordinates </title>
  <conbody>
   <p>After entering a location, you can insert its coordinates here:</p>
-  <p><u>Latitude</u> (German: "Breite")</p>
-  <p>Enter the latitude of the location.</p>
-  <p><u>Longitude</u> (German: "Länge")</p>
-  <p>Enter the longitude of the location.</p>
+  <p>
+   <ul id="ul_ytd_m1g_cv">
+    <li>Latitude (German: "Breite"): Enter the latitude of the location.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_iwb_n1g_cv">
+    <li>Longitude (German: "Länge"): Enter the longitude of the location.</li>
+   </ul>
+  </p>
  </conbody>
 </concept>

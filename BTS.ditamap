@@ -59,6 +59,8 @@
   <topicref href="oberflaeche/oberflaeche_configuration_setting.dita"/>
   <topicref href="oberflaeche_manageusers.dita"/>
   <topicref href="obeflaeche_userroles.dita"/>
+  <topicref href="oberflaeche_openfuton.dita"/>
+  <topicref href="oberflaeche_esgui.dita"/>
  </topicref>
  <topicref href="oberflaeche_e1.dita">
   <topicref href="oberflaeche_menuleiste.dita">
@@ -131,6 +133,7 @@
      <topicref href="thesaurus_passport_date.dita"/>
      <topicref href="thesaurus_passport_bibliography.dita"/>
      <topicref href="thesaurus_passport_coordinates.dita"/>
+     <topicref href="topic.dita"/>
     </topicref>
     <topicref href="oberflaeche_thesaurus_annotation.dita"/>
    </topicref>
@@ -138,20 +141,15 @@
  </topicref>
  <topicref href="howto_Grammatikfehler_e5.dita">
   <topicref href="grammar_about.dita"/>
-  <topicref href="grammar_visualization.dita"/>
   <topicref href="grammar_transcribing_rules.dita">
-   <topicref href="grammar_notation.dita"/>
-   <topicref href="grammar_structurereflection.dita">
-    <topicref href="grammar_structure_theory.dita"/>
-    <topicref href="grammar_structure_convention.dita">
-     <topicref href="grammar_structure_structuralsigns.dita"/>
-     <topicref href="grammar_prefixes.dita"/>
-     <topicref href="grammar_suffixes.dita"/>
-     <topicref href="grammar_endings.dita"/>
-     <topicref href="grammar_stemmodification.dita"/>
-     <topicref href="grammar_compoundwords.dita"/>
-     <topicref href="grammar_idiomaticexpressions.dita"/>
-    </topicref>
+   <topicref href="grammar_structure_convention.dita">
+    <topicref href="grammar_structure_structuralsigns.dita"/>
+    <topicref href="grammar_prefixes.dita"/>
+    <topicref href="grammar_suffixes.dita"/>
+    <topicref href="grammar_endings.dita"/>
+    <topicref href="grammar_stemmodification.dita"/>
+    <topicref href="grammar_compoundwords.dita"/>
+    <topicref href="grammar_idiomaticexpressions.dita"/>
    </topicref>
   </topicref>
   <topicref href="grammar_transliteration_system.dita">

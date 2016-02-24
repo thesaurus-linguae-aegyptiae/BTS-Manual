@@ -3,36 +3,31 @@
 <concept id="concept_pgn_j4d_4r">
  <title>Lemma Navigator</title>
  <conbody>
-  <p>In the Lemma Navigator section you can navigate through, coordinate and control the complete
-   existing lemma-entries of the TLA. It is divided into two tabs: WL and Bin. Clicking one of those
-   will show either the word list or a "trash can". Please note that generating the list of the
-   objects in the "Bin" tab may take up to one minute the first time you click it after installing
-   BTS. Thereafter the preview works faster. </p>
+  <p>In the Lemma Navigator you can browse, coordinate and control the lemma-entries of the TLA. It
+   is divided into two sub-tabs: WL and Bin. Clicking one of those will show either the word list or
+   a "trash can". Please note that generating the list of the objects in the "Bin" tab may take up
+   to one minute the first time you click it after installing BTS. Thereafter the preview works
+   faster. </p>
   <p><b>Tools</b></p>
   <p>The Lemma Navigator's toolbar includes the <xref href="oberflaeche_funktionen_e5.dita">standard
     tools</xref> plus the following additional ones (from left to right):</p>
-  <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ncd_mtb_qr"/>
-   <u>Add Lemma Root Entry</u></p>
-  <p>This adds a new lemma root entry which appears at first in the "rs-ḏꜣḏꜣ-ḥꜣy.t" group. Entering
-   the name of the lemma will automatically arrange its position in the hierarchical tree. A refresh
+  <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ncd_mtb_qr"/> Add Lemma Root
+   Entry</p>
+  <p>This adds a new lemma root entry which appears first in the "rs-ḏꜣḏꜣ-ḥꜣy.t" group. Entering the
+   name of the lemma will automatically arrange its position in the hierarchical tree. A refresh
    might be necessary.</p>
-  <p><image href="Images/icons/full/icon16/lemma.png" id="image_ofx_ptb_qr"/>
-   <u>Add Lemma Child Entry</u></p>
-  <p>This adds a new child entry to a selected root entry or child entry.</p>
-  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
-   <u>Add Annotation</u></p>
-  <p>Adds an annotation to the active lemma. </p>
-  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/>
-   <u>Add Comment</u></p>
-  <p>Adds an annotation to the active lemma. </p>
-  <p><image href="Images/icons/full/obj16/delete.png" id="image_klw_ttb_qr"/>
-   <u>Delete</u></p>
-  <p>This moves an entry from the WL to the Bin. Deleting entries that are moved to bin will be
-   deleted permanently.</p>
-  <p><image href="Images/icons/full/icon16/search.png" id="image_oct_xtb_qr"/>
-   <u>Open Simple Search Dialog</u></p>
-  <p>This opens a search dialog to filter the WL for specific entries.</p>
-  <p><b><u>WL</u></b></p>
+  <p><image href="Images/icons/full/icon16/lemma.png" id="image_ofx_ptb_qr"/> Add Lemma Child Entry:
+   This adds a new child entry to a selected root entry or child entry.</p>
+  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/> Add
+   Annotation: Adds an annotation to the active lemma. </p>
+  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/> Add Comment:
+   Adds an annotation to the active lemma. </p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_klw_ttb_qr"/> Delete Comment: This
+   moves an entry from the WL to the Bin. Deleting entries that are moved to bin will be deleted
+   permanently.</p>
+  <p><image href="Images/icons/full/icon16/search.png" id="image_oct_xtb_qr"/> Open Simple Search
+   Dialog: This opens a search dialog to filter the WL for specific entries.</p>
+  <p><b>WL</b></p>
   <p>In the WL (=Wortliste/word list) the lemmata are presented as groups in a tree. The label of a
    specific group shows the first and the last word of each group, sorted according to the
    egyptological "alphabetic" order. Clicking on a group opens new subgroups (if such exist) until
@@ -53,21 +48,40 @@
   <p>Clicking the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png"
     id="image_vbq_myb_qr"/> will display all the options present in Tools (see above) and a few
    more:</p>
-  <p><u>Delete Permanently</u></p>
-  <p> Use this option to delete an item completely (it will not be moved to the bin).</p>
-  <p><u>Restore</u></p>
-  <p>Restores a deleted lemma to its original position in the tree.</p>
-  <p><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr"/> Edit
-   Updaters/Readers </p>
-  <p>Assign <xref href="oberflaeche_preferences.dita">user roles</xref> for Lemma entries.
-   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>ADMIN?<?oxy_custom_end?></p>
-  <p><u>Open Conflict Dialog</u></p>
-  <p>(option not available yet)</p>
-  <p><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/>
-   <u>Open Revision History</u></p>
-  <p>Opens the history of the changes made for the selected lemma.</p>
-  <p><u>Filter </u></p>
-  <p>Apply different filters on the available lemma-list:</p>
+  <p>
+   <ul id="ul_vmj_thf_cv">
+    <li>Delete Permanently: Use this option to delete an item completely (it will not be moved to
+     the bin).</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_qbw_vhf_cv">
+    <li>Restore: Restores a deleted lemma to its original position in the tree.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_v2q_whf_cv">
+    <li><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr"/> Edit
+     Updaters/Readers: Assign <xref href="oberflaeche_preferences.dita">user roles</xref> for Lemma
+     entries. </li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_lkq_13f_cv">
+    <li>Open Conflict Dialog (option not available yet)</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_gnm_b3f_cv">
+    <li><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/> Open Revision
+     History: Opens the history of the changes made for the selected lemma.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_vl5_c3f_cv">
+    <li>Filter: Apply different filters on the available lemma-list:</li>
+   </ul>
+  </p>
   <p>...by Project</p>
   <p>...by Creator</p>
   <p>...by Updaters</p>

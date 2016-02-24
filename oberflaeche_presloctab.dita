@@ -3,46 +3,46 @@
 <concept id="concept_otk_ywf_yr">
  <title>Present Location</title>
  <conbody>
-  <p><image href="Images/icons/full/icon16/category.png" id="image_knt_php_sr"/> This is another tab
-   specific for an object.</p>
-  <p><b>Location</b></p>
+  <p>This is another tab specific for an object.</p>
   <p>
    <ul id="ul_ajp_qvb_55">
-    <li>Location</li>
+    <li>Location: Choose the location of your object from the Thesaurus.</li>
    </ul>
   </p>
-  <p>Choose the location of your object from the Thesaurus.</p>
   <p>
    <ul id="ul_anc_rvb_55">
-    <li>Inventory Number</li>
+    <li>Inventory Number: Enter the number of your object if provided.</li>
    </ul>
   </p>
-  <p>Enter the number of your object if provided.</p>
   <p>
    <ul id="ul_q1k_rvb_55">
-    <li>Comment</li>
+    <li>Comment: Enter a comment about the location of the object if necessary.</li>
    </ul>
   </p>
-  <p>Enter a comment about the location of the object if necessary.</p>
   <p>
    <ul id="ul_l2s_rvb_55">
-    <li>in_situ</li>
+    <li>in_situ: Select this check box if the object is still preserved in its original
+     location.</li>
    </ul>
   </p>
-  <p>Select this check box if the object is still preserved in its original location.</p>
   <p>
    <ul id="ul_ftz_rvb_55">
-    <li>is_present_location</li>
+    <li>is_present_location: Select this check box if the present location differs from its original
+     location (e.g. on display or in inventory of a museum).</li>
    </ul>
   </p>
-  <p>Select this check box if the present location differs from its original location (e.g. on
-   display or in inventory of a museum).</p>
-  <p><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr"/>
-   <u>Add widget</u></p>
-  <p>Click to add an additional "location" section so you can enter a previous location (if it
-   differs from the present location).</p>
-  <p><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_pnl_c3p_sr"/>
-   <u>Delete widget</u></p>
-  <p>Click to delete a section.</p>
+  <p>
+   <ul id="ul_jtj_dny_bv">
+    <li><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr"/> Add
+     widget: Click to add an additional "location" section so you can enter a previous location (if
+     it differs from the present location).</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_jmk_2ny_bv">
+    <li><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_pnl_c3p_sr"/>
+     Delete widget: Click to delete a section.</li>
+   </ul>
+  </p>
  </conbody>
 </concept>

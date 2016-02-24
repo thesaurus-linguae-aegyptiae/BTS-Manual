@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_dl2_1nh_nt">
-  <title>Saving options</title>
+  <title>Data saving options</title>
   <body>
     <p>There is no auto-save function in BTS 3.0. Make sure you save your work in regular intervals
       to avoid loss of input.</p>

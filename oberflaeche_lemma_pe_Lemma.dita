@@ -5,12 +5,21 @@
   <body>
     <p>Lemma tab provides information about different properties of the lemma. These are the
       following:</p>
-    <p><u>Comment</u></p>
-    <p>Any comment to the Lemma which did not fit in any other subsection.</p>
-    <p><u>Comment (english translation)</u></p>
-    <p>Any comment to the english translation of the Lemma.</p>
-    <p><u>lsort</u>, <u>arb_vermerk</u>, <u>simplify</u>, <u>wclassnum</u>, <u>woart</u>,
-        <u>word_class</u> are all information which were transformed from the old program and are no
-      longer relevant.</p>
+    <p>
+      <ul id="ul_jly_r4f_cv">
+        <li>Comment: Any comment to the Lemma which did not fit in any other subsection.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_dkx_s4f_cv">
+        <li>Comment (English translation): Any comment to the English translation of the Lemma.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_edk_54f_cv">
+        <li>Lsort, arb_vermerk, simplify, wclassnum, woart, word_class: present information tags
+          inherited from the previous BTS version. </li>
+      </ul>
+    </p>
   </body>
 </topic>

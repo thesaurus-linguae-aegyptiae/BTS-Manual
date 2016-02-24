@@ -4,30 +4,64 @@
   <title>Main</title>
   <body>
     <p>The Main tab contains general information about the lemma entry.</p>
-    <p><u>Name</u></p>
-    <p>Choose or change the name of the lemma.</p>
-    <p><u>Type</u> and <u>Subtype</u></p>
-    <p>Choose a type and subtype (e.g. substantive, adjective etc.).</p>
-    <p><u>SortKey</u></p>
-    <p>Rearrange the items in the Lemma Navigator tree (the default order is alphabetical).</p>
-    <p><u>ID</u></p>
-    <p>See the ID of the lemma.</p>
-    <p><u>Author</u></p>
-    <p>See and edit the author of a lemma. </p>
-    <p><u>Date</u></p>
-    <p>See the date of creation of the lemma. </p>
-    <p><u>Visibility</u></p>
-    <p>Change who can see the lemma (public, project, group, user).</p>
-    <p><u>Review State</u></p>
-    <p>Enter or edit the Review state of the lemma (published, reviewed, awaiting-update,
-      awaiting-review, new etc.). </p>
-    <p><u>Project</u></p>
-    <p>move the lemma to another project. </p>
-    <p><u>Corpus</u></p>
-    <p>See or edit the name of the corpus. Click <image
-        href="Images/icons/full/icon16/preferences.png" id="image_jdd_xxh_sr"/> to move an
-      object/lemma between projects/databases.</p>
-    <p><u>History</u></p>
-    <p>See all changes done in this database-object with User Name and Date.</p>
+    <p>
+      <ul id="ul_pdq_zkf_cv">
+        <li>Name: Choose or change the name of the lemma.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_fwj_blf_cv">
+        <li>Type and Subtype: Choose a type and subtype (e.g. substantive, adjective etc.).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_mwv_clf_cv">
+        <li>SortKey: Rearrange the items in the Lemma Navigator tree (the default order is
+          alphabetical).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_rjx_dlf_cv">
+        <li>ID: Display the ID of the lemma.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_sjn_2lf_cv">
+        <li>Author: Display and edit the author of a lemma. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_kyw_flf_cv">
+        <li>Date: Display the date of creation of the lemma. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_v5l_jlf_cv">
+        <li>Visibility: Define who can see the lemma (public, project, group, user).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ffg_klf_cv">
+        <li>Review State: Enter or edit the Review state of the lemma (published, reviewed,
+          awaiting-update, awaiting-review, new etc.). </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_qf5_llf_cv">
+        <li>Project: ove the lemma to another project. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_awr_mlf_cv">
+        <li>Corpus: See or edit the name of the corpus. Click <image
+            href="Images/icons/full/icon16/preferences.png" id="image_jdd_xxh_sr"/> to move an
+          object/lemma between projects/databases.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_afw_nlf_cv">
+        <li>History: See all changes done in this database-object with User Name and Date.</li>
+      </ul>
+    </p>
   </body>
 </topic>

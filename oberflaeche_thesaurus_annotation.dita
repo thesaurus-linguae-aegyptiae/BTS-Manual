@@ -3,36 +3,28 @@
 <concept id="concept_pvg_kqd_4r">
  <title>Annotations</title>
  <conbody>
-  <p>In the default view of the workspace, the annotations section is placed on the right. The
-   following elements will be displayed once they are added to a thesaurus entry (in the Thesaurus
-   Navigator):</p>
-  <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
-  <p><?oxy_custom_end?><image href="Images/icons/full/icon16/annotation.png" id="image_p3k_pz3_sr"/>
-   <u>Annotation</u></p>
-  <p><image href="Images/icons/full/icon16/comment.png" id="image_qrx_zz3_sr"/>
-   <u>Comment</u><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
-  <?oxy_custom_end?>
-  <p>Each annotation or comment offers additionally the following functions:</p>
-  <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
-   <u>Add Current Text Selection as Reference</u></p>
-  <p><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/>
-   <u>Update Current Reference</u></p>
-  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
-   <u>Remove Current Reference</u></p>
-  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
-   <u>Edit Comment / Edit Annotation</u></p>
-  <p>See the entire content or edit it. This feature is different for Annotation and Comment.</p>
-  <p>Clicking on the Edit Annotation button will display a passport editor. Each annotation will
-   have its own ID and its relation to the chosen thesaurus entry will be displayed in the Relations
-   tab. </p>
-  <p>By selecting an Edit Comment function, a Comment Editor window will appear. You can enter a
-   title for your comment in the upper input field and the content of your comment in the lower
-   input field. Below there is also a section where you can see or edit a relation of the comment to
-   the text, using the ID.</p>
+  <p>The annotations window is per default placed on the right side of the workspace. To each entry
+   in the "Navigator" either <image href="Images/icons/full/icon16/annotation.png"
+    id="image_p3k_pz3_sr"/> "Annotation" or<image href="Images/icons/full/icon16/comment.png"
+    id="image_qrx_zz3_sr"/> "Comment" can be entered. Each annotation or comment offers additionally
+   the following functions:</p>
+  <p>
+   <image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/> Update Current
+   Reference</p>
+  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/> Remove Current
+   Reference </p>
+  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> Edit Comment or Edit
+   Annotation</p>
+  <p/>
+  <p>Clicking on the "Edit Annotation" will display the passport editor. Each annotation will have
+   its own ID and its relation to the chosen thesaurus will be shown in the "Relations" tab. </p>
+  <p>By clicking the "Edit Comment" button, a "Comment Editor" a window will appear. You can enter
+   or edit a title for your comment in the upper input field and the content of your comment in the
+   lower input field. Below there is also a section where you can see or edit a relation of the
+   comment to the lemma, using the ID.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
-   <u>Delete</u>
-  </p>
-  <p>Will delete selected annotations / comments.</p>
-  <p>To learn more about annotations click <xref href="howto_annotationen.dita">here</xref>. </p>
+   <u>Delete</u>: Will delete the currently selected element.</p>
+  <p>To learn more about annotations refer to the <xref href="howto_annotationen.dita">"Annotations"
+    section</xref> in the "User guide". </p>
  </conbody>
 </concept>

@@ -3,22 +3,42 @@
 <concept id="concept_rdl_jtl_yr">
  <title>Relations</title>
  <conbody>
-  <p>Relations tab gives information on the relation between yours and other objects/texts. The
-   default setting is a "partOf" relation to the parent element.</p>
+  <p>Relations tab gives information on the relation between the thesaurus entries. The default
+   setting is a "partOf" relation to the parent element.</p>
   <p><b>Relation</b></p>
   <p>Choose between "Partof" and "is cross-reference to" relation: </p>
-  <p><u>Partof</u> Your current entry is part (child) of another.</p>
-  <p><u>Is cross-reference to</u> This references your entry to another entry.</p>
-  <p><u>Object</u></p>
-  <p>Enter the Name of the related object here.</p>
-  <p><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/>
-   <u>Search Object</u></p>
-  <p>Search for the object in the corpora of your current project.</p>
-  <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
-   <u>Add Relation</u></p>
-  <p>Click it to add more relations.</p>
-  <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
-   <u>Remove Relation</u></p>
-  <p>This removes a relation from the object.</p>
+  <p>
+   <ul id="ul_rwz_lzf_cv">
+    <li>Partof: Your current entry is a part (child) of another.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_hkl_nzf_cv">
+    <li>Is cross-reference to: This references your entry to another entry.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_w3q_4zf_cv">
+    <li>Object: Enter the Name of the related object here.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_rvk_pzf_cv">
+    <li><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/> Search Object:
+     Search for the object in the corpora of your current project.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_c1l_qzf_cv">
+    <li><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
+     <u>Add Relation</u>: Click to add more relations.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_wtm_rzf_cv">
+    <li><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
+     <u>Remove Relation</u>: Removes a relation from the object.</li>
+   </ul>
+  </p>
  </conbody>
 </concept>
