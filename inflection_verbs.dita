@@ -4,24 +4,26 @@
   <title>Inflection of Verbs</title>
   <body>
     <p><b>Suffix conjugation</b></p>
-    <p>Entering the inflection of verbs only represents the verbal genus (?????), but neither
-      semantic nor syntactic information. Attached suffixes have numbers for each pronoun, counted
-      from 1 to 9. These numbers will be combined with the numbers of the verb forms, see below.
-      Inflected verbs with a nominal subject are expressed by number "0".</p>
+    <p>The inflection code in the case of verbal suffix conjugation is made up of two elements: 1)
+      the number of the verbal form + 2) the number of the suffix pronoun. The numbers of the verbal
+      forms are, for example, the following: </p>
+    <p>10000 -> suffix conjugation</p>
+    <p>11000 -> prefixed suffix conjugation</p>
+    <p>10020 -> suffix conjugation, active form of the unmarked stem</p>
+    <p>10040 -> suffix conjugation, passive form of the unmarked stem  </p>
+    <p>10100 -> suffix conjugation, active form of the geminated stem</p>
+    <p>10120 -> suffix conjugation, passive form of the geminated stem</p>
+    <p>The numbers for the suffixes run from 1 to 9, as attributed to each pronoun. Inflected verbs
+      with a nominal subject get the number "0".</p>
     <p>
       <ul id="ul_ag3_hfg_cv">
         <li>Example:</li>
       </ul>
     </p>
-    <p>Suffix conjugation (="SC"), base stem. (="base"), active: <i>jri̯.n=f</i> : 10384 ("10380"
-      for the verbal inflection + "4" for suffix, 3rd p. sg. m.)</p>
-    <p>10000 -> "SC"</p>
-    <p>11000 -> "pref. SC"</p>
-    <p>10020 -> "SC.act.base"</p>
-    <p>10040 -> "SC.pass.base"</p>
-    <p>10100 -> "SC.act.gem"</p>
-    <p>10120 -> "SC.pass.gem=redupl"</p>
-    <p><u>List of Inflections for SC (not prefixed:10000; prefixed 11000)</u></p>
+    <p><i>jri̯.n=f</i>  is encoded as "10384", which is a combination of  "10380"  and "4". </p>
+    <p> "10380" stands for "suffix conjugation, active n-form of the unmarked stem"</p>
+    <p>"4" stands for a 3rd p. sg. m. pronoun "f"</p>
+    <p>Other examples of the codes of the verbal inflection: </p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_vrv_c1w_wt">
         <title>sDm=f</title>
@@ -34,7 +36,7 @@
             <row>
               <entry><i>śḏm</i>
               </entry>
-              <entry align="center" valign="middle">base stem</entry>
+              <entry align="center" valign="middle">unmarked stem</entry>
               <entry align="center" valign="middle">geminated stem</entry>
               <entry align="center" valign="middle">special</entry>
             </row>
@@ -67,7 +69,7 @@
           <thead>
             <row>
               <entry><i>śḏm.w</i></entry>
-              <entry align="center" valign="middle">base stem</entry>
+              <entry align="center" valign="middle">unmarked stem</entry>
               <entry align="center" valign="middle">geminated stem</entry>
               <entry align="center" valign="middle">special</entry>
             </row>
