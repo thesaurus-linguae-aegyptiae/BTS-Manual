@@ -3,7 +3,8 @@
 <topic id="topic_ysm_g4m_cv">
   <title>User roles sum-up</title>
   <body>
-    <p/>
+    <p>The interplay of user roles, user statuses and visibility statuses is summarized in the table
+      below</p>
     <table id="table_o1v_vj2_2v">
       <tgroup cols="5">
         <colspec colnum="1" colname="col1" align="center" colsep="1" rowsep="1" colwidth="85.5pt"/>
