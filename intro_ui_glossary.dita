@@ -31,16 +31,17 @@
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
                      id="image_vgm_5yw_st"/></p><p/><p>Moreover the following terms are
                used:</p></li>
-            <li>Database object - any item of the database (text, word, object etc.)</li>
-            <li>Text corpus object - an item of the database, referring to a physical object. Texts
+            <li>Database object: any element (item) of the database (text, word, object etc.)</li>
+            <li>Text corpus object: an item of the database, referring to a physical object. Texts
                and text corpus objects are in child-parent relation, i.e. text is always attributed
                to the object. </li>
             <li>Child-parent relation: the relation of subordination between two items of the
                database. </li>
-            <li>Lemma / Token</li>
-            <li>Local and remote central database: local databases are running on user's PCs, remote
+            <li>Lemma: the canonical form ( dictionary form) of a set of words. </li>
+            <li>Token: the representation of lemma in the text (word form)</li>
+            <li>Local and remote databases: local databases are running on user's PCs, remote
                databases are located on BTS central server in Berlin. </li>
-            <li>WCN - word count number</li>
+            <li>WCN: word corpus number</li>
          </ul></p>
    </conbody>
 </concept>
