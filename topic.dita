@@ -6,11 +6,11 @@
     <p/>
     <table id="table_o1v_vj2_2v">
       <tgroup cols="5">
-        <colspec colnum="1" colname="col1" align="center" colsep="1" rowsep="1" colwidth="128.25pt"/>
-        <colspec colnum="2" colname="col2" align="center" colsep="1" rowsep="1" colwidth="128.25pt"/>
-        <colspec colnum="3" colname="col3" align="center" colsep="1" rowsep="1" colwidth="128.25pt"/>
-        <colspec colnum="4" colname="col4" align="center" colsep="1" rowsep="1" colwidth="126pt"/>
-        <colspec colnum="5" colname="col5" align="center" colsep="1" rowsep="1" colwidth="127.5pt"/>
+        <colspec colnum="1" colname="col1" align="center" colsep="1" rowsep="1" colwidth="85.5pt"/>
+        <colspec colnum="2" colname="col2" align="center" colsep="1" rowsep="1" colwidth="77.25pt"/>
+        <colspec colnum="3" colname="col3" align="center" colsep="1" rowsep="1" colwidth="71.25pt"/>
+        <colspec colnum="4" colname="col4" align="center" colsep="1" rowsep="1" colwidth="80.25pt"/>
+        <colspec colnum="5" colname="col5" align="center" colsep="1" rowsep="1" colwidth="89.25pt"/>
         <tbody>
           <row>
             <entry namest="col1" nameend="col5">
