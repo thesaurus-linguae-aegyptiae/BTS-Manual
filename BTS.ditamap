@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Berlin Text System 3.0 User Manual (V 1.0) </title>
+ <title>Berlin Text System 3.0 User Manual (V 1.1) </title>
  <topicref href="intro.dita">
   <topicref href="intro_system.dita"/>
   <topicref href="intro_install.dita"/>
