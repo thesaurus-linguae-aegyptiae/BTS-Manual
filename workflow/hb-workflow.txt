@@ -1,0 +1,11 @@
+HB-Workflow: 
+
+- Gunner bekommt einen "branch" von BTS Manual auf Git Hub. 
+- Gunner aktualisiert DITA-Datein in Oxygen.
+- Gunner macht jeden Tag einen "commit" auf seinem lokalen Branch. 
+- Gunner macht jede Woche einen "pull request" zu dem remote "master".  
+- Max "mergt" Gunner-Datein in remote "Master". 
+- Max aktualisiert lokalen Master-branch, klont davon einen eigenen Branch und erzeugt daraus ein neues PDF / HTML Projekt. 
+- Max packt die neuen HTML Seiten auf den Server.
+
+
