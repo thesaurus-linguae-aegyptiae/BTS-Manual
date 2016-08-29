@@ -77,6 +77,7 @@
           will change from red to green. The databases which are currently being indexed are marked
           yellow. If indexing was not successful for some corpora try re-indexing them by clicking
           on the button "Re-index all non-OK". </li>
+        <li>xxx</li>
       </ol>
     </p>
   </conbody>
