@@ -19,6 +19,9 @@
    <topicref href="topic.dita"/>
   </topicref>
   <topicref href="intro_ui_glossary.dita"/>
+  <topicref href="max_test.dita"/>
+  <topicref href="max_test2.dita"/>
+  <topicref href="max_test3.dita"/>
  </topicref>
  <topicref href="howto.dita">
   <topicref href="howto_ui.dita"/>
