@@ -60,7 +60,7 @@
   <topicref href="oberflaeche_edit.dita"/>
   <topicref href="oberflaeche/oberflaeche_configuration_setting.dita"/>
   <topicref href="oberflaeche_manageusers.dita"/>
-  <topicref href="obeflaeche_userroles.dita"/>
+  <topicref href="oberflaeche_userroles.dita"/>
   <topicref href="oberflaeche_openfuton.dita"/>
   <topicref href="oberflaeche_esgui.dita"/>
  </topicref>
@@ -73,7 +73,7 @@
     <topicref href="oberflaeche/oberflaeche_configuration_setting.dita"/>
     <topicref href="oberflaeche_usermanager.dita">
      <topicref href="oberflaeche_manageusers.dita"/>
-     <topicref href="obeflaeche_userroles.dita"/>
+     <topicref href="oberflaeche_userroles.dita"/>
     </topicref>
     <topicref href="oberflaeche_databasemanager.dita"/>
     <topicref href="oberflaeche_preferences2.dita">

@@ -89,13 +89,13 @@
           </row>
           <row>
             <entry><i>Reader</i></entry>
-            <entry>Can edit all</entry>
+            <entry>Cannot view</entry>
             <entry>Can edit all</entry>
             <entry>Can edit all</entry>
           </row>
           <row>
             <entry><i>Group</i></entry>
-            <entry>Can edit all</entry>
+            <entry>Cannot view</entry>
             <entry>Can edit all</entry>
             <entry>Can edit all</entry>
           </row>

@@ -5,45 +5,56 @@
  <conbody>
     <p>BTS text editing tools include an annotation, a rubrum, a gloss or a comment, which can be
       applied to a word or a sequence of words, a sentence or several sentences. </p>
-    <p><b>What is the difference between an annotation, a subtext, a rubrum or a comment?</b></p>
+    <p>NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun jn
+      the n was omitted and later added in red: j((n)), this n cannot be marked as being written in
+      red)"</p>
+    <p><b>What is the difference between an annotation, a gloss, a rubrum or a comment?</b></p>
     <p><i>Annotation</i> is intended to provide the extra-textual information for parts of the text,
-      which may include bibliographical references via Thesaurus. Annotations can thus include
-      meta-data. Annotations are not limited to one fragment, they can be connected with more than
-      one section of a text. You can use annotation, for example, to divide your text into chapters
-      (e.g. first part being a biography and the next an offering scene), as the titles of
-      particular sections cannot be inserted in the transliteration in the Text Editor. </p>
-    <p><i>Subtext</i> is use it to mark sections of a text in a case when the sequence of the
-      chapters is not clear.</p>
-    <p><i>Gloss</i> is a brief explanation of the meaning of a word in a text.</p>
+      which may include bibliographical references and other metadata. Annotations are not limited
+      to one fragment, they can be connected with more than one section of a text. You can use
+      annotation, for example, to divide your text into chapters (e.g. to define and seperate the
+      remedies of a medical text or the maxime Ptahhotep ) and other forms of alignment. Annotations
+      can be used for syntactic, stylistic, prosopographic information. Therefore, there are
+      different types and subtypes of annotations so that one can distinguish these types of
+      information. If you need further types and subtypes, please contact the BTS team in
+      Berlin.</p>
+    <p>NOTE: To seperate specific parts of a text, annotations are only used, if their sequence is
+      evident. To mark sections of a text in a case when the sequence of the chapters is not clear
+      or ambigous (e.g. first part being a biography and the next an offering scene or a Ptolemaic
+      temple scene is a text with various Beischriften. ), <i>Subtext</i> is used.</p>
+    <p><i>Gloss</i>  is a semantic or phonetic explanation of a passage in a text made by an ancient
+      scribe (not a modern comment!), written above the word or in the margin.</p>
     <p><i>Rubrum</i> is used to mark rubrum in the text.</p>
     <p><i>Comment</i> is an information to a text which can discuss problems of a phrase or a word
-      but cannot be related to other sections (unlike annotations, comments cannot have meta-data
-      such as e.g. bibliographical information). </p>
+      (unlike annotations, comments cannot have metadata such as e.g. bibliographical information). </p>
     <p/>
     <p><b>To edit a text, use buttons above the "Text Editor" tab</b></p>
     <p>Mark the sequence you want to annotate: for only one word you just place the cursor within
       the word; if the word comprises a single character only, place the cursor directly behind the
       character). You can create more than one annotation for the same token, and vice versa, the
       same annotation can be created for different tokens. </p>
-    <p>NOTE: If buttons are deactivated, click somewhere outside of your text and then again in it. </p>
+    <p>NOTE: If buttons are deactivated, click somewhere outside of your text and then again in
+      it.</p>
+    <p>NOTE: You cannot delete any annotation via the "Undo" button.</p>
     <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
       <u>Add Annotation</u>
     </p>
     <p>Adds an <xref href="howto_annotationen.dita">Annotation</xref> to the selected part of your
       text. A grey bar appears in the "Annotation" tab to the right, with a thin like marking which
       part of the text the annotation refers to. It is possible to enter Passport Data, as you may
-      want to provide meta-data (extra-textual information). </p>
+      want to provide metadata (extra-textual information). </p>
     <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
       <u>Add Rubrum</u>
     </p>
     <p>Converts the selected part of the text into a rubrum, which is indicated by red color of the
       text and a grey bar on the right. </p>
-    <p>NOTE: Currently you cannot delete rubra via the "Undo" button.</p>
     <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
       <u>Add Subtext/Gloss</u>
     </p>
     <p>Can be used as either a subtext or a gloss. Clicking on a button will add a "child"-element
-      of your text in the corpora tree. It can be edited like a regular text. </p>
+      of your text in the corpora tree. The gloss can be edited like a regular text. Once it is
+      created, it is first labelled "BTS Text". You have to rename it and enter passport data
+      etc.</p>
     <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
       <u>Add Comment</u>
     </p>
@@ -58,6 +69,6 @@
     <p>You can delete the annotation by selecting it and clicking <image
         href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/>
       <u>Delete</u> in the upper right corner of the Annotations tab. A confirmation window will
-      appear, click "Delete" to confirm or "Cancel" if you changed your mind.</p>
+      appear, click "Delete" to confirm or "Cancel" if you have changed your mind.</p>
   </conbody>
 </concept>

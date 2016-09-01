@@ -3,9 +3,10 @@
 <concept id="concept_gjc_4r5_fs">
  <title>Initial configuration of BTS</title>
  <conbody>
-  <p>BTS installer currently does  not create BTS entries in the windows "Start" menu or on the
-      desktop. You can manually create a file shortcut of the "bts.exe" and drag-&amp;-drop it into
-      the start menu and desktop. Double click this icon to start the program. </p>
+  <p>BTS installer currently does not create BTS entries in the windows "Start" menu or on the
+                        desktop. You can manually create a file shortcut of the "bts.exe" and
+                        drag-&amp;-drop it into the start menu, taskbar and desktop. Click/double
+                        click this icon to start the program. </p>
   <p><b>Configure your BTS</b></p>
   <p>After the initial BTS start, a few settings have to be made. In the Menu bar click on
    "Preferences / Preferences" and expand the "Berlin Text System General" entry by clicking on the
@@ -15,13 +16,6 @@
     <li><u>Active Corpora</u><p>Choose the "Corpus Settings" option from the expanded menu and add
       the available corpora to the list of the "Active Corpora", selecting all corpora you are going
       to work with. </p></li>
-    <li><u>Main working corpus</u><p>The check box "Activate to select main working text corpus" is
-            deactivated by default. After selecting this option all new database objects you create
-            (ex. texts)  will be saved in the "Main working corpus". For instance, if you mark
-            "bbawbriefe" as the main working corpus, all new objects or texts will be physically
-            located in it, even if you are currently working with e.g. "bbawtotenlit". So pay
-            attention to the location of your new entry and activate this feature only if you feel
-            confident that you need it. </p></li>
     <li><u>Sort by sort key</u><p>Expand "Corpus Settings". Click "Corpus Navigator Settings" and
             activate the check box "Corpus Navigator sort by sort key" if it is not activated (It
             should be by default). Press "Apply" to save the setting. Repeat the same for "Lemma

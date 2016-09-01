@@ -3,29 +3,33 @@
 <concept id="concept_i2s_qwf_mr">
  <title>3. Lemmatizing and encoding inflections</title>
  <conbody>
-    <p>To lemmatize a transliterated text two tabs should be open: "Sign-Text Editor" (default
-      location: top center) and "Lemmatizer" (default location: bottom center; note that the title
-      of the latter changes as soon as you selected an element in the Navigator tab).  Only
-      non-colored (white) tokens in the "Sign Text Editor" are lemmata and can be lemmatized. </p>
+    <p>To lemmatize a transliterated text two tabs should be open: <xref
+        href="oberflaeche_texteditor_e10.dita">Sign Text Editor</xref> (default location: top
+      center) and <xref href="oberflaeche_lemmatizer.dita">Lemmatizer</xref> (default location:
+      bottom center; note that the title of the latter changes as soon as you have selected an
+      element in the Navigator tab). Only non-grey tokens in the "Sign Text Editor" are lemmata and
+      can be lemmatized. </p>
     <p>Several elements are displayed in the <image href="Images/icons/full/icon16/lemmatizer.png"
         id="image_dhr_pqv_nr"/> "Lemmatizer" tab:</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Lemmatizer_marked.png"
         id="image_iht_myx_st"/></p>
     <p>
       <ol id="ol_xdz_4xy_qt">
-        <li>"Activate" button: activates / deactivates other fields</li>
+        <li>"Activate" button: activates / deactivates the Lemmatizer (grey = deactivated; blue =
+          activated).</li>
         <li>"Selected Word" displays the transliteration of a lemma selected in the "Sign Text
           Editor". In the example above <i>wbn</i> has already been lemmatized, so the other fields
           are filled out. If you find out that you have made an error in the transliteration, you
           can modify it in the "Selected Word" field and it will be altered in the Sign-Text-Editor
           and the Transliteration tab automatically.</li>
-        <li>Lemma provides the lemma number from the word list (WL). Next to it, the selected
+        <li>Lemma provides the lemma number (WCN) from the word list (WL). Next to it, the selected
           transliteration of a lemma is displayed. To lemmatize a lemma, select the correct
           suggestion from the list in the field below. The default setting in Preferences /
           Preferences / Lemmatizer allows you to activate the function "automatically select the
-          first lemma proposal".</li>
+          first lemma proposal".<p>NOTE: Be careful with this function, because you might
+            unindentedly select wrong a lemma or lemmatize without intention.</p></li>
         <li>The field "Flexion" shows the code referring to the grammatical form of the inflection
-          of the selected word.</li>
+          of the selected word (see <xref href="grammar_flexioCodes.dita">Inflection codes</xref>).</li>
         <li>In the field "Translation" you can choose one or several fitting translations from the
           lower field (in the example there is only one option, but there can be more). Make sure to
           have selected the correct language in the drop-down menu on the right. The only choices
@@ -36,17 +40,31 @@
     </p>
     <p>If you cannot find a lemma, click the magnifying glass <image
         href="Images/icons/full/icon16/search.png" id="image_zyn_pqp_nt"/> and search for it in the
-      lemma list by entering the WCN (word corpus number) or the name of the lemma. You can also
-      reduce the search results by using the filters "Search for IDs" or "Search for Names only".
-      Additionally, you can automatically add wild cards / quotation marks by clicking the provided
-      buttons in the Search pop-up. More on search function see the corresponding <xref
+      lemma list by entering the WCN (i.e. the ID of the lemma) or the transliteration or the
+      translation of the lemma. You can also reduce the search results by using the filters "Search
+      for IDs" or "Search for Names only". </p>
+    <p>To filter for a specific WCN you have to activate the filter "Search for ID". If you do not,
+      you will not get a result, because the full text search does not search the field "ID".
+      (However, in case of lemmata that have been imported from the previous BTS version you will
+      get a full text search result, because there the WCN appears as an external ID. This does not
+      apply to lemmata created in this BTS version.)</p>
+    <p>If you use the filter "Search for Names only", BTS does not execute a full text search, but a
+      search only on the name of the database objects. "Names" does not mean "Personal Names", but
+      it is the standard designation, i.e. the transliteration of the lemma (dictionary form). This
+      box is activated by default, because otherwise BTS will make a full text search in the
+      Lemmalist. Additionally, you can automatically add wild cards / quotation marks by clicking
+      the provided buttons in the Search pop-up. More on search function see the corresponding <xref
         href="searching.dita">section</xref>. If the lemma you need does not exist please contact
       the BTS Project. </p>
     <p>To confirm click on <image href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr"
-      /> "Confirm current lemma editing and continue to next lemma" or on ">" button. ">|" brings
-      you to the end of the line and >|| to the end of the text.</p>
+      /> "Confirm current lemma editing and continue to next lemma" or on ">" button. The button
+      ">|" brings you to the end of the line and >|| to the end of the text.</p>
     <p>To delete  lemmatization click on <image
         href="Images/Icons_updated/full/icon16/lemmatizer-delete.png" id="image_l33_m2g_ms"/>
       "Remove lemma information" in the Lemmatizer toolbar.</p>
+    <p>Experience has learned that it is better to lemmatize a text first and only afterwards fill
+      out the field "Flexion".</p>
+    <p>You should always click the "Activate" button after you finished the lemmatization to avoid
+      unintended lemmatizations.</p>
   </conbody>
 </concept>

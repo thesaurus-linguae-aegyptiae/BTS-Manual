@@ -6,11 +6,9 @@
   <p>
    <ol id="ol_vhy_cr5_fs">
     <li><u>Update BTS</u><p>BTS automatically checks for updates every time you start the
-                                                application. In case an update is found, you will be
-                                                offered a choice to install it or to postpone it.
-                                                The update can be installed via program UI of BTS as
-                                                well. In order to do so click "Help / Update
-                                                Application" in the top menu bar.</p></li>
+      application. In case an update is found, you will be offered a choice to install it or to
+      postpone it. The update can be installed via program user interface of BTS as well. In order
+      to do so click "Help / Update Application" in the top menu bar.</p></li>
     <li><u>Uninstall BTS</u><p>BTS is not listed in the "Control Panel / Programs / Programs and
       Features" section of your operating system. Thus it is not possible to uninstall it in the
       regular way. To uninstall the application, close the program window and delete all files from

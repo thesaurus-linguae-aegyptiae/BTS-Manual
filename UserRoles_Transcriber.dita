@@ -3,9 +3,9 @@
 <topic id="topic_k1v_znv_bt">
   <title>Transcriber</title>
   <body>
-    <p>Users who are allowed to transcribe a text. They may not create new objects and may not
-      change anything except adding transcription to text for which they are granted the "Updater"
-      status.</p>
+    <p>Transcribers are allowed to add hieroglyphic encodings. They may not create new database
+      objects and may not change anything except adding hieroglyphic encodings to text for which
+      they are granted the "Updater" status.</p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_v25_l4v_bt">
@@ -22,7 +22,6 @@
           input.</li>
         <li>Database objects with a visibility status <i>Reader, Group or Project</i> will not be
           visible when no status is assigned to the Transcriber.</li>
-        <li>Cannot edit the Thesaurus and Lemma entries.</li>
       </ul>
     </p>
   </body>

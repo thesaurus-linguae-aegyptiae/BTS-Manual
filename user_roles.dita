@@ -4,7 +4,8 @@
   <title>User roles description</title>
   <body>
     <p/>
-    <p>User rights in BTS are defined by interplay of the following factors: </p>
+    <p>The user rights management controls which user can modify which database objects. User rights
+      in BTS are defined by interplay of the following factors: </p>
     <p>- <i>user role</i> with respect to particular corpora</p>
     <p>- <i>user status</i> with respect to particular database objects</p>
     <p>- <i>visibility status</i> of particular database objects</p>
@@ -17,7 +18,6 @@
         <li>Adjust personal Preferences (see <xref
             href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref> section for
           more detail).</li>
-        <li>Change his/her own passwords. (Preferences / Change password)</li>
         <li>Access all options in the drop-down menu "Help".</li>
       </ul>
     </p>
@@ -42,11 +42,11 @@
     <p>For instance a Researcher with status of an Updater can edit all items in a given corpus. If
       his / her status is changed to Reader, they will only be able to view the items. Updater and
       Reader status of specific database objects of a corpus can be assigned to a user by <xref
-        href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>,<xref
+        href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>, <xref
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> or <xref
         href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> (the latter should have
       an Updater status) of a given corpus. This is done by right-clicking on a database object,
-      selecting an option "Edit Updaters/Readers" and assigning a user to a user role through the
+      selecting an option "Edit Updaters/Readers" and assigning a user to a user status through the
       menu on the right.</p>
     <p>NOTE: A Reader/Updater status for an entire corpus is not effective for individual items
       within a corpus. I.e. such a status has to be assigned for users for every database object

@@ -13,10 +13,10 @@
    your internet-connection and make sure it's working, otherwise BTS will be in offline-mode and
    will not be able to synchronize with the server.</p>
   <p><b>Attention Mac and Linux users</b></p>
-  <p>BTS does not support Mac or Linux OS. As a "workaround" we suggest using a virtual machine with
-   Windows such as WINE and running BTS there. Popular VM solutions for Mac include VM Ware Fusion
-   and Parallels (both commercial) and Virtual Box (free of charge) . You will still need Windows
-   license to install Windows on your VM. </p>
+  <p>At the moment BTS does not support Mac or Linux OS. As a "workaround" we suggest using a
+   virtual machine with Windows such as WINE and running BTS there. Popular VM solutions for Mac
+   include VM Ware Fusion and Parallels (both commercial) and Virtual Box (free of charge) . You
+   will still need Windows license to install Windows on your VM. </p>
   <p><b>Required Java Version: Java V 7</b></p>
   <p>BTS is a Java application, which requires JAVA Runtime Environment from Version 7 up. To check
    if Java is installed on your PC, go to https://www.java.com/en/download/installed.jsp. If the

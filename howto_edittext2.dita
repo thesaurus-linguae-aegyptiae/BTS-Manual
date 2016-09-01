@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_k3c_35y_qt">
-  <title>Edit a text</title>
+  <title>Editing a text</title>
   <body>
     <p>The process of editing a text begins with entering the transliteration in the Text Editor
       Transliteration field. However, in order to enter a transliteration, you first need to <xref
         href="intro_install_keyboard.dita"> install and configure the keyboard</xref> provided by
-      the BBAW. Other steps in the text editing process involve lemmatizing (analyzing a word
-      regardless of its inflected forms) of your transliterated text, assigning <xref
-        href="grammar_flexioCodes.dita#concept_zjw_dsx_nt">inflection codes</xref> to the lemma,
-      entering translation and hieroglyphs to the text. You can also add comments, rubra, etc. to
-      the transliteration whenever you wish. The following order of editing is not compulsory. It is
-      only supposed to help you with particular functions of the BTS. It is up to you to decide the
-      order of the text editing.</p>
+      the BBAW. </p>
+    <p>One of the most important steps in the text editing process is lemmatizing each word of your
+      transliterated text. Lemmatization is a lexical annotation of each word reardless of its
+      inflected forms. In a semi automatic process each word is linked with a lemma entry in the
+      integrated lemma list and takes over simultaneously all lexical properties of the lemma entry
+      like (POS-label, base translation(s), bibliographical references).</p>
+    <p> Furthermore the editing process involves entering a translation in German, English or
+      French, entering hieroglyphic writings of each text word and assigning <xref
+        href="grammar_flexioCodes.dita#concept_zjw_dsx_nt">inflection codes</xref> to the lemma. You
+      can also add comments, rubra, etc. to the transliteration whenever you wish. The following
+      order of editing is not compulsory. It is only supposed to help you with particular functions
+      of the BTS. It is up to you to decide the order of the text editing.</p>
+    <p>NOTE: You can only enter translation, lemmatization, annotations, and hieroglyphs after you
+      have typed the transliteration.</p>
   </body>
 </topic>
