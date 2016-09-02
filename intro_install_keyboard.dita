@@ -40,7 +40,9 @@
             but not with "s" (for ṣ) or with "d" (for ḍ). Further not all characters are allowed in
             all parts of the BTS. In particular the translitaration system established by Wolfang
             Schenkel is not allowed in the Transliteration Editor, but only in comments,
-            bibliography etc.</p></li>
+            bibliography etc.</p><p>NOTE: As Keyman Desktop is a separate software you have to start
+            this software prior to use the layout in BTS. We recommand to incorporate it in the
+            Windows Autostart function.</p></li>
       </ol>
     </p>
   </body>

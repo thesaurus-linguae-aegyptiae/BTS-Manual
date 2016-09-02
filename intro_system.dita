@@ -19,12 +19,17 @@
    will still need Windows license to install Windows on your VM. </p>
   <p><b>Required Java Version: Java V 7</b></p>
   <p>BTS is a Java application, which requires JAVA Runtime Environment from Version 7 up. To check
-   if Java is installed on your PC, go to https://www.java.com/en/download/installed.jsp. If the
-   required version is not installed, the update will be automatically offered. </p>
+   if Java is installed on your PC, go to <xref
+    href="https://www.java.com/en/download/installed.jsp" format="html" scope="external"
+    >https://www.java.com/en/download/installed.jsp</xref>. If the required version is not
+   installed, the update will be automatically offered. </p>
   <p><b>Port sharing</b>
   </p>
   <p>The port number used by the Couch DB to communicate with the server should be shared in the
-   firewall of your PC. For the port number see "Install BTS / Database Installation Setting". </p>
-  <p>TEST MAX 3</p>
+   firewall of your PC. For the port number see <xref href="intro_install.dita">Install BTS</xref>. </p>
+  <p><b>Internet access</b></p>
+  <p>BTS can be used online and offline, i.e. you do not need permanent internet access. You ony
+   need access to download the wordlist and other data during the installation process and to
+   sychronize your local data with the server. This process runs automatically.</p>
  </conbody>
 </concept>

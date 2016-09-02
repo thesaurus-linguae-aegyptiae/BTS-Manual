@@ -20,7 +20,7 @@
       work in the database object it will be inactive (grey) and after saving it will return to the
       inactive state. If you attempt to close the program the window will ask you to save your
       changes unless you already have done a save before. </p>
-    <p>NOTE: There is no auto-save in BTS 3.0, but the program will save your file when you click on
+    <p>NOTE: There is no auto-save in BTS, but the program will save your file when you click on
       another database object. Make sure you save your work in regular intervals to avoid loss of
       input!</p>
     <p><image href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r"/>

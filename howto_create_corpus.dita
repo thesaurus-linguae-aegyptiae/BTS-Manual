@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_umb_xrq_nt">
-  <title>Create / modify a corpus</title>
+  <title>Creating a corpus</title>
   <body>
-    <p> The following function is available to the user with global administrator privileges only.
+    <p>The following function is available to the user with global administrator privileges only.
       The detailed description of the UI elements can be found in <xref
-        href="oberflaeche_corpora.dita">Text Corpus</xref>  section.</p>
+        href="oberflaeche_corpora.dita">Text Corpus</xref> section.</p>
     <p><b>Creating a corpus</b></p>
     <p>
       <ol id="ol_ikk_dsy_qt">
@@ -17,9 +17,9 @@
           saved in the database). <p>NOTE: No special signs, spaces or capital letters are allowed
             in the prefix!</p></li>
         <li>Select the check box if you want to "Synchronize corpus with central database". Other
-          users will be able to see your new corpus only if it is synchronized with remote database.
-          Otherwise, it will rest in offline mode on your PC. After you have finished, click "OK".
-          Cancel the creation with the "Cancel" button.</li>
+          users will be able to see your new corpus only if it is synchronized with the remote
+          database server. Otherwise, it will rest in offline mode on your PC. After you have
+          finished, click "OK". Cancel the creation with the "Cancel" button.</li>
         <li>Your new corpus will appear in the list of the corpora.</li>
       </ol>
     </p>

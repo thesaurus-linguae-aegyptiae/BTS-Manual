@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p53_bnw_ns">
-  <title>Create a lemma entry</title>
+  <title>Creating a lemma entry</title>
   <body>
-    <p>This option is only available to the user with the administrator privileges for the
-      lemma-list. If you have a new lemma, which is not yet present in the BTS lemma list, please
-      send BTS team a proposal via email: aegypt1@bbaw.de. </p>
+    <p>This option is only available to the user with researcher privileges for the lemma-list. If
+      you have a new lemma, which is not yet present in the BTS lemma list, please send a proposal
+      to the BTS team via email: aegypt1@bbaw.de.</p>
     <p>
       <ol id="ol_v31_3nw_ns">
-        <li>To create a new lemma, open the <xref href="oberflaeche_lemmanaview.dita">lemma
-            view</xref>. On the left you will see the <xref
-            href="oberflaeche_lemmanavigator.dita#concept_pgn_j4d_4r"> Lemma Navigator</xref>: a
+        <li>To create a new lemma, open the <xref href="oberflaeche_lemmanaview.dita">Lemma
+            View</xref>. On the left you will see the <xref
+            href="oberflaeche_lemmanavigator.dita#concept_pgn_j4d_4r">Lemma Navigator</xref>: a
           list of available lemmata, grouped alphabetically.</li>
-        <li>Select an appropriate group from the list, where your lemma should be placed. It will
-          expand, showing further groups. You can either use your mouse (left-click) or navigate
-          with arrows on your keyboard (up and down to navigate between groups, right and left to
-          expand or collapse them).</li>
-        <li>Narrow the choice down even more by selecting a further, smaller group. A list of
-          lemmata will appear. You should check if the lemma you wish to enter really has not been
-          entered yet. </li>
-        <li>Click on <image href="Images/icons/full/icon16/lemma-add.png" id="image_bbj_cql_yr"/> in
-          the Lemma Navigator toolbar, in order to add a child entry for a lemma.</li>
+        <li>Click on <image href="Images/icons/full/icon16/lemmata.png" id="image_n2f_2zw_dx"/> in
+          the Lemma Navigator toolbar.</li>
         <li>In the <xref href="oberflaeche_lemma_lemmaeditor.dita#concept_atc_z4d_4r">Lemma
             Editor</xref> add a transliteration for your lemma. </li>
         <li>In the text-input field below you may also add hieroglyphs. In order to do that, open
@@ -28,9 +21,19 @@
             (HTW)</xref> and follow the instructions on how to enter hieroglyphs for a text.</li>
         <li>In the text-input field below, enter a translation for your lemma (choosing the language
           of your translation beforehand).</li>
-        <li>Add a bibliographical reference to a dictionary or an actual text as a reference in the
-            <xref href="oberflaeche_lemma_passporteditor.dita#concept_ws4_2pd_4r">Passport
-            Editor</xref>.</li>
+        <li>Add information on transliteration, part of speech, review state in the main tab of the
+          Passport Editor.</li>
+        <li>Add a bibliographical reference in the <xref
+            href="oberflaeche_lemma_passporteditor.dita#concept_ws4_2pd_4r">Passport
+          Editor</xref>.</li>
+        <li>To add an annotation or a comment to a lemma, click <image
+            href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add
+          Annotation" and <image href="Images/icons/full/icon16/comment-add.png"
+            id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Lemma Navigator.</li>
+        <li>To delete a lemma entry, use the <image href="Images/icons/full/obj16/delete.png"
+            id="image_xdl_2wm_wr"/> "Delete" button in the Lemma Navigator toolbar. It will move the
+          entry to the "Bin" tab, where you can manually permanently delete it. Closing or
+          restarting the BTS will also lead to the permanent deletion of an entry from the bin.</li>
       </ol>
     </p>
   </body>

@@ -38,9 +38,9 @@
   <topicref href="howto_Grammatikueberpruefung_e6.dita"/>
   <topicref href="howto_passport.dita"/>
   <topicref href="saving.dita"/>
-  <topicref href="howto_konfiguration.dita">
-   <topicref href="howto_schriftgroesse__e1.dita"/>
-   <topicref href="howto_schnellansicht_e2.dita"/>
+  <topicref href="howto_configuration.dita">
+   <topicref href="howto_fontsize.dita"/>
+   <topicref href="howto_adjusting_display.dita"/>
    <topicref href="howto_templates.dita"/>
    <topicref href="oberflaeche_preferences2.dita">
     <topicref href="oberflaeche_berlintextsystem.dita"/>

@@ -10,32 +10,21 @@
       with an input field and two check boxes.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Search_Function.png"
         id="image_fkx_zr2_vt"/></p>
-    <p>The search works as a full-text search. This means that any word you insert into the input
-      field will be searched independently from other words that you search for at the same time
-      (e.g. when you search for Papyrus Westcar, the program will look for "Papyrus" and "Westcar"
-      separately and present you with results that contain each word. If you want to search phrases
-      you will have to insert a phrase into quotation marks " ". Due to the full-text search your
-      results can become complex and confusing (the searching procedure will include any data
-      existing in the database including passport data, comments, annotations etc. and therefore you
-      might not know where to find the result you are looking for).</p>
+    <p>The search works as a full-text search. Therefore, the search is executed on the name of the
+      object, the metadata of the object, and the textual data (i.e. the transcription, the
+      translation) of the object. The search terms are combined with the operator OR. So, when you
+      search for Papyrus Westcar, the program will look for "Papyrus" and "Westcar" separately and
+      present you with results that contain Papyrus or Westcar. If you want to search phrases you
+      will have to insert a phrase into quotation marks " ".</p>
     <p>When you want to locate a specific database object within a project there are two
       possibilities for the search:</p>
     <p>
       <ol id="ol_o4m_sv2_1v">
         <li>If you know the ID of a database object, enter the ID into the input field and activate
           the check box "Search for IDs". </li>
-        <li>If the ID is unknown you can search the name of a database object and activate the check
-          box "Search for Names only". To minimize the result use search-phrases and put them into
-          quotation marks " ".</li>
+        <li>You can restrict your search activating the check box "Search for Names only". Then, the
+          search is no longer a full-text search, it is executed on the database names..</li>
       </ol>
     </p>
-    <p>When you want to locate specific data inside of database objects you can do this by just
-      entering specific values into the input field without clicking any check boxes. In order to
-      restrict the result, use search phrases and put them into " ". At the moment there is no
-      option to limit this kind of search to specific sections of the database objects data (e.g.
-      the phrase "ḫpr,w.pl ḥr ḫpr" will be displayed twice in the searching result if it appears
-      inside the transliteration in Text Editor and is part of any comment or passport data). If you
-      search for a word or a phrase that may appear in the text translation, comments or passport
-      data, it will be displayed multiple times for one text in the results.</p>
   </body>
 </topic>

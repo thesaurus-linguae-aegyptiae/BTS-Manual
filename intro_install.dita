@@ -19,8 +19,9 @@
         <li><u>Database Installation Settings</u><p>
             <ul id="ul_y51_mtj_2s">
               <li><i>Database Installation Directory</i>: A standard location is automatically
-                entered here referring to: "C:\bts\dbdir". In case you have extracted your bts
-                program package, change the path to "<i>your directory</i>\bts\dbdir".</li>
+                entered here referring to: "c:\bts\dbdir". In case you have extracted your bts
+                program package to another directory, change the path to "<i>your
+                directory</i>\bts\dbdir".</li>
               <li><i>Http Port of your CouchDB on Localhost</i>: The default port number is
                   <b>9089</b>.</li>
             </ul>
@@ -66,20 +67,25 @@
             from the server. This process will usually take about 20 minutes and is not visible to
             the user, it might take longer depending on your system. There is also no notification
             once the process is completed. Close the "Database manager" window and reopen it after
-            approximately 20 minutes. As soon as the "aaew_wlist" displays the number 48500 in "DB
+            approximately 20 minutes. As soon as the "aaew_wlist" displays the number 50.000 in "DB
             Doc Count" column, the process is completed. </p><p>NOTE: Sometimes the automatic log-in
             does not work after the installation and restart. As the result "No user logged in" and
             "No role" will be initially displayed in the BTS toolbar. In this case, start the
-            program again and log in with your user name and password. </p></li>
-        <li><u>Index data</u><p>Last but not least. All data imported from the server, should be
-            indexed. Indexing speeds up the search, as the query is not done in the database (which
+            program again.  A small window appears, where you have to log in with your user name and
+            password. You can activate "Remember me", so BTS will not ask you for user name and
+            password again. You can change and deactivate this function in the <xref
+              href="oberflaeche_berlintextsystem.dita">preferences</xref>.</p></li>
+        <li><u>Index data</u><p>Last but not least. All data imported from the server, must be
+            indexed. Indexing enabels the search, as the query is not done in the database (which
             would take time), but in the document indexes.</p>In the upper left corner of the
           "Database manager" window click on "Re-index all" . The indexing process will start and
           may take up to 20 minutes. If indexing has been completed correctly, the corpus color will
-          change from red to green. The databases which are currently being indexed are marked
-          yellow. If indexing was not successful for some corpora try re-indexing them by clicking
-          on the button "Re-index all non-OK". </li>
-        <li>xxx</li>
+          change from red to green. Databases that are not indexed sucessfully are marked either in
+          yellow or in red. If indexing was not successful for some corpora re-index them by
+          clicking on the button "Re-index all non-OK". <p>NOTE: To work with BTS all databases
+            should be indexed correctly. Thus always re-index those databases which are marked
+            either yellow or red.</p><p>NOTE: The items "_recplicator" and "_uses" cannot be indexed
+            and thus always are marked in red. You do not have to re-index these items.</p></li>
       </ol>
     </p>
   </conbody>

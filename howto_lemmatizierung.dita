@@ -59,6 +59,9 @@
     <p>To confirm click on <image href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr"
       /> "Confirm current lemma editing and continue to next lemma" or on ">" button. The button
       ">|" brings you to the end of the line and >|| to the end of the text.</p>
+    <p>NOTE: Due to technical reasons the confirmation button (<image
+        href="Images/icons/full/icon16/lemma-ok.png" id="image_i5c_52x_dx"/>) does not work in the
+      first place. In that case just press it a second time.</p>
     <p>To delete  lemmatization click on <image
         href="Images/Icons_updated/full/icon16/lemmatizer-delete.png" id="image_l33_m2g_ms"/>
       "Remove lemma information" in the Lemmatizer toolbar.</p>

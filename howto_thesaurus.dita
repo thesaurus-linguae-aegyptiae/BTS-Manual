@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_sjw_lvx_st">
-  <title>Create a thesaurus entry</title>
+  <title>Creating a thesaurus entry</title>
   <body>
-    <p>This option is available to the user with the administrator privileges for the thesaurus!</p>
+    <p>This option is available to the user with researcher privileges for the thesaurus! If you
+      have a new thesaurus entry, which is not yet present in the BTS thesaurus list, please send  a
+      proposal to the BTS team via email: aegypt1@bbaw.de.</p>
     <p>The main function of the Thesaurus is to provide standardized vocabulary for the text
-      meta-data (extra-textual information), like dating, location or material. For a detailed
-      description of the individual elements of the Thesaurus view see <xref
-        href="oberflaeche_thesaurus.dita#concept_w5m_g4d_4r">Thesaurus</xref>.</p>
+      metadata, e.g. dating, location or material. For a detailed description of the individual
+      elements of the Thesaurus view see <xref href="oberflaeche_thesaurus.dita#concept_w5m_g4d_4r"
+        >Thesaurus</xref>.</p>
     <p>
       <ol id="ol_sb3_xvx_st">
         <li>Open the Thesaurus view by clicking the <image href="Images/icons/full/icon16/thss.png"
@@ -16,16 +18,17 @@
         <li>In the Thesaurus Navigator on the left, click either <image
             href="Images/icons/full/icon16/thss_add.png" id="image_vbs_52k_qr"/> "Add Thesaurus Root
           Entry" or <image href="Images/icons/full/icon16/ths-add.png" id="image_v3d_w2k_qr"/> "Add
-          Thesaurus Child Entry". A root entry may stand on its own, while child entry is always
-          dependent on the root entry. </li>
-        <li>Click on the "Thesaurus" entry to edit its content. A Passport Editor <image
-            href="Images/icons/full/icon16/passport.png" id="image_ott_5fk_qr"/> will appear in the
-          middle.</li>
-        <li>In the Passport Editor you can type a name (default name is either "Thesaurus Root" or
-          "Thesaurus Child"), define type and subtype via the drop-down menus and edit visibility
-          and review status. For a detailed description of the individual tabs and elements of the
-          passport editor of the Thesaurus, see <xref
-            href="oberflaeche_thesaurs_passporteditor.dita#concept_wpd_hqd_4r">Passport
+          Thesaurus Child Entry" to create a new thesaurus entry. A root entry may stand on its own,
+          while a child entry is always dependent on the root entry. </li>
+        <li>Click on the newly created "Thesaurus" entry to edit its content. Its Passport Editor
+            <image href="Images/icons/full/icon16/passport.png" id="image_ott_5fk_qr"/> will appear
+          in the middle.</li>
+        <li>In the Passport Editor you have to type a name (default name is either "Thesaurus Root"
+          or "Thesaurus Child"), define type and subtype via the drop-down menus and edit visibility
+          and review status. </li>
+        <li>Now fill in all availabe metadata into the Passport Editor. For a detailed description
+          of the individual tabs and elements of the passport editor of the Thesaurus View, see
+            <xref href="oberflaeche_thesaurs_passporteditor.dita#concept_wpd_hqd_4r">Passport
             Editor</xref>.</li>
         <li>To add an annotation or a comment to a Thesaurus entry, click <image
             href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add
