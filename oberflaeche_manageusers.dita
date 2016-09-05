@@ -3,9 +3,13 @@
 <topic id="topic_dh2_vln_y5">
   <title>Manage users and user groups</title>
   <body>
-    <p></p>
-    <p>Manage Users and User Groups tab offers the opportunity to create new users and add users to
-      project groups, which have a specific set of rights in the editing process.</p>
+    <p>To open the user management select "Open User Manager" from the drop-down menu "Preferences"
+      of the menu bar. Clicking on this menu entry opens the window "User Management". Select the
+      tab: "Manage Users and User Groups".</p>
+    <p>NOTE: This function is available to the user with global administrator privileges only. </p>
+    <p>The tab Manage Users and User Groups  offers the opportunity to create new accounts for users
+      and add users to project groups, which have a specific set of rights in the editing
+      process.</p>
     <p>In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r"/>
       <u>Active Users</u> the active user groups are displayed. In the tab Bin deleted user groups
       are shown. In the brackets behind the group names the number of the assigned users is
@@ -19,12 +23,9 @@
       them to the group by clicking on the Add user to Group.</p>
     <p>Clicking on a username allows to modify his/her information on the right side of the window.
       It contains such fields as ID of User, First name and Surname (both required fields marked
-      with *), Email, Website, Description, Web Description, Siglum and Comment. In the ID field a
-      username given earlier appears, but cannot be edited anymore. Password of a user can be
-      changed here (e.g. in the case that a user forgets his/her password). Users can also change
-      own passwords any time via <xref href="oberflaeche_changepassword.dita">Preferences / Change
-        password </xref>(as long as they know their previous password). The check box "User is
-      Database Administrator" can be checked.</p>
+      with *), E-mail, Website, Description, Web Description, Siglum and Comment. In the ID field a
+      username given earlier appears, but cannot be edited anymore. The check box "User is Database
+      Administrator" can be checked.</p>
     <p>Functions of the buttons in this tab:</p>
     <p><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r"/>
       <u>New Group</u>

@@ -7,7 +7,7 @@
             translation" of the text editor. This window will remain deactivated (greyed out) during
             transliteration, until you press the button <image
                 href="Images/icons/full/icon16/lemma-load.png" id="image_ynz_vnc_xt"/> "Load Text
-            Lemmata" or until you have switched between the Text editor and the Sign Text
+            Lemmata" or until you have switched between the Text Editor and the Sign Text
             Editor.</p>
   <p>Make sure to have selected the right language of your translation in the drop-down menu on the
             right (<image href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/> : de,
@@ -20,10 +20,16 @@
             by clicking in the Corpus Navigator and reopening the selected text). Clicking on a
             sentence here will highlight it and the same sentence will be underlined in the
             "Transliteration" subsection. You will have to enter the translation sentence by
-            sentence (designated in the transliteration with §§). Within a complete egyptian
-            grammatical sentence, it is possible to segment the translation by using the
-            return-Taste. The input of the complete translation as a running text is not possible.
-            Enter only one translation for each sentence, as the selection of languages is not
-            intended for multilingual translations of one and the same text.</p>
+            sentence (designated in the transliteration with §§). </p>
+        <p>Within a complete egyptian grammatical sentence, it is possible to segment the
+            translation by using the return-Taste. The input of the complete translation as a
+            running text is not possible. Enter only one translation for each sentence, as the
+            selection of languages is not intended for multilingual translations of one and the same
+            text.</p>
+        <p>NOTE: Before you enter your translation, be sure that the relevant sentence is activated.
+            The activation is indicated by the sign <image
+                href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> in the Text
+            Editor direcly to the left of the relevant sentence. If the sign does not show up, your
+            translation will not be saved. </p>
  </conbody>
 </concept>

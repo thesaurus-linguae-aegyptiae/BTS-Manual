@@ -19,11 +19,7 @@
             </row>
             <row>
               <entry>Suffix-pronouns</entry>
-              <entry> “=”</entry>
-            </row>
-            <row>
-              <entry>Lexical bound suffixes</entry>
-              <entry> “≡”</entry>
+              <entry>“=”</entry>
             </row>
             <row>
               <entry>Endings (morph.)</entry>
@@ -31,15 +27,15 @@
             </row>
             <row>
               <entry>Endings (word formation)</entry>
-              <entry> “,”</entry>
+              <entry>“,”</entry>
             </row>
             <row>
               <entry>Stem modification</entry>
-              <entry> “!”</entry>
+              <entry>“!”</entry>
             </row>
             <row>
               <entry>Linking compound words</entry>
-              <entry> “-“</entry>
+              <entry>“-“</entry>
             </row>
           </tbody>
         </tgroup>

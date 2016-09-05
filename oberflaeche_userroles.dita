@@ -3,7 +3,10 @@
 <topic id="topic_tck_1mn_y5">
   <title>Administrate user roles and rights</title>
   <body>
-    <p></p>
+    <p>To open the user role administration select "Open User Manager" from the drop-down menu
+      "Preferences" of the menu bar. Clicking on this menu entry opens the window "User Management".
+      Select the tab: "Administrate User Roles and Rights".</p>
+    <p>NOTE: This function is available to the user with global administrator privileges only. </p>
     <p>The user role administration in BTS follows a certain procedure: first roles are assigned to
       a corpus and then users are assigned to existing roles (i.e. Project -> Corpus -> User Role ->
       User Name.)  </p>

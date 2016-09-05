@@ -6,9 +6,10 @@
   <p>To enter or edit the transliteration of your texts, click in the "Transliteration" tab of the
         <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
       Text Corpus view. It is possible to enter the complete transliteration of a text at once out
-      of an external source (e.g. a Word document) by copy&amp;paste, if one follows all the rules
-      of BTS grammar. The transliteration used should be the unicodefont BBAW-Libertine.</p>
-  <p>Transliteration follows the BTS <xref href="howto_Grammatikfehler_e5.dita">grammar
+      of an external source (e.g. a MS Word document) by copy&amp;paste, if one follows all the
+      rules of BTS grammar. The transliteration used in MS Word should be the unicodefont
+      BBAW-Libertine.</p>
+  <p>Transliteration follows the BTS <xref href="howto_grammar_rules_e5.dita">grammar
       rules</xref>. </p>
     <p><b>The most important rules are the following</b></p>
     <p>
@@ -19,14 +20,14 @@
           a sentence marker "§" or after opening brackets.<p>NOTE: Sentence boundaries can always be
             modified later, but the translation of the modified sentences will be lost.</p></li>
         <li>Brackets come in pairs. You have to close every bracket you have opened. Usually the
-          system will do this automatically, but there are cases where that does not work. Clicking
+          system will do this automatically, but there are cases where that does not work. Pressing
           "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
           recurring elements you also can define a template in the <xref
             href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.<p>NOTE:
             Brackets have to be closed with each token (word), i.e. [jw] [nfr] (not: [jw
             nfr]).</p><p>NOTE: Some combinations of round brackets and doubble round brackets result
             in errors. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
-            dummy sign "⁝⁝":  ((n(,j)⁝⁝)).</p></li>
+            dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
         <li>The dual and plural endings are transcribed with ".w" or ".wj/.tj" when written
           phonetically. When marked graphically, they are transcribed with ".pl" or ".du". When the
           plural and dual endings are written both phonetically and graphically they are transcribed

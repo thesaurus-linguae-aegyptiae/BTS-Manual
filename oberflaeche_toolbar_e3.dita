@@ -12,7 +12,7 @@
     <p>Click the black triangle on the right of the plus sign to open a context menu.</p>
     <p>Here you can choose between the entries to create a new corpus, a new text corpus object, a
       new text or an annotation. As long as you did not select a corpus in the Navigator window the
-      entries in the menu are disabled. </p>
+      entries in the context menu are disabled. </p>
     <p><image href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/>
       <u>Save</u>
     </p>
@@ -29,13 +29,14 @@
     <p><image href="Images/icons/full/icon16/undo.png" id="image_rfb_wmr_4r"/>
       <u>Undo (Ctrl+Z)</u>
     </p>
-    <p>Undo the last action. You can undo more than one action. You have to be in the same view
-      where you made your changes (same transliteration, translation etc.). Corpora/objects/texts
-      created accidentally cannot be deleted this way.</p>
+    <p>Undo the last action. You can undo more than one action. The Undo-button only applies to
+      changes in the Text Editor and can only undo actions you have done during the current session
+      in the text. Once you have switched to antother database object, the feature is not available
+      anymore. Newly created database objects cannot be deleted this way.</p>
     <p><image href="Images/icons/full/icon16/redo.png" id="image_ffc_mnr_4r"/>
       <u>Redo</u>
     </p>
-    <p>Reverse last "undone" action.</p>
+    <p>Reverse last "undone" action, applies only to changes in the Text Editor.</p>
     <p><image href="Images/icons/full/icon16/preferences.png" id="image_rkn_4nr_4r"/>
       <u>Preferences</u>
     </p>
@@ -50,22 +51,24 @@
     <p><image href="Images/icons/full/icon16/Open_Perspective.png" id="image_mdc_dkp_5t"/>
       <u>Open Perspective...</u>
     </p>
-    <p>A pop-up window will appear with the list of perspectives / views.</p>
-    <p><image href="Images/icons/full/icon16/corpora.png" id="image_dry_hkp_5t"/>
+    <p>A pop-up window will appear with the list of four perspectives / views of the workspace (Text
+      Corpus, Lemma, Thesaurus, Abstract Text). Select the respective perspective / view and confirm
+      with "OK" to open it.</p>
+    <p>You can also open <image href="Images/icons/full/icon16/corpora.png" id="image_dry_hkp_5t"/>
       <u>Text Corpus</u>, <image href="Images/icons/full/icon16/lemmata.png" id="image_ecw_jkp_5t"/>
       <u>Lemma</u>, <image href="Images/icons/full/icon16/thss.png" id="image_jxq_lkp_5t"/>
       <u>Thesaurus</u> and <image href="Images/icons/full/icon16/abstracttexts.png"
         id="image_wvw_mkp_5t"/>
-      <u>Abstract Text</u> are all views which you can open by clicking on their respective icon on
-      the toolbar.</p>
-    <p><u>NOTE</u>: The Abstract Text feature is not complete yet. It will compile the witnesses of
-      a single text (e.g. Sinuhe) and deliver a generic structure, ex. display the concordance of
+      <u>Abstract Text</u>  by clicking on their respective icon at the right edge of the
+      toolbar.</p>
+    <p><u>NOTE</u>: The Abstract Text view is not available yet. It will compile the witnesses of a
+      single text (e.g. Sinuhe) and deliver a generic structure, e.g. display the concordance of
       paragraphs. The metadata concerning the "abstract text" can be entered here, e.g. the
       bibliography. </p>
     <p>To the right of the <image href="Images/icons/full/icon16/corpus.png" id="image_vrb_v4r_4r"/>
       you can see your main working corpus. At startup "No Corpus" is displayed. To set the corpus
       click on the <image href="Images/icons/full/icon16/preferences.png" id="image_tsm_5q1_sr"/>
-      Preferences icon, which will forward you to the <xref href="oberflaeche_preferences.dita"
-        >Corpus Settings</xref>. </p>
+      Preferences icon, which will forward you to the <xref href="oberflaeche_berlintextsystem.dita"
+        >Corpus Settings</xref>.</p>
   </body>
 </topic>

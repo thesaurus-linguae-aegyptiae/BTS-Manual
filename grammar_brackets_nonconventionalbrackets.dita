@@ -29,5 +29,6 @@
         </tgroup>
       </table>
     </p>
+    <p>NOTE: Some combinations of round brackets and doubble round brackets result in errors. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p>
   </body>
 </topic>

@@ -3,8 +3,19 @@
 <concept id="concept_dts_pjd_4r">
  <title>Workspace</title>
  <conbody>
-  <p>The workspace is a part of the BTS user interface, located between the toolbar and the status
-      bar. It changes appearance whenever the user switches between Text Corpus, Lemma, Thesaurus
-      and Abstract Text views.</p>
+  <p>The workspace is a central part of the BTS user interface, located between the toolbar and the
+            status bar. The contents of windows and the tabs change according to four different
+            workings views: the Text Corpus -, the Lemma -, the Thesaurus - and the Abstract Text
+            view. The user can switch between these four views via the five right placed icons on
+            the toolbar or via the pulldown menu "Window" in the Menu bar.</p>
+        <p>The Workspace has the same subdivision in each of the four views:</p>
+        <p><ul id="ul_lpc_l1t_2x">
+                <li>left: Navigator (yellow)</li>
+                <li>Middle above: Editor (blue) - not available in Thesaurus View</li>
+                <li>Middle below: Passport Data Editor (green)</li>
+                <li>Right: Annotation and Translation (red) - Translation only available in Text
+                    Corpus View<p/></li>
+            </ul>
+            <image href="Images/workspace.png" id="image_wd4_w1t_2x"/></p>
  </conbody>
 </concept>

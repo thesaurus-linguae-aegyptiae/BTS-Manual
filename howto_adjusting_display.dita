@@ -21,6 +21,11 @@
         id="image_eyc_dff_1v"/> icon above it.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Quick%20view.png"
         id="image_q3q_w1y_st"/></p>
+    <p><b>Closing Tabs</b></p>
+    <p>Apart from the Navigator, most of the tabs can be closed by clicking <image
+        href="Images/icons/extra%20icons/close.png" id="image_hfc_l2t_2x"/>. You can restore the
+      closed tab via the dropdown menu "Window" in the menu bar. Restarting BTS will restore all
+      closed tabs as well.</p>
     <p><b>Moving tabs</b></p>
     <p>If you don't like the default arrangement of the BTS tabs, most of them can be moved (some
       have to stay together, like all the sub-tabs of the Text Editor: Transliteration, Sign Text

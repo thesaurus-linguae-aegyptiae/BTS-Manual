@@ -26,7 +26,7 @@
   <topicref href="howto_edittext2.dita">
    <topicref href="howto_transliteration.dita"/>
    <topicref href="howto_satzuebersetzung.dita"/>
-   <topicref href="howto_lemmatizierung.dita"/>
+   <topicref href="howto_lemmatizing.dita"/>
    <topicref href="howto_annotationen.dita"/>
    <topicref href="howto_corpus_enterhieros2.dita">
     <topicref href="howto_destructions.dita"/>
@@ -139,9 +139,10 @@
     </topicref>
     <topicref href="oberflaeche_thesaurus_annotation.dita"/>
    </topicref>
+   <topicref href="oberflaeche_abstracttext.dita"/>
   </topicref>
  </topicref>
- <topicref href="howto_Grammatikfehler_e5.dita">
+ <topicref href="howto_grammar_rules_e5.dita">
   <topicref href="grammar_transcribing_rules.dita">
    <topicref href="grammar_structure_convention.dita">
     <topicref href="grammar_structure_structuralsigns.dita"/>

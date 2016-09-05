@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ops_zgb_lt">
- <title>Rules for transcribing a text</title>
+ <title>Rules for transliterating a text</title>
  <conbody>
-  <p>A proper transcription should represent all phonetical and morphological information that can
-   be received from a text. A transcription should also represent destructions and mistakes. We
-   recommend transcribing the traditional form of any word, as long as there is no evidence that it
-   has undergone considerable changes in its phonology.</p>
+  <p>A proper transliteration should represent all phonetical and morphological information that can
+   be received from a text. A transliteration should also represent damages of the text and mistakes
+   or corrections of the text by the ancient scribes. We recommend transliterating the written form
+   of any word, as long as there is no evidence that it has undergone considerable changes in its
+   phonology.</p>
   <p/>
-  <p>The following structural elements should be reflected by a transcription: every phonological or
-   morphological element which is a part of a written word. Graphical elements without phonological
-   or morphological function should not to be reflected (e.g. determinatives). </p>
+  <p>The following structural elements should be reflected by a transliteration: every phonological
+   or morphological element which is a part of a written word. Graphical elements without
+   phonological or morphological function should not to be reflected (e.g. determinatives). </p>
  </conbody>
 </concept>
