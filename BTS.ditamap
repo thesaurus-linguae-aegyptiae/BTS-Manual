@@ -163,11 +163,7 @@
     <topicref href="grammar_unwrittenconsonants_numerus.dita"/>
    </topicref>
   </topicref>
-  <topicref href="grammar_brackets.dita">
-   <topicref href="grammar_brackets_theory.dita"/>
-   <topicref href="grammar_brackets_conventionalbrackets.dita"/>
-   <topicref href="grammar_brackets_nonconventionalbrackets.dita"/>
-  </topicref>
+  <topicref href="grammar_brackets.dita"/>
   <topicref href="grammar_destructions.dita">
    <topicref href="grammar_destructions_theory.dita"/>
    <topicref href="grammar_destructions_representation.dita"/>

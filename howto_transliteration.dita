@@ -5,10 +5,7 @@
  <conbody>
   <p>To enter or edit the transliteration of your texts, click in the "Transliteration" tab of the
         <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
-      Text Corpus view. It is possible to enter the complete transliteration of a text at once out
-      of an external source (e.g. a MS Word document) by copy&amp;paste, if one follows all the
-      rules of BTS grammar. The transliteration used in MS Word should be the unicodefont
-      BBAW-Libertine.</p>
+      Text Corpus view.</p>
   <p>Transliteration follows the BTS <xref href="howto_grammar_rules_e5.dita">grammar
       rules</xref>. </p>
     <p><b>The most important rules are the following</b></p>
@@ -32,13 +29,33 @@
           phonetically. When marked graphically, they are transcribed with ".pl" or ".du". When the
           plural and dual endings are written both phonetically and graphically they are transcribed
           with both options: ".w.pl" or ".wj/.tj.du".</li>
-        <li>Ambiguities are entered as: "%case 1: rd.du| case 2: war,t.du%". Be careful not to type
-          a space in front of the vertical stroke. You can input as many cases as you need.</li>
         <li>It is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."), to
           close brackets before you open them ("n]b[") or to interlace different kinds of brackets
           wrongly ("{n[b}]").</li>
       </ul>
     </p>
+    <p><b>Ambiguities</b></p>
+    <p>Ambiguities have to be noted,</p>
+    <p>
+      <ul id="ul_pls_1vy_2x">
+        <li>if a group of hieroglyphs can be transliterated and interpreted in different ways,</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_avw_1vy_2x">
+        <li>if a group of hieroglyphs can be lemmatized differently,</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_pxb_bvy_2x">
+        <li>if a group of hieroglyphs can be encoded with different inflection codes.</li>
+      </ul>
+    </p>
+    <p>Ambiguities are entered as: "%case 1: ...| case 2: ...| case 3: ...%". You can input as many
+      cases as you need. Be careful not to type a space in front of the vertical stroke. </p>
+    <p>Example: %case 1: rd.du| case 2: war,t.du%"</p>
+    <p>NOTE: Sentence separators, extra-textual information and destruction markers, e.g. "§", line
+      counts (#lc: ...#) and --2Q--, are not allowed within ambiguities.</p>
     <p><b>Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. Note that
       you can create your own templates (<xref
@@ -70,5 +87,34 @@
     <p><b>Transliteration conventions</b></p>
     <p>See <xref href="grammar_transcribing_rules.dita#concept_ops_zgb_lt">Grammar Rules</xref>
       for detailed information.</p>
+    <p><b>Copy&amp;Paste functions</b></p>
+    <p>BTS supports copy&amp;paste. </p>
+    <p>
+      <ul id="ul_jgl_mby_2x">
+        <li>It is possible to enter the complete transliteration of a text at once out of an
+          external source (e.g. a MS Word document) by copy&amp;paste, if one follows all the rules
+          of BTS grammar. The transliteration used in MS Word should be the unicodefont
+          BBAW-Libertine.</li>
+        <li>You can copy your transliteration, parts of it or extra-textual information and paste it
+          anywhere in the same or another text. By doing this, only the transliteration will be
+          copied, even if the tokens are lemmatized.</li>
+        <li>If you want to copy&amp;paste your transliteration as lemmazied tokens, use the feature
+          "Copy with Lemmata" and "Paste with Lemmata".<p>
+            <ul id="ul_k51_jcy_2x">
+              <li>This feature does not work for single words and phrases. You can only copy
+                complete sentences. Mark the sentence or the set of sentences you would like to
+                copy. Click on it (right-click) and select "Copy with Lemmata".</li>
+              <li>Proceed to the text where you want to insert the sentence(s). Righ-click the exact
+                position and select "Paste with Lemmata".</li>
+            </ul>
+          </p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. You need to
+          enter some dummy text first that you can delete afterwards.<p>NOTE: The sentence you want
+            to copy as well as the sentence in, before, or after which you want to insert the copied
+            sentence(s) is activated. Activation is shown by the sign <image
+              href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the left
+            of the sentence (compare note on <xref href="howto_satzuebersetzung.dita">translation</xref>
+            below).</p></li>
+      </ul>
+    </p>
  </conbody>
 </concept>
