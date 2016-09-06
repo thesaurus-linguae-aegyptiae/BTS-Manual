@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p15_rwv_ns">
-  <title>Create / modify a database object</title>
+  <title>Creating a database object</title>
   <body>
-    <p> The following functions are available to the user with administrator privileges over a given
-      corpus. </p>
-    <p><b>Creating a database object</b></p>
+    <p>The following functions are available to the user with at least Researcher privileges over a
+      given corpus. Creating a text corpus object (i.e. the item referring to physical inscribed
+      object) and a text are the basic steps to edit a text in BTS.</p>
+    <p><b>Creating a text corpus object</b></p>
     <p>
       <ol id="ol_zxm_3ty_qt">
         <li>Choose the corpus from the corpora tree where you wish your object to appear. You can
           add an object to a corpus or to another already existing object. </li>
         <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
-          sub-entry of the chosen corpus. <p>NOTE: Currently the new objects and texts will be saved
-            in your main working corpus and not in the selected corpus if those two differ. New
-            objects will appear in the selected corpus, but will not be saved there.</p></li>
-        <li>Name your object in the <xref href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main
-            Tab </xref> of the Passport Editor (The "Name" input field will appear red). You can
-          actually start working without naming your object and name it later. Until it is named,
-          the object will appear in the corpora tree with the default name "BTST Object".</li>
+          sub-entry of the chosen corpus. The new created object has the relation "PartOf" to the
+          chosen corpus or to an already existing object of this corpus. <p> NOTE: A Text Corpus
+            Object is referring to a physical object, covered with texts. Texts and Text Corpus
+            Objects are in child-parent relation, i.e. Text is always attributed to the a specific
+            Text Corpus Object - not vice versa (see <xref href="intro_ui_glossary.dita"
+              >Glossary</xref> in the Chapter Introduction).</p><p>NOTE: Currently new database
+            objects will be saved in your main working corpus (as selected in the <xref
+              href="oberflaeche_berlintextsystem.dita">preferences</xref>) and not in the selected
+            corpus if those two differ. New database objects will appear in the selected corpus, but
+            will not be saved there. The appearance is dependent on the relations of the database
+            objects, not on their physical storage.</p></li>
+        <li>Name your text corpus object in the <xref
+            href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main Tab </xref> of the Passport
+          Editor (The "Name" input field will appear red). You can actually start working without
+          naming your object and name it later. Until it is named, the object will appear in the
+          corpora tree with the default name "BTSTC Object".</li>
         <li>Define the Type and, if applicable, also the Subtype of the object. Provide as much
-          information as you can by filling out the tabs of the <xref
+          information as possible by filling out the tabs of the <xref
             href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.</li>
       </ol>
     </p>
@@ -37,6 +47,9 @@
             Tab</xref> of the Passport Editor. (The "Name" input field will appear red until it is
           filled out.) You can actually start working without naming your text and name it later.
           Until then the default name will be "BTS Text".</li>
+        <li>As for the Text Corpus Object define the Type and, if applicable, also the Subtype of
+          the object. Provide as much information as possible by filling out the tabs of the <xref
+            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.</li>
       </ol>
     </p>
     <p><b>Moving database objects</b></p>
@@ -44,8 +57,10 @@
       from one project or corpus to another, right click the chosen item and select "Move among
       projects" in the appearing context menu. In the opened window the current physical location is
       displayed. Alter the entries as you wish (upper field for a new project and lower field for a
-      new corpus in the project). Changing the physical location does not affect the position of the
-      database object in the Navigator tree. </p>
+      new corpus in the project) by clicking the checkbox in the lower field. Changing the physical
+      location does not affect the position of the database object in the Navigator tree. The
+      project or corpus where this Text Corpus Object or Text is actually saved is given in brackets
+      after the name of the Text Corpus Object or of the Text (in Grey).</p>
     <p><b>Deleting database objects</b></p>
     <p>To delete a database object (corpus, object, text) select it and then click on <image
         href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Delete". It will be moved
@@ -53,6 +68,6 @@
       the Corpus Navigator section), where you have the opportunity to restore it (right click the
       object and choose "Restore" from the context menu) or to delete it permanently. All
       subordinate elements will be deleted as well. Upon closing or restarting the BTS all the items
-      in the Bin will be deleted permanently.</p>
+      in the bin will be deleted permanently.</p>
   </body>
 </topic>

@@ -3,8 +3,6 @@
 <concept id="concept_rjs_nw2_yr">
  <title>Open User Manager</title>
  <conbody>
-  <p>NOTE: This function is available to the user with global administrator privileges only.
-   Clicking on this menu entry opens the window "User Management" with two tabs: "Manage Users and
-   User Groups" and "Administrate User Roles and Rights".</p>
+  <p>NOTE: This function is available to the user with global administrator privileges only.</p>
  </conbody>
 </concept>

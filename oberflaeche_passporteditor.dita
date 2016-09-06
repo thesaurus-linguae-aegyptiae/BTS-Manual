@@ -9,7 +9,7 @@
       Corpus, Lemma, Thesaurus or Abstract Text. The rights to modify object's passport data depend
       on your <xref href="user_roles.dita#topic_yqt_fpq_zs">user role</xref> for the selected
       corpus.</p>
-    <p> If you are working on a "child object" and want it to have the same meta-data as the "parent
+    <p> If you are working on a "child object" and want it to have the same metadata as the "parent
       object", you can click<image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr"
       /> "Inherit Passport Data" in the top right corner of the Passport Editor. Note that the
       "parent" data will be copied in the empty fields only. If the fields were filled out, their

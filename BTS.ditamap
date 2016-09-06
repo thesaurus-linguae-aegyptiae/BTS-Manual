@@ -26,7 +26,7 @@
   <topicref href="howto_edittext2.dita">
    <topicref href="howto_transliteration.dita"/>
    <topicref href="howto_satzuebersetzung.dita"/>
-   <topicref href="howto_lemmatizierung.dita"/>
+   <topicref href="howto_lemmatizing.dita"/>
    <topicref href="howto_annotationen.dita"/>
    <topicref href="howto_corpus_enterhieros2.dita">
     <topicref href="howto_destructions.dita"/>
@@ -38,9 +38,9 @@
   <topicref href="howto_Grammatikueberpruefung_e6.dita"/>
   <topicref href="howto_passport.dita"/>
   <topicref href="saving.dita"/>
-  <topicref href="howto_konfiguration.dita">
-   <topicref href="howto_schriftgroesse__e1.dita"/>
-   <topicref href="howto_schnellansicht_e2.dita"/>
+  <topicref href="howto_configuration.dita">
+   <topicref href="howto_fontsize.dita"/>
+   <topicref href="howto_adjusting_display.dita"/>
    <topicref href="howto_templates.dita"/>
    <topicref href="oberflaeche_preferences2.dita">
     <topicref href="oberflaeche_berlintextsystem.dita"/>
@@ -60,7 +60,7 @@
   <topicref href="oberflaeche_edit.dita"/>
   <topicref href="oberflaeche/oberflaeche_configuration_setting.dita"/>
   <topicref href="oberflaeche_manageusers.dita"/>
-  <topicref href="obeflaeche_userroles.dita"/>
+  <topicref href="oberflaeche_userroles.dita"/>
   <topicref href="oberflaeche_openfuton.dita"/>
   <topicref href="oberflaeche_esgui.dita"/>
  </topicref>
@@ -73,7 +73,7 @@
     <topicref href="oberflaeche/oberflaeche_configuration_setting.dita"/>
     <topicref href="oberflaeche_usermanager.dita">
      <topicref href="oberflaeche_manageusers.dita"/>
-     <topicref href="obeflaeche_userroles.dita"/>
+     <topicref href="oberflaeche_userroles.dita"/>
     </topicref>
     <topicref href="oberflaeche_databasemanager.dita"/>
     <topicref href="oberflaeche_preferences2.dita">
@@ -139,9 +139,10 @@
     </topicref>
     <topicref href="oberflaeche_thesaurus_annotation.dita"/>
    </topicref>
+   <topicref href="oberflaeche_abstracttext.dita"/>
   </topicref>
  </topicref>
- <topicref href="howto_Grammatikfehler_e5.dita">
+ <topicref href="howto_grammar_rules_e5.dita">
   <topicref href="grammar_transcribing_rules.dita">
    <topicref href="grammar_structure_convention.dita">
     <topicref href="grammar_structure_structuralsigns.dita"/>
@@ -162,11 +163,7 @@
     <topicref href="grammar_unwrittenconsonants_numerus.dita"/>
    </topicref>
   </topicref>
-  <topicref href="grammar_brackets.dita">
-   <topicref href="grammar_brackets_theory.dita"/>
-   <topicref href="grammar_brackets_conventionalbrackets.dita"/>
-   <topicref href="grammar_brackets_nonconventionalbrackets.dita"/>
-  </topicref>
+  <topicref href="grammar_brackets.dita"/>
   <topicref href="grammar_destructions.dita">
    <topicref href="grammar_destructions_theory.dita"/>
    <topicref href="grammar_destructions_representation.dita"/>

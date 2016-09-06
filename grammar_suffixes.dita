@@ -3,9 +3,9 @@
 <topic id="topic_wmn_1kb_lt">
   <title>Suffixes</title>
   <body>
-    <p>Suffixes are to be marked consistently by “=”. Note the white-space between a word and “=”.
-      Lexically bound suffixes have to be marked by “≡” to declare the suffix as included in the
-      word (e.g. personal names).</p>
+    <p>Suffixes are to be marked consistently by “=”. Note the space between a word and “=”.
+      Lexically bound suffixes are also to be marked by “=” to declare the suffix as included in the
+      word (e.g. personal names), but are used without space.</p>
     <p>
       <table id="table_lfm_bkb_lt">
         <tgroup cols="2">
@@ -23,12 +23,12 @@
               <entry>incorrect: <i>s</i><i>ḏ</i><i>m=f</i></entry>
             </row>
             <row>
-              <entry>Lexical Bound Suffixes:</entry>
+              <entry>Lexically Bound Suffixes:</entry>
               <entry> </entry>
             </row>
             <row>
-              <entry>correct: <i>Nṯ</i><i>r-ꜥpr</i><b>≡</b><i>f</i></entry>
-              <entry>incorrect: <i>Nṯr-ꜥpr =f</i></entry>
+              <entry>correct: <i>Ḫpr-ḏs=f</i></entry>
+              <entry>incorrect: <i>Ḫpr-ḏs =f</i></entry>
             </row>
           </tbody>
         </tgroup>

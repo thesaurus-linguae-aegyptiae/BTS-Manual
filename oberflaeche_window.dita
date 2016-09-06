@@ -4,15 +4,15 @@
  <title>Window</title>
  <conbody>
   <p>Drop-down menu "Window" contains the following entries: </p>
-  <p><b>Switch Font Size / CSS Theme</b>
+  <p><b>Switch Font Size/CSS Theme</b>
   </p>
-  <p>There are two colours (blue and gray) and three font sizes available. Clicking on Switch Font
-   Size / CSS Theme will consequently switch between themes and fonts sizes. If it is not yet to
-   your liking, click again on Switch Font Size, until you have tested all three options and made
-   your decision. BTS will remember your personal adjustments at the startup. </p>
+  <p>There are two colours (blue and gray) and three font sizes available. Clicking on "Switch Font
+   Size/CSS Theme" will consequently switch between themes and fonts sizes. If it is not yet to your
+   liking, click again on Switch Font Size, until you have tested all three options and made your
+   decision. BTS will remember your personal adjustments at the startup. </p>
   <p><b>Open Perspective</b></p>
-  <p>The Window Open perspective comes up with the entries Lemma, Text Corpus, Thesaurus and
-   Abstract Text. Select the entry and click "OK" to switch to the relevant view of the BTS (Lemma,
+  <p>The window "Open Perspective" comes up with the entries Lemma, Text Corpus, Thesaurus and
+   Abstract Text. Select the entry and click "OK" to switch to the relevant BTS view  (Lemma,
    Corpora, Thesaurus, Abstract Text). The first time you select a different entry, it may take a
    while until the relevant view appears.</p>
   <p>Further options allow you to open particular sections of each view. The following windows will

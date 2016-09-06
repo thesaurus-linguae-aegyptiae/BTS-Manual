@@ -3,9 +3,11 @@
 <concept id="concept_nst_wqd_4r">
  <title>Help</title>
  <conbody>
-    <image href="Images/help.png" id="image_pjm_134_pt"/>
-    <p><b>Help</b></p>
-    <p>Clicking on this menu entry will open the HTML version of the manual. </p>
+    <image href="Images/help2.png" id="image_pjm_134_pt"/>
+    <p><b>Open Manual (PDF)</b></p>
+    <p>Clicking on this menu entry will open the PDF version of the user manual.</p>
+    <p><b>Open Webhelp</b></p>
+    <p>Clicking on this menu entry will open the HTML version of the user manual. </p>
     <p><b>Update Application</b></p>
     <p>Searches for available software updates.</p>
     <p><b>Install New Software-Components</b></p>

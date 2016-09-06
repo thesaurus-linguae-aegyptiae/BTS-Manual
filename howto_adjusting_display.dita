@@ -4,20 +4,28 @@
   <title>Adjusting display</title>
   <body>
     <p>BTS is flexible when it comes to the location and display of individual tabs within it.</p>
+    <p>NOTE: Changes in the display and arrengement of tabs cannot be saved. Every restart of BTS
+      restores the default settings.</p>
     <p><b>Minimizing/Maximizing</b></p>
-    <p>Most tabs can be minimized or maximized using those two buttons: <image
+    <p>Most tabs can be minimized or maximized by clicking these two buttons: <image
         href="Images/icons/extra%20icons/minimize.png" id="image_mry_1y2_1v"/> and <image
         href="Images/icons/extra%20icons/maximize.png" id="image_bns_by2_1v"/> respectively. When
       you have maximized or minimized one or several tabs of the workspace (Corpus Navigator, Text
       Editor, etc.), the respective icons will appear on the right or left side of the program
       window. See <xref href="oberflaeche_window.dita#concept_u43_vqd_4r">Window</xref> for
-      explanations of the icons.</p>
+      explanations of the icons. Sometimes it might be necessary to return to the "Window"-entry on
+      the Menu bar to restore the tabs by clicking on "Open Text Editor" etc.</p>
     <p>This example shows the maximized Text Editor. Other tabs are minimized and displayed as icons
       on the right and left (marked by a red rectangle). To restore minimized tabs, click either
       their icon or restore <image href="Images/icons/extra%20icons/restore.png"
         id="image_eyc_dff_1v"/> icon above it.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Quick%20view.png"
         id="image_q3q_w1y_st"/></p>
+    <p><b>Closing Tabs</b></p>
+    <p>Apart from the Navigator, most of the tabs can be closed by clicking <image
+        href="Images/icons/extra%20icons/close.png" id="image_hfc_l2t_2x"/>. You can restore the
+      closed tab via the dropdown menu "Window" in the menu bar. Restarting BTS will restore all
+      closed tabs as well.</p>
     <p><b>Moving tabs</b></p>
     <p>If you don't like the default arrangement of the BTS tabs, most of them can be moved (some
       have to stay together, like all the sub-tabs of the Text Editor: Transliteration, Sign Text
@@ -32,6 +40,9 @@
       screenshot below for an example. The tabs that have been removed from the program and now have
       individual windows cannot be put back in. You will have to restart the BTS in order to have
       the default view again.</p>
+    <p>NOTE: When you remove the last window from the program window, all windows will disappear. You
+      need to restart BTS to restore the display.</p>
+    <p/>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Display_moving_windows.png"
         id="image_bvs_lkf_1v"/></p>
   </body>

@@ -3,20 +3,34 @@
 <concept id="concept_dzk_2wf_mr">
  <title>2. Translation</title>
  <conbody>
-  <p>You can type the translation of individual sentences in the text input field "Sentence
-            translation". This window will remain deactivated (greyed out) during transliteration,
-            until you press the button <image href="Images/icons/full/icon16/lemma-load.png"
-                id="image_ynz_vnc_xt"/> "Load Text Lemmata".</p>
+  <p>You can enter the translation of individual sentences in the text input field "Sentence
+            translation" of the text editor. This window will remain deactivated (greyed out) during
+            transliteration, until you press the button <image
+                href="Images/icons/full/icon16/lemma-load.png" id="image_ynz_vnc_xt"/> "Load Text
+            Lemmata" or until you have switched between the Text Editor and the Sign Text
+            Editor.</p>
   <p>Make sure to have selected the right language of your translation in the drop-down menu on the
-            right. (<image href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/> : de,
-            en, fr, es, ru). In the standard view only one line will be visible. The default
-            language of your choice can be setup in the <xref href="oberflaeche_preferences.dita"
-                >Preferences</xref>. Extend the text editor window and scroll up and down if the
-            sentence contains more than one line. The complete translation of the text will appear
-            on the right of your BTS screen in the "Text translation" section. Clicking on a
+            right (<image href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/> : de,
+            en, fr, es, ru). The default language of your choice can be set up in the <xref
+                href="oberflaeche_preferences.dita">Preferences</xref>. In the standard view only
+            one line will be visible.</p>
+        <p>Extend the text editor window and scroll up and down if the sentence contains more than
+            one line. The complete translation of the text will appear on the right of your BTS
+            screen in the "Text translation" section (this usually needs refreshing the view, e.g.
+            by clicking in the Corpus Navigator and reopening the selected text). Clicking on a
             sentence here will highlight it and the same sentence will be underlined in the
             "Transliteration" subsection. You will have to enter the translation sentence by
-            sentence (designated in the transliteration with §§). The input of the complete
-            translation as a running text is not possible.</p>
+            sentence (designated in the transliteration with §§). </p>
+        <p>Within a complete egyptian grammatical sentence, it is possible to segment the
+            translation by using the return-Taste. The input of the complete translation as a
+            running text is not possible. Enter only one translation for each sentence, as the
+            selection of languages is not intended for multilingual translations of one and the same
+            text.</p>
+        <p>NOTE: Before you enter your translation, be sure that the relevant sentence is activated.
+            The activation is indicated by the sign <image
+                href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> in the Text
+            Editor direcly to the left of the relevant sentence. If the sign does not show up, your
+            translation will not be saved (compare note on <xref href="howto_transliteration.dita">"Copy with Lemmata"</xref>
+            above). </p>
  </conbody>
 </concept>

@@ -3,29 +3,31 @@
 <topic id="topic_mvz_rmv_bt">
   <title>Editor</title>
   <body>
-    <p>Editors may review and correct objects owned by other users even if no special rights for the
-      object were granted to them. Thus they can review and improve the quality of the data.</p>
+    <p>Editors may review and correct database objects owned by other users even if no special
+      rights for the database object were granted to them. Thus they can review and improve the
+      quality of the data.</p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_v25_l4v_bt">
-        <li>Can edit all items in a corpus where he or she has the editor rights.</li>
-        <li>Can add or remove texts/objects within a corpus.</li>
+        <li>Can edit all items in a database, i.e. a corpus, a lemma list, or the thesaurus
+          database, where he or she has the editor rights.</li>
+        <li>Can add or remove database objects within a corpus.</li>
         <li>Can assign a Updater or Reader status to other users, but only for individual database
           objects.</li>
         <li>Can, technically, change his or her own status as a Reader or an Updater. This is
-          irrelevant though, because the user role "Editor" takes precedence ( as in the case of the
-          Admin).</li>
+          irrelevant though, because the user role "Editor" takes precedence (as in the case of the
+            Admin).<p>NOTE: These rights apply only for databse objects with visibility "project",
+            "public", or "all authenticated". In all other intances, the editor has only access to
+            the database objects if he is asigned as Updater or Reader.</p></li>
       </ul>
     </p>
     <p><b>Limitations</b></p>
     <p>
       <ul id="ul_lwp_n4v_bt">
-        <li>In case the corpus was created by someone else, Editor can modify individual
-          texts/objects, but is attributed a guest role for the corpus itself (cannot edit the
-          corpus passport data, or edit updaters/readers for an entire corpus). </li>
+        <li>In case the corpus was created by someone else, Editor can modify individual database
+          objects, but is attributed a guest role for the corpus itself (cannot edit the corpus
+          passport data, or edit updaters/readers for an entire corpus). </li>
         <li>Cannot create new corpora within a project.</li>
-        <li>Lemma view: can view Lemma entries but not edit them or add new ones.</li>
-        <li>Thesaurus view: can view the Thesaurus entries but not edit them or add new ones.</li>
       </ul>
     </p>
   </body>

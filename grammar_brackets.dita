@@ -3,6 +3,99 @@
 <concept id="concept_ywn_ghb_lt">
  <title>Brackets</title>
  <conbody>
-  <p></p>
+  <p>Only consonants of words or full words that are destroyed or partially destroyed are allowed to
+   be put into brackets “[ ]” / “⸢ ⸣“ if signs representing the consonants are intrinsically part of
+   the writing. This means that the consonants that are complements of fully existing ideograms
+   should not be surrounded by brackets. If a word is partially destroyed but is still fully
+   readable (that happens if a determinative or a complement is destroyed, but the word is clearly
+   written) then there is no need for a bracket.</p>
+  <p>
+   <ul id="ul_qzy_g2g_cv">
+    <li>Example: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
+      id="image_ghr_yy5_wt"/> has to be transcribed as “<i>nfr</i>”, not “<i>nf[r]</i>”.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_q2n_h2g_cv">
+    <li>Example 2: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
+      id="image_rmm_nz5_wt"/> has to be transcribed as "<i>⸢nfr⸣</i>".</li>
+   </ul>
+  </p>
+  <p/>
+  <p><b>Table of brackets available in BTS</b></p>
+  <p>
+   <table frame="all" rowsep="1" colsep="1" id="table_r5c_gjy_2x">
+    <tgroup cols="2">
+     <colspec colname="c1" colnum="1" colwidth="1*"/>
+     <colspec colname="c2" colnum="2" colwidth="3.08*"/>
+     <tbody>
+      <row>
+       <entry>(...)</entry>
+       <entry>Correctly unwritten consonants / words</entry>
+      </row>
+      <row>
+       <entry>⸢...⸣</entry>
+       <entry>Partly destroyed consonants / words</entry>
+      </row>
+      <row>
+       <entry>〈...〉</entry>
+       <entry>Incorrectly unwritten consonants / words that have to be added</entry>
+      </row>
+      <row>
+       <entry>{...}</entry>
+       <entry>Incorrectly written consonants / words</entry>
+      </row>
+      <row>
+       <entry>[...]</entry>
+       <entry>Completely destroyed consonants / words</entry>
+      </row>
+      <row>
+       <entry>⸮...?</entry>
+       <entry>clearly visible consonants / words with doubtful reading</entry>
+      </row>
+      <row>
+       <entry>〈〈...〉〉 </entry>
+       <entry>Haplography</entry>
+      </row>
+      <row>
+       <entry>((...))</entry>
+       <entry>Ancient additions.</entry>
+      </row>
+      <row>
+       <entry>[[...]]</entry>
+       <entry>Ancient reconstructions over deletions.</entry>
+      </row>
+      <row>
+       <entry>{{...}}</entry>
+       <entry>Ancient deletions. </entry>
+      </row>
+     </tbody>
+    </tgroup>
+   </table>
+  </p>
+  <p>NOTE: For 〈...〉 use the font BBAWLibertine, do not use &lt;...>, as the latter are not valid in
+   BTS.</p>
+  <p/>
+  <p><b>General rules for the use of brackets</b></p>
+  <p>
+   <ul id="ul_jr1_fmy_2x">
+    <li>Brackets alwys come in pairs. You have to close every bracket you have opened. Usually the
+     system will do this automatically, but there are cases where that does not work. Pressing
+     "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
+     recurring elements you also can define a template in the  <xref
+      href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
+   </ul>
+  </p>
+  <ul id="ul_omg_fmy_2x">
+   <li>
+    <p>Brackets have to be closed with each token (word), e.g. [jw] [nfr] (not: [jw nfr]).</p>
+   </li>
+   <li>Brackets can be combined, as long as the bracket oped last is closed first, e.g. [ḫp(r)],
+    ⸢ḫp(r)⸣, ⸮[ḫ]p(r)? etc. Interlacing diffrent kinds is not valid, e.g. ⸮[ḫ?]pr.<p>NOTE: Some
+     combinations of round brackets and doubble round brackets result in errors, although they
+     should be valid. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
+     dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
+   <li/>
+  </ul>
  </conbody>
 </concept>

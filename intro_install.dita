@@ -19,8 +19,9 @@
         <li><u>Database Installation Settings</u><p>
             <ul id="ul_y51_mtj_2s">
               <li><i>Database Installation Directory</i>: A standard location is automatically
-                entered here referring to: "C:\bts\dbdir". In case you have extracted your bts
-                program package, change the path to "<i>your directory</i>\bts\dbdir".</li>
+                entered here referring to: "c:\bts\dbdir". In case you have extracted your bts
+                program package to another directory, change the path to "<i>your
+                directory</i>\bts\dbdir".</li>
               <li><i>Http Port of your CouchDB on Localhost</i>: The default port number is
                   <b>9089</b>.</li>
             </ul>
@@ -32,7 +33,8 @@
                 the BTS server and are going to work in the "standalone" mode. The button "Next"
                 will be activated only if you select one of the options. <p>NOTE: The software is
                   not yet optimized for working without BTS Server URL. Please always select "Yes"
-                  here.</p></li>
+                  here. Furthermore, the server-link is necessary in the beginning in order to
+                  download the wordlist and other data from the server.</p></li>
             </ul>
           </p></li>
         <li><u>Server Connection</u><p>
@@ -40,12 +42,12 @@
               <li><i>Server URL</i>: Enter the URL of the server that you have access to. Standard
                 BTS Server address (including the port number) is:
                 http://aaew64.bbaw.de:<b>9589</b>.</li>
-              <li><i>Your User Name</i>: Enter the user name you received from BTS team. </li>
-              <li><i>Your Password for Authentication</i>: Enter your password.<p>After entering the
-                  information required, click "Connect to server". In the upper part of the window
-                  the status information will appear "The connection you have entered is OK". Note
-                  that the button "Finish" is only activated if the connection was successful.
-                </p></li>
+              <li><i>Your User Name</i>: Enter the user name you received from the BTS team. </li>
+              <li><i>Your Password for Authentication</i>: Enter the password you received from the
+                BTS team.<p>After entering the information required, click "Connect to server". In
+                  the upper part of the window the status information will appear "The connection
+                  you have entered is OK". Note that the button "Finish" is only activated if the
+                  connection was successful. </p></li>
             </ul>
           </p></li>
         <li><u>Select Projects to Load</u><p>
@@ -62,22 +64,28 @@
             will open. If Windows-Firewall (or any other Firewall) asks you to grant "bts.exe"
             access to the system, confirm it.</p><p>NOTE: Although the "Database Manager" window
             automatically opens after the installation is finished, BTS is still importing the data
-            from the server. This process will take another 20 minutes and is not visible to the
-            user. Close the "Database manager" window and reopen it in approximately 20 minutes. As
-            soon as the "aaew_wlist" displays the number 48500 in "DB Doc Count" column, the process
-            is completed. </p><p>NOTE: Sometimes the automatic log-in does not work after the
-            installation and restart. As the result "No user logged in" and "No role" will be
-            initially displayed in the BTS toolbar. In this case, start the program again and log in
-            with your user name and password. </p></li>
-        <li><u>Index data</u><p>Last but not least. All data imported from the server, should be
-            indexed. Indexing speeds up the search, as the query is not done in the database (which
+            from the server. This process will usually take about 20 minutes and is not visible to
+            the user, it might take longer depending on your system. There is also no notification
+            once the process is completed. Close the "Database manager" window and reopen it after
+            approximately 20 minutes. As soon as the "aaew_wlist" displays the number 50.000 in "DB
+            Doc Count" column, the process is completed. </p><p>NOTE: Sometimes the automatic log-in
+            does not work after the installation and restart. As the result "No user logged in" and
+            "No role" will be initially displayed in the BTS toolbar. In this case, start the
+            program again.  A small window appears, where you have to log in with your user name and
+            password. You can activate "Remember me", so BTS will not ask you for user name and
+            password again. You can change and deactivate this function in the <xref
+              href="oberflaeche_berlintextsystem.dita">preferences</xref>.</p></li>
+        <li><u>Index data</u><p>Last but not least. All data imported from the server, must be
+            indexed. Indexing enabels the search, as the query is not done in the database (which
             would take time), but in the document indexes.</p>In the upper left corner of the
           "Database manager" window click on "Re-index all" . The indexing process will start and
-          may take up to 20 minutes.  If indexing has been completed correctly, the corpus color
-          will change from red to green. The databases which are currently being indexed are marked
-          yellow. If indexing was not successful for some corpora try re-indexing them by clicking
-          on the button "Re-index all non-OK". </li>
-        <li>xxx</li>
+          may take up to 20 minutes. If indexing has been completed correctly, the corpus color will
+          change from red to green. Databases that are not indexed sucessfully are marked either in
+          yellow or in red. If indexing was not successful for some corpora re-index them by
+          clicking on the button "Re-index all non-OK". <p>NOTE: To work with BTS all databases
+            should be indexed correctly. Thus always re-index those databases which are marked
+            either yellow or red.</p><p>NOTE: The items "_recplicator" and "_uses" cannot be indexed
+            and thus always are marked in red. You do not have to re-index these items.</p></li>
       </ol>
     </p>
   </conbody>

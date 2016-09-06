@@ -5,68 +5,116 @@
  <conbody>
   <p>To enter or edit the transliteration of your texts, click in the "Transliteration" tab of the
         <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
-      Text Corpus view. </p>
-  <p>Transliteration follows the BTS <xref href="howto_Grammatikfehler_e5.dita">grammar
+      Text Corpus view.</p>
+  <p>Transliteration follows the BTS <xref href="howto_grammar_rules_e5.dita">grammar
       rules</xref>. </p>
     <p><b>The most important rules are the following</b></p>
     <p>
       <ul id="ul_wh1_bxw_ns">
-        <li>Start and end each sentence with the sentence marker "§".</li>
+        <li>The text has to be sequenced in sentences according to the Egyptian syntax. Start and
+          end each sentence with the sentence marker "§".</li>
         <li>Use the "space" key only between two words or extratextual information, not after typing
-          a sentence marker "§" or after opening brackets.</li>
-        <li>Brackets come in pairs. You have to close every bracket you have opened. Sometimes the
-          system will do this automatically, but there are cases where that does not work. Clicking
-          "CTRL+Space" will show the markers that are allowed at the position of the cursor. For
+          a sentence marker "§" or after opening brackets.<p>NOTE: Sentence boundaries can always be
+            modified later, but the translation of the modified sentences will be lost.</p></li>
+        <li>Brackets come in pairs. You have to close every bracket you have opened. Usually the
+          system will do this automatically, but there are cases where that does not work. Pressing
+          "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
           recurring elements you also can define a template in the <xref
-            href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
+            href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.<p>NOTE:
+            Brackets have to be closed with each token (word), i.e. [jw] [nfr] (not: [jw
+            nfr]).</p><p>NOTE: Some combinations of round brackets and doubble round brackets result
+            in errors. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
+            dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
         <li>The dual and plural endings are transcribed with ".w" or ".wj/.tj" when written
           phonetically. When marked graphically, they are transcribed with ".pl" or ".du". When the
           plural and dual endings are written both phonetically and graphically they are transcribed
-          with both options: "w.pl" or ".wj/.tj.du".</li>
-        <li>Ambiguities are entered as: "%case 1: rd.du| case 2: war,t.du%". Be careful not to type
-          a space in front of the vertical stroke. You can input as many cases as you need.</li>
+          with both options: ".w.pl" or ".wj/.tj.du".</li>
         <li>It is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."), to
           close brackets before you open them ("n]b[") or to interlace different kinds of brackets
           wrongly ("{n[b}]").</li>
       </ul>
     </p>
+    <p><b>Ambiguities</b></p>
+    <p>Ambiguities have to be noted,</p>
+    <p>
+      <ul id="ul_pls_1vy_2x">
+        <li>if a group of hieroglyphs can be transliterated and interpreted in different ways,</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_avw_1vy_2x">
+        <li>if a group of hieroglyphs can be lemmatized differently,</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_pxb_bvy_2x">
+        <li>if a group of hieroglyphs can be encoded with different inflection codes.</li>
+      </ul>
+    </p>
+    <p>Ambiguities are entered as: "%case 1: ...| case 2: ...| case 3: ...%". You can input as many
+      cases as you need. Be careful not to type a space in front of the vertical stroke. </p>
+    <p>Example: %case 1: rd.du| case 2: war,t.du%"</p>
+    <p>NOTE: Sentence separators, extra-textual information and destruction markers, e.g. "§", line
+      counts (#lc: ...#) and --2Q--, are not allowed within ambiguities.</p>
     <p><b>Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. Note that
       you can create your own templates (<xref
         href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
-      the templates by right-clicking in Text Editor and choosing "Content Assist". Depending on the
-      position of the cursor (within a sentence / word or outside the sentence marked by §§) you
-      will get a different set of templates to choose from. This can be influenced by changing the
-      "Context" of your templates (see <xref href="oberflaeche_preferences2.dita#concept_trz_tw2_yr"
-        >Preferences</xref>).</p>
+      the templates by right-clicking in Text Editor and choosing "Content Assist" or by pressing
+      "CRTL+Spacebar". Depending on the position of the cursor (within a sentence / word or outside
+      the sentence marked by §§) you will get a different set of templates to choose from. This can
+      be influenced by changing the "Context" of your templates (see <xref
+        href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>).</p>
     <p><b>Adding Extra-textual Information</b></p>
     <p>
       <ul id="ul_ugx_ryw_ns">
         <li>Line counts are introduced by #lc: and end with <b>#</b>. The numbers are written in
           square brackets. E.g.: Line 1 = #lc: [1]#</li>
-        <li>Paragraphs start with #para: and end with <b>#</b>. E.g.: CT VI 106a = #para: CT VI
-          106a#</li>
+        <li>#para: ---# can be used to align multiple versions of a text, as a kind of milestone.
+          E.g.: CT VI 106a = #para: CT VI 106a#<p>NOTE: It is not allowed to use colon between "#"
+            more than once.</p><p>NOTE: It is not allowed to use colon directly after or directly
+            before "#".</p></li>
         <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
-          destroyed--, --3Q-- (destruction of 3 scriptorial squares).</li>
-        <li>If the number of words missing can be determined, use underscores in brackets "[___]".
-          E.g.: "[___] [___]" for 2 missing words.</li>
+          destroyed--, --3Q-- (destruction of 3 scriptorial squares).<p>NOTE: It is not allowed to
+            use the hyphen within the destruction marker.</p></li>
+        <li>If the number of words missing can precisely be determined (e.g. if the words are
+          completely lost, but with the determinatives preserved), use underscores in brackets
+          "[___]". E.g.: "[___] [___]" for 2 missing words.</li>
         <li>All other descriptive information is to be put between "#": E.g.: #in front of the first
-          person looking left:#; #3Q are left empty#.</li>
+          person looking left#; #3Q are left empty#.</li>
       </ul>
     </p>
-    <p><b>Some transliteration conventions</b></p>
-    <p>
-      <ul id="ul_kkp_dwy_qt">
-        <li>Ending within word-stems: "," (comma). E.g. <i>ḥm,t</i>.</li>
-        <li>Grammatical endings: "." (dot). E.g. <i>nṯr.w; sḏm.n =f</i>.</li>
-        <li>J-Augmentation: ":" (colon). NOTE: Not for causatives or other prefixes!</li>
-        <li>Suffix: "=" (equality sign). NOTE: A space has to be inserted before this sign (e.g.
-          sḏm.n =f).</li>
-        <li>Use of "j" instead of "ı͗".<p>Use of "q" instead of "ḳ".</p>Use "~" for syllabic
-          writings, e.g. gꜢ~wꜣ~šꜣ.</li>
-      </ul>
-    </p>
-    <p>See <xref href="grammar_transcribing_rules.dita#concept_ops_zgb_lt">Grammar Reference</xref>
+    <p><b>Transliteration conventions</b></p>
+    <p>See <xref href="grammar_transcribing_rules.dita#concept_ops_zgb_lt">Grammar Rules</xref>
       for detailed information.</p>
+    <p><b>Copy&amp;Paste functions</b></p>
+    <p>BTS supports copy&amp;paste. </p>
+    <p>
+      <ul id="ul_jgl_mby_2x">
+        <li>It is possible to enter the complete transliteration of a text at once out of an
+          external source (e.g. a MS Word document) by copy&amp;paste, if one follows all the rules
+          of BTS grammar. The transliteration used in MS Word should be the unicodefont
+          BBAW-Libertine.</li>
+        <li>You can copy your transliteration, parts of it or extra-textual information and paste it
+          anywhere in the same or another text. By doing this, only the transliteration will be
+          copied, even if the tokens are lemmatized.</li>
+        <li>If you want to copy&amp;paste your transliteration as lemmazied tokens, use the feature
+          "Copy with Lemmata" and "Paste with Lemmata".<p>
+            <ul id="ul_k51_jcy_2x">
+              <li>This feature does not work for single words and phrases. You can only copy
+                complete sentences. Mark the sentence or the set of sentences you would like to
+                copy. Click on it (right-click) and select "Copy with Lemmata".</li>
+              <li>Proceed to the text where you want to insert the sentence(s). Righ-click the exact
+                position and select "Paste with Lemmata".</li>
+            </ul>
+          </p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. You need to
+          enter some dummy text first that you can delete afterwards.<p>NOTE: The sentence you want
+            to copy as well as the sentence in, before, or after which you want to insert the copied
+            sentence(s) is activated. Activation is shown by the sign <image
+              href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the left
+            of the sentence (compare note on <xref href="howto_satzuebersetzung.dita">translation</xref>
+            below).</p></li>
+      </ul>
+    </p>
  </conbody>
 </concept>

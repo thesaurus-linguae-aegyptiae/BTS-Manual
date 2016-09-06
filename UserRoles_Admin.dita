@@ -3,9 +3,9 @@
 <topic id="topic_ih3_blv_bt">
   <title>Admin</title>
   <body>
-    <p>The administrator role applies only to a specific corpus (not the entire BTS!). Administrator
-      can edit or delete all objects in a given corpus, even if no Updater status for specific
-      objects was assigned to him/her. </p>
+    <p>The administrator role applies only to a specific database, i.e. a corpus, a lemma list, or
+      the thesaurus database (not the entire BTS!). Administrator can edit or delete all objects in
+      a given corpus, even if no Updater status for specific objects was assigned to him/her. </p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_bky_44v_bt">
@@ -31,8 +31,6 @@
           user will still have a guest status when selecting the corpus. Admin has rights only for
           individual items within the corpus. </li>
         <li>Admin cannot create new corpora within a project.</li>
-        <li>Lemma view: can view Lemma entries but not edit them or add new ones.</li>
-        <li>Thesaurus view: can view the Thesaurus entries but not edit them or add new ones.</li>
       </ul>
     </p>
   </body>

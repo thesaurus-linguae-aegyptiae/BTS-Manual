@@ -5,8 +5,13 @@
   <body>
     <p>Destructions where words or even the number of words cannot be reconstructed have to be
       represented by the following notation: </p>
-    <p>“--nQ--“ with “n” as count of destroyed quadrats. </p>
-    <p>Complete destruction of a line: “- -Rest_<u>der_Zeile_zerstört- -“ ???</u></p>
+    <p>“--nQ--“ with “n” as count of the number of destroyed quadrats. </p>
+    <p>Complete destruction at the end of a line/column: “--Rest der Zeile/Kolumne zerstört--"</p>
+    <p>Complete destruction at the beginning of a line/column: “--Anfang der Zeile/Kolumne
+      zerstört--"</p>
+    <p>Complete destruction of the rest of the text: “--Rest des Textes zerstört--"</p>
+    <p>Traces of signs that cannot be identified: "--Zeichenreste--"</p>
+    <p/>
     <p>
       <table id="table_ejz_rnb_lt">
         <tgroup cols="2">
@@ -18,16 +23,22 @@
               <entry> </entry>
             </row>
             <row>
-              <entry> 3 quadrats destroyed</entry>
+              <entry>3 quadrats destroyed</entry>
               <entry> “--3Q--“</entry>
             </row>
             <row>
               <entry>1,5 quadrats destroyed</entry>
               <entry>”--1,5Q--“</entry>
             </row>
+            <row>
+              <entry>4 to 5 quadrats destroyed</entry>
+              <entry>"--4 bis 5Q--"</entry>
+            </row>
           </tbody>
         </tgroup>
       </table>
     </p>
+    <p>NOTE: Between "--" no hyphens ("-") are allowed, thus write "--4 bis 5Q--", not
+      "--4-5Q--".</p> 
   </body>
 </topic>

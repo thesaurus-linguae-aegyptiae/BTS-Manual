@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_t32_2bt_2x">
+  <title>Abstract Text View</title>
+  <body>
+    <p>The Abstract Text View provides a tool to connect all versions of a text with a long textual
+      tradition. It will compile the witnesses of a single text (e.g. Sinuhe) and deliver a generic
+      structure, ex. display the concordance of paragraphs. The metadata concerning the "abstract
+      text" can be entered here, e.g. the bibliography.</p>
+    <p/>
+    <p>NOTE: This feature is not complete yet and is currenly not available. </p>
+  </body>
+</topic>

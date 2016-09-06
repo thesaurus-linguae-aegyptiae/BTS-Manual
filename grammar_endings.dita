@@ -4,7 +4,7 @@
   <title>Endings</title>
   <body>
     <p>Morphological endings are to be marked by “.”, endings of word formations by “,”. Endings of
-      personal names have to be written at the end of the full name, no matter if a name consists of
+      proper names have to be written at the end of the full name, no matter if a name consists of
       compound words and/or suffixes. </p>
     <table id="table_lkz_dkb_lt">
       <tgroup cols="2">
@@ -15,12 +15,28 @@
             <entry namest="col1" nameend="col2"><b>Examples</b></entry>
           </row>
           <row>
-            <entry>Morphology: <i>rmṯ.w</i>(Menschen)</entry>
-            <entry>Word Formation:<i>mn,w</i>(Denkmal)</entry>
+            <entry>Morphology: </entry>
+            <entry><i>rmṯ.w</i> (men)</entry>
           </row>
           <row>
-            <entry>Personal Name: <i>jni̯-jt(j)=f.j</i></entry>
             <entry/>
+            <entry><i>jr.tj.du</i> (both eyes)</entry>
+          </row>
+          <row>
+            <entry>Word Formation:</entry>
+            <entry><i>nb,t</i> (lady)</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>mn,w</i> (monument)</entry>
+          </row>
+          <row>
+            <entry>Proper Name: </entry>
+            <entry><i>Jni̯-jt(j)=f,j</i></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>Ḫpr-ḏs=f</i> (he who came into being of himself) </entry>
           </row>
         </tbody>
       </tgroup>

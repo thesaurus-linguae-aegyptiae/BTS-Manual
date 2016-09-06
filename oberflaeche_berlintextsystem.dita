@@ -11,10 +11,10 @@
       to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
     <p><b>Corpus Settings</b></p>
     <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
-      appear in the Active corpora list on the right won't be accessed by BTS. To activate a corpus
-      select it in the list on the left and then click "Add". To remove the corpus from your working
-      list, select it and click Remove. Add all / Remove all will add or remove all available
-      corpora to or from the Active Corpora list. </p>
+      appear in the active corpora list on the right will not be accessed by BTS. To activate a
+      corpus select it in the list on the left and then click "Add". To remove the corpus from your
+      working list, select it and click Remove. Add all / Remove all will add or remove all
+      available corpora to or from the active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
       activated all new text or database objects created in the "Corpus Navigator" window will be
       physically saved in the selected corpus. For example in the Corpus Navigator you have selected
@@ -47,7 +47,9 @@
     </p>
     <p>Here you can choose a project with a main working lemma list. All new lemmas will be saved in
       this project. You can currently choose Altägyptisches Wörterbuch BBAW and Demotic. If you
-      chose both, the combined lemma list will be displayed in "Lemma Navigator"</p>
+      choose both, the combined lemma list will be displayed in "Lemma Navigator". If you work with
+      texts in Demotic script, please select Demotic as main working lemma list. Otherwise, select
+      Altägyptisches Wörterbuch BBAW.</p>
     <p><b>Lemma Navigator Settings</b></p>
     <p>
       <ul id="ul_gvc_vl2_vt">
@@ -74,7 +76,7 @@
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the programmes default inflection is
       "3") and activate the check box "Automatically select first lemma proposal". More on
-      grammatical rules see <xref href="howto_Grammatikfehler_e5.dita#topic_f5w_3z5_kr">BTS Grammar
+      grammatical rules see <xref href="howto_grammar_rules_e5.dita#topic_f5w_3z5_kr">BTS Grammar
         Rules - Reference</xref>. </p>
     <p><b>Project settings</b>
     </p>
@@ -88,7 +90,7 @@
       default settings "Restore Default".</p>
     <p><b>Remember me</b></p>
     <p>Select the check box "Remember my login credentials on startup" to be logged in
-      automatically, when starting BTS.</p>
+      automatically, when starting BTS. To deactivate this function unselect the check box.</p>
     <p><b>Text Editor</b></p>
     <p>
       <ul id="ul_nwm_zl2_vt">
@@ -105,10 +107,11 @@
       </ul>
     </p>
     <p><b>Sign Text Editor </b></p>
-    <p>Defines elements displayed in the lemma-boxes while editing tokens inside the Sign Text
+    <p>Defines the elements displayed in the lemma-boxes while editing tokens inside the Sign Text
       Editor. Additionally, the line width can be adjusted by changing the number in the "Line width
       in pixel" input field.</p>
     <p>The applied changes will be visible upon refreshing the view of the "Sign Text Editor" tab. </p>
+    <p>NOTE: The function "Line width in pixel" does not work in the current version.</p>
     <p><b>Thesaurus Settings</b>
     </p>
     <p>Here you can choose a project with a main working thesaurus. All new thesaurus entries will

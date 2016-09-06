@@ -4,20 +4,23 @@
  <title>Inversions</title>
  <conbody>
   <p><i>When the inverted words form a single lemma</i> the sign-sequence is to be entered as it
-      appears in the script. </p>
-  <p><i>When the inverted words do not form a single lemma</i> each word is to be encoded with the
-      signs that belong to it. The inverted sign-sequence cannot be reproduced. </p>
-  <p><i>When the inversion occurs while the word boundaries are broken</i> , e.g. <image
+      appears in the script, e.g. in the title <i>ḥm-nṯr</i> or the preposition <i>ḫft</i> which is
+      usually written with <i>t</i> before <i>f</i>.</p>
+  <p><i>When the inverted words do not form a single lemma</i>, e.g. an inverted writing of <i>mj
+        Rꜥw</i>, each word is to be encoded with the signs that belong to it. The inverted
+      sign-sequence cannot be reproduced/depicted with the hieroglyphs, but the program offers the
+      option "Select Single Glyph" to mark such inversions.</p>
+  <p><i>When the inversion occurs while the word boundaries are broken</i>, e.g. <image
         href="Images/Hypszer/Handbuch-Screenschots/Hieros.jpg" id="image_hdj_gzt_mr"/> ,the signs
       have to be assigned to words they belong to (in this case V30+G7 and I9 separately). The
-      inverted sign-sequence cannot be reproduced/depicted with the hieroglyphs but the program
-      offers an option to mark such inversions.</p>
+      inverted sign-sequence cannot be reproduced/depicted with the hieroglyphs, but the program
+      offers the option "Select Single Glyph" to mark such inversions.</p>
     <p><b>Select Single Glyphs</b></p>
   <p>This function is available for the last type of inversions. To mark the correct position of G7
-      determinative, select it using buttons |&lt; &lt; > >| . The selected sign will be marked red.
-      After that set the "Order in Sentence" to the position where the sign occurs in the
+      determinative, select it using the bbuttons |&lt; &lt; > >| . The selected sign will be marked
+      red. After that set the "Order in Sentence" to the position where the sign occurs in the
       manuscript. Then do the same with the I9 sign. In the example below G7 and I9 have to switch
-      to positions 7 and 6 accordingly.  </p>
+      to positions 7 and 6 accordingly. </p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Inversion.png"
     id="image_rbc_12y_st"/></p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Inversion2.png"

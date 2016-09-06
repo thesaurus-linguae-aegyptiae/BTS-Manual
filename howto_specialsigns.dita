@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ivy_kzc_cs">
- <title>Special signs</title>
+ <title>Special signs and Haplographies</title>
  <conbody>
-  <p><b>Dots</b></p>
-  <p>The black dot is rendered by the capital letter "O" and the red dot by the small letter "o". </p>
-        <p>NOTE: These are not verse points; dots with the uncertain meaning are found sometimes in
-            hieratic texts.</p>
+  <p><b>Dots and other hieratic signs without hieroglyphic equivalent </b></p>
+  <p>Some hieratic signs like lines or dots without hieroglyphic equivalent are available in the Ff
+            group. For instance the dot is rendered by JSesh Code FF110. As this is not averse
+            point, do not use "O" or "o", because in JSesh these are indeed verse points.</p>
   <p><b>Cartouches</b>
         </p>
   <p>A cartouche is an oval form surrounding a word: <image
@@ -29,7 +29,5 @@
             sign X8 should be written twice, so it needs to be inserted into double angle brackets
             in the position where it should occur for the second time: M23-X1 R4 X8
             [&amp;-[&amp;-X8-&amp;]-&amp;] E15 R4.</p>
-        <p>NOTE: Some hieratic signs like lines or dots without hieroglyphic equivalent are
-            available in the Ff group.</p>
  </conbody>
 </concept>
