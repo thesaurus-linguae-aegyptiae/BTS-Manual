@@ -51,7 +51,7 @@
    comment to the text, using the ID.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
    <u>Delete</u>: Will delete the currently selected element.</p>
-  <p>To learn more about annotations refer to the <xref href="howto_annotationen.dita">"Annotations"
+  <p>To learn more about annotations refer to the <xref href="howto_annotations.dita">"Annotations"
     section</xref> in the "User guide". </p>
   <p><b>Text translation</b></p>
   <p>The "Text translation" section shows a consequent, sentence-by-sentence, translation, which

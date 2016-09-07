@@ -46,7 +46,7 @@
   <p>Checks the completeness of text lemmatization, translation and hieroglyphic transcription. </p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
    <u>Add Annotation </u></p>
-  <p>Adds an <xref href="howto_annotationen.dita">Annotation</xref> to the selected part of your
+  <p>Adds an <xref href="howto_annotations.dita">Annotation</xref> to the selected part of your
    text. It will be underlined with a gray dotted line. </p>
   <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
    <u>Add Rubrum </u></p>

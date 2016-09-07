@@ -31,27 +31,29 @@
      <tbody>
       <row>
        <entry>(...)</entry>
-       <entry>Correctly unwritten consonants / words</entry>
+       <entry>Correctly unwritten consonants / words or abbreviation expanded by the editor</entry>
       </row>
       <row>
        <entry>⸢...⸣</entry>
-       <entry>Partly destroyed consonants / words</entry>
+       <entry>Partly damaged or otherwise unclear consonants / words</entry>
       </row>
       <row>
        <entry>〈...〉</entry>
-       <entry>Incorrectly unwritten consonants / words that have to be added</entry>
+       <entry>Consonants / words erroneously omitted by the ancient scribe, restored or corrected by
+        the editor</entry>
       </row>
       <row>
        <entry>{...}</entry>
-       <entry>Incorrectly written consonants / words</entry>
+       <entry>Consonants / words considered erroneous and superfluous by the editor</entry>
       </row>
       <row>
        <entry>[...]</entry>
-       <entry>Completely destroyed consonants / words</entry>
+       <entry>Consonants / words missing from the original text due to lacuna, restored by the
+        editor</entry>
       </row>
       <row>
        <entry>⸮...?</entry>
-       <entry>clearly visible consonants / words with doubtful reading</entry>
+       <entry>Consonants / words with doubtful reading</entry>
       </row>
       <row>
        <entry>〈〈...〉〉 </entry>
@@ -59,15 +61,15 @@
       </row>
       <row>
        <entry>((...))</entry>
-       <entry>Ancient additions.</entry>
-      </row>
-      <row>
-       <entry>[[...]]</entry>
-       <entry>Ancient reconstructions over deletions.</entry>
+       <entry>Ancient additions to the text (above line or beside column)</entry>
       </row>
       <row>
        <entry>{{...}}</entry>
-       <entry>Ancient deletions. </entry>
+       <entry>Ancient deletions</entry>
+      </row>
+      <row>
+       <entry>[[...]]</entry>
+       <entry>Ancient reconstructions over deletions</entry>
       </row>
      </tbody>
     </tgroup>
@@ -75,6 +77,7 @@
   </p>
   <p>NOTE: For 〈...〉 use the font BBAWLibertine, do not use &lt;...>, as the latter are not valid in
    BTS.</p>
+  <p>NOTE: ((...)) is not to be used for glosses.</p>
   <p/>
   <p><b>General rules for the use of brackets</b></p>
   <p>
@@ -95,7 +98,6 @@
      combinations of round brackets and doubble round brackets result in errors, although they
      should be valid. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
      dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
-   <li/>
   </ul>
  </conbody>
 </concept>

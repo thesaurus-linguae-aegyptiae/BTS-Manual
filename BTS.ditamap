@@ -25,9 +25,12 @@
   <topicref href="howto_create_corpusobject.dita"/>
   <topicref href="howto_edittext2.dita">
    <topicref href="howto_transliteration.dita"/>
-   <topicref href="howto_satzuebersetzung.dita"/>
-   <topicref href="howto_lemmatizing.dita"/>
-   <topicref href="howto_annotationen.dita"/>
+   <topicref href="howto_translation.dita"/>
+   <topicref href="howto_lemmatizing.dita">
+    <topicref href="howto_lemmatizing_numbers.dita"/>
+    <topicref href="howto_lemmatizing_unknownwords.dita"/>
+   </topicref>
+   <topicref href="howto_annotations.dita"/>
    <topicref href="howto_corpus_enterhieros2.dita">
     <topicref href="howto_destructions.dita"/>
     <topicref href="howto_specialsigns.dita"/>
@@ -164,11 +167,7 @@
    </topicref>
   </topicref>
   <topicref href="grammar_brackets.dita"/>
-  <topicref href="grammar_destructions.dita">
-   <topicref href="grammar_destructions_theory.dita"/>
-   <topicref href="grammar_destructions_representation.dita"/>
-   <topicref href="grammar_destructions_representatives.dita"/>
-  </topicref>
+  <topicref href="grammar_destructions.dita"/>
   <topicref href="grammar_flexioCodes.dita">
    <topicref href="inflection_verbs.dita"/>
   </topicref>

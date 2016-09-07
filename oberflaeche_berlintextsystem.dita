@@ -75,9 +75,10 @@
     <p><b>Lemmatizer</b>
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the programmes default inflection is
-      "3") and activate the check box "Automatically select first lemma proposal". More on
-      grammatical rules see <xref href="howto_grammar_rules_e5.dita#topic_f5w_3z5_kr">BTS Grammar
-        Rules - Reference</xref>. </p>
+      "3") and activate the check box "Automatically select first lemma proposal". The latter
+      feature enables you to navigate through the proposed lemmata via the arrow keys of you
+      keyboard. More on grammatical rules see <xref
+        href="howto_grammar_rules_e5.dita#topic_f5w_3z5_kr">BTS Grammar Rules - Reference</xref>. </p>
     <p><b>Project settings</b>
     </p>
     <p>Here you can choose your main working project from the drop-down menu. The field below gives

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_b5w_lkg_fx">
+  <title>Lemmatizing numbers</title>
+  <body>
+    <p>Numbers are transliterated as they appear in the original text, i.e. they are transliterated
+      phonetically, when they are written phonetically, and are written as numbers, when they appear
+      as numbers in the text. This paragraph helps you to lemmatize fractions and numbers that are
+      not written phonetically.</p>
+    <p/>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_xwp_gng_fx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <thead>
+            <row>
+              <entry>WCN number</entry>
+              <entry/>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>850814</entry>
+              <entry>cardinal number</entry>
+            </row>
+            <row>
+              <entry>863636</entry>
+              <entry>1/2 (fraction) (<i>gs</i>)</entry>
+            </row>
+            <row>
+              <entry>600203</entry>
+              <entry>2/3 (fraction) (<i>rʾ.wj</i>)</entry>
+            </row>
+            <row>
+              <entry>92610</entry>
+              <entry>1/3 (fraction) (<i>rʾ</i>)</entry>
+            </row>
+            <row>
+              <entry>600569</entry>
+              <entry>all other fractions (e.g. <i>rʾ-4</i>, <i>rʾ-5</i>, etc.) and rows of fractions
+                (e.g. <i>1+1/2+1/6</i> etc.)</entry>
+            </row>
+            <row>
+              <entry>600235</entry>
+              <entry>ordinal number constucted with <i>.nw</i> (e.g. <i>2.nw</i>)</entry>
+            </row>
+            <row>
+              <entry>852650</entry>
+              <entry>ordinal number <i>mḥ-1</i>
+              </entry>
+            </row>
+            <row>
+              <entry>852649</entry>
+              <entry>ordinal numbers <i>mḥ-2 ... 9</i></entry>
+            </row>
+            <row>
+              <entry>600236</entry>
+              <entry>ordinal numbers <i>mḥ-10 ... n</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>
