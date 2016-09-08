@@ -1,8 +1,289 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_a1h_qjb_lt">
-  <title>Conventions</title>
+  <title>Structural signs and conventions</title>
   <body>
+    <p>Structural signs are used to mark up morphological properties of a lexical entry and changes
+      caused by inflections of words in the texts.</p>
+    <p><b>Structural Signs</b></p>
+    <p>
+      <table id="table_zl2_wjb_lt">
+        <tgroup cols="2">
+          <colspec colname="newCol1" colnum="1" colwidth="1*"/>
+          <colspec colnum="2" colname="col1" colwidth="2.03*"/>
+          <tbody>
+            <row>
+              <entry><b>Structural Signs</b></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>space</entry>
+              <entry>All word, including suffix pronouns, are seperated by space.</entry>
+            </row>
+            <row>
+              <entry>:</entry>
+              <entry>Prefixes, e.g. <i>j:jri̯ =f</i></entry>
+            </row>
+            <row>
+              <entry>=</entry>
+              <entry>Suffix-pronouns, e.g. <i>pr =f</i></entry>
+            </row>
+            <row>
+              <entry>.</entry>
+              <entry>Endings (morph.), e.g. <i>rmṯ.w</i></entry>
+            </row>
+            <row>
+              <entry>,</entry>
+              <entry>Endings (word formation), e.g. <i>nb,t</i></entry>
+            </row>
+            <row>
+              <entry>!</entry>
+              <entry>Stem modification, e.g. <i>gmm! =f</i></entry>
+            </row>
+            <row>
+              <entry>-</entry>
+              <entry>Linking compound words, e.g. <i>ḥm-nṯr</i></entry>
+            </row>
+            <row>
+              <entry>~</entry>
+              <entry>syllabic writings, e.g. <i>gꜣ~wꜣ~šꜣ</i></entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>verse point</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>reconstructed verse point</entry>
+            </row>
+            <row>
+              <entry>*</entry>
+              <entry>transliteration of cipher script (demotic), e.g. <i>*mseh*</i></entry>
+            </row>
+            <row>
+              <entry>;</entry>
+              <entry>phonetic complements (demotic), e.g. <i>nḫt;ṱ</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p><p/>
+    <p><b>Prefixes</b></p>
+    <p>Only morphological prefixes are allowed to be marked by the structure sign (“:”). Do not mark
+      any prefix of word formation.</p>
+    <p>
+      <table id="table_vjs_zjb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>Morphology: </entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>correct: <i>j:jri̯ =f</i></entry>
+              <entry>incorrect: <i>jjri̯ =f</i></entry>
+            </row>
+            <row>
+              <entry>Word Formation: </entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>correct: <i>smn</i> (to make firm)</entry>
+              <entry>incorrect: <i>s:mn</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p><p/>
+    <p><b>Suffixes</b></p>
+    <p>Suffixes are to be marked consistently by “=”. Note the space between a word and “=”.
+      Lexically bound suffixes are also to be marked by “=” to declare the suffix as included in the
+      word (e.g. personal names), but are used without space.</p>
+    <p>
+      <table id="table_lfm_bkb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry namest="col1" nameend="col2"><b>Examples</b></entry>
+            </row>
+            <row>
+              <entry namest="col1" nameend="col2">Morphological Suffixes:</entry>
+            </row>
+            <row>
+              <entry>correct: <i>sḏm =f</i></entry>
+              <entry>incorrect: <i>sḏm=f</i></entry>
+            </row>
+            <row>
+              <entry>Lexically Bound Suffixes:</entry>
+              <entry> </entry>
+            </row>
+            <row>
+              <entry>correct: <i>Ḫpr-ḏs=f</i></entry>
+              <entry>incorrect: <i>Ḫpr-ḏs =f</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p><p/>
+    <p><b>Endings</b></p>
+    <p>Morphological endings are to be marked by a dot “.” (e.g. numerus endings, inflective
+      infix/affix), endings of word formations by a comma “,” (e.g. feminin ending). Endings of
+      proper names have to be written at the end of the full name, no matter if a name consists of
+      compound words and/or suffixes. </p>
+    <p>NOTE: The feminin ending <i>.t</i> is marked by a comma (","), if the word is noun. The
+      ending of adjectives is treated as morphological endings and thus marked by a dot ("."), e.g.
+        <i>nb,t nfr.t</i>.</p>
+    <table id="table_lkz_dkb_lt">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="col1"/>
+        <colspec colnum="2" colname="col2"/>
+        <tbody>
+          <row>
+            <entry namest="col1" nameend="col2"><b>Examples</b></entry>
+          </row>
+          <row>
+            <entry>Morphology: </entry>
+            <entry><i>rmṯ.w</i> (men)</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>jr.tj.du</i> (both eyes)</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>sḏm.n =f</i></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>sḏm.ḫr =f</i></entry>
+          </row>
+          <row>
+            <entry>Word Formation:</entry>
+            <entry><i>nb,t</i> (lady)</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>mn,w</i> (monument)</entry>
+          </row>
+          <row>
+            <entry>Proper Name: </entry>
+            <entry><i>Jni̯-jt(j)=f,j</i></entry>
+          </row>
+          <row>
+            <entry/>
+            <entry><i>Ḫpr-ḏs=f</i> (he who came into being of himself) </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p/>
+    <p><b>Notation of Plural and Dual</b></p>
+    <p>Plural and dual endings are morphological endings and thus marked by a dot (".").
+      Phonetically written endings are transliterated as "<i>.w</i>", "<i>.wj</i>", "<i>.wt</i>" and
+        "<i>.tj</i>" respectively. Strokes and ideographic writings of number are represendted by
+      either ".pl" or ".du". In case there is a phonetic nd ideographic writing, both are
+      represented in the transliteration, e.g. ".w.pl." or ".tj.du".</p>
+    <p/>
+    <p><b>Stem Modification</b></p>
+    <p>
+      <table id="table_lsj_gkb_lt">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="col1"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+            </row>
+            <row>
+              <entry><i>gmm! =f (gmi̯)</i></entry>
+            </row>
+            <row>
+              <entry><i>wn! =f (wnn)</i></entry>
+            </row>
+            <row>
+              <entry><i>mꜣn! =f</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p><p/>
+    <p><b>Compound Words</b></p>
+    <p>
+      <table id="table_gvd_3kb_lt">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="col1"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+            </row>
+            <row>
+              <entry><i>m-ẖnw</i></entry>
+            </row>
+            <row>
+              <entry><i>m-ḫt</i></entry>
+            </row>
+            <row>
+              <entry><i>ḥr-tp</i></entry>
+            </row>
+            <row>
+              <entry><i>Wnn-nfr</i></entry>
+            </row>
+            <row>
+              <entry><i>ḥm-nṯr-Jmn</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
     <p></p>
-  </body>
+    <p><b>Proper Names</b></p>
+    <p>Proper names are written with an intial capital, also when they appear within a compound
+      word.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_nh2_l2n_fx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><i>Jni̯-jt(j)=f,j</i></entry>
+              <entry>personal name</entry>
+            </row>
+            <row>
+              <entry><i>Ḥr,w</i>
+              </entry>
+              <entry>name of a god</entry>
+            </row>
+            <row>
+              <entry><i>ḥm-nṯr-Jmn</i></entry>
+              <entry>title</entry>
+            </row>
+            <row>
+              <entry><i>ḥꜣ.tj-ꜥ-n-Nḫb</i></entry>
+              <entry>title</entry>
+            </row>
+            <row>
+              <entry><i>Jwn,w</i></entry>
+              <entry>name of a place</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+    <p/>
+    <p/>
+    <p></p>
+    </body>
 </topic>

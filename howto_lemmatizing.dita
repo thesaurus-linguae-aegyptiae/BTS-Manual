@@ -37,7 +37,7 @@
           first lemma proposal". This feature enables you to navigate through the proposals via the
           arrow keys.</li>
         <li>The field "Flexion" shows the code referring to the grammatical form of the inflection
-          of the selected word (see <xref href="grammar_flexioCodes.dita">Inflection codes</xref>).</li>
+          of the selected word (see <xref href="grammar_inflection.dita">Inflection codes</xref>).</li>
         <li>In the field "Translation" you can choose one or several fitting translations from the
           lower field (in the example there is only one option, but there can be more). Make sure to
           have selected the correct language in the drop-down menu on the right. The only choices
@@ -54,13 +54,13 @@
       first displays the entires in which your search term occurs in the first position. Results in
       which your search term occurs in another position (e.g. composita) are displayed in the lower
       part of the list.</p>
-    <p>NOTE: The list of results is limited to
-      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>120
-      items<?oxy_custom_end?>. If you do not find your lemma, specify your search parameters.</p>
+    <p>NOTE: The list of results is limited to 500 items. If you do not find your lemma, specify
+      your search parameters.</p>
     <p>There are two kinds of icons in the list:</p>
     <p>
       <ul id="ul_cbf_syf_fx">
-        <li>This lemma has been revised and can be used for lemmatization.</li>
+        <li><image href="Images/Icons_updated/full/icon16/lemma_checked.png" id="image_mhb_jmm_fx"
+          />This lemma has been revised and can be used for lemmatization.</li>
         <li><image href="Images/icons/full/icon16/lemma-uncertain.png" id="image_ckk_1zf_fx"/> This
           lemma has not been revised, yet. This applies in particular to personal names from Ranke,
           Personennamen. If you would like to use this lemma, you are requested to contact the BTS
@@ -113,7 +113,7 @@
     <p><b>Encoding inflection</b></p>
     <p>Experience has learned that it is better to lemmatize a text first and afterwards fill out
       the field "Flexion". If you want to encode the inflection during the lemmatization process,
-      type approriate code (see <xref href="grammar_flexioCodes.dita">Inflection codes</xref> into
+      type approriate code (see <xref href="grammar_inflection.dita">Inflection codes</xref> into
       the field "Flexion" before or after you have selected the lemma and than confirm with <image
         href="Images/icons/full/icon16/lemma-ok.png" id="image_zt4_fvf_fx"/>. If you choose to
       encode the inflection after you have finished the lemmatization (as we recommand), you can use

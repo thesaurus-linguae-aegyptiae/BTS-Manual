@@ -5,8 +5,8 @@
   <body>
     <p>The following list shows the convention-variant used in the BTS. Use the left conventions
       provided in the left column for your translitaration. Do not use the variants in the right
-      column. Some signs, in particular ı͗, ś, ḳ, č, ṭ, and č are not vaild in the BTS
-      transliteration editor.̣</p>
+      column. Some signs, in particular ś, ḳ, č, ṭ, and č̣ are not vaild in the BTS transliteration
+      editor.̣</p>
     <p>
       <table id="table_tkx_tmb_lt">
         <tgroup cols="2">
@@ -28,7 +28,7 @@
             </row>
             <row>
               <entry><i>y </i></entry>
-              <entry><i>jj</i>, sometimes <i>j</i>: duplicate M17</entry>
+              <entry><i>jj</i>, sometimes <i>j</i>: duplicated M17</entry>
             </row>
             <row>
               <entry><i>u̯ </i></entry>
