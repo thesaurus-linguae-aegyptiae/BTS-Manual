@@ -3,43 +3,45 @@
 <concept id="concept_t3c_c4d_4r">
  <title>Text Corpus View</title>
  <conbody>
-  <p>Text Corpus is the default view of the BTS workspace. Here you can work on text corpus objects
-   and texts, including transliteration, translation, lemmatization, hieroglyphs and their
+  <p>Text Corpus is the default view of the BTS workspace. Here the user adds, arranges and
+   rearranges database objects in the Textcoprus tree. The user works on text corpus objects and
+   texts, including editing transliteration, translation, lemmatization, hieroglyphs and their
    metadata.</p>
-  <p>There are following tabs to work with: </p>
+  <p>This chapter provides a general description of the Workspace with its windows and tabs of the
+   Text Corpus View. For a step-by-step instruction of how to enter a new text please refer to the
+   relevant chapter of this manual (<xref href="howto.dita">General User Guide</xref>).</p>
+  <p>The contents, structure and functions of the four windows are: </p>
   <p>
-   <ul id="ul_tbc_s5x_bv">
-    <li>Corpus Navigator (default position: left part)</li>
+   <ul id="ul_blm_m5p_gx">
+    <li>"Corpus Navigator" window (<b>yellow</b>) on the left: To navigate in the Textcorpus Trees
+     and arrange database objects.</li>
+   </ul>
+   <ul id="ul_r5s_m5p_gx">
+    <li>"Text Editor" window (<b>blue</b>) at the top center: There are three subtabs: (1) the
+     transliteration (with a field for language selection), (2) the Sign Text Editor and (3) a JSesh
+     View.</li>
    </ul>
   </p>
   <p>
-   <ul id="ul_dvw_s5x_bv">
-    <li>Text Editor (default position: middle part, top)</li>
+   <ul id="ul_gvn_n5p_gx">
+    <li>"Passport Data Editor, Lemmatizer and Hieroglyphic Type Writer" (<b>green</b>) are grouped
+     in one window at the bottom center. Three subtabs are grouped together: (1) Text Corpus Object
+     / Text-Name, (2) Lemmatizer, (3) HTW (Hieroglyphic Type Writer).</li>
    </ul>
   </p>
   <p>
-   <ul id="ul_ifl_tvx_bv">
-    <li>Passport Data Editor (default position: middle part, bottom)</li>
+   <ul id="ul_gnx_n5p_gx">
+    <li>"Annotation and Translation" window (<b>red</b>) on the right: To annotate words or
+     sequences of the texts with different linguistic and metalinguistical properties and comments.
+     One can switch to a whole Text-Translation in this window. </li>
    </ul>
   </p>
-  <p>
-   <ul id="ul_m1n_vvx_bv">
-    <li>Lemmatizer (default position: middle part, bottom)</li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_jnp_xvx_bv">
-    <li>Hieroglyph Type Writer (HTW) (default position: middle part, bottom)</li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_u1k_yvx_bv">
-    <li>Annotation and Text translation (default position: right part)</li>
-   </ul>
-  </p>
-  <p>NOTE: in the default view the tabs "Passport Data Editor", "Lemmatizer" and "HTW" are grouped
-   together in one window. Nevertheless they can be moved separately. </p>
-  <p>As soon as you select a text in the Corpus Navigator, titles of these tabs as well as those of
-   the "Text editor", "Annotation" and "Text Translation" change to the text title. </p>
+  <p><image href="Images/new%20screenshots/BTS%20Screenshots/Workspace_1.png" id="image_bmv_x5p_gx"
+   /></p>
+  <p>In the default view some of the tabs, like "Passport Data Editor", "Lemmatizer" and "HTW", are
+   grouped together in one window. Nevertheless they can be rearranged and moved separately.</p>
+  <p>As soon as you select a Text Corpus Object or a Text in the Corpus Navigator, titles of these
+   tabs as well as those of the "Text editor", "Annotation" and "Text Translation" change to the
+   name of the selcted database object. </p>
  </conbody>
 </concept>
