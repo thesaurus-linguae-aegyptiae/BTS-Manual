@@ -43,6 +43,10 @@
     <p/>
     <p><b>Transliteration</b> follows the BTS Conventions (see: <xref
         href="grammar_transliteration_system.dita"/>).</p>
+    <p>NOTE: When you enter your transliteration, BTS will represent each sentence as on long line.
+      To produce a line break click <image href="Images/icons/full/icon16/lemma-load.png"
+        id="image_sws_dns_mr"/> (Load Text Lemmata) or switch between Sign Text Editor and
+      Transliteration Editor.</p>
     <p/>
     <p><b>Text-critical signs and brackets</b> follow BTS Conventions (see: <xref
         href="grammar_brackets.dita"/>).</p>

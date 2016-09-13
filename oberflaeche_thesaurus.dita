@@ -3,16 +3,26 @@
 <concept id="concept_w5m_g4d_4r">
  <title>Thesaurus View</title>
  <conbody>
-  <p>The Thesaurus view can be activated by clicking the <image
+        <p>The Thesaurus view can be activated by clicking the <image
                 href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr"/> "Thesaurus" icon in
-            the <xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>. Thesaurus contains a
-            uniform terminology, which is used for the database object's metadata (also called
-            "passport data"). New entries can be added here as well. Any user can see the contents
-            of the Thesaurus view, although the ability to modify them is restricted by the relevant
-            user role. </p>
-  <p>The three windows from left to right are: Thesaurus Navigator, Passport Data Editor,
-      Annotations.</p>
-        <p><image href="Images/new%20screenshots/BTS%20Screenshots/Ths_view.png"
-                id="image_ltr_rrn_y5"/></p>
- </conbody>
+            the <xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>. Thesaurus compiles a
+            controlled vocabulary, which is used for the metadata of the database objects like date,
+            location, provenance, bibliographical references, etc. All terms of a thesaurus reflect
+            a semantic network of concepts  including relationships between synonyms, broader and
+            narrower (parent/child) contexts, and other related concepts. Thesaurus entries are
+            offered in the Passport Editor window of the Text Editor and of the Lemma Editor and
+            serve to select the metadata for Text Corpus Object, Texts or Lemma entries. New entries
+            can be added here as well. Any user can see the contents of the Thesaurus view, but the
+            right to create or modify them is restricted by the relevant user role. </p>
+        <p>NOTE: This chapter provides a general description of the Workspace with its windows and
+            tabs of the Thesaurus View. For a step-by-step instruction of how to enter or edit a new
+            Thesaurus entry please refer to the relevant chapter in the User Guide section of this
+            manual (<xref href="howto_thesaurus.dita"/>).</p>
+        <p>If a Thesaurus entry you need is missing, please send a proposal to the BTS team in
+            Berlin via E-mail: aegypt1@bbaw.de. </p>
+        <p>The three windows from left to right are: Thesaurus Navigator, Passport Data Editor,
+            Annotations.</p>
+        <image href="Images/new%20screenshots/BTS%20Screenshots/Ths_view_new.png"
+            id="image_uym_xny_gx"/>
+    </conbody>
 </concept>

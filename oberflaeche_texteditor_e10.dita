@@ -3,12 +3,18 @@
 <concept id="concept_f4v_hqm_mr">
  <title>Text Editor</title>
  <conbody>
-  <p>The Text Editor tab is located in the upper part in the middle of the Text Corpus view. The
-   text input field is empty as long as no text from the Corpus Navigator is selected. Upon
-   selecting a text you will be able to transliterate it and enter hieroglyphs. This chapter
-   provides a general description of the tab. For a step-by-step instruction of how to enter a new
-   text please refer to the relevant <xref href="howto_edittext2.dita#topic_k3c_35y_qt"
-    >chapter</xref> in the User Guide section of this manual. </p>
+  <p>The Text Editor window is located in the upper part in the middle of the Text Corpus view. It
+   enables you to create IT-readable editions of texts and subtexts according to BTS standards. The
+   Text editor is only active after you have selected a text / subtext in the Text Corpus Navigator.
+   Now you can start to edit your text / subtext. The Text Editor offers you the possibility to
+   transliterate your text / subtext (Transliteration tab), to translate it sentence by sentence
+   (translation field) and to enrich the transliteration with hieroglyphs (HTW tab). The Sign Text
+   Editor displays a detailed view of the properties of every token of your transliteration and is
+   needed together with the Lemmatizer for the process of lemmatization.</p>
+  <p>This chapter provides a general description of the window. For a step-by-step instruction of
+   how to enter a new text please refer to the relevant <xref
+    href="howto_edittext2.dita#topic_k3c_35y_qt">chapter</xref> in the User Guide section of this
+   manual. </p>
   <p>The Text Editor section contains two input fields. The upper one displays either the
    "Transliteration", the "Sign Text Editor" or the "JSesh View" - depending on the tab selected.
    The lower input field displays translation of the sentence, selected with the cursor in the upper
@@ -33,13 +39,19 @@
    displayed in each word box after a successful lemmatization.</p>
   <p><b>JSesh View</b></p>
   <p>Displays a cohesive hieroglyphic text. "dot" marks the end of the sentence (signified in
-   "Transliteration" and "Sign Text Editor" tabs with "§" sign). </p>
-  <p>There are several buttons above the "Text-Editor" window: </p>
+   "Transliteration" and "Sign Text Editor" tabs with "§" sign). Due to technical reasons only short
+   texts are currently displayed correctly.</p>
+  <p><b>Toolbar of the Text Editor</b></p>
+  <p>There are several buttons in the toolbar above the "Text-Editor" window. They can be used in
+   all three tabs "Transliteration", "Sign Text Editor", and "JSesh View". We recommand to use them
+   only in the "Translitaration"-tab as we do not garantee full functionality for the other
+   tabs.</p>
   <p><image href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/>
    <u>Load Text Lemmata </u></p>
   <p>Loads word and sentence borders of your texts in order to be able to add a translation and to
    lemmatize the words and add the hieroglyphs in the next steps. Click this button after
-   transliteration has been finished. </p>
+   transliteration has been finished.</p>
+  <p>NOTE: This does not save your transliteration.</p>
   <p><image href="Images/icons/full/icon16/chcecklemmata.png" id="image_glp_wld_vt"/><u>Check Text
     Lemmata, Flexcodes...</u>
   </p>
@@ -52,9 +64,8 @@
    <u>Add Rubrum </u></p>
   <p>The active token is marked red in the text as rubrum.</p>
   <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
-   <u>Add Subtext/Glosses</u></p>
-  <p>Adds a subtext or a gloss respectively as a "child" of your text. You can edit it
-   separately.</p>
+   <u>Add Glosses</u></p>
+  <p>Adds a gloss respectively as a "child" of your text. You can edit it separately.</p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
    <u>Add Comment </u></p>
   <p>Adds a comment to the selected part. It will be underlined yellow.</p>
@@ -70,6 +81,8 @@
    new transliteration it is greyed out until you press "Load Text Lemmata" - after this the
    text-input field will be activated. Note that you have to switch the keyboard layout from "AAeW"
    to standard to enter the translation.</p>
+  <p>The translation can be entered and modified in all three tabs "Transliteration", "Sign Text
+   Editor", and "JSesh View". </p>
   <p>The <image href="Images/icons/full/icon16/locale.png" id="image_plt_3yt_mr"/> "Languages" icon
    offers a drop-down menu with a number of languages (English, German, French, Spanish, Russian) to
    choose from. Choose the language of your translation.</p>

@@ -3,23 +3,31 @@
 <concept id="concept_qmv_p2b_sr">
  <title>Hieroglyph Type Writer (HTW)</title>
  <conbody>
-  <p>The Hieroglyph Type Writer is a tool which enables entering or editing hieroglyphs for the
-   transliterated text in the "Sign-Text-Editor". The Hieroglyph Type Writer can be found in the
-   lower part of the BTS user interface, next to the Passport Editor and the Lemmatizer.</p>
+  <p>The HTW-tab in the window at the bottom center leads to the Hieroglyph Type Writer. This is a
+   tool which enables entering or editing of hieroglyphs fro any transliterated text in the
+   "Sign-Text-Editor". The Hieroglyph Type Writer is situated by default in the lower part of the
+   BTS user interface, next to the Passport Editor and the Lemmatizer.</p>
+  <p>Note: After selecting the HTW tab or after selecting a text in the Text Corpus Navigator the
+   name of the HTW will switch to the name of the selected text. Move the cursor on the tab header
+   to see the original name of the tab (HTW).</p>
   <p>In order to use the HTW you need to open the "Sign Text Editor" and select a lemma for which
    hieroglyphs are to be entered.</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/HTW.png"
     id="image_zqq_rtp_5t"/></p>
   <p>The HTW consists of the following sections: </p>
   <p><b>Type here</b></p>
-  <p>Here you can enter either the Gardiner codes or "Manuel de Codage" transcription of a word
-   chosen in the Sign-Text-Editor. In the field below the hieroglyphic variants are offered based on
-   your input in "Type here". Select and confirm the sign by pressing "Ctrl" + the number (marked in
-   red next to the desired sign). The field underneath it displays the hieroglyphic signs the way
-   they appear within the selected word in the "Sign Text Editor".</p>
+  <p>Enter the hieroglphy sign by sign either by the Gardiner codes or "Manuel de Codage"
+   transcription of a word selected in the Sign-Text-Editor above. The first of the two fields below
+   the "Type here" field offers hieroglyphic variants for selection based on your input in "Type
+   here".</p>
+  <p>Select and confirm each sign by pressing "Ctrl" + the number (marked in red next to the
+   respective sign) or simply complete the number manually and continue after the hyphen with the
+   next hieroglyph. The second field underneath displays the hieroglyphic writing of the word you
+   typed in. After confirmation the writing appears within the selected word in the "Sign Text
+   Editor". </p>
   <p><b>Select Single Glyphs</b></p>
-  <p>In the case of an inversion this function offers to mark a hieroglyph and assign a different
-   position for it in a sentence.</p>
+  <p>In the case of an inversion this function offers the option to mark a hieroglyph and assign a
+   different position for it in a sentence.</p>
   <p>
    <ul id="ul_uyl_jbf_cv">
     <li><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_wqn_ty4_nt"/> Move
@@ -62,7 +70,8 @@
    current hieroglyph editing and continue to the next word. Pressing the "Enter" key also confirms
    the hieroglyph editing.</p>
   <p><image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_q3c_gtg_wr"/> Remove
-   hieroglyph data: removes already entered hieroglyphs.</p>
+   hieroglyph data: removes already entered hieroglyphs of a token selected in the Sign Text
+   Editor.</p>
   <p><image href="Images/icons/extra%20icons/pfeil_anfang_dokument.png" id="image_kgg_r31_sr"/> Move
    selection to the beginning of the document. </p>
   <p><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_obl_s31_sr"/> Move
