@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_vjt_crd_vt">
-  <title>Definition</title>
+  <title>Description</title>
   <body>
-    <p>This tab is to define your lemma and record your working process. Editor's comments can also
-      be added here. Use the provided input fields:</p>
+    <p>This tab is used for recording the working process. The provided input fields are the
+      following:</p>
     <p>
-      <ul id="ul_m12_znf_cv">
-        <li>Description:  Describe the type of your lemma here.</li>
+      <ul id="ul_e1f_2my_bv">
+        <li><b>Description:</b> This input field offers the oportunity to provide a more thorough
+          definition of the object / text in case the name of the database object is not sufficient
+          for identification. Usualy this field remains blank.<p>NOTE: This does not replace
+            conscientious naming of the database and proper filling of the passport data.</p></li>
       </ul>
     </p>
     <p>
-      <ul id="ul_pd1_b4f_cv">
-        <li>Comment: Comment your work.</li>
+      <ul id="ul_aw4_fmy_bv">
+        <li><b>Comment:</b> Write any additional comments you may have to your work.</li>
       </ul>
     </p>
   </body>

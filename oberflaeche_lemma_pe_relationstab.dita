@@ -3,27 +3,32 @@
 <topic id="topic_lv5_cpd_vt">
   <title>Relations</title>
   <body>
-    <p>This tab provides information on the relation between the lemmata. </p>
+    <p>This Relations tab gives information on the relation between the lemmata. The default setting
+      is the relationship between the selected database object and its parent database object ("Part
+      of"). </p>
     <p><b>Relation</b></p>
-    <p>Choose different types of relations:</p>
+    <p>Choose different types of relations from the drop-down menu:</p>
     <p>
       <ul id="ul_jl4_5lf_cv">
-        <li>PartOf:  A lemma is a part of another lemma.</li>
+        <li>PartOf: A lemma is hierarchically subordinated to another lemma, it is a sublemma of
+          another lemma.</li>
+        <li>Contains: A lemma is hierarchically superordinated to another lemma.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_e3g_vlf_cv">
-        <li>Contains / is composed of: A relation between a compositum and its components</li>
+        <li>Is composed of: A relation between a compound and its components. Do not use this
+          relation! Instead of this, divide the compound into his components in the texteditor, and
+          lemmatize them.</li>
+        <li>Is cross-reference to: This references your entry to another entry.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_syx_zlf_cv">
-        <li>"Referencing": Establishes a relation between lemmas that have been proven to be wrong
-            (<image href="Images/icons/full/icon16/lemma-wrong.png" id="image_i5l_mlp_nt"/>) and
-          correct lemmas.</li>
-        <li>"ReferencedBy":  Defines the relation between the correct lemmata (<image
-            href="Images/icons/full/icon16/lemma-ok.png" id="image_ywh_plp_nt"/>) and the wrong
-          lemmata. </li>
+        <li>Referencing: Establishes a relation between obsolete lemmas and correct lemmas..</li>
+        <li>ReferencedBy: Defines the relation between the correct lemmata (<image
+            href="Images/Icons_updated/full/icon16/lemma_checked.png" id="image_dlf_2k2_hx"/>) and
+          the obsolete  lemmata. </li>
       </ul>
     </p>
     <p>
@@ -42,29 +47,17 @@
         <li>Is cross-reference to: This option is offered but is not relevant at the moment.</li>
       </ul>
     </p>
-    <p>
-      <ul id="ul_bxb_wmf_cv">
-        <li>Object: Enter the Name of the related object here. </li>
-      </ul>
-    </p>
-    <p>
-      <ul id="ul_gvq_wmf_cv">
-        <li><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/> Search Object:
-          Search for a text or an object in the corpora of your current project, so that you do not
-          have to enter it manually. </li>
-      </ul>
-    </p>
-    <p>
-      <ul id="ul_rth_xmf_cv">
-        <li><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/> Add Relation:
-          Click it to add more relations.</li>
-      </ul>
-    </p>
-    <p>
-      <ul id="ul_rsv_xmf_cv">
-        <li><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/> Remove
-          Relation: This removes relations from the Object.</li>
-      </ul>
-    </p>
+    <p><b>Object:</b> Displays the transliteration of the related lemma. </p>
+    <p><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/>
+      <b>Search Object:</b>  Search for a lemma you want to relate with your lemma. </p>
+    <p><image href="Images/Icons_updated/full/icon16/passport.png" id="image_pkx_gm2_hx"/>
+      <b>Open Object in Passport Editor:</b> Displays the passport data of the related lemma.</p>
+    <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
+      <b>Add Relation:</b> Click it to add more relations. BTS allows polyhierarchy. One item can
+      have more than one parent element. </p>
+    <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
+      <b>Remove Relation:</b> This removes relations from the lemma.</p>
+    <p>NOTE: If the last relation is removed, the lemma will remain in the database as "Oprhan" and
+      is still accesible via the Search Dialog.</p>
   </body>
 </topic>

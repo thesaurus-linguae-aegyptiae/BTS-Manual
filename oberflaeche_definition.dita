@@ -3,28 +3,31 @@
 <concept id="concept_jqz_5wf_yr">
  <title>Description </title>
  <conbody>
-  <p>This tab is helpful for recording the working process. The provided input fields are the
+  <p>This tab is used for recording the working process. The provided input fields are the
    following:</p>
   <p>
    <ul id="ul_zyq_bmy_bv">
-    <li>Line count: Enter the modus of the text's line count (e.g. define how the lines are counted
-     in your text). NOTE: Line count is only visible for the item-type "text".</li>
+    <li><b>Line count:</b> Enter the modus of the text's line count (e.g. define how the lines are
+     counted in your text). <p>NOTE: Line count only applies to the item-type "text".</p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_zqb_dmy_bv">
-    <li>Protocol: Enter the dates of your working process here (e.g. first entering, editing
+    <li><b>Protocol:</b> Enter the dates of your working process here (e.g. first entering, editing
      etc.).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_e1f_2my_bv">
-    <li>Description: Describe the type of your textual witness/object here.</li>
+    <li><b>Description:</b> This input field offers the oportunity to provide a more thorough
+     definition of the object / text in case the name of the database object is not sufficient for
+     identification. Usualy this field remains blank.<p>NOTE: This does not replace conscientious
+      naming of the database and proper filling of the passport data.</p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_aw4_fmy_bv">
-    <li>Comment: Write any additional comments you may have to your work.</li>
+    <li><b>Comment:</b> Write any additional comments you may have to your work.</li>
    </ul>
   </p>
  </conbody>
