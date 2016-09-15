@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gsr_cbw_ns">
-  <title>Modifying the object's passport data </title>
+  <title>Editing passport data </title>
   <body>
     <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?> Link to the video.</p>
-    <p>provide two examples – one for text and one for a Text Corpus object. <?oxy_custom_end?></p>
-    <p> For detailed description of passport editor fields see <xref
-        href="oberflaeche_passporteditor.dita">Passport Editor</xref>.</p>
+    <p><?oxy_custom_end?></p>
+    <p>The Passport Editor is located in the bottom part in the middle of the Text Corpus view. It
+      is essential that you complete the metadata of your Text Corpus Objects, texts, subtexts, and
+      glosses conscientiously. Only correct and complete metadata enable search querries and
+      statistical evaluation of the data.</p>
+    <p>Most entries in the passport data are assigned by thesaurus lists. These lists compile a
+      controlled vocabulary, which is used for the metadata of the database objects like date,
+      location, provenance, etc. </p>
+    <p>Select only entries from the thesauri, if you are sure that they are the correct ones. If
+      there remain doubts on the assignment, select "unbekannt" or "unbestimmt". You can always
+      discuss questionable assignments, e.g. the findspot of an Egyptian object or the date of a
+      text in the comment fields.</p>
+    <p>The thesauri are not complete, yet. In case a Thesaurus entry you need is missing, please
+      send a proposal to the BTS team in Berlin via E-mail: aegypt1@bbaw.de.</p>
+    <p/>
+    <p>For detailed description of passport editor fields and how there are used see <xref
+        href="oberflaeche_passporteditor.dita"/>.</p>
   </body>
 </topic>

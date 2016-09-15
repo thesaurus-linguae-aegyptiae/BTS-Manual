@@ -3,23 +3,58 @@
 <concept id="concept_ezx_rwf_yr">
  <title>Date</title>
  <conbody>
-  <p>Define the dating of the selected item. It is necessary to use the "Search" button and use the
-   Thesaurus entries. The rights to modify object's date data depend on your user role for the
-   selected corpus. Enter the data in the text input fields "date" (via "Search") and "comment".</p>
-  <p><image href="Images/icons/full/icon16/search.png" id="image_fvk_4xf_yr"/>
-   <u>Search</u>: </p>
-  <p>Click to search the Thesaurus for valid dates.</p>
-  <p><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_pxk_4xf_yr"/>
-   <u>Add widget:</u>: </p>
-  <p>Click to add another date text input field if the object or text can only be dated between a
-   terminus post quem and a terminus ante quem. Use the first date field for the earlier date and
-   the second date field for the later date. </p>
-  <p><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_p1l_4xf_yr"/>
-   <u>Remove widget</u>: </p>
-  <p>Click to delete a "date" text input field.</p>
-  <p><image href="Images/icons/full/obj16/widget-group-add.png" id="image_adl_4xf_yr"/>
-   <u>Add Entry group</u>: </p>
-  <p>Click to add a new entry group, containing both "date" and "comment" text input fields. </p>
-  <p>This feature is available to make "from" and "to" dating possible. </p>
+  <p>This tab allows you to define the dating of the selected database object.</p>
+  <p/>
+  <p>
+   <ul id="ul_rqj_zpl_hx">
+    <li><b>Date:</b> Displays the name of the selected thesaurus entry. This is no input field.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_gz4_zpl_hx">
+    <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
+     <b>Search Object:</b> Select the date from the Thesaurus.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_rv5_zpl_hx">
+    <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
+     <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+     entry.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_wqy_dql_hx">
+    <li><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_wgk_5rl_hx"/>
+     <b>Add widget:</b> Add another date of the same object in the selected location. This feature
+     is available to make "from-to"-dating possible (e.g. if your object dates Dynasty 5-6). Click
+     to add another date text input field if the object or text can only be dated between a terminus
+     post quem and a terminus ante quem. Use the first date field for the earlier date and the
+     second date field for the later date. </li>
+   </ul>
+   <ul id="ul_mmx_yxl_hx">
+    <li><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_h42_vrl_hx"/>
+     <b>Remove widget:</b> Removes the date.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_vdd_w5b_55">
+    <li><b>Comment:</b> Add a comment to the date.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_od4_rmy_bv">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
+     <b>Add Entry Group:</b> Add another "date" section to enter a previous date. This feature is
+     applicable to "either-or"-datings (e.g. if your object dates either to the Old Kingdom or to
+     the Late Period). Use the first date section for the earlier date and the second date section
+     for the later date. </li>
+   </ul>
+   <ul id="ul_xdm_yxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
+     <b>Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     the only entry group.</li>
+   </ul>
+  </p>
  </conbody>
 </concept>

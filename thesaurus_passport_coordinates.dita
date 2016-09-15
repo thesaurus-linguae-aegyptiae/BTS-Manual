@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ux4_gyl_yr">
- <title>Coordinates </title>
+ <title>Thesaurus: Coordinates </title>
  <conbody>
-  <p>After entering a location, you can insert its coordinates here:</p>
+  <p>This tab allows you to enter the coordinates of the place names in the thesauri
+   ("Aufbewahrungsorte" and "Fundstellen")</p>
   <p>
    <ul id="ul_ytd_m1g_cv">
-    <li>Latitude (German: "Breite"): Enter the latitude of the location.</li>
+    <li><b>Latitude:</b> Enter the latitude of the location.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_iwb_n1g_cv">
-    <li>Longitude (German: "Länge"): Enter the longitude of the location.</li>
+    <li><b>Longitude:</b> Enter the longitude of the location.</li>
    </ul>
   </p>
  </conbody>

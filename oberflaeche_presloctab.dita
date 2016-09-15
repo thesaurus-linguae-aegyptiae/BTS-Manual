@@ -3,45 +3,60 @@
 <concept id="concept_otk_ywf_yr">
  <title>Present Location</title>
  <conbody>
-  <p>This is another tab specific for an object.</p>
+  <p>This tab allows you to put in data concerning the present location (i.e. a museum or
+   collection) of the Egytian object, that bears the text you want to edit.</p>
+  <p/>
   <p>
-   <ul id="ul_ajp_qvb_55">
-    <li>Location: Choose the location of your object from the Thesaurus.</li>
+   <ul id="ul_rqj_zpl_hx">
+    <li><b>Location:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+      <ul id="ul_nsl_rcm_hx">
+       <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
+        <b>Search Object:</b> Select the location from the Thesaurus.</li>
+       <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
+        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry.</li>
+      </ul>
+     </p></li>
    </ul>
   </p>
   <p>
-   <ul id="ul_anc_rvb_55">
-    <li>Inventory Number: Enter the number of your object if provided.</li>
+   <ul id="ul_b4z_zpl_hx">
+    <li><b>Inventory Number:</b> Enter the number of your object if provided. The field may contain
+     only one inventory number. If an object consists of several fragments with separate inventory
+     numbers or has several names, you can add another widget within the same entry group, using the
+     following buttons:<p>
+      <ul id="ul_typ_tcm_hx">
+       <li><image href="Images/icons/full/icon16/widget-text-add.png" id="image_wxb_3pl_hx"/>
+        <b>Add widget:</b> Add another inventory number of the same object in the selected
+        location.</li>
+       <li><image href="Images/icons/full/icon16/widget-text-delete.png" id="image_g2b_jpl_hx"/>
+        <b>Remove widget:</b> Removes the inventory number.</li>
+      </ul>
+     </p></li>
    </ul>
   </p>
   <p>
-   <ul id="ul_q1k_rvb_55">
-    <li>Comment: Enter a comment about the location of the object if necessary.</li>
+   <ul id="ul_vdd_w5b_55">
+    <li><b>Comment:</b> Add a comment to the location.</li>
    </ul>
   </p>
   <p>
-   <ul id="ul_l2s_rvb_55">
-    <li>in_situ: Select this check box if the object is still preserved in its original
-     location.</li>
+   <ul id="ul_hzd_qmy_bv">
+    <li><b>in_situ:</b> Select this checkbox, if the object still remains at its position at an
+     archaeological site.</li>
    </ul>
   </p>
   <p>
-   <ul id="ul_ftz_rvb_55">
-    <li>is_present_location: Select this check box if the present location differs from its original
-     location (e.g. on display or in inventory of a museum).</li>
+   <ul id="ul_od4_rmy_bv">
+    <li><b>is_present_location:</b> Select this checkbox, if the selected location is the museum or
+     collection where the object is stored at present.</li>
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
+     <b>Add Entry Group:</b> Add another "location" section to enter a previous location.</li>
    </ul>
-  </p>
-  <p>
-   <ul id="ul_jtj_dny_bv">
-    <li><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr"/> Add
-     widget: Click to add an additional "location" section so you can enter a previous location (if
-     it differs from the present location).</li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_jmk_2ny_bv">
-    <li><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_pnl_c3p_sr"/>
-     Delete widget: Click to delete a section.</li>
+   <ul id="ul_h1s_vxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
+     <b>Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     the only entry group.</li>
    </ul>
   </p>
  </conbody>
