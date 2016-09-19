@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p15_rwv_ns">
-  <title>Creating a database object</title>
+  <title>Creating a database object (TCObject and Text)</title>
   <body>
     <p>The following functions are available to the user with at least Researcher privileges over a
-      given corpus. Creating a text corpus object (i.e. the item referring to physical inscribed
-      object) and a text are the basic steps to edit a text in BTS.</p>
+      given corpus. Creating a Text Corpus Object and a Text are the basic steps to edit a text in
+      BTS. Before creating a Text you need to create a Text Corpus Object, i.e. the item referring
+      to physical inscribed object, and define the physical source of your text.</p>
     <p><b>Creating a text corpus object</b></p>
     <p>
       <ol id="ol_zxm_3ty_qt">
@@ -13,7 +14,7 @@
           add an object to a corpus or to another already existing object. </li>
         <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
           sub-entry of the chosen corpus. The new created object has the relation "PartOf" to the
-          chosen corpus or to an already existing object of this corpus. <p> NOTE: A Text Corpus
+          chosen corpus or to an already existing object of this corpus. <p>NOTE: A Text Corpus
             Object is referring to a physical object, covered with texts. Texts and Text Corpus
             Objects are in child-parent relation, i.e. Text is always attributed to the a specific
             Text Corpus Object - not vice versa (see <xref href="intro_ui_glossary.dita"
@@ -30,9 +31,50 @@
           corpora tree with the default name "BTSTC Object".</li>
         <li>Define the Type and, if applicable, also the Subtype of the object. Provide as much
           information as possible by filling out the tabs of the <xref
-            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.</li>
+            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>. The different types
+          are the following:<p>
+            <ul id="ul_c1c_qgp_3x">
+              <li><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x"/>
+                <b>Caption:</b> The Caption is used as a folder to list a set of physical objects
+                under one heading due to pragmatic reasons (e.g. the stelae from Kawa or the medical
+                papyri).</li>
+            </ul>
+            <ul id="ul_gtb_xwp_3x">
+              <li><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x"/>
+                <b>Group:</b> A Group defines a number of physical objects belonging together on
+                geographic reasons (e.g. the graves of a specific cemetery like the Eastern Cemetery
+                at Gisa).</li>
+            </ul>
+            <ul id="ul_gqd_xwp_3x">
+              <li><image href="Images/Icons_updated/full/icon16/arrangement.png"
+                  id="image_isy_c3p_3x"/>
+                <b>Arrangement:</b> An arrangement defines a closed association of finds (e.g. the
+                objects from the tomb of Tutankhamun).</li>
+            </ul>
+            <ul id="ul_q3f_xwp_3x">
+              <li><image href="Images/Icons_updated/full/icon16/scene.png" id="image_hjy_t5p_3x"/>
+                <b>Scene:</b> This is an obsolete entry. Do not use it.</li>
+            </ul>
+            <ul id="ul_egh_xwp_3x">
+              <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
+                <b>TCObject:</b> The TCObject is the physical ancient Egyptian object that is
+                covered with your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose
+                IV.).</li>
+            </ul>
+            <ul id="ul_obj_xwp_3x">
+              <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png"
+                  id="image_tpj_b3p_3x"/>
+                <b>ObjectPart:</b> ObjectPart is hieratically subordinated to TCObject. Use it, when
+                the carrier of your text consits of more than one physical object (e.g. a statue and
+                its base or several parts of a buidling).</li>
+            </ul>
+          </p></li>
       </ol>
     </p>
+    <p>When you create your Text Corpus Objects and Texts, be sure to arrange them in a logical
+      hierarchic order. Texts are always child elemets of Text Corpus Obejcts, not vice versa:</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/Corpus_navigator_tree.jpg"
+        id="image_tbm_bfq_3x"/></p>
     <p><b>Creating a text</b></p>
     <p>
       <ol id="ol_z4r_kty_qt">
@@ -49,8 +91,39 @@
           Until then the default name will be "BTS Text".</li>
         <li>As for the Text Corpus Object define the Type and, if applicable, also the Subtype of
           the object. Provide as much information as possible by filling out the tabs of the <xref
-            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.</li>
+            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.<p>
+            <ul id="ul_hp1_jgp_3x">
+              <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
+                <b>Text:</b> A text is defined as a coherent entity. Your physical object might
+                contain several texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The
+                Taking of Joppe" etc. Each of these tales and poems recieves its own database object
+                "Text" subordinated to the TCObject "Papyrus Harris 500).</li>
+            </ul>
+            <ul id="ul_pwm_rwp_3x">
+              <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
+                <b>Subtext:</b> Subtexts are parts of the same text that are related to each other,
+                but without a defined order of reading (e.g. diffrent persons and their respective
+                inscriptins on a relief).<p>NOTE: Do not treat chapters or captions of a continuous
+                  text (e.g. the medical remedies in Papyrus Ebers) as subexts. These have to be
+                  segmented by annotations. </p></li>
+            </ul>
+          </p></li>
       </ol>
+    </p>
+    <p><b>Defining the review state</b></p>
+    <p>The display of the icon of your Text Corpus Objects and Texts differs according to the review
+      state you have selected in the main tab of the <xref href="howto_passport.dita">passport
+        editor</xref>. The icons mentioned above will get one of the following additions:</p>
+    <p>
+      <ul id="ul_n52_nhq_3x">
+        <li><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x"/> new</li>
+        <li><image href="Images/Icons_updated/full/ovr16/awaiting-review.png" id="image_bjh_qhq_3x"
+          /> awaiting review</li>
+        <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"
+          /> awaiting update</li>
+        <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/>
+          reviewd / published</li>
+      </ul>
     </p>
     <p><b>Moving database objects</b></p>
     <p>To change a physical location of a database object (marked in square brackets aside the name)
