@@ -3,8 +3,9 @@
 <topic id="topic_kz2_d42_1v">
   <title>Templates</title>
   <body>
-    <p>A template is a pattern used to replicate letters, shapes or designs in the word processing.
-      You can use this function to speed up the transliteration process.</p>
+    <p>A template is a pattern used to replicate letters, shapes or designs in the word processing,
+      e.g. line count, ambiguities, plural- and dual-endings etc. You can use this function to speed
+      up the transliteration process.</p>
     <p>Access the already-existing templates through the Content Assist (right-click in the Text
       Editor Transliteration field or pressing CTRL + Spacebar) and choose it from the menu. The
       already-existing templates are essentially what you can find on the keyboard layout and type
@@ -16,25 +17,29 @@
       option: to enter §. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template1.png" id="image_icd_3q2_1v"
       /></p>
+    <p/>
+    <p><b>Creating a new template</b></p>
     <p>You can also create your own templates. Select Preferences in the Menu bar. Then expand
-      EgyDsl and click on Templates entry. Clicking on "New..." will open a new window where you can
-      name your template and select its context from the drop-down menu. The context determines at
-      which position in the text the template will be displayed (SentenceItem or WordPart). </p>
-    <p>You are advised only to select "SentenceItem" and "WordPart" as context from the dropdown
-      menu. Use "SentenceItem" for independent items (e.g. linecount) and "WordPart" for dependet
-      items (e.g. plural and dual endings). All other contexts shall not be used.</p>
-    <p>You can add a short description to it in order to remember what it does. Name and short
-      description will be displayed in the Content Assist. In the field Pattern enter the motive
-      which will be displayed in the transliteration. The Button Insert Variable allows you to
-      choose from some pre-set patterns which you can use for your template. The example below
-      demonstrates how a template works. </p>
+      EgyDsl and click on Templates entry. Clicking on "New..." will open a new window where you
+      first have to name your template and select its context from the drop-down menu. The context
+      determines at which position in the text the template will be displayed (SentenceItem or
+      WordPart). </p>
+    <p>NOTE: You are advised only to select "SentenceItem" and "WordPart" as context from the
+      dropdown menu. Use "SentenceItem" for independent items (e.g. linecount) and "WordPart" for
+      dependet items (e.g. plural and dual endings). All other contexts shall not be used.</p>
+    <p>You may add a short description to it in order to remember what it does. Other than the name,
+      a description is not mandatory. Name and short description will be displayed in the Content
+      Assist. In the field Pattern enter the motive which will be displayed in the transliteration.
+      The Button Insert Variable allows you to choose from some pre-set patterns which you can use
+      for your template. The example below demonstrates how a template works. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template2.png" id="image_gjh_wq2_1v"
       /></p>
-    <p>This is a window where you enter the data for a template. When it is finished, click OK and
-      it will appear in the list. You can edit or remove it as well. You can now use it in the
-      transliteration. Right-click within the §§ signs and open the Content Assist. Scroll to the
-      bottom where the new template is located. Clicking on it once will display the pattern which
-      will be inserted to the text. Double-clicking will add the template to the transliteration. </p>
+    <p>When it is finished, click OK and it will appear in the list. You can edit or remove it as
+      well. You can now use it in the transliteration. Right-click within the §§ signs and open the
+      Content Assist (CTRL + Spacebar). Scroll to the bottom where the new template is located
+      (using either the mouse or the arrow keys). Clicking on it once will display the pattern which
+      will be inserted to the text. Double-clicking (or ENTER) will add the template to the
+      transliteration. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template3.png" id="image_ntn_hr2_1v"
       /></p>
   </body>

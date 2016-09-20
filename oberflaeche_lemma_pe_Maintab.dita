@@ -6,7 +6,7 @@
     <p>The Main tab contains general information about the lemma entry.</p>
     <p>
       <ul id="ul_pdq_zkf_cv">
-        <li>Name: Choose or change the name of the lemma.</li>
+        <li>Name: Enter or change the name (i.e. the transliteration) of the lemma.</li>
       </ul>
     </p>
     <p>
@@ -16,18 +16,20 @@
     </p>
     <p>
       <ul id="ul_mwv_clf_cv">
-        <li>SortKey: Rearrange the items in the Lemma Navigator tree (the default order is
-          alphabetical).</li>
+        <li>SortKey: By default, all lemmata on the same level have "0" as a sort key and are thus
+          sorted alphabetically. Defining a "SortKey" in the Passport data of the object will change
+          its position regarding other databse objects, "0" being on top.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_rjx_dlf_cv">
-        <li>ID: Display the ID of the lemma.</li>
+        <li>ID: Displays the ID of the lemma, which is generated automatically by the BTS. It cannot
+          be changed.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_sjn_2lf_cv">
-        <li>Author: Display and edit the author of a lemma. </li>
+        <li>Author: Displays the author (creator) of the of a lemma. </li>
       </ul>
     </p>
     <p>
@@ -37,30 +39,38 @@
     </p>
     <p>
       <ul id="ul_v5l_jlf_cv">
-        <li>Visibility: Define who can see the lemma (public, project, group, user).</li>
+        <li>Visibility: Define who can see the lemma (public, project, group, reader,
+          all_authenticated). See also <xref href="user_roles.dita">User Roles
+          Description</xref>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ffg_klf_cv">
         <li>Review State: Enter or edit the Review state of the lemma (published, reviewed,
-          awaiting-update, awaiting-review, new etc.). </li>
+          awaiting-update, awaiting-review, new etc.). Use only four review states: published,
+          published-awaiting-review, published-obsolete, obsolete. Published means the lemma is
+          certain and confirmed. Published-awaiting-review means the lemma is not yet confirmed.
+          Obsolete means the lemma is obsolete and will not be displayed in publication.
+          Published-obsolete means the lemma is obsolete and will be displayed in publication.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_qf5_llf_cv">
-        <li>Project: ove the lemma to another project. </li>
+        <li>Project: Move the lemma to another project. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_awr_mlf_cv">
-        <li>Corpus: See or edit the name of the corpus. Click <image
-            href="Images/icons/full/icon16/preferences.png" id="image_jdd_xxh_sr"/> to move an
-          object/lemma between projects/databases.</li>
+        <li>Corpus: Displays the name of the corpus. Click <image
+            href="Images/icons/full/icon16/preferences.png" id="image_jdd_xxh_sr"/> to move the
+          lemma between word lists.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_afw_nlf_cv">
-        <li>History: See all changes done in this database-object with User Name and Date.</li>
+        <li>History: Click to see all changes of the selected lemma. Information includes the
+          username of the editor and the date. In order for the history information not to be
+          displayed, change to another lemma and then back.</li>
       </ul>
     </p>
   </body>

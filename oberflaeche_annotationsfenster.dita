@@ -51,8 +51,8 @@
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
    <u>Delete</u>: Will delete the currently selected element.</p>
   <p><image href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/>
-   <i>Filter</i>: Here you find a filter hide or display specific types or subtypes of annotation,,
-   e.g. you can hide all rubra from the list.</p>
+   <i>Filter</i>: Here you find a filter hide or display specific types or subtypes of annotation,
+   e.g. you can hide all rubra from the list or display only comments.</p>
   <p>NOTE: When you text is loaded, BTS does not load all annotations, but only
    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>200<?oxy_custom_end?>. This
    number is then filtered according to your selection. That means, if you text has 250 rubra and 50

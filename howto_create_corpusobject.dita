@@ -7,29 +7,30 @@
       given corpus. Creating a Text Corpus Object and a Text are the basic steps to edit a text in
       BTS. Before creating a Text you need to create a Text Corpus Object, i.e. the item referring
       to physical inscribed object, and define the physical source of your text.</p>
-    <p><b>Creating a text corpus object</b></p>
+    <p><b>Creating a Text Ccorpus Object</b></p>
     <p>
       <ol id="ol_zxm_3ty_qt">
-        <li>Choose the corpus from the corpora tree where you wish your object to appear. You can
-          add an object to a corpus or to another already existing object. </li>
+        <li>Choose the corpus from the Corpus Navigator tree where you wish your TCObject to appear.
+          You can add an TCObject to a corpus or to another already existing TCObject. Although you
+          can later move database objects, consider a logicl hierachic order.</li>
         <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
-          sub-entry of the chosen corpus. The new created object has the relation "PartOf" to the
-          chosen corpus or to an already existing object of this corpus. <p>NOTE: A Text Corpus
-            Object is referring to a physical object, covered with texts. Texts and Text Corpus
-            Objects are in child-parent relation, i.e. Text is always attributed to the a specific
-            Text Corpus Object - not vice versa (see <xref href="intro_ui_glossary.dita"
-              >Glossary</xref> in the Chapter Introduction).</p><p>NOTE: Currently new database
-            objects will be saved in your main working corpus (as selected in the <xref
+          sub-entry of the chosen corpus. The newly created TCObject has the relation "PartOf" to
+          the chosen corpus or to an already existing database object of this corpus. <p>NOTE: A
+            Text Corpus Object is referring to a physical object, covered with texts. Texts and Text
+            Corpus Objects are in child-parent relation, i.e. Text is always attributed to the a
+            specific Text Corpus Object - not vice versa (see <xref href="intro_ui_glossary.dita"
+              >Glossary</xref> in the Chapter Introduction).</p><p>NOTE: Currently newly created
+            database objects will be saved in your main working corpus (as selected in the <xref
               href="oberflaeche_berlintextsystem.dita">preferences</xref>) and not in the selected
             corpus if those two differ. New database objects will appear in the selected corpus, but
             will not be saved there. The appearance is dependent on the relations of the database
             objects, not on their physical storage.</p></li>
-        <li>Name your text corpus object in the <xref
+        <li>Name your Text Corpus Object in the <xref
             href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main Tab </xref> of the Passport
           Editor (The "Name" input field will appear red). You can actually start working without
           naming your object and name it later. Until it is named, the object will appear in the
           corpora tree with the default name "BTSTC Object".</li>
-        <li>Define the Type and, if applicable, also the Subtype of the object. Provide as much
+        <li>Define the Type and, if applicable, also the Subtype of the TCObject. Provide as much
           information as possible by filling out the tabs of the <xref
             href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>. The different types
           are the following:<p>
@@ -57,9 +58,9 @@
             </ul>
             <ul id="ul_egh_xwp_3x">
               <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
-                <b>TCObject:</b> The TCObject is the physical ancient Egyptian object that is
-                covered with your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose
-                IV.).</li>
+                <b>TCObject:</b> The Text Corpus Object is the physical ancient Egyptian object that
+                is covered with your text (e.g. the Papyrus Harris 500 or the sphinx stele of
+                Thutmose IV.).</li>
             </ul>
             <ul id="ul_obj_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png"
@@ -79,22 +80,22 @@
     <p>
       <ol id="ol_z4r_kty_qt">
         <li>Select <xref href="intro_ui_glossary.dita"> a node</xref> in the Corpus Navigator where
-          you'd like to place your text. You can add a text to an object or even to an already
+          you'd like to place your text. You can add a text to a TCObject or even to an already
           existing text. </li>
         <li>Click <image href="Images/icons/full/icon16/text-add.png" id="image_eyb_bty_qt"/> "Add
           Text" in the Corpus Navigator toolbar. A "child"-element will be added to the selected
-          object. The default title "BTS Text" will be attributed to it (in order to see it, you
-          might have to open the parent object).</li>
+          database object. The default title "BTS Text" will be attributed to it (in order to see
+          it, you might have to open the parent element).</li>
         <li>Name your text in the <xref href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main
-            Tab</xref> of the Passport Editor. (The "Name" input field will appear red until it is
-          filled out.) You can actually start working without naming your text and name it later.
+            Tab</xref> of the Passport Editor (The "Name" input field will appear red until it is
+          filled out). You can actually start working without naming your text and name it later.
           Until then the default name will be "BTS Text".</li>
         <li>As for the Text Corpus Object define the Type and, if applicable, also the Subtype of
-          the object. Provide as much information as possible by filling out the tabs of the <xref
-            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.<p>
+          the datase object. Provide as much information as possible by filling out the tabs of the
+            <xref href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.<p>
             <ul id="ul_hp1_jgp_3x">
               <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
-                <b>Text:</b> A text is defined as a coherent entity. Your physical object might
+                <b>Text:</b> A Text is defined as a coherent entity. Your physical object might
                 contain several texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The
                 Taking of Joppe" etc. Each of these tales and poems recieves its own database object
                 "Text" subordinated to the TCObject "Papyrus Harris 500).</li>
@@ -125,7 +126,7 @@
           reviewd / published</li>
       </ul>
     </p>
-    <p><b>Moving database objects</b></p>
+    <p><b>Moving database objects (TCObjects / Texts)</b></p>
     <p>To change a physical location of a database object (marked in square brackets aside the name)
       from one project or corpus to another, right click the chosen item and select "Move among
       projects" in the appearing context menu. In the opened window the current physical location is
@@ -133,14 +134,31 @@
       new corpus in the project) by clicking the checkbox in the lower field. Changing the physical
       location does not affect the position of the database object in the Navigator tree. The
       project or corpus where this Text Corpus Object or Text is actually saved is given in brackets
-      after the name of the Text Corpus Object or of the Text (in Grey).</p>
-    <p><b>Deleting database objects</b></p>
-    <p>To delete a database object (corpus, object, text) select it and then click on <image
-        href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Delete". It will be moved
-      to the bin (<image href="Images/icons/full/icon16/bin.png" id="image_std_3cw_ns"/>"Bin" tab in
-      the Corpus Navigator section), where you have the opportunity to restore it (right click the
-      object and choose "Restore" from the context menu) or to delete it permanently. All
-      subordinate elements will be deleted as well. Upon closing or restarting the BTS all the items
-      in the bin will be deleted permanently.</p>
+      after the name of the Text Corpus Object or of the Text (in Grey). To change the position in
+      the tree as well, it is necessary to change the relation in the <xref
+        href="oberflaeche_relationstab.dita">"Relations" tab</xref> of the passport editor. </p>
+    <p>NOTE: If you have accidentliy created an database object within a wrong postion and you do
+      not have the rights to move it, please contact the administrator in Berlin:
+      aegypt1@bbaw.de.</p>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/moving_objects.png"
+        id="image_tqj_nyv_3x"/></p>
+    <p><b>Deleting database objects (TCObjects / Texts)</b></p>
+    <p>There are twom options to delete a database object from the database:</p>
+    <p>
+      <ol id="ol_awf_h1x_3x">
+        <li>To delete a database object (Text Corpus Objects or Texts) select it and then click on
+            <image href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Delete". It
+          will be moved to the bin (<image href="Images/icons/full/icon16/bin.png"
+            id="image_std_3cw_ns"/>"Bin" tab in the Corpus Navigator section), where you have the
+          opportunity to restore it (right click the object and choose "Restore" from the context
+          menu) or to delete it permanently. All subordinate elements will be deleted as well. Upon
+          closing or restarting the BTS all the items in the bin will be deleted permanently.</li>
+        <li>A database object is deleted permanently (without moving it to the bin first) by eiterh
+          right-clikcung the respective item and selecting "Delete Permanently" or by selecting the
+          item from the Navigator tree and then selecting "Delete Permanenty" from the drop-down
+          menu <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_zj3_d2g_ys"/>.
+          The removal of the database object will be visible after you have restarted BTS.</li>
+      </ol>
+    </p>
   </body>
 </topic>

@@ -5,7 +5,8 @@
   <body>
     <p>This Relations tab gives information on the relation between the lemmata. The default setting
       is the relationship between the selected database object and its parent database object ("Part
-      of"). </p>
+      of"). BTS supports polyhierarchies, that means that datanbase objects may have more than one
+      parent element.</p>
     <p><b>Relation</b></p>
     <p>Choose different types of relations from the drop-down menu:</p>
     <p>
@@ -59,5 +60,10 @@
       <b>Remove Relation:</b> This removes relations from the lemma.</p>
     <p>NOTE: If the last relation is removed, the lemma will remain in the database as "Oprhan" and
       is still accesible via the Search Dialog.</p>
+    <p>NOTE: If a database object has more than one relation, it is displayed at each respective
+      position in the Navigator tree. This does not mean that the database object has been
+      duplicated. To delete one of these relations, use the "Remove Widget" button in the Relation
+      tab. Do not delete the database object itself, unless you want to delete it permanently from
+      all appearences in the Navigator tree.</p>
   </body>
 </topic>

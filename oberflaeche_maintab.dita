@@ -7,7 +7,7 @@
       your text or object. </p>
   <p>
       <ul id="ul_bjg_l3y_bv">
-        <li>Name: Enter or change the name of your object or text.</li>
+        <li>Name: Enter or change the name of your Text Corpus Object or Text.</li>
       </ul>
     </p>
     <p>
@@ -17,46 +17,46 @@
     </p>
     <p>
       <ul id="ul_tz2_r3y_bv">
-        <li>SortKey: By default, all objects on the same level have "0" as a sort key and are thus
-          sorted alphabetically. Defining a "SortKey" in the Passport data of the object will change
-          its position regarding other objects, "0" being on top. </li>
+        <li>SortKey: By default, all database objects on the same level have "0" as a sort key and
+          are thus sorted alphabetically. Defining a "SortKey" in the Passport data of the database
+          object will change its position regarding other objects, "0" being on top. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_hyv_s3y_bv">
-        <li>ID: Displays the ID of the object, which is generated automatically by the BTS. It
-          cannot be changed.</li>
+        <li>ID: Displays the ID of the database object, which is generated automatically by the BTS.
+          It cannot be changed.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_rdg_53y_bv">
-        <li>Author: Displays the author (creator) of the object. </li>
+        <li>Author: Displays the author (creator) of the database object. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_hwq_v3y_bv">
-        <li>Date: Displays the date of creation of the object.</li>
+        <li>Date: Displays the date of creation of the database object.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_izm_sjy_bv">
-        <li>Visibility: Define who can see the object or Text (public, project, group, reader,
-          all_authenticated). See also <xref href="user_roles.dita">User Roles
-          Description</xref>.</li>
+        <li>Visibility: Define who can see the database object or Text (public, project, group,
+          reader, all_authenticated). See also <xref href="user_roles.dita">User Roles
+            Description</xref>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_n3f_5jy_bv">
-        <li>Review State: Enter or edit the review state of the object or text (published, reviewed,
-          awaiting-update, awaiting-review, new, in progress, transformed awaiting update). The
-          default review state is "published". Additional "review states" can be created /added by
-          administrator in "Preferences / Edit Configuration/Revision Status"</li>
+        <li>Review State: Enter or edit the review state of the database object or text (published,
+          reviewed, awaiting-update, awaiting-review, new, in progress, transformed awaiting
+          update). The default review state is "published". Additional "review states" can be
+          created /added by administrator in "Preferences / Edit Configuration/Revision Status"</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ixf_zjy_bv">
         <li>Project and Corpus: Clicking on <image href="Images/icons/full/icon16/preferences.png"
-            id="image_ohg_55x_ls"/> you can assign the object or text to another project / corpus.
+            id="image_ohg_55x_ls"/> you can assign the database object to another project / corpus.
           You can only move the corpora or projects for which you have rights. Note that only the
           physical position of an object will change (displayed in the Corpus Navigator in the
           square brackets), not its position in the hierarchical tree of objects. (If you want to

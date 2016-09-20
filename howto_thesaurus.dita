@@ -6,10 +6,10 @@
     <p>This option is available to the user with researcher privileges for the thesaurus! If you
       have a new thesaurus entry, which is not yet present in the BTS thesaurus list, please send a
       proposal to the BTS team via E-mail: aegypt1@bbaw.de.</p>
-    <p>The main function of the Thesaurus is to provide standardized vocabulary for the text
-      metadata, e.g. dating, location or material. For a detailed description of the individual
-      elements of the Thesaurus view see <xref href="oberflaeche_thesaurus.dita#concept_w5m_g4d_4r"
-        >Thesaurus</xref>.</p>
+    <p>The main function of the Thesaurus is to provide controlled vocabulary for the metadata of
+      texts, (physical) objects, lemma entries and thesauaus entries, e.g. dating, location or
+      material. For a detailed description of the individual elements of the Thesaurus view see
+        <xref href="oberflaeche_thesaurus.dita#concept_w5m_g4d_4r">Thesaurus</xref>.</p>
     <p>
       <ol id="ol_sb3_xvx_st">
         <li>Open the Thesaurus view by clicking the <image href="Images/icons/full/icon16/thss.png"

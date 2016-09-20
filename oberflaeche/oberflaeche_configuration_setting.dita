@@ -3,17 +3,17 @@
 <concept id="concept_fvw_qld_cs">
  <title>Edit configuration</title>
  <conbody>
-  <p>This function is available to the user with global administrator privileges only.</p>
-  <p>To open the configuration window, select "Edit Configuration" from the drop-down menu of the
-   menu bar. </p>
-  <p>A "Currently Active Configuration" by default is "Altägyptisches Wörterbuch (AAEW)", but if
+  <p>This function is available to the user with administrator privileges only.</p>
+  <p>To open the configuration window, select "Preferences > Edit Configuration" from the drop-down
+   menu of the menu bar. </p>
+  <p>The "Currently Active Configuration" by default is "Altägyptisches Wörterbuch (AAEW)", but if
    other configurations should be available, they will appear in the drop-down menu above.</p>
   <p>A field below shows all available BTS configurations. Expand the "Altägyptisches Wörterbuch
    (AAEW)", following entries will be displayed:</p>
   <p>
    <ol id="ol_zm4_sld_cs">
-    <li>Certainty: upon expanding, three values are displayed: certain, probable or uncertain. No
-     Owner Objects selected.</li>
+    <li>Certainty: three values are displayed: certain, probable or uncertain. No Owner Objects
+     selected.</li>
     <li>coreExpressions</li>
     <li>Custom-Entries</li>
     <li>Identifiers</li>
@@ -22,7 +22,7 @@
     <li>Project-Phase</li>
     <li>Relations</li>
     <li>Revision-Status</li>
-    <li>Visibility<i> </i></li>
+    <li>Visibility</li>
    </ol>
   </p>
  </conbody>

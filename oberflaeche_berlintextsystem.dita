@@ -3,7 +3,6 @@
 <topic id="topic_v4v_ttn_y5">
   <title>Berlin Text System General</title>
   <body>
-    <p></p>
     <p>Expanding the "Berlin Text System General" will present the following options: </p>
     <p><b>Abstract Text Settings</b></p>
     <p><b>Configuration</b></p>
@@ -11,10 +10,11 @@
       to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
     <p><b>Corpus Settings</b></p>
     <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
-      appear in the active corpora list on the right will not be accessed by BTS. To activate a
-      corpus select it in the list on the left and then click "Add". To remove the corpus from your
-      working list, select it and click Remove. Add all / Remove all will add or remove all
-      available corpora to or from the active corpora list. </p>
+      appear in the active corpora list on the right will not be accessed by BTS (this includes
+      diaplay in the Navigator tree and search querries). To activate a corpus select it in the list
+      on the left and then click "Add". To remove the corpus from your working list, select it and
+      click Remove. Add all / Remove all will add or remove all available corpora to or from the
+      active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
       activated all new text or database objects created in the "Corpus Navigator" window will be
       physically saved in the selected corpus. For example in the Corpus Navigator you have selected

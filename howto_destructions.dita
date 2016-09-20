@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_qyr_vyc_cs">
- <title>Destructions and omissions</title>
+ <title>Textual critisism</title>
  <conbody>
   <p><b>Shading (a complete destruction of a hieroglyph)</b></p>
   <p>A complete destruction of the hieroglyphs (when the sign cannot be recognized anymore) is not
@@ -25,7 +25,5 @@
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/L%C3%BCcke.png"
     id="image_byq_xdy_st"/>
    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
-  <?oxy_custom_end?>
-  <p>NOTE: Mistakes made in antiquity are not to be reproduced as such in the encoding!</p>
  </conbody>
 </concept>
