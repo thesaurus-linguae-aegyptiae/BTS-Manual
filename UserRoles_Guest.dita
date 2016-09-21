@@ -5,13 +5,11 @@
   <body>
     <p>Guests can read data but are not allowed to create new database objects, edit or delete
       anything.</p>
-    <p>If a guest is given no status (Reader/Updater), he or she will not be able to see the
-      database objects in the corpus with a visibility status: Reader, Group, or Project. However
-      the entire corpora with one of the statuses will still be displayed for her/him and the
-      database objects within it will be viewable. ??Das verstehe ich nicht??</p>
-    <p>Even if a guest has not been given such status for a particular corpus, they will still be
+    <p>If given no status (Reader/Updater), a guest will not be able to see the database objects in
+      the corpus with a visibility status: Reader, Group, or Project.</p>
+    <p>Even if guests have not been given such status for a particular corpus, they will still be
       able to view its content.</p>
-    <p>A guest may view the lemma and the thesaurus views.
+    <p>Guests may view the lemma and the thesaurus views.
       <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
     <?oxy_custom_end?>
   </body>

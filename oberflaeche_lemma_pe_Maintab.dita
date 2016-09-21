@@ -6,71 +6,76 @@
     <p>The Main tab contains general information about the lemma entry.</p>
     <p>
       <ul id="ul_pdq_zkf_cv">
-        <li>Name: Enter or change the name (i.e. the transliteration) of the lemma.</li>
+        <li><b>Name:</b> Enter or change the name (i.e. the transliteration) of the lemma.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fwj_blf_cv">
-        <li>Type and Subtype: Choose a type and subtype (e.g. substantive, adjective etc.).</li>
+        <li><b>Type and Subtype:</b> Choose a type and subtype (e.g. substantive, adjective
+          etc.).</li>
       </ul>
     </p>
     <p>
       <ul id="ul_mwv_clf_cv">
-        <li>SortKey: By default, all lemmata on the same level have "0" as a sort key and are thus
-          sorted alphabetically. Defining a "SortKey" in the Passport data of the object will change
-          its position regarding other databse objects, "0" being on top.</li>
+        <li><b>SortKey:</b> By default, all lemmata on the same level have "0" as a sort key and are
+          thus sorted alphabetically. Defining a "SortKey" in the Passport data of the object will
+          change its position regarding other databse objects, "0" being on top.<p>NOTE: If your
+            database object is in a polyhierarchical position, changes in the sortkey apply to all
+            relations.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_rjx_dlf_cv">
-        <li>ID: Displays the ID of the lemma, which is generated automatically by the BTS. It cannot
-          be changed.</li>
+        <li><b>ID:</b> Displays the ID of the lemma, which is generated automatically by the BTS. It
+          cannot be changed.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_sjn_2lf_cv">
-        <li>Author: Displays the author (creator) of the of a lemma. </li>
+        <li><b>Author:</b> Displays the author (creator) of the of a lemma. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_kyw_flf_cv">
-        <li>Date: Display the date of creation of the lemma. </li>
+        <li><b>Date:</b> Display the date of creation of the lemma. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_v5l_jlf_cv">
-        <li>Visibility: Define who can see the lemma (public, project, group, reader,
+        <li><b>Visibility:</b> Define who can see the lemma (public, project, group, reader,
           all_authenticated). See also <xref href="user_roles.dita">User Roles
           Description</xref>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ffg_klf_cv">
-        <li>Review State: Enter or edit the Review state of the lemma (published, reviewed,
-          awaiting-update, awaiting-review, new etc.). Use only four review states: published,
-          published-awaiting-review, published-obsolete, obsolete. Published means the lemma is
-          certain and confirmed. Published-awaiting-review means the lemma is not yet confirmed.
-          Obsolete means the lemma is obsolete and will not be displayed in publication.
-          Published-obsolete means the lemma is obsolete and will be displayed in publication.</li>
+        <li><b>Review State:</b> Enter or edit the Review state of the lemma (published, reviewed,
+          awaiting-update, awaiting-review, new, transformed awaiting update). Use only four review
+          states: published, published-awaiting-review, published-obsolete, obsolete. Published
+          means the lemma is certain and confirmed. Published-awaiting-review means the lemma is not
+          yet confirmed. Obsolete means the lemma is obsolete and will not be displayed in
+          publication. Published-obsolete means the lemma is obsolete and will be displayed in
+          publication.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_qf5_llf_cv">
-        <li>Project: Move the lemma to another project. </li>
-      </ul>
-    </p>
-    <p>
-      <ul id="ul_awr_mlf_cv">
-        <li>Corpus: Displays the name of the corpus. Click <image
-            href="Images/icons/full/icon16/preferences.png" id="image_jdd_xxh_sr"/> to move the
-          lemma between word lists.</li>
+        <li><b>Project and Corpus:</b> The field displays the name of the project or corpus,
+          respectively. Clicking on <image href="Images/icons/full/icon16/preferences.png"
+            id="image_ohg_55x_ls"/> you can move the database object to another project / corpus.
+          You can only move the corpora or projects for which you have rights. Note that only the
+          physical position of an object will change (displayed in the Navigator in the square
+          brackets), not its position in the hierarchical tree. (If you want to change the position
+          of an item in the hierarchical tree then you have to change the relation of your lemma.
+          See <xref href="oberflaeche_lemma_pe_relationstab.dita">Relations Tab</xref>.). </li>
       </ul>
     </p>
     <p>
       <ul id="ul_afw_nlf_cv">
-        <li>History: Click to see all changes of the selected lemma. Information includes the
-          username of the editor and the date. In order for the history information not to be
-          displayed, change to another lemma and then back.</li>
+        <li><b>History:</b> Click to see all changes of the selected lemma. Information includes the
+          username of the editor and the date. To close the history information, change to another
+          lemma and then back. To restore a previous version, use the <xref
+            href="oberflaeche_lemmanavigator.dita">Open Revision History</xref> dialogue.</li>
       </ul>
     </p>
   </body>

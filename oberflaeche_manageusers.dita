@@ -21,7 +21,7 @@
       Create New User. A username and a password are to be entered while creating a new user. In the
       third section below there is a drop-down menu, where you can choose existing users and add
       them to the group by clicking on the Add user to Group.</p>
-    <p>Clicking on a username allows to modify his/her information on the right side of the window.
+    <p>Clicking on a username allows to modify the user information on the right side of the window.
       It contains such fields as ID of User, First name and Surname (both required fields marked
       with *), E-mail, Website, Description, Web Description, Siglum and Comment. In the ID field a
       username given earlier appears, but cannot be edited anymore. The check box "User is Database
@@ -33,7 +33,7 @@
     <p>Adds a new group to your list of groups. </p>
     <p><image href="Images/icons/full/obj16/delete.png" id="image_tml_hxk_4r"/>
       <u>Delete</u></p>
-    <p>Deletes the selected user and moves him/her into the tab <image
+    <p>Deletes and moves the selected user into the tab <image
         href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r"/>"Bin". </p>
     <p><image href="Images/icons/full/icon16/undo.png" id="image_sjs_sxk_4r"/>
       <u>Undo</u></p>

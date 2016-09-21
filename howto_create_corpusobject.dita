@@ -30,8 +30,8 @@
           Editor (The "Name" input field will appear red). You can actually start working without
           naming your object and name it later. Until it is named, the object will appear in the
           corpora tree with the default name "BTSTC Object".</li>
-        <li>Define the Type and, if applicable, also the Subtype of the TCObject. Provide as much
-          information as possible by filling out the tabs of the <xref
+        <li>Define the Type of the TCObject (There are no Subtypes, this not to be used). Provide as
+          much information as possible by filling out the tabs of the <xref
             href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>. The different types
           are the following:<p>
             <ul id="ul_c1c_qgp_3x">
@@ -44,13 +44,13 @@
               <li><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x"/>
                 <b>Group:</b> A Group defines a number of physical objects belonging together on
                 geographic reasons (e.g. the graves of a specific cemetery like the Eastern Cemetery
-                at Gisa).</li>
+                at Gisa or an papyrus archive like the Abusir Papyri).</li>
             </ul>
             <ul id="ul_gqd_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/arrangement.png"
                   id="image_isy_c3p_3x"/>
                 <b>Arrangement:</b> An arrangement defines a closed association of finds (e.g. the
-                objects from the tomb of Tutankhamun).</li>
+                objects from the tomb of Tutankhamun or the objects from a founding deposit).</li>
             </ul>
             <ul id="ul_q3f_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/scene.png" id="image_hjy_t5p_3x"/>

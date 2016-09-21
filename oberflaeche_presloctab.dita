@@ -50,8 +50,11 @@
    <ul id="ul_od4_rmy_bv">
     <li><b>is_present_location:</b> Select this checkbox, if the selected location is the museum or
      collection where the object is stored at present.</li>
+   </ul>
+   <ul id="ul_ctx_4md_jx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
-     <b>Add Entry Group:</b> Add another "location" section to enter a previous location.</li>
+     <b>Add Entry Group:</b> Add another "location" section to enter a previous location, e.g. if
+     the object was formerly stored in another museum.</li>
    </ul>
    <ul id="ul_h1s_vxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
