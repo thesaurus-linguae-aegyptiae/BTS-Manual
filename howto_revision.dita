@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ijb_wr4_kx">
+  <title>Revision History / Conflict Dialogue</title>
+  <body>
+    <p><b>Revision History</b></p>
+    <p>By right-click on a database object or by clicking "edit" > "Open Revision History" <image
+        href="Images/icons/full/icon16/history.png" id="image_cck_fs4_kx"/> in the menu bar you can
+      open the revision history of th selected database object in order to compare different
+      versions and to restore a previous version.</p>
+    <p>The Revision History window is divided into two parts. The left side displays the master
+      version, i.e. the current version. The right side shows the auto-saved versions ("Select
+      Compare Version").</p>
+    <p>In the lower part there are the respective tabs, e.g. Passport Editor and Egyptian Text
+      Editor for a Text. Select a version by left-click and compare it to the current version. You
+      can navigate between the tabs to see the changes made in the respective versions.</p>
+    <p>NOTE: The topmost version on the right is the latest.</p>
+    <p>To remove a conflicting version, right-click it in the list and apply "Replace current with
+      Selected Revision".</p>
+    <p>Close the Revision History window by clicking "Close".</p>
+    <p><b>Conflict Dialog</b></p>
+    <p>If two users work simultanously on one database object, it is possible, that they produce
+      different versions at the same time. This is indicated by the icon <image
+        href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in the Navigator
+      tree. The conflict dialog solves the problem, which version is the preferable one.</p>
+    <p>The window is divided into two parts (as for the revision history). The left side displays
+      the current version. The right side shows the conflicting versions.</p>
+    <p>In the lower part there are the respective tabs, e.g. Passport Editor and Egyptian Text
+      Editor for a Text. Select a conflicting version by left-click and compare it to the current
+      version. You can navigate between the tabs to see the changes made in the respective versions.  </p>
+    <p>To remove a conflicting version, right-click it in the list and apply "Remove Conflicting
+      Revision".</p>
+    <p>NOTE: Due to technical reasons it might take several attemps to get the "Remove Conflicting
+      Revision" button.</p>
+    <p>Apply your changes by clicking "Save and Close" or reject them by clicking "Cancel".</p>
+  </body>
+</topic>

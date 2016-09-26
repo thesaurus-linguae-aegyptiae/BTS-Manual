@@ -3,10 +3,10 @@
 <topic id="topic_dh2_vln_y5">
   <title>Manage users and user groups</title>
   <body>
+    <p>This function is available to the user with global administrator privileges only. </p>
     <p>To open the user management select "Open User Manager" from the drop-down menu "Preferences"
       of the menu bar. Clicking on this menu entry opens the window "User Management". Select the
       tab: "Manage Users and User Groups".</p>
-    <p>NOTE: This function is available to the user with global administrator privileges only. </p>
     <p>The tab Manage Users and User Groups  offers the opportunity to create new accounts for users
       and add users to project groups, which have a specific set of rights in the editing
       process.</p>
