@@ -16,8 +16,8 @@
     <p><image href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/>
       <u>Save</u>
     </p>
-    <p>Save the changes you made in the currently active database object. As long as you did not
-      work in the database object it will be inactive (grey) and after saving it will return to the
+    <p>Save the changes you made in the currently active window or tab. As long as you did not work
+      in the database object it will be inactive (grey) and after saving it will return to the
       inactive state. If you attempt to close the program the window will ask you to save your
       changes unless you already have done a save before. </p>
     <p>NOTE: There is no auto-save in BTS, but the program will save your file when you click on
@@ -68,7 +68,7 @@
     <p>To the right of the <image href="Images/icons/full/icon16/corpus.png" id="image_vrb_v4r_4r"/>
       you can see your main working corpus. At startup "No Corpus" is displayed. To set the corpus
       click on the <image href="Images/icons/full/icon16/preferences.png" id="image_tsm_5q1_sr"/>
-      Preferences icon, which will forward you to the <xref href="oberflaeche_berlintextsystem.dita"
+      Preferences icon, which will forward you to the <xref href="ui_berlintextsystem.dita"
         >Corpus Settings</xref>.</p>
   </body>
 </topic>

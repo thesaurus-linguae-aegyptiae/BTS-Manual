@@ -21,18 +21,18 @@
             specific Text Corpus Object - not vice versa (see <xref href="intro_ui_glossary.dita"
               >Glossary</xref> in the Chapter Introduction).</p><p>NOTE: Currently newly created
             database objects will be saved in your main working corpus (as selected in the <xref
-              href="oberflaeche_berlintextsystem.dita">preferences</xref>) and not in the selected
+              href="ui_berlintextsystem.dita">preferences</xref>) and not in the selected
             corpus if those two differ. New database objects will appear in the selected corpus, but
             will not be saved there. The appearance is dependent on the relations of the database
             objects, not on their physical storage.</p></li>
         <li>Name your Text Corpus Object in the <xref
-            href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main Tab </xref> of the Passport
+            href="ui_maintab.dita#concept_isp_k5f_yr">Main Tab </xref> of the Passport
           Editor (The "Name" input field will appear red). You can actually start working without
           naming your object and name it later. Until it is named, the object will appear in the
           corpora tree with the default name "BTSTC Object".</li>
         <li>Define the Type of the TCObject (There are no Subtypes, this not to be used). Provide as
           much information as possible by filling out the tabs of the <xref
-            href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>. The different types
+            href="ui_passporteditor.dita">Passport Data Editor</xref>. The different types
           are the following:<p>
             <ul id="ul_c1c_qgp_3x">
               <li><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x"/>
@@ -86,13 +86,13 @@
           Text" in the Corpus Navigator toolbar. A "child"-element will be added to the selected
           database object. The default title "BTS Text" will be attributed to it (in order to see
           it, you might have to open the parent element).</li>
-        <li>Name your text in the <xref href="oberflaeche_maintab.dita#concept_isp_k5f_yr">Main
+        <li>Name your text in the <xref href="ui_maintab.dita#concept_isp_k5f_yr">Main
             Tab</xref> of the Passport Editor (The "Name" input field will appear red until it is
           filled out). You can actually start working without naming your text and name it later.
           Until then the default name will be "BTS Text".</li>
         <li>As for the Text Corpus Object define the Type and, if applicable, also the Subtype of
           the datase object. Provide as much information as possible by filling out the tabs of the
-            <xref href="oberflaeche_passporteditor.dita">Passport Data Editor</xref>.<p>
+            <xref href="ui_passporteditor.dita">Passport Data Editor</xref>.<p>
             <ul id="ul_hp1_jgp_3x">
               <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
                 <b>Text:</b> A Text is defined as a coherent entity. Your physical object might
@@ -111,10 +111,31 @@
           </p></li>
       </ol>
     </p>
+    <p><b>Defining the visibility</b></p>
+    <p>Define in the main tab of the <xref href="howto_passport.dita">passport editor</xref> the
+      visibility of your database object. See also <xref href="user_roles.dita">User Roles
+        Description</xref>. A default visibilty can be defined in the <xref
+        href="ui_berlintextsystem.dita">Preferences</xref>.</p>
+    <p>
+      <ul id="ul_vrb_2tw_kx">
+        <li>reader</li>
+        <li>group</li>
+        <li>project</li>
+        <li>public</li>
+        <li>all_authenticated</li>
+      </ul>
+    </p>
+    <p>NOTE: The default visibilty applies to all newly created database objects, also including
+      annotations, rubra, comments etc. Currenly there is no feature available to apply changes in
+      the visibilty to child elements. That means, if your default visibility is "reader", you have
+      to change all TCObjects, Texts, annotations, rubra etc. to "public" manually once you want to
+      publish your text in the TLA.</p>
     <p><b>Defining the review state</b></p>
     <p>The display of the icon of your Text Corpus Objects and Texts differs according to the review
       state you have selected in the main tab of the <xref href="howto_passport.dita">passport
-        editor</xref>. The icons mentioned above will get one of the following additions:</p>
+        editor</xref>. A default review state can be defined in the <xref
+        href="ui_berlintextsystem.dita">Preferences</xref>. The icons mentioned above will get one
+      of the following additions:</p>
     <p>
       <ul id="ul_n52_nhq_3x">
         <li><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x"/> new</li>
@@ -123,9 +144,14 @@
         <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"
           /> awaiting update</li>
         <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/>
-          reviewd / published</li>
+          reviewed / published</li>
       </ul>
     </p>
+    <p>NOTE: As for the visibility, the default review state applies to all newly created database
+      objects, also including annotations, rubra, comments etc. Currenly there is no feature
+      available to apply changes in the review state to child elements. That means, if your default
+      review state is "new", you have to change all TCObjects, Texts, annotations, rubra etc. to
+      "published" manually once you want to publish your text in the TLA.</p>
     <p><b>Moving database objects (TCObjects / Texts)</b></p>
     <p>To change a physical location of a database object (marked in square brackets aside the name)
       from one project or corpus to another, right click the chosen item and select "Move among
@@ -136,7 +162,7 @@
       project or corpus where this Text Corpus Object or Text is actually saved is given in brackets
       after the name of the Text Corpus Object or of the Text (in Grey). To change the position in
       the tree as well, it is necessary to change the relation in the <xref
-        href="oberflaeche_relationstab.dita">"Relations" tab</xref> of the passport editor. </p>
+        href="ui_relationstab.dita">"Relations" tab</xref> of the passport editor. </p>
     <p>NOTE: If you have accidentliy created an database object within a wrong postion and you do
       not have the rights to move it, please contact the administrator in Berlin:
       aegypt1@bbaw.de.</p>

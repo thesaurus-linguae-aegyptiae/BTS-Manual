@@ -9,12 +9,12 @@
     <p>The main function of the Thesaurus is to provide controlled vocabulary for the metadata of
       texts, (physical) objects, lemma entries and thesauaus entries, e.g. dating, location or
       material. For a detailed description of the individual elements of the Thesaurus view see
-        <xref href="oberflaeche_thesaurus.dita#concept_w5m_g4d_4r">Thesaurus</xref>.</p>
+        <xref href="ui_thesaurus.dita#concept_w5m_g4d_4r">Thesaurus</xref>.</p>
     <p>
       <ol id="ol_sb3_xvx_st">
         <li>Open the Thesaurus view by clicking the <image href="Images/icons/full/icon16/thss.png"
             id="image_fck_tgj_cs"/> "Thesaurus" icon in the <xref
-            href="oberflaeche_toolbar_e3.dita#topic_ejn_sdy_lr">Toolbar</xref>.</li>
+            href="ui_toolbar_e3.dita#topic_ejn_sdy_lr">Toolbar</xref>.</li>
         <li>In the Thesaurus Navigator on the left, click either <image
             href="Images/icons/full/icon16/thss_add.png" id="image_vbs_52k_qr"/> "Add Thesaurus Root
           Entry" or <image href="Images/icons/full/icon16/ths-add.png" id="image_v3d_w2k_qr"/> "Add
@@ -28,7 +28,7 @@
           and review status. </li>
         <li>Now fill in all availabe metadata into the Passport Editor. For a detailed description
           of the individual tabs and elements of the passport editor of the Thesaurus View, see
-            <xref href="oberflaeche_thesaurs_passporteditor.dita#concept_wpd_hqd_4r">Passport
+            <xref href="ui_thesaurus_passporteditor.dita#concept_wpd_hqd_4r">Passport
             Editor</xref>.</li>
         <li>To add an annotation or a comment to a Thesaurus entry, click <image
             href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add

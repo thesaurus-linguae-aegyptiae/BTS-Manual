@@ -4,15 +4,15 @@
   <title>Introduction to BTS User Interface</title>
   <body>
     <p>This chapter provides the brief introduction to the BTS User Interface (UI). For a detailled
-      description see the chapter <xref href="oberflaeche_e1.dita">BTS User Interface</xref> below.</p>
+      description see the chapter <xref href="ui_bts.dita">BTS User Interface</xref> below.</p>
     <p>The BTS window is split into four major sections:</p>
     <p>
       <ul id="ul_yxf_j2z_4t">
-        <li><xref href="oberflaeche_menuleiste.dita">Menu bar</xref></li>
-        <li><xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>
+        <li><xref href="ui_menubar.dita">Menu bar</xref></li>
+        <li><xref href="ui_toolbar_e3.dita">Toolbar</xref>
         </li>
-        <li><xref href="oberflaeche_workspace.dita">Workspace</xref></li>
-        <li><xref href="oberflaeche_statusleiste_e8.dita#topic_azx_hrl_mr">Status bar</xref></li>
+        <li><xref href="ui_workspace.dita">Workspace</xref></li>
+        <li><xref href="ui_statusbar.dita#topic_azx_hrl_mr">Status bar</xref></li>
       </ul>
     </p>
     <p>The Menu bar and the Toolbar are located at the top of the program window. At the bottom of

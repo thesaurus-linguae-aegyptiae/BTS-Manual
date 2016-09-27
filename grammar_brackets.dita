@@ -86,7 +86,7 @@
      system will do this automatically, but there are cases where that does not work. Pressing
      "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
      recurring elements you also can define a template in the  <xref
-      href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
+      href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
    </ul>
   </p>
   <ul id="ul_omg_fmy_2x">

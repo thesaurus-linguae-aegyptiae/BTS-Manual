@@ -4,7 +4,7 @@
  <title>1. Transliteration</title>
  <conbody>
   <p>To enter or edit the transliteration of your texts, click in the "Transliteration" tab of the
-        <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
+        <xref href="ui_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
       Text Corpus view.</p>
   <p/>
     <p><b>Segmentation of a text</b></p>
@@ -154,12 +154,12 @@
     <p><b>Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. Note that
       you can create your own templates (<xref
-        href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
+        href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
       the templates by right-clicking in Text Editor and choosing "Content Assist" or by pressing
       "CRTL+Spacebar". Depending on the position of the cursor (within a sentence / word or outside
       the sentence marked by §§) you will get a different set of templates to choose from. This can
       be influenced by changing the "Context" of your templates (see <xref
-        href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>).</p>
+        href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>).</p>
     <p><b>Copy&amp;Paste functions</b></p>
     <p>BTS supports copy&amp;paste within the same text as well as between diffrent texts.</p>
     <p>

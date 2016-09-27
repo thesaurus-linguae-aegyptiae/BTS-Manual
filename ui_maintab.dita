@@ -68,7 +68,7 @@
           physical position of an object will change (displayed in the Corpus Navigator in the
           square brackets), not its position in the hierarchical tree. (If you want to change the
           position of an item in the hierarchical tree then you have to change the relation of your
-          text or object. See <xref href="oberflaeche_relationstab.dita#concept_qvz_mwf_yr"
+          text or object. See <xref href="ui_relationstab.dita#concept_qvz_mwf_yr"
             >Relations Tab</xref>.)</li>
       </ul>
     </p>
@@ -77,7 +77,7 @@
         <li><b>History:</b> Click to see all changes of the selected database object. Information
           includes the username of the editor and the date. To close the history information, change
           to another "Corpus Navigator" object and then back. To restore a previous version, use the
-            <xref href="oberflaeche_corpusnavigator_e9.dita">Open Revision History</xref>
+            <xref href="ui_corpusnavigator_e9.dita">Open Revision History</xref>
           dialogue.</li>
       </ul>
     </p>

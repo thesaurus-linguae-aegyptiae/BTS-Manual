@@ -5,7 +5,7 @@
  <conbody>
         <p>The Thesaurus view can be activated by clicking the <image
                 href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr"/> "Thesaurus" icon in
-            the <xref href="oberflaeche_toolbar_e3.dita">Toolbar</xref>. A Thesaurus compiles a
+            the <xref href="ui_toolbar_e3.dita">Toolbar</xref>. A Thesaurus compiles a
             controlled vocabulary, which is used for the metadata of the database objects like date,
             location, provenance, etc. All terms of a thesaurus reflect a semantic network of
             concepts including relationships between synonyms, broader and narrower (parent/child)

@@ -28,7 +28,7 @@
   <p>The port number used by the Couch DB to communicate with the server should be shared in the
    firewall of your PC. For the port number see <xref href="intro_install.dita">Install BTS</xref>. </p>
   <p><b>Internet access</b></p>
-  <p>BTS can be used online and offline, i.e. you do not need permanent internet access. You ony
+  <p>BTS can be used online and offline, i.e. you do not need permanent internet access. You only
    need access to download the wordlist and other data during the installation process and to
    sychronize your local data with the server. This process runs automatically.</p>
  </conbody>

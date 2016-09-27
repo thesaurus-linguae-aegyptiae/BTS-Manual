@@ -67,7 +67,7 @@
           physical position of an object will change (displayed in the Navigator in the square
           brackets), not its position in the hierarchical tree. (If you want to change the position
           of an item in the hierarchical tree then you have to change the relation of your lemma.
-          See <xref href="oberflaeche_lemma_pe_relationstab.dita">Relations Tab</xref>.). </li>
+          See <xref href="ui_lemma_relationstab.dita">Relations Tab</xref>.). </li>
       </ul>
     </p>
     <p>
@@ -75,7 +75,7 @@
         <li><b>History:</b> Click to see all changes of the selected lemma. Information includes the
           username of the editor and the date. To close the history information, change to another
           lemma and then back. To restore a previous version, use the <xref
-            href="oberflaeche_lemmanavigator.dita">Open Revision History</xref> dialogue.</li>
+            href="ui_lemmanavigator.dita">Open Revision History</xref> dialogue.</li>
       </ul>
     </p>
   </body>

@@ -13,8 +13,14 @@
         <li>You can save manually by clicking buttons <image
             href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/> or <image
             href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r"/> in the toolbar. See
-            <xref href="oberflaeche_toolbar_e3.dita#topic_ejn_sdy_lr">Toolbar</xref> for more
-          information.</li>
+            <xref href="ui_toolbar_e3.dita#topic_ejn_sdy_lr">Toolbar</xref> for more information.<p>
+            <ul id="ul_vxg_zdw_kx">
+              <li><image href="Images/icons/full/icon16/save-all.png" id="image_glm_zdw_kx"/> saves
+                the changes in the currenly selected window or tab.</li>
+              <li><image href="Images/icons/full/icon16/save.png" id="image_g5y_zdw_kx"/> saves all
+                changes made in the current session.</li>
+            </ul>
+          </p></li>
         <li>If you have not saved your data before leaving the program, clicking on "Exit BTS" or
           "Restart BTS" the software will trigger the warning: "Select the parts to save" . </li>
       </ul>

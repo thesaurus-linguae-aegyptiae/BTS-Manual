@@ -8,23 +8,23 @@
       to the BTS team via E-mail: aegypt1@bbaw.de.</p>
     <p>
       <ol id="ol_v31_3nw_ns">
-        <li>To create a new lemma, open the <xref href="oberflaeche_lemmanaview.dita">Lemma
+        <li>To create a new lemma, open the <xref href="ui_lemmanaview.dita">Lemma
             View</xref>. On the left you will see the <xref
-            href="oberflaeche_lemmanavigator.dita#concept_pgn_j4d_4r">Lemma Navigator</xref>: a
+            href="ui_lemmanavigator.dita#concept_pgn_j4d_4r">Lemma Navigator</xref>: a
           list of available lemmata, grouped alphabetically.</li>
         <li>Click on <image href="Images/icons/full/icon16/lemmata.png" id="image_n2f_2zw_dx"/> in
           the Lemma Navigator toolbar.</li>
-        <li>In the <xref href="oberflaeche_lemma_lemmaeditor.dita#concept_atc_z4d_4r">Lemma
+        <li>In the <xref href="ui_lemma_lemmaeditor.dita#concept_atc_z4d_4r">Lemma
             Editor</xref> add a transliteration for your lemma. </li>
         <li>In the text-input field below you may also add hieroglyphs. In order to do that, open
-          the <xref href="oberflaeche_htw.dita#concept_qmv_p2b_sr">Hieroglyph Type Writer
+          the <xref href="ui_htw.dita#concept_qmv_p2b_sr">Hieroglyph Type Writer
             (HTW)</xref> and follow the instructions on how to enter hieroglyphs for a text.</li>
         <li>In the text-input field below, enter a translation for your lemma (choosing the language
           of your translation beforehand).</li>
         <li>Add information on transliteration, part of speech, review state in the main tab of the
           Passport Editor.</li>
         <li>Add a bibliographical reference in the <xref
-            href="oberflaeche_lemma_passporteditor.dita#concept_ws4_2pd_4r">Passport
+            href="ui_lemma_passporteditor.dita#concept_ws4_2pd_4r">Passport
           Editor</xref>.</li>
         <li>To add an annotation or a comment to a lemma, click <image
             href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add

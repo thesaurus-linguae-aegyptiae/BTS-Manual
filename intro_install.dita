@@ -74,7 +74,7 @@
             program again. A small window appears, where you have to log in with your user name and
             password. You can activate "Remember me", so BTS will not ask you for user name and
             password again. You can change and deactivate this function in the <xref
-              href="oberflaeche_berlintextsystem.dita">preferences</xref>.</p></li>
+              href="ui_berlintextsystem.dita">preferences</xref>.</p></li>
         <li><u>Index data</u><p>Last but not least. All data imported from the server, must be
             indexed. Indexing enabels the search, as the query is not done in the database (which
             would take time), but in the document indexes.</p>In the upper left corner of the

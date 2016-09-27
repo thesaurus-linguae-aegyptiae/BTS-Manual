@@ -9,7 +9,7 @@
    to one minute the first time you click it after installing BTS. Thereafter the preview works
    faster. </p>
   <p><b>Tools</b></p>
-  <p>The Lemma Navigator's toolbar includes the <xref href="oberflaeche_funktionen_e5.dita">standard
+  <p>The Lemma Navigator's toolbar includes the <xref href="ui_commonfeatures.dita">standard
     tools</xref> plus the following additional ones (from left to right):</p>
   <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ncd_mtb_qr"/> Add Lemma Root
    Entry: This adds a new lemma root entry. Entering the name of the lemma will automatically
@@ -69,15 +69,15 @@
   <p>
    <ul id="ul_v2q_whf_cv">
     <li><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr"/> Edit
-     Updaters/Readers: Assign <xref href="oberflaeche_preferences.dita">user roles</xref> for Lemma
-     entries (see <xref href="oberflaeche_edit.dita">Menu bar > Edit</xref>). </li>
+     Updaters/Readers: Assign <xref href="ui_preferences.dita">user roles</xref> for Lemma
+     entries (see <xref href="ui_edit.dita">Menu bar > Edit</xref>). </li>
    </ul>
   </p>
   <p>
    <ul id="ul_lkq_13f_cv">
     <li>Open Conflict Dialog: If two users work simultanously on a database object, it is possible,
      that they produce different versions at the same time. The conflict dialog solves the problem,
-     which version is the preferable one (see <xref href="oberflaeche_edit.dita">Menu bar >
+     which version is the preferable one (see <xref href="ui_edit.dita">Menu bar >
       Edit</xref>).</li>
    </ul>
   </p>
@@ -85,7 +85,7 @@
    <ul id="ul_gnm_b3f_cv">
     <li><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/> Open Revision
      History: Opens the history of the changes made for the selected lemma (see <xref
-      href="oberflaeche_edit.dita">Menu bar > Edit</xref>).</li>
+      href="ui_edit.dita">Menu bar > Edit</xref>).</li>
    </ul>
   </p>
   <p>

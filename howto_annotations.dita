@@ -63,7 +63,7 @@
     <p>You can also use these functions via the drop-down menu that appears when you click on the
       triangle to the right of the annotation symbols.</p>
     <p>The existing annotations are displayed in the <xref
-        href="oberflaeche_annotationsfenster.dita">Annotation tab</xref> on the right. A new
+        href="ui_annotations.dita">Annotation tab</xref> on the right. A new
       annotation will appear at the bottom of this list. With the arrow on the right you can expand
       the annotation and see more information as well as further editing options. </p>
     <p>You can delete the annotation by selecting it and clicking <image

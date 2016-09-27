@@ -12,7 +12,7 @@
   <p>Make sure to have selected the right language of your translation in the drop-down menu on the
             right (<image href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/> : de,
             en, fr, es, ru). The default language of your choice can be set up in the <xref
-                href="oberflaeche_preferences.dita">Preferences</xref>. In the standard view only
+                href="ui_preferences.dita">Preferences</xref>. In the standard view only
             one line will be visible.</p>
         <p>Extend the text editor window and scroll up and down if the sentence contains more than
             one line. The complete translation of the text will appear on the right of your BTS

@@ -69,7 +69,7 @@
                               brackets), not its position in the hierarchical tree. (If you want to
                               change the position of an item in the hierarchical tree then you have
                               to change the relation of your thesaurus entry. See <xref
-                                    href="thesaurus_passport_relations.dita">Relations Tab</xref>.). </li>
+                                    href="ui_thesaurus_relations.dita">Relations Tab</xref>.). </li>
                   </ul>
             </p>
         <p>
@@ -78,7 +78,7 @@
                               Information includes the username of the editor and the date. To close
                               the history information, change to another thesaurus entry and then
                               back. To restore a previous version, use the <xref
-                                    href="oberflaeche_thesaurusnavigator.dita">Open Revision
+                                    href="ui_thesaurusnavigator.dita">Open Revision
                                     History</xref> dialogue.</li>
                   </ul>
             </p>

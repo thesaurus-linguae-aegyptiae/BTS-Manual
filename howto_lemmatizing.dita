@@ -9,8 +9,8 @@
       is an essential prerequisute that you lemmatize you text conscientiously.</p>
     <p><b>Opening and activating the lemmatizer</b></p>
     <p>To lemmatize a transliterated text two tabs should be open: <xref
-        href="oberflaeche_texteditor_e10.dita">Sign Text Editor</xref> (default location: top
-      center) and <xref href="oberflaeche_lemmatizer.dita">Lemmatizer</xref> (default location:
+        href="ui_texteditor_e10.dita">Sign Text Editor</xref> (default location: top
+      center) and <xref href="ui_lemmatizer.dita">Lemmatizer</xref> (default location:
       bottom center; note that the title of the latter changes as soon as you have selected an
       element in the Navigator tab). Only non-grey tokens in the "Sign Text Editor" are lemmata and
       can be lemmatized. </p>
@@ -87,7 +87,7 @@
       box is activated by default, because otherwise BTS will make a full text search in the
       Lemmalist. Additionally, you can automatically add wild cards / quotation marks by clicking
       the provided buttons in the Search pop-up. More on search function see the corresponding <xref
-        href="searching.dita">section</xref>.  </p>
+        href="howto_searching.dita">section</xref>.  </p>
     <p><b>Confirming the selected lemma</b></p>
     <p>When you have found the correct lemma in the list, select it by clicking on it (left-click).
       Now select the specific translation applying to your text and click on <image

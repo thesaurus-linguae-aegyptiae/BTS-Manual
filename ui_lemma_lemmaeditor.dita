@@ -7,7 +7,7 @@
       contains three sections.</p>
   <p><b>Transliteration</b></p>
   <p>The lemma transliteration section is identical to <xref
-                href="oberflaeche_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>.
+                href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>.
             Transliterate the lemma in this field within the "§" signs ( "§" marks the beginning and
             the end of the lemma). If the transliteration is not enclosed with "§", it will not be
             valid. </p>

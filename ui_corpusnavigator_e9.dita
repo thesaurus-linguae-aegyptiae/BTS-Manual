@@ -18,7 +18,7 @@
   <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/> is displayed
    for any other corpus the user has the user right to see.</p>
   <p>For activating and deactivating corpora use the Corpus Settings in the <xref
-    href="oberflaeche_berlintextsystem.dita">Preferences</xref></p>
+    href="ui_berlintextsystem.dita">Preferences</xref></p>
   <p>Corpus Navigator has two sub-tabs: <image href="Images/icons/full/icon16/corpora.png"
     id="image_o21_2y3_zs"/> Text Corpora and <image href="Images/icons/full/icon16/bin.png"
     id="image_vqw_pjs_4r"/> Bin. A third tab with the search results will appear, when you open the
@@ -29,7 +29,7 @@
   <p>At the top of the Corpus Navigator section there are several buttons. Two of them, <image
     href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
     href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/>, are also available in
-   other windows and are therefore explained in the <xref href="oberflaeche_funktionen_e5.dita"
+   other windows and are therefore explained in the <xref href="ui_commonfeatures.dita"
     >Common features</xref> section. </p>
   <p>Corpus Navigator-specific buttons are the following: </p>
   <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r"/>
@@ -42,7 +42,7 @@
    the Passport Editor. </p>
   <p>NOTE: The physical location where the child element is saved is the active corpus by default.
    But if you chosen a stable main working corpus in the <xref
-    href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>, the new
+    href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>, the new
    element is physically saved in this corpus.</p>
   <p><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r"/>
    <u>Add Text </u></p>
@@ -50,7 +50,7 @@
    Passport Editor. </p>
   <p>NOTE: The physical location where the child element is saved is not the active corpus but your
    main working corpus you have chosen in the <xref
-    href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>.</p>
+    href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>.</p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
    <u>Add Annotation </u></p>
   <p>Adds an annotation to the selected node. </p>
@@ -96,7 +96,7 @@
    <ul id="ul_cxf_l1y_bv">
     <li>Open Conflict Dialog: If two users work simultanously on a database object, it is possible,
      that they produce different versions at the same time. The conflict dialog solves the problem,
-     which version is the preferable one (see <xref href="oberflaeche_edit.dita">Menu bar >
+     which version is the preferable one (see <xref href="ui_edit.dita">Menu bar >
       Edit</xref>)</li>
    </ul>
   </p>
@@ -108,13 +108,13 @@
   <p>
    <ul id="ul_ags_p1y_bv">
     <li><image href="Images/icons/full/icon16/history.png" id="image_kn5_gjc_sr"/> Open Revision
-     History: See <xref href="oberflaeche_edit.dita">Menu bar -> Edit</xref>.</li>
+     History: See <xref href="ui_edit.dita">Menu bar -> Edit</xref>.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_qzx_q1y_bv">
     <li><image href="Images/icons/full/icon16/userrole.png" id="image_yjj_x3c_sr"/> Edit
-     Updaters/Readers: See <xref href="oberflaeche_edit.dita">Menu bar -> Edit</xref>.</li>
+     Updaters/Readers: See <xref href="ui_edit.dita">Menu bar -> Edit</xref>.</li>
    </ul>
   </p>
   <p>

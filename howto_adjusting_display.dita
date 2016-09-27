@@ -12,7 +12,7 @@
         href="Images/icons/extra%20icons/maximize.png" id="image_bns_by2_1v"/> respectively. When
       you have maximized or minimized one or several tabs of the workspace (Corpus Navigator, Text
       Editor, etc.), the respective icons will appear on the right or left side of the program
-      window. See <xref href="oberflaeche_window.dita#concept_u43_vqd_4r">Window</xref> for
+      window. See <xref href="ui_window.dita#concept_u43_vqd_4r">Window</xref> for
       explanations of the icons. Sometimes it might be necessary to return to the "Window"-entry on
       the Menu bar to restore the tabs by clicking on "Open Text Editor" etc.</p>
     <p>This example shows the maximized Text Editor. Other tabs are minimized and displayed as icons

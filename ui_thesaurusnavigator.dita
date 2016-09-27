@@ -44,21 +44,21 @@
    <ul id="ul_lf1_5vf_cv">
     <li><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr"/> Edit
      Updaters/Readers: Assign user roles for thesaurus entries (see <xref
-      href="oberflaeche_edit.dita">Menu bar > Edit</xref>). </li>
+      href="ui_edit.dita">Menu bar > Edit</xref>). </li>
    </ul>
   </p>
   <p>
    <ul id="ul_qqf_vvf_cv">
     <li><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/> Open Revision
      History: Opens the history of the changes made for the selected thesaurus entry (see <xref
-      href="oberflaeche_edit.dita">Menu bar > Edit</xref>).</li>
+      href="ui_edit.dita">Menu bar > Edit</xref>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_g5j_wvf_cv">
     <li>Open Conflict Dialogue: If two users work simultanously on a database object, it is
      possible, that they produce different versions at the same time. The conflict dialog solves the
-     problem, which version is the preferable one (see <xref href="oberflaeche_edit.dita">Menu bar >
+     problem, which version is the preferable one (see <xref href="ui_edit.dita">Menu bar >
       Edit</xref>)</li>
    </ul>
   </p>
