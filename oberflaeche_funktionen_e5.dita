@@ -25,12 +25,10 @@
     <p><image href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/> maximizes
       window. All other windows are automatically minimized.</p>
     <p><image href="Images/icons/extra%20icons/restore.png" id="image_ikr_ycb_qr"/> restores window
-      to the default (non-maximized and non-minimized)
-      view.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+      to the default (non-maximized and non-minimized) view.</p>
     <p><image href="Images/icons/extra%20icons/close.png" id="image_bzg_pct_2x"/> closes the window.
       If you close a window, you can restore it via the dropdown menu "Window" in the toolbar or via
       restarting BTS.</p>
-    <?oxy_custom_end?>
     <p/>
   </body>
 </topic>

@@ -3,6 +3,114 @@
 <topic id="topic_ext_1nb_lt">
   <title>Unwritten Consonants</title>
   <body>
-    <p></p>
+    <p><b>Conventions</b></p>
+    <p>The transliteration in BTS represents the written forms as they appear in the text.
+      Nevertheless, we recomand to determined unwritten grammatical or phonetic elements and
+      (correctly) unwritten - but not weak - consonants by the use of the round brackets: “(...)”.
+      This helps the reader to understand your translation and makes it easier for you to lemmatize
+      your text, as the lemmatizer finds the respective entries automatically.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_ecq_lk4_fx">
+        <tgroup cols="1">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry><b>Examples</b></entry>
+            </row>
+            <row>
+              <entry><i>ḥ(n)q,t</i></entry>
+            </row>
+            <row>
+              <entry><i>r(m)ṯ</i></entry>
+            </row>
+            <row>
+              <entry><i>n(,j)</i></entry>
+            </row>
+            <row>
+              <entry><i>(j)m(,j)-r(ʾ)</i></entry>
+            </row>
+            <row>
+              <entry><i>jw =f (ḥr) sḏm</i></entry>
+            </row>
+            <row>
+              <entry><i>jw =f sḏm(.w)</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>NOTE: Dots and commas have to be written within the round brackets: <i>...(.w)</i>,
+        <i>...(,j)</i>.</p>
+    <p/>
+    <p>This means: whenever an unwritten but strong radical is expected, it has to appear in the
+      transliteration. There are a few exceptions which will be listed below.</p>
+    <p/>
+    <p><b>Rules for the reflection of unwritten consonants</b></p>
+    <p>
+      <table id="table_opl_fnb_lt">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1"/>
+          <colspec colnum="2" colname="col2"/>
+          <tbody>
+            <row>
+              <entry><b>Grammar</b></entry>
+              <entry><b>Yes (x) / No (-)</b></entry>
+            </row>
+            <row>
+              <entry>Numerus</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Infinitive</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Passive (<i>tw/tj</i>)</entry>
+              <entry>x</entry>
+            </row>
+            <row>
+              <entry>Contigent</entry>
+              <entry>x</entry>
+            </row>
+            <row>
+              <entry>Passive (<i>sḏm.w=f</i>)</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Prospective</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Subjunctive</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Imperative</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Stative / PSP</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Negative-comeplement</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Participle</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Relativeform</entry>
+              <entry>-</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+    <p><b>Numerus</b></p>
+    <p>Ideographic writings of numerus are not to be represented phonetically but designated through
+      “.pl” and “.du”.</p>
   </body>
 </topic>

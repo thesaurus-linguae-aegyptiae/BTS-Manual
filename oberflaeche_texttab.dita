@@ -3,29 +3,60 @@
 <concept id="concept_uff_wwf_yr">
  <title>Text</title>
  <conbody>
-    <p>The Text tab allows you to enter textual metadata for the text. It is displayed for a text
-      only. </p>
+    <p>The Text tab allows you to enter textual metadata your text. It applies only to texts,
+      subtexts and glosses. </p>
+    <p/>
+    <p>
+      <ul id="ul_ctq_gbm_hx">
+        <li><b>Secondary Inscription:</b> Select the check box, if your text is a secondary
+          inscription, e.g. if your text is a graffito.</li>
+      </ul>
+    </p>
     <p>
       <ul id="ul_qsl_yx2_cv">
-        <li>Language: Edit the language of the text by choosing an entry from the Thesaurus <image
-            href="Images/icons/full/icon16/search.png" id="image_fmw_kzh_sr"/> (entry 4-
-          Sprachen).</li>
+        <li><b>Language:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+            <ul id="ul_cf1_kbm_hx">
+              <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
+                <b>Search Object:</b> You may select the language from the Thesaurus. The Berlin BTS
+                team recommends not to use this field because the language is an intrinsic feature
+                of the text itself and not metadata like other information you annotate in the
+                passport editor.</li>
+              <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
+                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                thesaurus entry.</li>
+              <li><b>Comment:</b> Add a comment to the language.</li>
+            </ul>
+          </p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_a2b_zx2_cv">
-        <li>Script: Edit the script of the text by choosing an entry from the Thesaurus <image
-            href="Images/icons/full/icon16/search.png" id="image_u5w_gzh_sr"/> (entry 5-
-          Schriftformen).</li>
+        <li><b>Script:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+            <ul id="ul_cgc_lbm_hx">
+              <li><image href="Images/icons/full/icon16/search.png" id="image_spl_4bm_hx"/>
+                <b>Search Object:</b> Select the script from the Thesaurus.</li>
+              <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_xvh_rbm_hx"/>
+                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                thesaurus entry.</li>
+              <li><b>Comment:</b> Add a comment to the script.</li>
+            </ul>
+          </p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_q2q_zx2_cv">
-        <li>Texttype: Edit the type of the text by choosing an entry from the Thesaurus <image
-            href="Images/icons/full/icon16/search.png" id="image_vcl_pzh_sr"/> (entry 11-
-          Textsorten).</li>
+        <li><b>Texttype:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+            <ul id="ul_xn4_lbm_hx">
+              <li><image href="Images/icons/full/icon16/search.png" id="image_s3n_4bm_hx"/>
+                <b>Search Object:</b> Select the texttype from the Thesaurus.<p>NOTE: A thesaurus is
+                  not available at the moment. Please use the comment field.</p></li>
+              <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_xmn_rbm_hx"/>
+                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                thesaurus entry.</li>
+              <li><b>Comment:</b> Add a comment to the texttype.</li>
+            </ul>
+          </p></li>
       </ul>
     </p>
-  <p>You can, of course, comment your data in the relevant "Comment" fields. </p>
  </conbody>
 </concept>

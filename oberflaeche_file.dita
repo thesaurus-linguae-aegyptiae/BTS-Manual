@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_xpn_pqd_4r">
- <title>File / Create new project</title>
+ <title>File</title>
  <conbody>
-  <p>Clicking on File opens a drop-down menu with the entries New / New Project, Insert, Exit BTS
-   and Restart BTS.</p>
-  <p><b>New Project</b></p>
-  <p>Selecting New Project will open the Edit project name window. Enter the Project name, Project
-   prefix and a Description (optional) here. Project prefix is the internal name of the project,
-   under which it will be saved in the database. </p>
-  <p>NOTE: please don't use special characters, spaces, or capital letters in the Project prefix! It
-   is recommended not to click Finish button until the last configuration window is displayed.</p>
-  <p>The "Next >" button leads to the "Project Connection Settings" window. Here you can enter the
-   Connection Type, Server URL and the Database Path. The standard connection type used by BTS is
-   "couchdb". The Server URL includes the URL and port number and currently is
-   "http://aaew64.bbaw.de:9589/". DB Path is left empty. </p>
-  <p>Clicking on the "Next >" button will display a Project Feature window to select features such
-   as corpus data, thesaurus data and word list data. It is recommended to select all the
-   check-boxes. </p>
-  <p>In the Project Database Collection window the new databases can be added or the existing ones
-   edited. Editing includes changing the database name or activating / deactivating synchronizing
-   and indexing check-boxes. </p>
-  <p>Confirm the creation of your project with the "Finish" button. To change or view information in
-   the previous windows you can always click "&lt; Back". Cancel the creation of the new project
-   with "Cancel". The project properties can always be modified later through the "Edit current
-   project" menu.</p>
+  <p>Clicking on File opens a drop-down menu with the entries New / New Project, Exit BTS and
+   Restart BTS.</p>
+  <p><b>New > New Project</b></p>
+  <p>This menu item is only available to users with administrator privileges.</p>
+  <p>Selecting New Project will open the Edit project name window. To create a new project, enter
+   Project name, Project prefix and a Description (optional). Project prefix is the internal name of
+   the project, under which it will be saved in the database. </p>
   <p><b>Exit BTS</b></p>
-  <p>Click to exit the program. If you have unsaved data, you will be asked if you want to save it. </p>
+  <p>Click to exit the BTS program. If you have unsaved data, you will be asked to save it. </p>
   <p><b>Restart BTS</b></p>
   <p>Click to restart the program. </p>
  </conbody>

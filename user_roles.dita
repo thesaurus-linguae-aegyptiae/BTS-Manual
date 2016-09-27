@@ -3,19 +3,30 @@
 <topic id="topic_yqt_fpq_zs">
   <title>User roles description</title>
   <body>
-    <p/>
     <p>The user rights management controls which user can modify which database objects. User rights
       in BTS are defined by interplay of the following factors: </p>
-    <p>- <i>user role</i> with respect to particular corpora</p>
-    <p>- <i>user status</i> with respect to particular database objects</p>
-    <p>- <i>visibility status</i> of particular database objects</p>
+    <ul id="ul_qvj_vd2_jx">
+      <li>
+        <p><i>user role</i> with respect to particular corpora</p>
+      </li>
+    </ul>
+    <p>
+      <ul id="ul_vhp_vd2_jx">
+        <li><i>user status</i> with respect to particular database objects</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_qtw_vd2_jx">
+        <li><i>visibility status</i> of particular database objects</li>
+      </ul>
+    </p>
     <p/>
     <p>Independent of the role or status, every BTS user can: </p>
     <p>
       <ul id="ul_lzg_jpm_ft">
         <li>Access all entries in the drop-down menu "Window".</li>
-        <li>Access "Preferences / Database Manager" .</li>
-        <li>Adjust personal Preferences (see <xref
+        <li>Access "Preferences / Database Manager".</li>
+        <li>Adjust individual Preferences (see <xref
             href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref> section for
           more detail).</li>
         <li>Access all options in the drop-down menu "Help".</li>
@@ -40,7 +51,7 @@
       to a particular user with respect to specific database objects. For that right-click on an
       item and select "Edit Updaters / Readers"</p>
     <p>For instance a Researcher with status of an Updater can edit all items in a given corpus. If
-      his / her status is changed to Reader, they will only be able to view the items. Updater and
+      the status is changed to Reader, the user will only be able to view the items. Updater and
       Reader status of specific database objects of a corpus can be assigned to a user by <xref
         href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>, <xref
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> or <xref

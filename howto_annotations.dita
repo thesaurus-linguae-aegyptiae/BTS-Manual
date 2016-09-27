@@ -39,7 +39,7 @@
     <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
       <u>Add Annotation</u>
     </p>
-    <p>Adds an <xref href="howto_annotationen.dita">Annotation</xref> to the selected part of your
+    <p>Adds an <xref href="howto_annotations.dita">Annotation</xref> to the selected part of your
       text. A grey bar appears in the "Annotation" tab to the right, with a thin like marking which
       part of the text the annotation refers to. It is possible to enter Passport Data, as you may
       want to provide metadata (extra-textual information). </p>
@@ -49,7 +49,7 @@
     <p>Converts the selected part of the text into a rubrum, which is indicated by red color of the
       text and a grey bar on the right. </p>
     <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
-      <u>Add Subtext/Gloss</u>
+      <u>Add Glosse</u>
     </p>
     <p>Can be used as either a subtext or a gloss. Clicking on a button will add a "child"-element
       of your text in the corpora tree. The gloss can be edited like a regular text. Once it is

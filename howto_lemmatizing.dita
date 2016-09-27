@@ -3,6 +3,11 @@
 <concept id="concept_i2s_qwf_mr">
  <title>3. Lemmatizing and encoding inflections</title>
  <conbody>
+    <p>Lemmatization is one of the most important steps in the BTS text editing process with
+      relevance to almost all querries and analyses done in the database, e.g. to find references
+      for a specific lemma, to make collocation analyses, search for word combinations etc. Thus it
+      is an essential prerequisute that you lemmatize you text conscientiously.</p>
+    <p><b>Opening and activating the lemmatizer</b></p>
     <p>To lemmatize a transliterated text two tabs should be open: <xref
         href="oberflaeche_texteditor_e10.dita">Sign Text Editor</xref> (default location: top
       center) and <xref href="oberflaeche_lemmatizer.dita">Lemmatizer</xref> (default location:
@@ -29,10 +34,10 @@
           transliteration of a lemma is displayed. To lemmatize a lemma, select the correct
           suggestion from the list in the field below. The default setting in Preferences /
           Preferences / Lemmatizer allows you to activate the function "automatically select the
-          first lemma proposal".<p>NOTE: Be careful with this function, because you might
-            unindentedly select wrong a lemma or lemmatize without intention.</p></li>
+          first lemma proposal". This feature enables you to navigate through the proposals via the
+          arrow keys.</li>
         <li>The field "Flexion" shows the code referring to the grammatical form of the inflection
-          of the selected word (see <xref href="grammar_flexioCodes.dita">Inflection codes</xref>).</li>
+          of the selected word (see <xref href="grammar_inflection.dita">Inflection codes</xref>).</li>
         <li>In the field "Translation" you can choose one or several fitting translations from the
           lower field (in the example there is only one option, but there can be more). Make sure to
           have selected the correct language in the drop-down menu on the right. The only choices
@@ -41,16 +46,41 @@
           seems fitting to you, you can enter your own translation as well.</li>
       </ol>
     </p>
-    <p>If you cannot find a lemma, click the magnifying glass <image
+    <p><b>Organization of the lemma list</b></p>
+    <p>The lemmatizer provides a lemma list according to the parameters of your search. The entries
+      are sorted alphebetically according to the Egyptological transliteration. Sublemmata are
+      displayed as child-entries of the related lemmata. Each entry provides the translietaration,
+      translation, word class, and bibliographical references. The list is divided into to parts: It
+      first displays the entires in which your search term occurs in the first position. Results in
+      which your search term occurs in another position (e.g. composita) are displayed in the lower
+      part of the list.</p>
+    <p>NOTE: The list of results is limited to 500 items. If you do not find your lemma, specify
+      your search parameters.</p>
+    <p>There are two kinds of icons in the list:</p>
+    <p>
+      <ul id="ul_cbf_syf_fx">
+        <li><image href="Images/Icons_updated/full/icon16/lemma_checked.png" id="image_mhb_jmm_fx"
+          />This lemma has been revised and can be used for lemmatization.</li>
+        <li><image href="Images/icons/full/icon16/lemma-uncertain.png" id="image_ckk_1zf_fx"/> This
+          lemma has not been revised, yet. This applies in particular to personal names from Ranke,
+          Personennamen. If you would like to use this lemma, you are requested to contact the BTS
+          team in Berlin via E-mail (aegypt1@bbaw.de) fro revision.</li>
+      </ul>
+    </p>
+    <p><b>Finding the correct lemma</b></p>
+    <p>The lemmatizer automatically suggests lemmata which transliteration exacly matches your
+      lemma. If your lemma is not listed, click the magnifying glass <image
         href="Images/icons/full/icon16/search.png" id="image_zyn_pqp_nt"/> and search for it in the
       lemma list by entering the WCN (i.e. the ID of the lemma) or the transliteration or the
       translation of the lemma. You can also reduce the search results by using the filters "Search
-      for IDs" or "Search for Names only". </p>
+      for IDs" or "Search for Names only".</p>
+    <p><i>Search for ID (WCN number)</i></p>
     <p>To filter for a specific WCN you have to activate the filter "Search for ID". If you do not,
       you will not get a result, because the full text search does not search the field "ID".
       (However, in case of lemmata that have been imported from the previous BTS version you will
       get a full text search result, because there the WCN appears as an external ID. This does not
       apply to lemmata created in this BTS version.)</p>
+    <p><i>Search for transliteration</i></p>
     <p>If you use the filter "Search for Names only", BTS does not execute a full text search, but a
       search only on the name of the database objects. "Names" does not mean "Personal Names", but
       it is the standard designation, i.e. the transliteration of the lemma (dictionary form). This
@@ -58,30 +88,55 @@
       Lemmalist. Additionally, you can automatically add wild cards / quotation marks by clicking
       the provided buttons in the Search pop-up. More on search function see the corresponding <xref
         href="searching.dita">section</xref>.  </p>
-    <p>To confirm click on <image href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr"
-      /> "Confirm current lemma editing and continue to next lemma" or on ">" button. The button
-      ">|" brings you to the end of the line and >|| to the end of the text.</p>
+    <p><b>Confirming the selected lemma</b></p>
+    <p>When you have found the correct lemma in the list, select it by clicking on it (left-click).
+      Now select the specific translation applying to your text and click on <image
+        href="Images/icons/full/icon16/lemma-ok.png" id="image_ktj_cqf_fx"/> "Confirm current lemma
+      editing and continue to next unlemmatized word". The selection will automatically move to the
+      next unlemmatized word.</p>
     <p>NOTE: Due to technical reasons the confirmation button (<image
         href="Images/icons/full/icon16/lemma-ok.png" id="image_i5c_52x_dx"/>) sometimes does not
       work in the first place. In that case just press it a second time.</p>
-    <p>If you choose to encode the inflection after you have finished the lemmatization (as we
-      recommand), you can use the button <image
-        href="Images/Icons_updated/full/icon16/flexion-confirm.png" id="image_zxg_dks_2x"/> to
-      proceed to the next not yet inflected word.</p>
-    <p>NOTE: This button brings you to the next word with default inflection code, i.e. if you
-      defined "Default Inflexion = 3" in the preferences, the button brings you to the next word
+    <p>NOTE: Due to technical reasons it might happen that clicking <image
+        href="Images/icons/full/icon16/lemma-ok.png" id="image_fsj_4qf_fx"/> might not move to the
+      next unlemmatited word, but to the first unlemmatized word in the text.</p>
+    <p><b>Skipping lemmatization and navigating in the Sign Text Editor</b></p>
+    <p>If you do not want to lemmatize a word, e.g. because the lemma does not exist in the list or
+      you are not yet sure about the idetification, you can skip the lemmatization by either
+      clicking on the next word in the Sign Text Editor or by using the ">" button ("move selection
+      to next word"). You use these buttons to navigate through the text without lemmatizing. The
+      button ">"  brings you to the next word, ">|" to the end of the line and >|| to the end of the
+      text. The buttons "&lt;", "|&lt;" and "||&lt;" vice versa.</p>
+    <p>To confirm click on <image href="Images/icons/full/icon16/lemma-ok.png" id="image_pd2_53w_nr"
+      /> "Confirm current lemma editing and continue to next unlemmatized word" or on ">" button.
+      The button ">|" brings you to the end of the line and >|| to the end of the text.</p>
+    <p><b>Encoding inflection</b></p>
+    <p>Experience has learned that it is better to lemmatize a text first and afterwards fill out
+      the field "Flexion". If you want to encode the inflection during the lemmatization process,
+      type approriate code (see <xref href="grammar_inflection.dita">Inflection codes</xref> into
+      the field "Flexion" before or after you have selected the lemma and than confirm with <image
+        href="Images/icons/full/icon16/lemma-ok.png" id="image_zt4_fvf_fx"/>. If you choose to
+      encode the inflection after you have finished the lemmatization (as we recommand), you can use
+      the button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png"
+        id="image_zxg_dks_2x"/> to proceed to the next not yet inflected word. You can also use the
+      ENTER key to confirm and proceed.</p>
+    <p>NOTE: The button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png"
+        id="image_p42_hvf_fx"/> brings you to the next word with default inflection code, i.e. if
+      you defined "Default Inflexion = 3" in the preferences, the button brings you to the next word
       with inflection code 3, although you might already have entered this code as the correct
       form.</p>
-    <p>To delete  lemmatization click on <image
+    <p><b>Remove all lemma information</b></p>
+    <p>In case you want to undo the lemmatization of a word, e.g. if you have selected the wrong
+      lemma, select the word and click on the button <image
         href="Images/Icons_updated/full/icon16/lemmatizer-delete.png" id="image_l33_m2g_ms"/>
-      "Remove lemma information" in the Lemmatizer toolbar.</p>
-    <p>Experience has learned that it is better to lemmatize a text first and only afterwards fill
-      out the field "Flexion".</p>
-    <p/>
+      "Remove lemma information" in the Lemmatizer toolbar. This will remove the lemmatization and
+      the encoded inflection.</p>
     <p><b>Lemma does not exist</b></p>
-    <p>Besides the "Wörterbuch der ägyptischen Sprache", the BTS word list contains words from
+    <p>Besides the "Wörterbuch der ägyptischen Sprache", the BTS lemma list contains words from
       various different sources. If you have a new lemma, which is not yet present in the BTS lemma
-      list, please send a proposal to the BTS team via E-mail: aegypt1@bbaw.de. </p>
+      list, or if you wish to use a lemma that has noit been revised yet is thus marked by <image
+        href="Images/icons/full/icon16/lemma-uncertain.png" id="image_kvn_p1g_fx"/> in the lemma
+      list, please send a proposal to the BTS team in Berlin via E-mail: aegypt1@bbaw.de. </p>
     <p>Before you send your proposal be sure that the lemma does not exist yet:</p>
     <p>
       <ul id="ul_vyl_yks_2x">

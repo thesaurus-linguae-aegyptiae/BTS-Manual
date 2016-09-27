@@ -4,17 +4,25 @@
   <title>Passport Editor</title>
   <conbody>
     <p>The Passport Editor section is located in the bottom part in the middle of the Text Corpus
-      view. It contains the metadata of a selected text corpus object. It's divided into different
-      subsections which are organized in tabs. These categories vary depending on the view: Text
-      Corpus, Lemma, Thesaurus or Abstract Text. The rights to modify object's passport data depend
-      on your <xref href="user_roles.dita#topic_yqt_fpq_zs">user role</xref> for the selected
-      corpus.</p>
-    <p> If you are working on a "child object" and want it to have the same metadata as the "parent
-      object", you can click<image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr"
-      /> "Inherit Passport Data" in the top right corner of the Passport Editor. Note that the
-      "parent" data will be copied in the empty fields only. If the fields were filled out, their
-      content will remain unchanged. </p>
-    <p>NOTE: the inheritance procedure applies to all tabs at once, not only the currently open one. </p>
+      view. It contains the metadata of a selected database object. It is divided into different
+      subsections which are organized in tabs. These categories vary depending on the database
+      object: Text Corpus Objects have other tab than Texts. You can maximize and minimize the
+      window with <image href="Images/icons/extra%20icons/maximize.png" id="image_w3j_gn3_ns"/> and
+        <image href="Images/icons/extra%20icons/minimize.png" id="image_qkj_gn3_ns"/> buttons.</p>
+    <p>If you are working on a "child object" and want it to have the same metadata as the "parent
+      object", you can click <image href="Images/icons/full/icon16/inherit.png"
+        id="image_fdk_2rt_mr"/> "Inherit Passport Data" in the top right corner of the Passport
+      Editor. Note that the "parent" data will be copied in the empty fields only. If the fields
+      were filled out, their content will remain unchanged. </p>
+    <p>The option "Inherit Overwrite Passport Data", available via the drop-down menu <image
+        href="Images/icons/extra%20icons/options_dreieck.png" id="image_umy_spv_ps"/>" allows you to
+      overwrite already existing metadata with updates metadata of the "parent object".</p>
+    <p>NOTE: Both inheritance procedures applies to all tabs at once, not only the currently open
+      one. </p>
+    <p>NOTE: Be sure that all entered metadata are correct, as you might inherit errors to "child
+      objects".</p>
+    <p>NOTE: It is not possile to undo the inheritance procedure.</p>
+    <p/>
     <p><image
         href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Passport_Editor.png"
         id="image_j12_mtp_5t"/></p>

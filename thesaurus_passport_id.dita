@@ -3,28 +3,35 @@
 <concept id="concept_at4_qwf_yr">
  <title>IDs</title>
  <conbody>
-  <p>Since there is the possibility that the thesaurus entry appears in external projects, the ID
-   tab provides the opportunity to enter the external ID, thus linking the projects.</p>
+  <p>This tab provides the option to enter external IDs of your lemma to establish links to other
+   projects and databases. By default a <image href="Images/icons/full/obj16/add.png"
+    id="image_hjw_n3w_zs"/> button will be displayed. Click it to add an external ID.</p>
   <p>
    <ul id="ul_itg_xzf_cv">
-    <li>Provider: Choose the provider from the drop-down list. </li>
+    <li><b>Provider:</b> Choose the provider (an external project) from the drop-down menu.<p>If a
+      provider you need is missing, please send a proposal to the BTS team in Berlin via E-mail:
+      aegypt1@bbaw.de.</p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_igj_yzf_cv">
-    <li>Type: Enter the type of the ID.</li>
+    <li><b>Type:</b> Enter the type of the external ID.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_iy2_zzf_cv">
-    <li>External ID: Enter the external ID here (e.g. Trismegistos).</li>
+    <li><b>External ID:</b> Enter the external ID here.<p>Example: The town Armant is mentioned in
+      the Trismegistos project: http://www.trismegistos.org/place/812. Select trsimegistos as
+      provider, enter geoID as type, and enter 812 as external ID.</p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_ytg_11g_cv">
-    <li><image href="Images/icons/full/obj16/add.png" id="image_mmm_qsz_tr"/> Add Identifier: Add
-     another set of information, including the "Provider", "Type" and "External ID" in the case of
-     multiple appearances of the used thesaurus entries in more than one project.</li>
+    <li><image href="Images/icons/full/obj16/add.png" id="image_p4t_4r2_hx"/>
+     <b>Add Identifier:</b> Add another set of information, including the "Provider", "Type" and
+     "External ID".</li>
+    <li><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
+     <b>Remove Widget:</b> This removes the external ID from the lemma.</li>
    </ul>
   </p>
  </conbody>

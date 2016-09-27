@@ -4,33 +4,11 @@
  <title>Database Manager</title>
  <conbody>
   <p><b>Open Database Manager</b></p>
-  <p>The "Database manager" window in "Preferences" displays all available database collections.
+  <p>The "Database Manager" window in "Preferences" displays all available database collections.
    Each database collection is reflected by a line in the table. The number of documents per
    collection is shown in the column "DB Doc Count". </p>
-  <p><b>Indexing</b></p>
-  <p>Indexing is a process, which enabels the search in the database, as the query is not done in
-   the database itself (which would take time), but in the document indexes. The status of a corpus'
-   indexing process is indicated by the background colour of its line in the "Database Manager".
-   Each line can have one of three background colours. Green means that everything is indexed
-   properly. Yellow and red indicate that in this corpus ia problem had occurred. The column "Index
-   Doc Count" shows the number of the already indexed documents in this corpus. Additionally, the
-   Status of the corpus will be displayed in the "Status" column (OK- green, ERROR- red or
-   INDEXING...- yellow). The "% indexed" column shows the percentage of the indexing process.</p>
-  <p><b>Re-Indexing</b></p>
-  <p>Re-indexing may take a while. The more databases you have to re-index, the longer it will take.
-   During this process you will not be able to use BTS.</p>
-  <p>Re-indexing has three options: </p>
-  <p>- Re-index all</p>
-  <p>- Re-index all non-OK </p>
-  <p>- Re-index individual DB collection. </p>
-  <p>To re-index individual collections, select them by left-click, scroll to the right of the table
-   and click on Re-index. </p>
-  <p><b>Close</b></p>
-  <p>Leave the "Database Manager" window by clicking the Close button in the lower right corner. </p>
-  <p/>
-  <p>NOTE: To work with BTS all databases should be indexed correctly. Thus always re-index those
-   databases which are marked either yellow or red.</p>
-  <p>NOTE: The items "_recplicator" and "_uses" cannot be indexed and thus always are marked in red.
-   You do not have to re-index these items.</p>
+  <p>The "Database Manager" window automatically opens with each BTS start, if there are any
+   problems with the index. To work with the databases and to enable search queries, the databases
+   have to be indexed properly. Re-index all databases when they appear either in yellow or red.</p>
  </conbody>
 </concept>

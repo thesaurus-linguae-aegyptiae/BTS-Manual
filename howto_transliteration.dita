@@ -6,34 +6,115 @@
   <p>To enter or edit the transliteration of your texts, click in the "Transliteration" tab of the
         <xref href="oberflaeche_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
       Text Corpus view.</p>
-  <p>Transliteration follows the BTS <xref href="howto_grammar_rules_e5.dita">grammar
-      rules</xref>. </p>
-    <p><b>The most important rules are the following</b></p>
+  <p/>
+    <p><b>Segmentation of a text</b></p>
+    <p>The text has to be sequenced in sentences according to the Egyptian syntax. Start and end
+      each sentence with the sentence marker "§". There is no "space" between "§" and the adjacent
+      word.</p>
+    <p>Rules for the segmentation of sentences:</p>
     <p>
-      <ul id="ul_wh1_bxw_ns">
-        <li>The text has to be sequenced in sentences according to the Egyptian syntax. Start and
-          end each sentence with the sentence marker "§".</li>
-        <li>Use the "space" key only between two words or extratextual information, not after typing
-          a sentence marker "§" or after opening brackets.<p>NOTE: Sentence boundaries can always be
-            modified later, but the translation of the modified sentences will be lost.</p></li>
-        <li>Brackets come in pairs. You have to close every bracket you have opened. Usually the
-          system will do this automatically, but there are cases where that does not work. Pressing
-          "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
-          recurring elements you also can define a template in the <xref
-            href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.<p>NOTE:
-            Brackets have to be closed with each token (word), i.e. [jw] [nfr] (not: [jw
-            nfr]).</p><p>NOTE: Some combinations of round brackets and doubble round brackets result
-            in errors. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
-            dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
-        <li>The dual and plural endings are transcribed with ".w" or ".wj/.tj" when written
-          phonetically. When marked graphically, they are transcribed with ".pl" or ".du". When the
-          plural and dual endings are written both phonetically and graphically they are transcribed
-          with both options: ".w.pl" or ".wj/.tj.du".</li>
-        <li>It is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."), to
-          close brackets before you open them ("n]b[") or to interlace different kinds of brackets
-          wrongly ("{n[b}]").</li>
+      <ul id="ul_yp5_2sz_2x">
+        <li>Main and subclauses belong together as one sentence.</li>
+        <li>The emphatic construction is one sentence (e.g. <i>pr.n =j m pr =j hꜣ.n =j m spꜣ.t =j
+            jrj.n =j mꜣꜥ.z tp tꜣ</i>).</li>
+        <li>Protasis and Apodosis of a conditional clause are one sentence (e.g. <i>jr ḏd=f nj ꜥnḫ=f
+            pw</i>).</li>
+        <li>Relative clauses belong to the superordinated clause.</li>
+        <li>Subjuctive clauses and clauses introduced by n.tj, wn.t, or jw.tj belong to the
+          superordinated clause.</li>
+        <li>Prepositional subclauses belong to the superordinated clause (e.g. <i>ḫr m-ḫt hrw.w 3
+            swꜣw ḥr nn</i> + main clauce + <i>r rdj.t</i> ...).</li>
+        <li>Adverbal clauses belong to the superordinated clause, if the subordination is
+          clear.</li>
+        <li>Continuative forms (e.g. <i>mtw=</i>) are segmented in seperate sentences.</li>
+        <li>Direct speech forms a seperate sentence.</li>
       </ul>
     </p>
+    <p>Logical phrases and formulas are treated as sentences:</p>
+    <p>
+      <ul id="ul_szy_lrz_2x">
+        <li>Headings, labels, and notes are sentences.</li>
+        <li>Tables are segmented according to headings, lines, and columns.</li>
+        <li>Offering formulas and (short) prayers are treated as one sentence.</li>
+      </ul>
+    </p>
+    <p>NOTE: Sentence boundaries can always be modified later, but the translation of the modified
+      sentences will be lost.</p>
+    <p/>
+    <p><b>Transliteration</b> follows the BTS Conventions (see: <xref
+        href="grammar_transliteration_system.dita"/>).</p>
+    <p>NOTE: When you enter your transliteration, BTS will represent each sentence as on long line.
+      To produce a line break click <image href="Images/icons/full/icon16/lemma-load.png"
+        id="image_sws_dns_mr"/> (Load Text Lemmata) or switch between Sign Text Editor and
+      Transliteration Editor.</p>
+    <p/>
+    <p><b>Text-critical signs and brackets</b> follow BTS Conventions (see: <xref
+        href="grammar_brackets.dita"/>).</p>
+    <p/>
+    <p><b>Adding Extra-textual Information</b></p>
+    <p><b>Line Count</b></p>
+    <p>
+      <ul id="ul_ugx_ryw_ns">
+        <li>Line counts according to the physical object are introduced by #lc: and end with
+            <b>#</b>. The numbers are written in square brackets. E.g.: Line 1 = #lc: [1]#. If the
+          line break in the original text occurs within the borders of a word, the line count is to
+          be placed after the respective word.</li>
+        <li>For line count according to synoptic editions used to align multiple versions of a text,
+          as a kind of milestone use #para: ...#. E.g.: CT VI 106a = #para: CT VI 106a#.</li>
+      </ul>
+    </p>
+    <p>NOTE: It is not allowed to use colon between "#" more than once.</p>
+   <p>NOTE: It is not allowed to use colon directly after or directly before "#".</p>
+    <p>NOTE: The line count provided by BTS at the left egde of the Text Editor is only temporary.
+      It changes at each line break.</p>
+    <p/>
+   <p><b>Descriptive Information</b></p>
+    <p>Descriptive information, e.g. for representations the inscriptions are referring to, are
+      placed betwenn "#". </p>
+    <p>
+      <ul id="ul_jly_jzz_2x">
+        <li>For the description of representations to which text refers, use "#descr: #", e.g.
+          #descr: Amun, thronend#</li>
+        <li>Other descriptions without reference can be added freely between two "#", e.g. #3Q sind
+          leer gelassen#.</li>
+      </ul>
+    </p>
+    <p/>
+    <p><b>Destructions</b> (see: <xref href="grammar_destructions.dita"/>)</p>
+    <p>
+      <ul>
+        <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
+          destroyed--, --3Q-- (destruction of 3 scriptorial squares).<p>NOTE: It is not allowed to
+            use the hyphen within the destruction marker.</p></li>
+        <li>If the number of words missing can precisely be determined (e.g. if the words are
+          completely lost, but with the determinatives preserved), use underscores in brackets
+          "[___]". E.g.: "[___] [___]" for 2 missing words.</li>
+        <li>All other descriptive information is to be put between "#": E.g.: #in front of the first
+          person looking left#; #3Q are left empty#.</li>
+      </ul>
+    </p>
+    <p/>
+    <p><b>Illegible parts and spaces intentionally left blank</b></p>
+    <ul id="ul_uth_rc1_fx">
+      <li>
+        <p>If a word or a sequence of words is illegible or only partly legible, use underscores,
+          e.g. "_b_"; "n_[_],t"; "[_]_[_]"; [___].pl etc.</p>
+      </li>
+    </ul>
+    <ul id="ul_zhm_rc1_fx">
+      <li>
+        <p>Empty cartouches are transliterated with 3 underscores: "___" and are lemmatized with WCN
+          550225.</p>
+      </li>
+    </ul>
+    <ul id="ul_jdr_rc1_fx">
+      <li>
+        <p>Blank parts of a text that were intended for a later addition of a personal name and
+          titles (e.g. on a coffin), are transliterated as decriptive information: "#3Q
+          unbeschriftet#", "#5Q leer für Titel und Namen des Verstorbenen#" etc.</p>
+      </li>
+    </ul>
+    <p/>
     <p><b>Ambiguities</b></p>
     <p>Ambiguities have to be noted,</p>
     <p>
@@ -56,6 +137,20 @@
     <p>Example: %case 1: rd.du| case 2: war,t.du%"</p>
     <p>NOTE: Sentence separators, extra-textual information and destruction markers, e.g. "§", line
       counts (#lc: ...#) and --2Q--, are not allowed within ambiguities.</p>
+    <p/>
+    <p><b>The most important rules are the following</b></p>
+    <p>
+      <ul id="ul_wh1_bxw_ns">
+        <li>The dual and plural endings are transcribed with ".w" or ".wj/.tj" when written
+          phonetically. When marked graphically, they are transcribed with ".pl" or ".du". When the
+          plural and dual endings are written both phonetically and graphically they are transcribed
+          with both options: ".w.pl" or ".wj/.tj.du".</li>
+        <li>It is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."), to
+          close brackets before you open them ("n]b[") or to interlace different kinds of brackets
+          wrongly ("{n[b}]").</li>
+      </ul>
+    </p>
+    <p/>
     <p><b>Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. Note that
       you can create your own templates (<xref
@@ -65,30 +160,8 @@
       the sentence marked by §§) you will get a different set of templates to choose from. This can
       be influenced by changing the "Context" of your templates (see <xref
         href="oberflaeche_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>).</p>
-    <p><b>Adding Extra-textual Information</b></p>
-    <p>
-      <ul id="ul_ugx_ryw_ns">
-        <li>Line counts are introduced by #lc: and end with <b>#</b>. The numbers are written in
-          square brackets. E.g.: Line 1 = #lc: [1]#</li>
-        <li>#para: ---# can be used to align multiple versions of a text, as a kind of milestone.
-          E.g.: CT VI 106a = #para: CT VI 106a#<p>NOTE: It is not allowed to use colon between "#"
-            more than once.</p><p>NOTE: It is not allowed to use colon directly after or directly
-            before "#".</p></li>
-        <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
-          destroyed--, --3Q-- (destruction of 3 scriptorial squares).<p>NOTE: It is not allowed to
-            use the hyphen within the destruction marker.</p></li>
-        <li>If the number of words missing can precisely be determined (e.g. if the words are
-          completely lost, but with the determinatives preserved), use underscores in brackets
-          "[___]". E.g.: "[___] [___]" for 2 missing words.</li>
-        <li>All other descriptive information is to be put between "#": E.g.: #in front of the first
-          person looking left#; #3Q are left empty#.</li>
-      </ul>
-    </p>
-    <p><b>Transliteration conventions</b></p>
-    <p>See <xref href="grammar_transcribing_rules.dita#concept_ops_zgb_lt">Grammar Rules</xref>
-      for detailed information.</p>
     <p><b>Copy&amp;Paste functions</b></p>
-    <p>BTS supports copy&amp;paste. </p>
+    <p>BTS supports copy&amp;paste within the same text as well as between diffrent texts.</p>
     <p>
       <ul id="ul_jgl_mby_2x">
         <li>It is possible to enter the complete transliteration of a text at once out of an
@@ -99,21 +172,24 @@
           anywhere in the same or another text. By doing this, only the transliteration will be
           copied, even if the tokens are lemmatized.</li>
         <li>If you want to copy&amp;paste your transliteration as lemmazied tokens, use the feature
-          "Copy with Lemmata" and "Paste with Lemmata".<p>
+          "Copy with Lemmata" and "Paste with Lemmata". This feature copies and pastes the
+          transliteration including inflection code, hieroglyphs, and translation. It does not copy
+          any annotation, comment, or rubrum.<p>
             <ul id="ul_k51_jcy_2x">
               <li>This feature does not work for single words and phrases. You can only copy
                 complete sentences. Mark the sentence or the set of sentences you would like to
                 copy. Click on it (right-click) and select "Copy with Lemmata".</li>
               <li>Proceed to the text where you want to insert the sentence(s). Righ-click the exact
-                position and select "Paste with Lemmata".</li>
+                position and select "Paste with Lemmata". To insert a sentence after an existing
+                sentence, plase the cursor behind the "§" sign.</li>
             </ul>
-          </p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. You need to
-          enter some dummy text first that you can delete afterwards.<p>NOTE: The sentence you want
-            to copy as well as the sentence in, before, or after which you want to insert the copied
-            sentence(s) is activated. Activation is shown by the sign <image
-              href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the left
-            of the sentence (compare note on <xref href="howto_satzuebersetzung.dita">translation</xref>
-            below).</p></li>
+          </p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. Frist you need
+          to enter some dummy text and press "Load Text Lemmata". After pasting yout text you can
+          delete dummy.<p>NOTE: The sentence you want to copy as well as the sentence in, before, or
+            after which you want to insert the copied sentence(s) is activated. Activation is shown
+            by the sign <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/>
+            diretly to the left of the sentence (compare note on <xref
+              href="howto_translation.dita">translation</xref> below).</p></li>
       </ul>
     </p>
  </conbody>

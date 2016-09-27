@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_h3p_xtn_kx">
+  <title>Creating / Editing a project</title>
+  <body>
+    <p>This menu item is only available to users with administrator privileges.</p>
+    <p><b>Creating Project</b></p>
+    <p>Select File > New > New Project in the menu bar. Selecting New Project will open the Edit
+      project name window. To create a new project, enter Project name, Project prefix and a
+      Description (optional). Project prefix is the internal name of the project, under which it
+      will be saved in the database. </p>
+    <p>NOTE: Do not use special characters, spaces, or capital letters in the Project prefix. If you
+      have entered invalid characters, the input field will turn red and the buttons "Next" and
+      "Finish" will be inactive. </p>
+    <p>NOTE: It is recommended not to click Finish button until the last configuration window is
+      displayed.</p>
+    <p>The button "Next >" leads to the "Project Connection Settings" window. Here you can enter the
+      Connection Type, Server URL and the Database Path. The standard connection type used by BTS is
+      "couchdb". The Server URL includes the URL and port number and currently is
+      "http://aaew64.bbaw.de:9589/". DB Path is left empty. </p>
+    <p>Clicking on the "Next >" button again will display a Project Feature window to select among
+      the features Corpus Data, Thesaurus Data, Wordlist Data, and Abtract Texts Data. We recommend
+      to select all the check-boxes. </p>
+    <p>A further click on "Next >" leads to the Project Database Collection window, in which the
+      newly created databases can be added or the existing ones edited. Editing includes changing
+      the database name or activating / deactivating synchronizing and indexing check-boxes. </p>
+    <p>Confirm the creation of your project with the "Finish" button. To change or view information
+      in the previous windows you can always click "&lt; Back". Cancel the creation of the new
+      project with "Cancel". The project properties can always be modified later through the "Edit
+      current project" menu.</p>
+    <p><b>Editing a project</b></p>
+    <p>Select Edit > Edit New Project in the menu bar. If you click on the "Edit current Project", a
+      window comes up, where you can edit the current project's name and description.</p>
+    <p>The Button "Next >" leads to the "Project Connection Settings" window. Here you can enter
+      your connection type (BTS uses "couchdb"), "Server URL" and the Database Path.</p>
+    <p>Clicking on "Next >" will display a window with options to select additional features (Corpus
+      Data, Thesaurus Data, Wordlist Data, Abtract Texts Data). Select the relevant check boxes and
+      click "Next >". </p>
+    <p>In the "Project Database Collection" window you can add the existing databases to the new
+      project. You can edit the name of the collection by clicking the "Edit" button. </p>
+    <p>Confirm the changes made to your project with "Finish". To go to the previous window you can
+      always click "&lt; Back". Cancel all the changes with the "Cancel" button.</p>
+  </body>
+</topic>

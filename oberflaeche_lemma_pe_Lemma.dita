@@ -7,18 +7,20 @@
       following:</p>
     <p>
       <ul id="ul_jly_r4f_cv">
-        <li>Comment: Any comment to the Lemma which did not fit in any other subsection.</li>
+        <li><b>Comment:</b> Any comment to the Lemma which did not fit in any other subsection.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_dkx_s4f_cv">
-        <li>Comment (English translation): Any comment to the English translation of the Lemma.</li>
+        <li><b>Comment (English translation):</b> Any comment to the English translation of the
+          Lemma.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_edk_54f_cv">
-        <li>Lsort, arb_vermerk, simplify, wclassnum, woart, word_class: present information tags
-          inherited from the previous BTS version. </li>
+        <li><b>Lsort, arb_vermerk, simplify, wclassnum, woart, word_class:</b> These are information
+          tags inherited from the previous BTS version. They are not used for newly created
+          lemmata.</li>
       </ul>
     </p>
   </body>

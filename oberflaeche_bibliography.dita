@@ -3,44 +3,76 @@
 <concept id="concept_ewq_twf_yr">
  <title>Bibliography</title>
  <conbody>
-  <p>Enter a bibliographical information using the Thesaurus here. The tab contains: </p>
+  <p>Enter bibliographical information here. The tab contains: </p>
   <p>
    <ul id="ul_o4n_dy2_cv">
-    <li>Bibliographical text field: A field where you can enter the bibliographical data manually.
-     Currently it is recommended to use this field only. </li>
+    <li><b>Bibliographical text field:</b> A field to enter the bibliographical data manually.
+          Currently it is recommended to use this field only. Divide your bibliographic items with
+          ENTER. At the end of each item, give the following information separated with comma in
+          square brackets:<ul id="ul_b44_xgm_hx">
+            <li>A for squeeze</li>
+            <li>B for bibliography</li>
+            <li>F for faksimile</li>
+            <li>H for hand copy</li>
+            <li>K for comment</li>
+            <li>L for site plan</li>
+            <li>P for photo</li>
+            <li>T for transcription from Hieratic</li>
+            <li>U for transliteration</li>
+            <li>Ü for translation</li>
+          </ul><ul id="ul_wkj_1sm_hx">
+            <li>The asterisk (*) marks the leading reference.</li>
+          </ul><p>Examples:</p><p>
+            <ul id="ul_wlr_bhm_hx">
+              <li>D. Bidoli, in: MDAIK 28, 1973, 193-200 [P, Ü, K]</li>
+              <li>R. Drenkhahn, Die Elephantine-Stele des Sethnacht und ihr historischer
+                Hintergrund, ÄA 36, 1980 [P, A, Ü, K]</li>
+              <li>H. Altenmüller, in: JEA 1982, 107-115 [Ü, K]</li>
+              <li>J. Murnane, in: CdE 58, 1983, 133-135 [K]</li>
+              <li>KRI V, 671-672 [*H]</li>
+              <li>F. Junge, Elephantine XI, AV 49, 1987, 55-58 [*P, Ü, K]</li>
+            </ul>
+          </p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_pn1_jy2_cv">
-    <li>Bibliographical entry / Bib. item: Navigate through Thesaurus with <image
-      href="Images/icons/full/icon16/search.png" id="image_q3l_yfp_sr"/>
-     <u>Search</u> to find the correct bibliographical reference. The bibliographical thesaurus was
-     not ready yet at the time of the compilation of this manual. We recommend to use
-     "Bibliographical text field" instead.</li>
+    <li><b>Bibliographical entry:</b> This feature is currenly not available.<p>
+      <ul id="ul_ajh_drm_hx">
+       <li><b>Bib. Item:</b> Displays the name of the selected thesaurus entry. This is no input
+        field.</li>
+      </ul>
+     </p><p>
+      <ul id="ul_fcs_vqm_hx">
+       <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
+        <b>Search Object:</b> You may select the language from the Thesaurus. This feature is
+        currenly not available.</li>
+      </ul>
+      <ul id="ul_vgm_drm_hx">
+       <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
+        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry. This feature is currenly not available.</li>
+      </ul>
+      <ul id="ul_gc3_grm_hx">
+       <li><b>Pages/plates:</b> Enter the pages / plate number complementing the bibliographical
+        item selected from the thesaurus and select the check boxes. For the meaning of the
+        abbreviations see above.</li>
+       <li><b>Comment:</b> Use this input field to comment your reference.</li>
+      </ul>
+      <ul id="ul_qt3_jrm_hx">
+       <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
+        <b>Add Entry Group:</b> Add an additional bibliography section.</li>
+      </ul>
+      <ul id="ul_l4k_jrm_hx">
+       <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png"
+         id="image_krd_h1g_hx"/>
+        <b>Remove Entry Group:</b> Delete a bibliography section.</li>
+      </ul>
+     </p></li>
    </ul>
   </p>
-  <p>
-   <ul id="ul_v25_ky2_cv">
-    <li>Bibliographical entry / plates: Enter the plate number and/or select the check box with a
-     letter below. </li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_f14_ly2_cv">
-    <li>Comment: Use this input field to comment your reference.</li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_acq_ny2_cv">
-    <li><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_efl_c3p_sr"/> Add
-     Entry Group: Click to add an additional bibliography section.</li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_akq_4y2_cv">
-    <li><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_pnl_c3p_sr"/>
-     Remove Entry Group: Click to delete a bibliography section.</li>
-   </ul>
-  </p>
+  <p/>
+  <p>NOTE: The bibliographical thesaurus does not exist yet. We recommend to use "Bibliographical
+   text field" instead until it is available.</p>
  </conbody>
 </concept>

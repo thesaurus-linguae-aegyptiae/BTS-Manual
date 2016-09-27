@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_w4g_4kg_fx">
+  <title>Lemmatizing illegible words</title>
+  <body>
+    <p>If you are able to determine the excat number of word missing in a lacuna or gap without
+      being able to designate them to a specific lemma, use the representative "[___]". If a word or
+      a sequence of words is illegible or only partly legible, use underscores, e.g. "_b_";
+      "n_[_],t"; "[_]_[_]"; [___].pl etc. In some cases it might  be possible to determine word
+      class, number, and gender. To lemmatize the representatives there are entries in the lemma
+      list for each of these options. Therefore you have to search the WCN number via the magnifying
+      glass (see <xref href="howto_lemmatizing.dita"/>). The following list helps you to find the
+      relevant WCN number.</p>
+    <p>NOTE: To find the complete list in the lemma list, you may also open search via the
+      magnifying glass and search vor "[Wort]" (full text search with both check boxes deactivated).
+      The results will appear at the end of the list.</p>
+    <p> </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_xss_2lf_fx">
+        <tgroup cols="2">
+          <colspec colname="newCol1" colnum="1" colwidth="1*"/>
+          <colspec colname="c1" colnum="2" colwidth="3.17*"/>
+          <thead>
+            <row>
+              <entry>WCN number</entry>
+              <entry>Word Class</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>850831</entry>
+              <entry>word (undefined)</entry>
+            </row>
+            <row>
+              <entry>850834</entry>
+              <entry>adjective</entry>
+            </row>
+            <row>
+              <entry>850835</entry>
+              <entry>adverb</entry>
+            </row>
+            <row>
+              <entry>850839</entry>
+              <entry>particle</entry>
+            </row>
+            <row>
+              <entry>850849</entry>
+              <entry>non-enclitic particle</entry>
+            </row>
+            <row>
+              <entry>850848</entry>
+              <entry>enclitic particle</entry>
+            </row>
+            <row>
+              <entry>850838</entry>
+              <entry>pronoun</entry>
+            </row>
+            <row>
+              <entry>850845</entry>
+              <entry>personal pronoun</entry>
+            </row>
+            <row>
+              <entry>850846</entry>
+              <entry>relative pronoun</entry>
+            </row>
+            <row>
+              <entry>850847</entry>
+              <entry>interrogative pronoun</entry>
+            </row>
+            <row>
+              <entry>850844</entry>
+              <entry>demonstrative pronoun</entry>
+            </row>
+            <row>
+              <entry>850837</entry>
+              <entry>preposition</entry>
+            </row>
+            <row>
+              <entry>850840</entry>
+              <entry>number</entry>
+            </row>
+            <row>
+              <entry>850850</entry>
+              <entry>cardinal number</entry>
+            </row>
+            <row>
+              <entry>850851</entry>
+              <entry>ordinal number</entry>
+            </row>
+            <row>
+              <entry>850841</entry>
+              <entry>interjection</entry>
+            </row>
+            <row>
+              <entry>850833</entry>
+              <entry>substantive (undefined)</entry>
+            </row>
+            <row>
+              <entry>850843</entry>
+              <entry>substantive (fem.) </entry>
+            </row>
+            <row>
+              <entry>850842</entry>
+              <entry>substantive (masc.)</entry>
+            </row>
+            <row>
+              <entry>850836</entry>
+              <entry>verb</entry>
+            </row>
+            <row>
+              <entry>714337</entry>
+              <entry>personal name (undefined)</entry>
+            </row>
+            <row>
+              <entry>850817</entry>
+              <entry>personal name (fem.)</entry>
+            </row>
+            <row>
+              <entry>850816</entry>
+              <entry>personal name (masc.)</entry>
+            </row>
+            <row>
+              <entry>850818</entry>
+              <entry>personal name (undefined, incl. titles and affiliation)</entry>
+            </row>
+            <row>
+              <entry>850826</entry>
+              <entry>name of an object or an institution</entry>
+            </row>
+            <row>
+              <entry>850825</entry>
+              <entry>name of an animal</entry>
+            </row>
+            <row>
+              <entry>850819</entry>
+              <entry>name of a king</entry>
+            </row>
+            <row>
+              <entry>550225</entry>
+              <entry>empty cartouche</entry>
+            </row>
+            <row>
+              <entry>850822</entry>
+              <entry>name of a god</entry>
+            </row>
+            <row>
+              <entry>850820</entry>
+              <entry>toponym</entry>
+            </row>
+            <row>
+              <entry>850824</entry>
+              <entry>epithet of a king</entry>
+            </row>
+            <row>
+              <entry>850823</entry>
+              <entry>epithet of a god</entry>
+            </row>
+            <row>
+              <entry>850821</entry>
+              <entry>titel or epithet of a private person</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

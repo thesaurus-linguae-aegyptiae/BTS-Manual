@@ -4,20 +4,20 @@
   <title>Admin</title>
   <body>
     <p>The administrator role applies only to a specific database, i.e. a corpus, a lemma list, or
-      the thesaurus database (not the entire BTS!). Administrator can edit or delete all objects in
-      a given corpus, even if no Updater status for specific objects was assigned to him/her. </p>
+      the thesaurus database (not the entire BTS!). Administrator can edit or delete all database
+      objects in a given corpus, with no Updater status for specific database objects requiered. </p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_bky_44v_bt">
         <li>Can manage and control any user role within a corpus where she or he is assigned. (Not
           available at the moment.)</li>
         <li>Can edit all items in a given corpus, regardless of their visibility status.</li>
-        <li>Can add or remove database objects within a corpus. Deleted items can be found in the
-          "Bin" tab, from where they can be deleted permanently.</li>
+        <li>Can add or remove database objects within a corpus. Deleted database objects can be
+          found in the "Bin" tab, from where they can be deleted permanently.</li>
         <li>Can assign the status of Updater or Reader to other users who have access to a given
           corpus.</li>
-        <li>The  Updater/Reader status is irrelevant for the Admin, since the user role takes
-          precedence and automatically gives the Admin rights to edit database items.</li>
+        <li>The Updater/Reader status is irrelevant for the Admin, since the user role takes
+          precedence and automatically gives the Admin rights to edit database objects.</li>
         <li>Can alter the visibility of individual database objects in the Passport Editor (Main
           Tab).</li>
       </ul>
@@ -29,7 +29,7 @@
         <li>Admin cannot edit the passport data or name of an entire corpus if the corpus was
           created by someone else. Even if the entire corpus has a visibility status "Public", Admin
           user will still have a guest status when selecting the corpus. Admin has rights only for
-          individual items within the corpus. </li>
+          individual database objects within the corpus. </li>
         <li>Admin cannot create new corpora within a project.</li>
       </ul>
     </p>

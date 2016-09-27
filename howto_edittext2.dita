@@ -14,7 +14,7 @@
       like (POS-label, base translation(s), bibliographical references).</p>
     <p>Furthermore the editing process involves entering a translation in German, English or French,
       entering hieroglyphic writings of each text word and assigning <xref
-        href="grammar_flexioCodes.dita#concept_zjw_dsx_nt">inflection codes</xref> to the lemma. You
+        href="grammar_inflection.dita#concept_zjw_dsx_nt">inflection codes</xref> to the lemma. You
       can also add comments, rubra, etc. to the transliteration whenever you wish. The following
       order of editing is not compulsory. It is only supposed to help you with particular functions
       of the BTS. It is up to you to decide the order of the text editing.</p>

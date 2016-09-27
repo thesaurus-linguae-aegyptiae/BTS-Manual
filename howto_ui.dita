@@ -3,8 +3,9 @@
 <topic id="topic_t1b_tkq_zs">
   <title>Introduction to BTS User Interface</title>
   <body>
-    <p>This chapter provides the brief introduction to the BTS User Interface (UI). </p>
-    <p>The BTS program window is split into four major sections:</p>
+    <p>This chapter provides the brief introduction to the BTS User Interface (UI). For a detailled
+      description see the chapter <xref href="oberflaeche_e1.dita">BTS User Interface</xref> below.</p>
+    <p>The BTS window is split into four major sections:</p>
     <p>
       <ul id="ul_yxf_j2z_4t">
         <li><xref href="oberflaeche_menuleiste.dita">Menu bar</xref></li>
@@ -17,7 +18,7 @@
     <p>The Menu bar and the Toolbar are located at the top of the program window. At the bottom of
       the program window the Status bar is displayed. The area between Toolbar and Status bar is
       called Workspace. The contents of the Workspace change depending on the viewing mode. BTS has
-      four such modes, activated by clicking on a relevant button on the Toolbar: </p>
+      four such modes, activated by clicking on a appropriate button on the Toolbar: </p>
     <p><image href="Images/icons/full/icon16/corpora.png" id="image_fzs_xyx_qt"/>
       <u>Text Corpus view</u></p>
     <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ffx_yyx_qt"/>
@@ -26,9 +27,12 @@
       <u>Thesaurus view</u></p>
     <p><image href="Images/icons/full/icon16/abstracttexts.png" id="image_zpz_1zx_qt"/>
       <u>Abstract Text view</u></p>
-    <p>Within each view there is a number of windows, which may include tabs and sub-tabs. Tabs can
-      be freely moved and even drag-&amp;-dropped outside of the BTS program interface into a
-      separate window. </p>
+    <p>Within each view there is a number of windows, which may include tabs and sub-tabs. Any tab /
+      window of the workspace can be arranged according to the individual need of the user. You can
+      maximize / minimize them within the workspace or you can move them within the workspace or you
+      drag-&amp;-drop them outside the BTS program UI into a separate window. If you close the
+      separate window, you can restore the tab via the menu entry Window / Open [name of the tab] or
+      by restarting BTS. </p>
     <p>The default arrangement of the windows is currently the following (see the screen-shot
       below):</p>
     <p>
@@ -58,7 +62,7 @@
         <p>At the bottom three tabs are grouped together in one window. The Text Corpus and Lemma
           views display all three. Thesaurus and Abstract Text views have only "Passport Data
           Editor" tab. </p>
-        <p>NOTE: as soon as a database object is selected in the Navigator window, the titles of the
+        <p>NOTE: As soon as a database object is selected in the Navigator window, the titles of the
           tabs "Text Editor", "Passport Data Editor", "Lemmatizer" and "Translation" adopt the
           selected database object name.</p>
       </li>

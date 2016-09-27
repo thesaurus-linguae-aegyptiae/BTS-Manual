@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_usg_nz4_kx">
+  <title>Open Futon / Elastic Search GUI</title>
+  <body>
+    <p>This feature is only available to users with administrator privileges.</p>
+    <p>The administrator is enabled to open the futon and the "Elastic Search" graphic user
+      interface via "Window" > "Open Futon" or "Window" > "Open ES GUI", respectively, in the menu
+      bar.</p>
+    <p><b>Open Futon</b></p>
+    <p>Futon is a web-based GUI (graphic user interface), which provides a basic interface to the
+      majority of the functionality of CouchDB. This is a "backdoor" to your database, allowing you
+      to create, update, delete and view documents and access the configuration parameters. It shows
+      the source code of the database objects in JSON format.</p>
+    <p>For details see: http://docs.couchdb.org/en/1.6.1/intro/futon.html</p>
+    <p><b>Open ES GUI</b></p>
+    <p>This opens the "Elastic Search" graphic user interface with your standard internet browser.
+      It allows you to see the "backdoor" of the queries done in the BTS. </p>
+    <p>For details see: https://github.com/jettro/elasticsearch-gui</p>
+  </body>
+</topic>
