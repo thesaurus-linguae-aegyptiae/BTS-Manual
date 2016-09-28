@@ -4,19 +4,23 @@
   <title>Install BTS</title>
   <conbody>
     <p><b>Preparing the installation</b></p>
-    <p>Extract the BTS program package you received into the directory of your choice. It should
-      contain the following files: </p>
-    <p>- Installer (.exe file)</p>
-    <p>- Manual (.pdf file) </p>
-    <p>- Keyman Keyboard (aaew.kmx) </p>
-    <p>- BBAW Libertine Font (BBAWLibertine_ah.ttf) </p>
+    <p>Extract the BTS program package you received into the directory of your choice. The package
+      should contain the following: </p>
+    <p>
+      <ul id="ul_uxc_4nc_lx">
+        <li>The BTS-folder, containing system data, including the installer (bts.exe) and the manual
+          (.pdf file)</li>
+        <li>Keyman Keyboard (aaew.kmx)</li>
+        <li>BBAW Libertine Font (BBAWLibertine_ah.ttf) </li>
+      </ul>
+    </p>
     <p> NOTE: We recommend to create and use the "standard" directory on "C" drive: "c:\bts". </p>
     <p><b>Installing BTS</b></p>
     <p>Double-click "bts.exe". The "BTS Installation Wizard" will start. Fill out the required
       fields in the following windows: </p>
     <p>
       <ol id="ol_vlk_qsj_2s">
-        <li><u>Database Installation Settings</u><p>
+        <li><b>Database Installation Settings</b><p>
             <ul id="ul_y51_mtj_2s">
               <li><i>Database Installation Directory</i>: A standard location is automatically
                 entered here referring to: "c:\bts\dbdir". In case you have extracted your bts
@@ -26,18 +30,18 @@
                   <b>9089</b>.</li>
             </ul>
           </p></li>
-        <li><u>Welcome to the Berlin Text System Installation</u><p>
+        <li><b>Welcome to the Berlin Text System Installation</b><p>
             <ul id="ul_x14_b5j_2s">
               <li><i>Do you have a BTS Server URL?</i>: Click "Yes" if you want your data to be
                 shared and synchronized with the BTS server. Click "No" if you don't have access to
                 the BTS server and are going to work in the "standalone" mode. The button "Next"
                 will be activated only if you select one of the options. <p>NOTE: The software is
                   not yet optimized for working without BTS Server URL. Please always select "Yes"
-                  here. Furthermore, the server-link is necessary in the beginning in order to
-                  download the wordlist and other data from the server.</p></li>
+                  here, because the server-link is necessary in the beginning in order to download
+                  the wordlist and other data from the server.</p></li>
             </ul>
           </p></li>
-        <li><u>Server Connection</u><p>
+        <li><b>Server Connection</b><p>
             <ul id="ul_srb_d5j_2s">
               <li><i>Server URL</i>: Enter the URL of the server that you have access to. Standard
                 BTS Server address (including the port number) is:
@@ -50,7 +54,7 @@
                   connection was successful. </p></li>
             </ul>
           </p></li>
-        <li><u>Select Projects to Load</u><p>
+        <li><b>Select Projects to Load</b><p>
             <ul id="ul_b1c_g5j_2s">
               <li><i>Select your main working project</i>: The default option is "Altägyptisches
                 Wörterbuch BBAW". Another option is "Demotic".</li>
@@ -59,7 +63,7 @@
                 The project should then appear in the right text box. </li>
             </ul>
           </p></li>
-        <li><u>Finish Installation of BTS</u><p>Click "Finish" to finalize the installation. After
+        <li><b>Finish Installation of BTS</b><p>Click "Finish" to finalize the installation. After
             the installation the program will automatically start and the "Database Manager" window
             will open. If Windows-Firewall (or any other Firewall) asks you to grant "bts.exe"
             access to the system, confirm it.</p><p>NOTE: Although the "Database Manager" window
@@ -75,7 +79,7 @@
             password. You can activate "Remember me", so BTS will not ask you for user name and
             password again. You can change and deactivate this function in the <xref
               href="ui_berlintextsystem.dita">preferences</xref>.</p></li>
-        <li><u>Index data</u><p>Last but not least. All data imported from the server, must be
+        <li><b>Index data</b><p>Last but not least. All data imported from the server, must be
             indexed. Indexing enabels the search, as the query is not done in the database (which
             would take time), but in the document indexes.</p>In the upper left corner of the
           "Database manager" window click on "Re-index all" . The indexing process will start and

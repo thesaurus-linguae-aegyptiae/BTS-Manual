@@ -43,6 +43,11 @@
     <p/>
     <p><b>Transliteration</b> follows the BTS Conventions (see: <xref
         href="grammar_transliteration_system.dita"/>).</p>
+    <p>To enter the transliteration signs, you need to switch the keyboard layout by pressing "CRTL"
+      + "Shift" (Win XP, Win 7) or "Windows key" + "Space bar" (Win 8, Win 10). For the keyboard
+      layout see chapter <xref href="intro_keyboard.dita"/>.</p>
+    <p>The transliteration in BTS represents the <b>written forms</b> as they appear in the text,
+      not as they would be expected in the dictionary. </p>
     <p>NOTE: When you enter your transliteration, BTS will represent each sentence as on long line.
       To produce a line break click <image href="Images/icons/full/icon16/lemma-load.png"
         id="image_sws_dns_mr"/> (Load Text Lemmata) or switch between Sign Text Editor and
@@ -153,13 +158,12 @@
     <p/>
     <p><b>Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. Note that
-      you can create your own templates (<xref
-        href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>). You can access
-      the templates by right-clicking in Text Editor and choosing "Content Assist" or by pressing
-      "CRTL+Spacebar". Depending on the position of the cursor (within a sentence / word or outside
-      the sentence marked by §§) you will get a different set of templates to choose from. This can
-      be influenced by changing the "Context" of your templates (see <xref
-        href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>).</p>
+      you can create your own templates . You can access the templates by right-clicking in Text
+      Editor and choosing "Content Assist" or by pressing "CRTL+Spacebar". Depending on the position
+      of the cursor (within a sentence / word or outside the sentence marked by §§) you will get a
+      different set of templates to choose from. This can be influenced by changing the "Context" of
+      your templates (for more details see chapter <xref href="howto_templates.dita"/>).</p>
+    <p/>
     <p><b>Copy&amp;Paste functions</b></p>
     <p>BTS supports copy&amp;paste within the same text as well as between diffrent texts.</p>
     <p>

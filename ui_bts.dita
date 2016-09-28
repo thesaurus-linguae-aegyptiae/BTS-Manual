@@ -5,5 +5,42 @@
  <conbody>
     <p>This section provides a detailed description of the UI elements of the application. It is
       intended as a reference for the User and Administrator guides. </p>
+    <p>The Menu bar and the Toolbar are located at the top of the program window. At the bottom of
+      the program window the Status bar is displayed. The area between Toolbar and Status bar is the
+      Workspace. </p>
+    <p>
+      <ul id="ul_esg_5qc_lx">
+        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allowes to file and edit new projects,
+          to get access to different windows and to the preferences (with all settings of user and
+          databases).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_eys_5qc_lx">
+        <li>The <xref href="ui_toolbar_e3.dita">Toolbar</xref> offers a quick access via icons to
+          all functions like opening a context menu, save and undo function, displaying the name of
+          the current project and in the right margin opening one of the four different views to
+          work with.</li>
+      </ul>
+      <ul id="ul_tyk_vqc_lx">
+        <li>The <xref href="ui_workspace.dita">Workspace</xref> is a part of the BTS user interface
+          where all database records are entered and processed. Differents contents are edited
+          within the workspace, according to your mode of work, i.e. wether you edit texts, edit the
+          lemma list, work on the thesauri or create abstact texts. The Text Corpus View, the Lemma
+          View, the Thesaurus View and the Abstract Text View can be accessed via the toolbar. The
+          workspace of each view is subdivided into four windows: the Navigator window
+          (left/yellow), the Editor window (middle above/blue) and the Passport Editor window
+          (middle below/green) and the Annotation window (right/red).</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_zyy_vqc_lx">
+        <li>The <xref href="ui_statusbar.dita">Status bar</xref> at the bottom shows the path to the
+          data base object the user are currently working on.</li>
+      </ul>
+    </p>
+   <p/>
+    <p><image href="Images/new%20screenshots/BTS%20Screenshots/BTS_interface.png"
+        id="image_khq_rsc_lx"/></p>
   </conbody>
 </concept>

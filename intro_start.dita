@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_zzt_24c_lx">
+  <title>Start BTS</title>
+  <body>
+    <p>BTS starts automatically during the installation process. </p>
+    <p>Afterwards BTS is started by double-clicking "bts.exe". After the installation is completed,
+      this file serves to run the software.</p>
+    <p>BTS installer currently does not create BTS entries in the windows "Start" menu or on the
+      desktop. You can manually create a shortcut of the "bts.exe" and drag-&amp;-drop it into the
+      start menu, taskbar and desktop. Click/double click this icon to start the program. </p>
+  </body>
+</topic>

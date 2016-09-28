@@ -3,43 +3,85 @@
 <concept id="concept_ssc_drf_mr">
  <title>Introduction</title>
  <conbody>
-  <p>Welcome to Berlin Text System V 3.0 - a new version of the software, specially designed for
-   editing Ancient Egyptian texts! Its three major components - Text Editor, Lemma List and
-   Thesaurus - complement each other to guarantee the extensive word processing of Ancient Egyptian.
-   The back-end (technical side) and the user interface of the software have been completely
-   redesigned, now including the new database structure (Couch DB), the data format (JSON) and
-   search engine (Elastic search). </p>
-  <p>Text Editor provides tools for transliteration, translation, lemmatization (assigning a lemma
-   to a word), annotation and hieroglyphic transcription.</p>
-  <p>Lemma List contains an up-to-date list of Ancient Egyptian and Demotic lemmata, accessible for
-   any BTS user. The ability to modify the lemma list depends on the individual user rights. Each
-   lemma has passport data, transliteration and translation, as well as annotations and comments
-   attributed to it.</p>
-  <p>Thesaurus compiles the formalized vocabulary (also called "controlled vocabulary"), which is
-   used for the metadata of the database objects. Thesaurus entries are offered in the Passport
-   Editor section of the Text Corpus and Lemma views. </p>
-  <p>User Manual offers the overview of the features now available in BTS. </p>
+  <p>Welcome to Berlin Text System V 3.0 - a new Java software with a Couch DB database and an
+   Elastic search engine, specially designed for editing and annotating Ancient Egyptian texts! The
+   program supports entering Egyptian texts into a <b>Text Editor</b> and annotating all texts and
+   all words in different layers. One of the main task is the lexical and grammatical annotation of
+   text words. Using an integrated lemmatizer all text words are connected with the appropriate
+   entries in the <b>Lemma List</b>, which is constantly updated and contains all known words of the
+   Egyptian vocabulary. Furthermore all database objects are enriched with metadata, which are in
+   turn stored and organised by a controlled vocabulary of <b>Thesauri</b>. As an additional
+   structural element the layer of <b>Abstract Text</b> supports the mapping of different textual
+   witnesses of texts with a long textual tradition.</p>
+  <p>The four major components - Text Editor, Lemma List, Thesaurus and Abstract Text - complement
+   each other to guarantee the extensive word processing and analyzing Ancient Egyptian texts:</p>
+  <p>
+   <ul id="ul_wqg_qyb_lx">
+    <li>The <b>Text Editor</b> provides tools for transliteration, translation, lemmatization
+     (assigning a lemma to a word), enter hieroglyphic transcriptions via a Hieroglyphic Type Writer
+     and add annotations. Texts could be merged and arranged in a Text Corpus. The Text Editor is
+     the core of the BTS. </li>
+   </ul>
+   <ul id="ul_g1g_ryb_lx">
+    <li>The <b>Lemma List</b> contains two up-to-date lists of Pre-Coptic lemmata. These lists are
+     accessible for any BTS user. Each lemma has passport data, transliteration and translation, as
+     well as annotations and comments attributed to it.<p>
+      <ul id="ul_zvt_1bc_lx">
+       <li>A list of lemmata, which occur in Demotic script.</li>
+      </ul>
+     </p><p>
+      <ul id="ul_e5c_bbc_lx">
+       <li>A list of lemmata, which occur in Hieroglyphic or Hieratic script.</li>
+      </ul>
+     </p></li>
+   </ul>
+   <ul id="ul_hsx_zyb_lx">
+    <li>The <b>Thesaurus</b> compiles a controlled vocabulary, which is used for the metadata of the
+     database objects like date, location, provenance, etc. A controlled vocabulary for metadata is
+     neccessary to maintain data consistency and to allow effective and selective search functions.
+     All terms of a thesaurus reflect a semantic network of concepts including parent / child
+     relationships. Thesaurus entries are offered in the Passport Editor section either of the Text
+     Editor in the Text Corpus View or of the Lemma Editor in the Lemma view.</li>
+   </ul>
+   <ul id="ul_yzc_tzb_lx">
+    <li>The <b>Abstract Text</b> provides a tool to connect all versions of a text with a long
+     textual tradition via the modern segmentation of witnesses into paragraphs.</li>
+   </ul>
+  </p>
+  <p/>
+  <p>This User Manual offers the overview of the features now available in BTS. </p>
   <p>
    <ul id="ul_lwg_xy1_pt">
-    <li><b>Introduction</b> chapter provides the description of the system requirements as well as
-     step-by-step instructions for BTS installation and initial configuration. It also includes the
-     description of the user roles. </li>
+    <li>The <b>Introduction</b> chapter provides the description of the system requirements as well
+     as step-by-step instructions for BTS installation and initial configuration. It also includes
+     the description of the user roles. </li>
    </ul>
   </p>
   <p>
    <ul id="ul_a1f_mz1_pt">
-    <li><b>User guide</b> allows a prompt and easy start into using BTS.</li>
-    <li><b>Administrator guide</b> dwells on BTS features available for the user with administrator
-     privileges. </li>
+    <li>The <b>General User Guide</b> allows a prompt and easy start into using BTS and explains how
+     to edit an Egyptian text.</li>
+   </ul>
+   <ul id="ul_ebg_l1c_lx">
+    <li>The <b>Guide for advanced and privileged users</b> informs users with the given rights to
+     edit the lemma list and the thesaurus entries and provides administrators and editors</li>
    </ul>
   </p>
   <p>
    <ul id="ul_jhq_nz1_pt">
-    <li><b>BTS User Interface </b> is a detailed explanation of all elements available in the BTS
-     user interface. This chapter serves as a reference for "User guide" and "Administrator
-     guide".</li>
-    <li><b>BTS Grammar Rules </b> is a compilation of the rules BTS uses for transliteration and
-     transcription.</li>
+    <li>The <b>BTS User Interface</b> chapter is a detailed explanation of all elements available in
+     the BTS user interface. This chapter serves as a reference "Guide" chapters.</li>
+   </ul>
+   <ul id="ul_eqy_l1c_lx">
+    <li>The <b>BTS Grammar Rules</b> chapter is a compilation of the essential rules BTS uses for
+     transliteration and transcription.</li>
+   </ul>
+   <ul id="ul_i1f_zcc_lx">
+    <li>The <b>BTS troubleshooting</b> offers a workaround for occuring problems.</li>
+   </ul>
+   <ul id="ul_r53_cpd_lx">
+    <li>The <b>Glossery</b> gives on overview of the most important termsf or the description of the
+     BTS user interface.</li>
    </ul>
   </p>
  </conbody>

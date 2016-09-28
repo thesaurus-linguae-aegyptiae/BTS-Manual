@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_v4v_ttn_y5">
-  <title>Berlin Text System General</title>
+<topic id="topic_wzx_fgd_lx">
+  <title>Preferences</title>
   <body>
-    <p>Expanding the "Berlin Text System General" will present the following options: </p>
-    <p><b>Abstract Text Settings</b></p>
-    <p>Abstract Texts are currently not available. Once they are implemented, you can set your
-      configuration here.</p>
-    <p><b>Configuration</b></p>
-    <p>Currently the only available option is "Altägyptisches Wörterbuch (AAEW) (10)". Click "Apply"
-      to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
+    <p>To get to the "Preferences" window for individual settings, click either button <image
+        href="Images/icons/full/icon16/preferences.png" id="image_ilm_dg1_nr"/> in the left part of
+      the toolbar menu or on a drop-down entry "<image
+        href="Images/icons/full/icon16/preferences.png" id="image_svd_hg1_nr"/> Preferences..." in
+      the Menu bar / Preferences. For more details see BTS User Interface, chapter <xref
+        href="ui_preferences2.dita"/>.</p>
+    <p/>
+    <p>Expanding the <b>"Berlin Text System General"</b> will present several options. Those
+      applying to you for editing a text are the following:</p>
     <p><b>Corpus Settings</b></p>
     <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
       appear in the active corpora list on the right will not be accessed by BTS (this includes
@@ -23,6 +25,9 @@
       Corpus 2, but your main working corpus is Corpus 1. The new database object will be
         <i>physically</i> saved in Corpus 1, although in the Corpus Navigator it is displayed as a
       part of Corpus 2. </p>
+    <p>NOTE: As you are currently enabled to select a corpus as main working corpus for which you do
+      not have any rights, it might happen that by accident you create a database object for which
+      you then do not have any editing rights.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">
@@ -64,7 +69,8 @@
     <p>
       <ul id="ul_uy3_vl2_vt">
         <li>Default Visibility applies to all newly created objects. Defines a visibility status a
-          lemma will have by default after its creation.</li>
+          lemma will have by default after its creation. See also chapter <xref
+            href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
@@ -148,13 +154,19 @@
       </ul>
     </p>
     <p/>
-    <p><b>Restore Default</b></p>
-    <p>Click this button to delete all templates from the list.</p>
-    <p><b>Apply</b></p>
-    <p>Click here to confirm your changes.</p>
-    <p><b>OK</b></p>
-    <p>Confirms your changes and closes the window.</p>
-    <p><b>Cancel</b></p>
-    <p>Closes the window without saving the changes.</p>
+    <p>In the <b>"EgyDsl"</b> menu entry you can change the appearance of your BTS. This includes
+      applying different colours and scripts as well as importing and editing templates.</p>
+    <p><b>Syntax Coloring</b></p>
+    <p>This feature does not work in the current version.</p>
+    <p><b>Templates</b></p>
+    <p>This window offers you a functionality to create templates to make the transliteration input
+      easier. For example, you can define short cuts for line counts etc. While transliterating,
+      right-click a word and select "Content assist". Your template will be displayed at the end of
+      the list. Double click on it - it will be automatically inserted into the text. For a
+      detailled decription see the chapter <xref href="howto_templates.dita">Templates</xref>.</p>
+    <p/>
+    <p>To restore a default configurtation, click the "Restore Default" button. To confirm your
+      changes without closing the window click "Apply", to save and close click "OK". To reject all
+      changes, click "Cancel".</p>
   </body>
 </topic>

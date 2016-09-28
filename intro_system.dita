@@ -5,8 +5,8 @@
  <conbody>
   <p><b>Supported Operation Systems: Windows 7 SP1 64-bit </b>
   </p>
-  <p>BTS has been tested on Windows 7 SP1 64-bit and Windows 8.1 64-bit. We do not guarantee the
-   full functionality on other Windows OS (XP, Windows 10 or Windows Server). </p>
+  <p>BTS has been tested on Windows 7 SP1 64-bit, Windows 8.1 64-bit and Windows 10 64-bit. We do
+   not guarantee the full functionality on other Windows OS (XP or Windows Server). </p>
   <p><b>Required RAM: 4 GB</b></p>
   <p>Your local BTS installation will constantly communicate with the server, updating the data. BTS
    will synchronize and download all available database files, which are now about 2 GB large. Check

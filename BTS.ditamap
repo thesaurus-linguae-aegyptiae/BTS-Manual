@@ -5,8 +5,10 @@
  <topicref href="intro.dita">
   <topicref href="intro_system.dita"/>
   <topicref href="intro_install.dita"/>
+  <topicref href="intro_start.dita"/>
   <topicref href="intro_uninstall_update.dita"/>
   <topicref href="intro_init_config.dita">
+   <topicref href="intro_config.dita"/>
    <topicref href="intro_install_keyboard.dita"/>
    <topicref href="intro_keyboard.dita"/>
   </topicref>
@@ -18,7 +20,6 @@
    <topicref href="UserRoles_Guest.dita"/>
    <topicref href="UserRoles_sumup.dita"/>
   </topicref>
-  <topicref href="intro_ui_glossary.dita"/>
  </topicref>
  <topicref href="howto_general.dita">
   <topicref href="howto_ui.dita"/>
@@ -46,10 +47,7 @@
    <topicref href="howto_fontsize.dita"/>
    <topicref href="howto_adjusting_display.dita"/>
    <topicref href="howto_templates.dita"/>
-   <topicref href="ui_preferences2.dita">
-    <topicref href="ui_berlintextsystem.dita"/>
-    <topicref href="ui_egydsl.dita"/>
-   </topicref>
+   <topicref href="howto_prefs.dita"/>
    <topicref href="howto_changepassword.dita"/>
   </topicref>
   <topicref href="howto_searching.dita"/>
@@ -160,4 +158,6 @@
    <topicref href="inflection_verbs.dita"/>
   </topicref>
  </topicref>
+ <topicref href="troubleshooting.dita"/>
+ <topicref href="intro_ui_glossary.dita"/>
 </map>
