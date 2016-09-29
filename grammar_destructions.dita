@@ -10,8 +10,8 @@
   <p/>
   <p><b>General representation of gaps and lacunas</b></p>
   <p>If the number of words missing can precisely be determined (e.g. if the words are completely
-   lost, but with the determinatives preserved), use underscores in brackets "[___]". E.g.: "[___]
-   [___]" for 2 missing words. These representations are treated as words by BTS and can be
+   lost, but with the determinatives preserved), use three underscores in brackets "[___]". E.g.:
+   "[___] [___]" for 2 missing words. These representations are treated as words by BTS and can be
    lemmatized (see below).</p>
   <p>If words or even the number of missing words cannot be reconstructed, the lacuna has to be
    represented by the following notations. The marker "--...--" with two hyphens is reserved for

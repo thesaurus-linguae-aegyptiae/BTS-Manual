@@ -30,8 +30,8 @@
       version. You can navigate between the tabs to see the changes made in the respective versions.  </p>
     <p>To remove a conflicting version, right-click it in the list and apply "Remove Conflicting
       Revision".</p>
-    <p>NOTE: Due to technical reasons it might take several attemps to get the "Remove Conflicting
-      Revision" button.</p>
+    <p>NOTE: Due to technical reasons it might take several attemps to get to the "Remove
+      Conflicting Revision" button.</p>
     <p>Apply your changes by clicking "Save and Close" or reject them by clicking "Cancel".</p>
   </body>
 </topic>

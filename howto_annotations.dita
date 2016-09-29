@@ -9,66 +9,120 @@
       the n was omitted and later added in red: j((n)), this n cannot be marked as being written in
       red)"</p>
     <p><b>What is the difference between an annotation, a gloss, a rubrum or a comment?</b></p>
-    <p><i>Annotation</i> is intended to provide the extra-textual information for parts of the text,
-      which may include bibliographical references and other metadata. Annotations are not limited
-      to one fragment, they can be connected with more than one section of a text. You can use
-      annotation, for example, to divide your text into chapters (e.g. to define and seperate the
-      remedies of a medical text or the maxime Ptahhotep ) and other forms of alignment. Annotations
-      can be used for syntactic, stylistic, prosopographic information. Therefore, there are
-      different types and subtypes of annotations so that one can distinguish these types of
-      information. If you need further types and subtypes, please contact the BTS team in
-      Berlin.</p>
-    <p>NOTE: To seperate specific parts of a text, annotations are only used, if their sequence is
-      evident. To mark sections of a text in a case when the sequence of the chapters is not clear
-      or ambigous (e.g. first part being a biography and the next an offering scene or a Ptolemaic
-      temple scene is a text with various Beischriften. ), <i>Subtext</i> is used.</p>
-    <p><i>Gloss</i>  is a semantic or phonetic explanation of a passage in a text made by an ancient
-      scribe (not a modern comment!), written above the word or in the margin.</p>
-    <p><i>Rubrum</i> is used to mark rubrum in the text.</p>
-    <p><i>Comment</i> is an information to a text which can discuss problems of a phrase or a word
-      (unlike annotations, comments cannot have metadata such as e.g. bibliographical information). </p>
-    <p/>
-    <p><b>To edit a text, use buttons above the "Text Editor" tab</b></p>
-    <p>Mark the sequence you want to annotate: for only one word you just place the cursor within
-      the word; if the word comprises a single character only, place the cursor directly behind the
-      character). You can create more than one annotation for the same token, and vice versa, the
-      same annotation can be created for different tokens. </p>
+    <p>
+      <ul id="ul_kk3_3lj_lx">
+        <li><b>Annotation</b> is intended to provide the extra-textual information for parts of the
+          text, which may include bibliographical references and other metadata. Annotations are not
+          limited to one fragment, they can be connected with more than one section of a text. You
+          can use annotation, for example, to divide your text into chapters (e.g. to define and
+          seperate the remedies of a medical text or the maxime Ptahhotep ) and other forms of
+          alignment. Annotations can be used for syntactic, stylistic, prosopographic information.
+          Therefore, there are different types and subtypes of annotations so that one can
+          distinguish these types of information. If you need further types and subtypes, please
+          contact the BTS team in Berlin.<p>NOTE: To seperate specific parts of a text, annotations
+            are only used, if their sequence is evident. To mark sections of a text in a case when
+            the sequence of the chapters is not clear or ambigous (e.g. first part being a biography
+            and the next an offering scene or a Ptolemaic temple scene is a text with various
+            Beischriften. ), <b>Subtext</b> is used.</p></li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_f1y_jlj_lx">
+        <li><b>Gloss</b> is a semantic or phonetic explanation of a passage in a text made by an
+          ancient scribe (not a modern comment!), written above the word or in the margin.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_kdd_klj_lx">
+        <li><b>Rubrum</b> is used to mark rubrum in the text.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_k1s_klj_lx">
+        <li><b>Comment</b> is an information to a text which can discuss problems of a phrase or a
+          word (unlike annotations, comments cannot have metadata such as e.g. bibliographical
+          information). </li>
+      </ul>
+    </p>
+    <p><b>Annotating a text</b></p>
+    <p>To annotate a text, use the buttons above the "Text Editor" tab. Mark the sequence you want
+      to annotate: for only one word you just place the cursor within the word; if the word
+      comprises a single character only, place the cursor directly behind the character). You can
+      create more than one annotation for the same token, and vice versa, the same annotation can be
+      created for different tokens. </p>
     <p>NOTE: If buttons are deactivated, click somewhere outside of your text and then again in
       it.</p>
-    <p>NOTE: You cannot delete any annotation via the "Undo" button.</p>
-    <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
-      <u>Add Annotation</u>
+    <p>
+      <ul id="ul_vgj_mlj_lx">
+        <li><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
+          <b>Add Annotation</b>: Adds an <xref href="howto_annotations.dita">Annotation</xref> to
+          the selected part of your text. A grey bar appears in the "Annotation" tab to the right,
+          with a thin like marking which part of the text the annotation refers to. It is possible
+          to enter Passport Data, as you may want to provide metadata (extra-textual information).
+        </li>
+      </ul>
     </p>
-    <p>Adds an <xref href="howto_annotations.dita">Annotation</xref> to the selected part of your
-      text. A grey bar appears in the "Annotation" tab to the right, with a thin like marking which
-      part of the text the annotation refers to. It is possible to enter Passport Data, as you may
-      want to provide metadata (extra-textual information). </p>
-    <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
-      <u>Add Rubrum</u>
+    <p>
+      <ul id="ul_q24_mlj_lx">
+        <li><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
+          <b>Add Rubrum</b>: Converts the selected part of the text into a rubrum, which is
+          indicated by red color of the text and a grey bar on the right. </li>
+      </ul>
     </p>
-    <p>Converts the selected part of the text into a rubrum, which is indicated by red color of the
-      text and a grey bar on the right. </p>
-    <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
-      <u>Add Glosse</u>
+    <p>
+      <ul id="ul_qfs_mlj_lx">
+        <li><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
+          <b>Add Glosse</b>: Clicking on a button will add a "child"-element of your text in the
+          corpora tree. The gloss can be edited like a regular text. Once it is created, it is first
+          labelled "BTS Text". You have to rename it and enter passport data etc.</li>
+      </ul>
     </p>
-    <p>Can be used as either a subtext or a gloss. Clicking on a button will add a "child"-element
-      of your text in the corpora tree. The gloss can be edited like a regular text. Once it is
-      created, it is first labelled "BTS Text". You have to rename it and enter passport data
-      etc.</p>
-    <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
-      <u>Add Comment</u>
+    <p>
+      <ul id="ul_vvv_mlj_lx">
+        <li><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
+          <b>Add Comment</b>: Adds a comment to the selected part of the transliteration. This will
+          be underlined yellow.</li>
+      </ul>
     </p>
-    <p>Adds a comment to the selected part of the transliteration. This will be underlined
-      yellow.</p>
     <p>You can also use these functions via the drop-down menu that appears when you click on the
       triangle to the right of the annotation symbols.</p>
     <p>The existing annotations are displayed in the <xref
         href="ui_annotations.dita">Annotation tab</xref> on the right. A new
       annotation will appear at the bottom of this list. With the arrow on the right you can expand
       the annotation and see more information as well as further editing options. </p>
+    <p><b>Deleting annotations</b></p>
     <p>You can delete the annotation by selecting it and clicking <image
         href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/>
       <u>Delete</u> in the upper right corner of the Annotations tab. A confirmation window will
       appear, click "Delete" to confirm or "Cancel" if you have changed your mind.</p>
+    <p>NOTE: You cannot delete any annotation via the "Undo" button.</p>
+    <p><b>Editing annotations</b></p>
+    <p>Once you have created an annotation, rubrum, glosse, or comment, you are enabled to edit
+      them: </p>
+    <p>
+      <ul id="ul_gvl_xjj_lx">
+        <li>Cick <image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> to edit the
+          content and the metadata of the annotation.</li>
+      </ul>
+      <ul id="ul_nsk_kkj_lx">
+        <li>Use <image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/> to add
+          a futher text selction to the annotation, e.g. if you make a comment on a word that occurs
+          several times in your text.</li>
+      </ul>
+      <ul id="ul_dvm_kkj_lx">
+        <li>Use <image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/> to
+          remove a current reference. This only removes the link between the annotation and the
+          text. It does not delete the annotation.</li>
+      </ul>
+    </p>
+   <p><b>Using filters</b></p>
+    <p>You can use filters to hide or display specific types or subtypes of annotation, e.g. you can
+      hide all rubra from the list or display only comments. Select the filter by clicking <image
+        href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/> in the
+      Annotation tab.   </p>
+    <p>NOTE: When you text is loaded, BTS loads all annotations, filters them according to you
+      filter settings and then displays the first 40 annotations. Annotations that are not displayed
+      will appear in the list as soon as you click on the annotated token in the Transliteration
+      Editor.</p>
   </conbody>
 </concept>

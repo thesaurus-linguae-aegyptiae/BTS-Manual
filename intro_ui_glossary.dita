@@ -8,40 +8,45 @@
       <p><ul id="ul_udd_vkp_ps">
             <li>Menu bar</li>
             <li>Drop-down menu</li>
-            <li>Drop-down menu entry<p><image
+            <li>Drop-down entry<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Menu%20bar.png"
                      id="image_gmt_dyw_st"/></p></li>
             <li>Toolbar </li>
-            <li>Toolbar entry<p><image
+            <li>Toolbar Icon<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Toolbar.png"
                      id="image_flf_4yw_st"/></p></li>
             <li>Icon</li>
             <li>ToolTip (only activated by mouseover)<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png"
                      id="image_ptv_pyw_st"/></p></li>
-            <li>Workspace / Workspace mode</li>
+            <li>Workspace: main working field between Toolbar and Statusbar in which the user can
+               switch in one of for different views / workspace modes</li>
+            <li> View / Workspace mode: the Text corpus view, the Lemma view (Lemma list), the
+               Thesaurus view (Management of Metadata) and the special level Abstract text view.
+               These four Views differs according to the different contents and each shows own
+               windows. The default setting of the Workspace is the Text Corpus view for edit und
+               annotate texts. </li>
             <li>Viewing mode</li>
          </ul><image
             href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
             id="image_qp5_syw_st"/><ul id="ul_j4y_5vm_y5">
-            <li>Navigation tree </li>
+            <li>Navigator tree </li>
             <li>Node (= Branch) - entry in a navigation tree, which can be further expanded, ex.
-               text corpus, text corpus object or a text.  <p><image
+               text corpus, text corpus object or a text<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
                      id="image_vgm_5yw_st"/></p><p/><p>Moreover the following terms are
                used:</p></li>
-            <li>Database object: any element (item) of the database (text, word, physical object
-               etc.)</li>
-            <li>Text corpus object: an item of the corpus database, which is not a text, mainly
-               referring to a physical object. Texts and text corpus objects are in child-parent
+            <li>Database object: any element (item) of the database</li>
+            <li>Text Corpus Object: an item of the corpus database, which is not a text, mainly
+               referring to a physical object. Texts and Text Corpus Objects are in child-parent
                relation, i.e. text is always attributed to the object.</li>
             <li>Child-parent relation: the relation of subordination between two items of the
-               database. </li>
-            <li>Lemma: the canonical form (dictionary form) of a set of words. </li>
+               database</li>
+            <li>Lemma: the canonical form (dictionary form) of a set of words</li>
             <li>Token: the representation of a lemma in the text (word form)</li>
             <li>Local and remote databases: local databases are running on user's PCs, remote
-               databases are located on BTS central server in Berlin. </li>
-            <li>WCN: word corpus number, i.e. the ID of the lemma.</li>
+               databases are located on BTS central server in Berlin</li>
+            <li>WCN: word corpus number, i.e. the ID of the lemma</li>
          </ul></p>
    </conbody>
 </concept>

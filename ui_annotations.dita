@@ -49,18 +49,15 @@
    lower input field. Below there is also a section where you can see or edit a relation of the
    comment to the text, using the ID.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
-   <u>Delete</u>: Will delete the currently selected element.</p>
+   <i>Delete</i>: Will delete the currently selected element.</p>
   <p><image href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/>
    <i>Filter</i>: Here you find a filter hide or display specific types or subtypes of annotation,
    e.g. you can hide all rubra from the list or display only comments.</p>
-  <p>NOTE: When you text is loaded, BTS does not load all annotations, but only
-   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>200<?oxy_custom_end?>. This
-   number is then filtered according to your selection. That means, if you text has 250 rubra and 50
-   comments and you want to hide all rubra, it might happen, that only a few or maybe none of the
-   comments is displayed. To load and display the comment, click on the annotated token in the
-   Transliteration Editor.</p>
+  <p>NOTE: When you text is loaded, BTS loads all annotations, filters them according to you filter
+   settings and then displays the first 40 annotations. Annotations that are not displayed will
+   appear in the list as soon as you click on the annotated token in the Transliteration Editor.</p>
   <p>To learn more about annotations refer to the <xref href="howto_annotations.dita">"Annotations"
-    section</xref> in the "User guide". </p>
+    section</xref> in the "General User guide". </p>
   <p><b>Text translation</b></p>
   <p>The "Text translation" section shows a consequent, sentence-by-sentence, translation, which
    makes a continuous proofreading possible. The drop-down menu "Languages" <image

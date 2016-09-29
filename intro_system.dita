@@ -7,11 +7,12 @@
   </p>
   <p>BTS has been tested on Windows 7 SP1 64-bit, Windows 8.1 64-bit and Windows 10 64-bit. We do
    not guarantee the full functionality on other Windows OS (XP or Windows Server). </p>
-  <p><b>Required RAM: 4 GB</b></p>
-  <p>Your local BTS installation will constantly communicate with the server, updating the data. BTS
-   will synchronize and download all available database files, which are now about 2 GB large. Check
-   your internet-connection and make sure it's working, otherwise BTS will be in offline-mode and
-   will not be able to synchronize with the server.</p>
+  <p><b>Required RAM</b></p>
+  <p>BTS requieres minumum 2 GB RAM. To work fluently we recommand at least 4 GB RAM. Your local BTS
+   installation will constantly communicate with the server, updating the data. BTS will synchronize
+   and download all available database files, which are now about 2 GB large. Check your
+   internet-connection and make sure it's working, otherwise BTS will be in offline-mode and will
+   not be able to synchronize with the server.</p>
   <p><b>Attention Mac and Linux users</b></p>
   <p>At the moment BTS does not support Mac or Linux OS. As a "workaround" we suggest using a
    virtual machine with Windows such as WINE and running BTS there. Popular VM solutions for Mac

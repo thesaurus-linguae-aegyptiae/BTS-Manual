@@ -154,8 +154,9 @@
       </ul>
     </p>
     <p/>
-    <p>In the <b>"EgyDsl"</b> menu entry you can change the appearance of your BTS. This includes
-      applying different colours and scripts as well as importing and editing templates.</p>
+    <p>In the <b>"EgyDsl"</b> menu entry (Dsl = Domain Specific Language) you can change the
+      appearance of your BTS. This includes applying different colours and scripts as well as
+      importing and editing templates.</p>
     <p><b>Syntax Coloring</b></p>
     <p>This feature does not work in the current version.</p>
     <p><b>Templates</b></p>
