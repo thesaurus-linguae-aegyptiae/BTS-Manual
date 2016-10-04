@@ -20,8 +20,5 @@
     <p>For detailed description of passport editor fields and how there are used see the chapter
         <xref href="ui_passporteditor.dita">Passport Editor</xref> below.</p>
     <p/>
-    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
-    <p>Link to the video.</p>
-    <?oxy_custom_end?>
   </body>
 </topic>

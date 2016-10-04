@@ -44,10 +44,15 @@
     <p><b>Transliteration</b>
     </p>
     <p>The transliteration follows the BTS Conventions (see: <xref
-        href="grammar_transliteration_system.dita"/>). To enter the transliteration signs, you need
-      to switch the keyboard layout by pressing "CRTL" + "Shift" (Win XP, Win 7) or "Windows key" +
-      "Space bar" (Win 8, Win 10). For the keyboard layout see chapter <xref
-        href="intro_keyboard.dita"/>.</p>
+        href="grammar_transliteration_system.dita"/>). Do not use the transliteration system
+      established by Wolfgang Schenkel. These characters are not valid in the BTS text editor, but
+      you are enabled to use it for instance in comments. Here you may also use Coptic, Greek,
+      Hebrew etc. as long as the characters are available in unicode and are supported by the
+      BBAWLibertine font. Coptic script (unicode) is also allowed in the text editor.</p>
+    <p>To enter the transliteration signs, you need to switch the keyboard layout by pressing "CRTL"
+      + "Shift" (Win XP, Win 7) or "Windows key" + "Space bar" (Win 8, Win 10). For the keyboard
+      layout see chapter <xref href="intro_keyboard.dita"/>.</p>
+    <p/>
     <p>The transliteration in BTS represents the <b>written forms</b> as they appear in the text,
       not as they would be expected in the dictionary. </p>
     <p>The <b>dual and plural endings</b> are transliterated with ".w" or ".wj/.tj" when written
@@ -71,9 +76,14 @@
     <p>
       <ul id="ul_ugx_ryw_ns">
         <li>Line counts according to the physical object are introduced by #lc: and end with
-            <b>#</b>. The numbers (arabic numerals) are written in square brackets. E.g.: Line 1 =
-          #lc: [1]#. If the line break in the original text occurs within the borders of a word, the
-          line count is to be placed after the respective word.</li>
+            <b>#</b>. The numbers (arabic numerals) are written in square brackets, e.g.: Line 1 =
+          #lc: [1]#. <p>Use the line cout of a principle edition if it follows the line count of the
+            physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc: [12.4]#.</p><p>For <b>columns</b>
+            use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line break in the original text occurs
+            within the borders of a word, the line count is to be placed after the respective
+            word.</p></li>
+      </ul>
+      <ul id="ul_bvp_4w5_mx">
         <li>For line count according to synoptic editions used to align multiple versions of a text,
           as a kind of milestone use #para: ...#. E.g.: CT VI 106a = #para: CT VI 106a#.</li>
       </ul>
@@ -91,7 +101,7 @@
         <li>For the description of representations to which text refers, use "#descr: #", e.g.
           #descr: Amun, thronend#</li>
         <li>Other descriptions without reference can be added freely between two "#", e.g. #3Q sind
-          leer gelassen#.</li>
+          leer gelassen# / #3Q left empty#.</li>
       </ul>
     </p>
     <p/>

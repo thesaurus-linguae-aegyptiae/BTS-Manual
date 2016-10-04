@@ -4,14 +4,15 @@
  <title>Brackets</title>
  <conbody>
   <p>Only consonants of words or full words that are destroyed or partially destroyed are allowed to
-   be put into brackets “[ ]” / “⸢ ⸣“ if signs representing the consonants are intrinsically part of
-   the writing. This means that the consonants that are complements of fully existing ideograms
+   be put into brackets (“[ ]” / “⸢ ⸣“), if signs representing the consonants are intrinsically part
+   of the writing. This means that the consonants that are complements of fully existing ideograms
    should not be surrounded by brackets. If a word is partially destroyed but is still fully
    readable (that happens if a determinative or a complement is destroyed, but the word is clearly
-   written) then there is no need for a bracket.</p>
+   written) then there is no need for a bracket, unless there is no ambiguity possible, e.g. because
+   of homography.</p>
   <p>
    <ul id="ul_qzy_g2g_cv">
-    <li>Example: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
+    <li>Example 1: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
       id="image_ghr_yy5_wt"/> has to be transcribed as “<i>nfr</i>”, not “<i>nf[r]</i>”.</li>
    </ul>
   </p>

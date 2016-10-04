@@ -29,8 +29,8 @@
   <p>At the top of the Corpus Navigator section there are several buttons. Two of them, <image
     href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
     href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/>, are also available in
-   other windows and are therefore explained in the <xref href="ui_commonfeatures.dita"
-    >Common features</xref> section. </p>
+   other windows and are therefore explained in the <xref href="ui_commonfeatures.dita">Common
+    features</xref> section. </p>
   <p>Corpus Navigator-specific buttons are the following: </p>
   <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r"/>
    <u>Create New Text Corpus</u></p>
@@ -42,15 +42,15 @@
    the Passport Editor. </p>
   <p>NOTE: The physical location where the child element is saved is the active corpus by default.
    But if you chosen a stable main working corpus in the <xref
-    href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>, the new
-   element is physically saved in this corpus.</p>
+    href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>, the new element is
+   physically saved in this corpus.</p>
   <p><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r"/>
    <u>Add Text </u></p>
   <p>Adds a "child" text to the selected node. It is called "BTS Text" unless you rename it in the
    Passport Editor. </p>
   <p>NOTE: The physical location where the child element is saved is not the active corpus but your
-   main working corpus you have chosen in the <xref
-    href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>.</p>
+   main working corpus you have chosen in the <xref href="ui_preferences2.dita#concept_trz_tw2_yr"
+    >Preference Settings</xref>.</p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
    <u>Add Annotation </u></p>
   <p>Adds an annotation to the selected node. </p>
@@ -96,13 +96,7 @@
    <ul id="ul_cxf_l1y_bv">
     <li>Open Conflict Dialog: If two users work simultanously on a database object, it is possible,
      that they produce different versions at the same time. The conflict dialog solves the problem,
-     which version is the preferable one (see <xref href="ui_edit.dita">Menu bar >
-      Edit</xref>)</li>
-   </ul>
-  </p>
-  <p>
-   <ul id="ul_vv3_p1y_bv">
-    <li>Present</li>
+     which version is the preferable one (see <xref href="ui_edit.dita">Menu bar > Edit</xref>)</li>
    </ul>
   </p>
   <p>

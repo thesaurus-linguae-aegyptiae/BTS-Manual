@@ -66,11 +66,11 @@
             </row>
             <row>
               <entry>Passive (<i>tw/tj</i>)</entry>
-              <entry>x</entry>
+              <entry>x (by using "(...)", e.g. <i>sḏm.t(w)=f</i>)</entry>
             </row>
             <row>
               <entry>Contigent</entry>
-              <entry>x</entry>
+              <entry>x (by using "〈...〉", e.g. <i>sḏm〈.jn〉=f</i>)</entry>
             </row>
             <row>
               <entry>Passive (<i>sḏm.w=f</i>)</entry>
@@ -111,6 +111,6 @@
     <p/>
     <p><b>Numerus</b></p>
     <p>Ideographic writings of numerus are not to be represented phonetically but designated through
-      “.pl” and “.du”.</p>
+      “.pl” and “.du”. For details see chapter <xref href="grammar_structure_convention.dita"/>.</p>
   </body>
 </topic>

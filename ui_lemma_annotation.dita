@@ -12,13 +12,19 @@
     id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are placed in the toolbar of the
    Lemma Navigator (at the left side of the workspace). Each annotation or comment offers
    additionally the following functions:</p>
-  <p><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/> Update Current
-   Reference</p>
-  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/> Remove Current
-   Reference </p>
-  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> Edit Comment or Edit
-   Annotation</p>
-  <p>Clicking on the "Edit Annotation" will display the passport editor for annotations . Each
+  <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
+   <b>Add Current Text Selection as Reference</b>: The selected part is referenced to the current
+   annotation or comment.</p>
+  <p><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/>
+   <b>Update Current Reference</b>: The selected part is referenced to the current annotation or
+   comment.</p>
+  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
+   <b>Remove Current Reference</b>: The selected part is removed from the current annotation or
+   comment.</p>
+  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
+   <b>Edit Comment or Edit Annotation</b>: This opens a window to edit the content of annotations
+   and comments.</p>
+  <p>Clicking on the "Edit Annotation" will display the passport editor for annotations. Each
    annotation will have its own ID and its relation to the chosen lemma will be shown in the
    "Relations" tab. </p>
   <p>By clicking the "Edit Comment" button, a "Comment Editor" a window will appear. You can enter
@@ -26,7 +32,7 @@
    lower input field. Below there is also a section where you can see or edit a relation of the
    comment to the lemma, using the ID.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
-   <u>Delete</u>: Will delete the currently selected element.</p>
+   <b>Delete</b>: Will delete the currently selected element.</p>
   <p>To learn more about annotations refer to the <xref href="howto_annotations.dita">"Annotations"
     section</xref> in the "User guide". </p>
  </conbody>

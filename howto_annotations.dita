@@ -90,6 +90,12 @@
         href="ui_annotations.dita">Annotation tab</xref> on the right. A new
       annotation will appear at the bottom of this list. With the arrow on the right you can expand
       the annotation and see more information as well as further editing options. </p>
+    <p>NOTE: All annotations to the transliterated tokens (including lemmatization) are anchored to
+      the first and the last element of the token or the series of tokens, respectively. That means,
+      if you make changes to the first and the last element in the texteditor, the annotations loose
+      their link to the token. If you need to make changes to an already lemmatized and/or annotated
+      token, switch to the Sign Text Editor and make the changes in the field "Selected Word" (see
+      also <xref href="howto_lemmatizing.dita"/>).</p>
     <p><b>Deleting annotations</b></p>
     <p>You can delete the annotation by selecting it and clicking <image
         href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/>
@@ -108,6 +114,10 @@
         <li>Use <image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/> to add
           a futher text selction to the annotation, e.g. if you make a comment on a word that occurs
           several times in your text.</li>
+      </ul>
+      <ul id="ul_ock_vqv_mx">
+        <li>You may also click <image href="Images/icons/full/icon16/chain-edit.png"
+            id="image_zwn_fv3_sr"/> to add a further text selection to the annotaion.</li>
       </ul>
       <ul id="ul_dvm_kkj_lx">
         <li>Use <image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/> to
