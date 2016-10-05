@@ -10,18 +10,19 @@
           Currently it is recommended to use this field only. Divide your bibliographic items with
           ENTER. At the end of each item, give the following information separated with comma in
           square brackets:<ul id="ul_b44_xgm_hx">
-            <li>A for squeeze</li>
-            <li>B for bibliography</li>
-            <li>F for faksimile</li>
-            <li>H for hand copy</li>
-            <li>K for comment</li>
-            <li>L for site plan</li>
-            <li>P for photo</li>
-            <li>T for transcription from Hieratic</li>
-            <li>U for transliteration</li>
-            <li>Ü for translation</li>
+            <li>A for squeeze ("<b>A</b>bklatsch")</li>
+            <li>B for bibliography ("<b>B</b>ibliography")</li>
+            <li>F for faksimile ("<b>F</b>aksimile")</li>
+            <li>H for hand copy ("<b>H</b>andkopie")</li>
+            <li>K for comment ("<b>K</b>ommentar")</li>
+            <li>L for site plan ("<b>L</b>ageplan")</li>
+            <li>P for photo ("<b>P</b>hoto")</li>
+            <li>T for transcription from Hieratic ("<b>T</b>ranskription")</li>
+            <li>U for transliteration ("<b>U</b>mschrift")</li>
+            <li>Ü for translation ("<b>Ü</b>bersetzung")</li>
           </ul><ul id="ul_wkj_1sm_hx">
-            <li>The asterisk (*) marks the leading reference.</li>
+            <li>The asterisk (*) marks the leading reference you have used for your BTS
+              edition.</li>
           </ul><p>Examples:</p><p>
             <ul id="ul_wlr_bhm_hx">
               <li>D. Bidoli, in: MDAIK 28, 1973, 193-200 [P, Ü, K]</li>

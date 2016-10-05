@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_dzk_2wf_mr">
- <title>2. Translation</title>
+ <title>Translation</title>
  <conbody>
   <p>You can enter the translation of individual sentences in the text input field "Sentence
             translation" of the text editor. This window will remain deactivated (greyed out) during

@@ -4,8 +4,8 @@
  <title>Inflection Codes</title>
  <shortdesc></shortdesc>
  <conbody>
-  <p>To each word form (token) an infection code should be assigned. Uninflected forms, for example
-   substantives in singular and status absolutus, get the code "3". In the following the example
-   will be given, explaining the inflection codes of verbs with suffix conjugation.  </p>
+  <p>To each word form (token) an inflection code should be assigned. Uninflected forms, for example
+      substantives in singular and status absolutus, get the code "3". In the following the example
+      will be given, explaining the inflection codes of verbs with suffix conjugation. </p>
  </conbody>
 </concept>

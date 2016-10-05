@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_w4c_cxf_mr">
- <title>4. Annotations, Rubra, Glosses and Comments</title>
+ <title>Annotations, Rubra, Glosses and Comments</title>
  <conbody>
     <p>BTS text editing tools include an annotation, a rubrum, a gloss or a comment, which can be
       applied to a word or a sequence of words, a sentence or several sentences. </p>

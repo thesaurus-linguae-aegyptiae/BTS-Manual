@@ -33,6 +33,7 @@
     <topicref href="howto_lemmatizing_numbers.dita"/>
     <topicref href="howto_lemmatizing_unknownwords.dita"/>
    </topicref>
+   <topicref href="howto_encoding.dita"/>
    <topicref href="howto_annotations.dita"/>
    <topicref href="howto_corpus_enterhieros2.dita">
     <topicref href="howto_destructions.dita"/>

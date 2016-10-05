@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_dlt_2db_nx">
+  <title>Encoding Inflection</title>
+  <body>
+    <p>To ecode the inflection, switch to the Sign Text Editor and activate the Lemmatizer. </p>
+    <p>Assign an inflection code to each word form (token). The inflection codes apply to forms that
+      are distinguished morphologically. It does not encode forms that depend on grammar theory,
+      that means there is no differentation between morphological identical <i>sḏm=f</i>-Forms. For
+      a list of codes see <xref href="grammar_inflection.dita"/>.</p>
+    <p>Experience has learned that it is better to lemmatize a text first and afterwards fill out
+      the field "Flexion". If you want to encode the inflection during the lemmatization process,
+      type the approriate code (see <xref href="grammar_inflection.dita">Inflection codes</xref>)
+      into the field "Flexion" before or after you have selected the lemma and than confirm with
+        <image href="Images/icons/full/icon16/lemma-ok.png" id="image_zt4_fvf_fx"/>. If you choose
+      to encode the inflection after you have finished the lemmatization (as we recommand), you can
+      use the button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png"
+        id="image_zxg_dks_2x"/> to proceed to the next not yet inflected word. You can also use the
+      ENTER key to confirm and proceed.</p>
+    <p/>
+    <p>NOTE: The button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png"
+        id="image_p42_hvf_fx"/> brings you to the next word with default inflection code, i.e. if
+      you defined "Default Inflexion = 3" in the preferences, the button brings you to the next word
+      with inflection code 3, although you might already have entered this code as the correct
+      form.</p>
+  </body>
+</topic>
