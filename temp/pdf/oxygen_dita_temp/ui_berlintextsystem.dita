@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_v4v_ttn_y5" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="title:1;4:10">Berlin Text System General</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:1;6:8">Expanding the "Berlin Text System General" will present the following options: </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:2;7:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:1;7:11">Abstract Text Settings</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:3;8:8">Abstract Texts are currently not available. Once they are implemented, you can set your
+      configuration here.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:4;10:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:2;10:11">Configuration</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:5;11:8">Currently the only available option is "Altägyptisches Wörterbuch (AAEW) (10)". Click "Apply"
+      to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:6;13:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:3;13:11">Corpus Settings</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:7;14:8">Here you can choose a set of corpora you are going to work with. Every corpus that does not
+      appear in the active corpora list on the right will not be accessed by BTS (this includes
+      diaplay in the Navigator tree and search querries). To activate a corpus select it in the list
+      on the left and then click "Add". To remove the corpus from your working list, select it and
+      click Remove. Add all / Remove all will add or remove all available corpora to or from the
+      active corpora list. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:8;20:8">The check-box "Activate to select main working corpus" has a specific function. If it is
+      activated all new text or database objects created in the "Corpus Navigator" window will be
+      physically saved in the selected corpus. For example in the Corpus Navigator you have selected
+      Corpus 2, but your main working corpus is Corpus 1. The new database object will be
+        <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="i:1;24:12">physically</i> saved in Corpus 1, although in the Corpus Navigator it is displayed as a
+      part of Corpus 2. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:9;26:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:4;26:11">Corpus Navigator Settings </b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:10;27:8">
+      <ul id="ul_ndc_wl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:1;28:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:1;29:13">Check box "Corpus Navigator sort by sort key". By default, all objects on the same level
+          have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey in the
+          Passport data of the object will change its position regarding other objects, "0" being on
+          top. See <xref href="ui_maintab.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="xref:1;32:49" type="concept"><?ditaot usertext?>Main Tab</xref>.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:11;35:8">
+      <ul id="ul_egq_wl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:2;36:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:2;37:13">Default Visibility applies to all newly created objects. Defines a visibility status a
+          corpus will have by default after its creation.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:12;41:8">
+      <ul id="ul_fdd_xl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:3;42:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:3;43:13">Default Review State applies to all newly created objects. Like the "Default Visibility"
+          above, this defines a review state which a corpus will have directly after its
+          creation.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:13;48:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:5;48:11">Lemma List Settings </b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:14;50:8">Here you can choose a project with a main working lemma list. All new lemmas will be saved in
+      this project. You can currently choose Altägyptisches Wörterbuch BBAW and Demotic. If you
+      choose both, the combined lemma list will be displayed in "Lemma Navigator". If you work with
+      texts in Demotic script, please select Demotic as main working lemma list. Otherwise, select
+      Altägyptisches Wörterbuch BBAW.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:15;55:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:6;55:11">Lemma Navigator Settings</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:16;56:8">
+      <ul id="ul_gvc_vl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:4;57:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:4;58:13">Check box "Lemma Navigator sort by sort key". Per default all objects on the same level
+          have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
+          Passport data of the object will change its position relevant to other objects, "0" being
+          on top. </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:17;64:8">
+      <ul id="ul_uy3_vl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:5;65:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:5;66:13">Default Visibility applies to all newly created objects. Defines a visibility status a
+          lemma will have by default after its creation.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:18;70:8">
+      <ul id="ul_ylp_vl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:6;71:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:6;72:13">Default Review State applies to all newly created objects. Like the "Default Visibility"
+          above, this defines a review state which a lemma will have directly after its
+          creation.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:19;77:8">NOTE: Default Visibilty and Default Review State apply to all newly created database objects,
+      also including annotations, rubra, comments etc. Currenly there is no feature available to
+      apply changes in the visibilty and review state to child elements. That means, if e.g. your
+      default visibility is "reader", you have to change all TCObjects, Texts, annotations, rubra
+      etc. to "public" manually once you want to publish your text in the TLA.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:20;82:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:7;82:11">Lemmatizer</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:21;84:8">The Lemmatizer allows you to set a default inflection (the programmes default inflection is
+      "3") and activate the check box "Automatically select first lemma proposal". The latter
+      feature enables you to navigate through the proposed lemmata via the arrow keys of you
+      keyboard. More on grammatical rules see <xref href="grammar_rules.dita#topic_f5w_3z5_kr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="xref:2;87:96" type="topic"><?ditaot usertext?>BTS
+        Grammar Rules - Reference</xref>. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:22;89:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:8;89:11">Project settings</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:23;91:8">Here you can choose your main working project from the drop-down menu. The field below gives
+      you an option to choose further projects from which you want to load and read data. In the box
+      on the left is a list of available projects. Clicking on one will give you an option to add it
+      to the "Projects to be downloaded" on the right. Clicking on Apply below will download the
+      project. Between the two fields you also have an option to remove the project from the right
+      field and to "Add All" from available to to-be-downloaded and "Remove All" from
+      to-be-downloaded to available. Next to the "Apply" button there is also one that will restore
+      default settings "Restore Default".</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:24;99:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:9;99:11">Remember me</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:25;100:8">Select the check box "Remember my login credentials on startup" to be logged in
+      automatically, when starting BTS. To deactivate this function unselect the check box.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:26;102:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:10;102:11">Text Editor</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:27;103:8">
+      <ul id="ul_nwm_zl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:7;104:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:7;105:13">Activate mouse-over pop-up with information on lemmata. Activating this option will
+          display the lemmatization information about the selected lemma in the Text editor
+          (currently unavailable).</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:28;110:8">
+      <ul id="ul_ewz_zl2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:8;111:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:8;112:13">Show line number ruler on left side. This check box activates the line numbering (of the
+          window) in the <xref href="ui_texteditor_e10.dita#concept_f4v_hqm_mr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="xref:3;113:81" type="concept"><?ditaot usertext?>Text editor</xref>.
+        </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:29;117:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:11;117:11">Sign Text Editor </b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:30;118:8">Defines the elements displayed in the lemma-boxes while editing tokens inside the Sign Text
+      Editor. Additionally, the line width can be adjusted by changing the number in the "Line width
+      in pixel" input field.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:31;121:8">The applied changes will be visible upon refreshing the view of the "Sign Text Editor" tab. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:32;122:8">NOTE: The function "Line width in pixel" does not work in the current version.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:33;123:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:12;123:11">Thesaurus Settings</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:34;125:8">Here you can choose a project with a main working thesaurus. All new thesaurus entries will
+      be saved there. Currently only one working thesaurus is available "Altägyptisches Wörterbuch
+      BBAW".</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:35;128:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:13;128:11">Thesaurus Navigator Settings</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:36;129:8">
+      <ul id="ul_dn2_bm2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:9;130:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:9;131:13">Check box "Ths Navigator sort by sort key". Per default all objects on the same level
+          have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
+          Passport data of the object will change its position relevant to other objects, "0" being
+          on top. </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:37;137:8">
+      <ul id="ul_ojn_bm2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:10;138:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:10;139:13">Default Visibility applies to all newly created objects. Defines a visibility status a
+          thesaurus entry will have by default after its creation.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:38;143:8">
+      <ul id="ul_mfc_cm2_vt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="ul:11;144:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="li:11;145:13">Default Review State applies to all newly created objects. Like the Default Visibility
+          above, this defines a review state which a thesaurus entry will have directly after its
+          creation.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:39;150:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:40;151:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:14;151:11">Restore Default</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:41;152:8">Click this button to delete all templates from the list.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:42;153:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:15;153:11">Apply</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:43;154:8">Click here to confirm your changes.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:44;155:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:16;155:11">OK</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:45;156:8">Confirms your changes and closes the window.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:46;157:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="b:17;157:11">Cancel</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_berlintextsystem.dita" xtrc="p:47;158:8">Closes the window without saving the changes.</p>
+  </body>
+</topic>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_u45_b1d_cs" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="title:1;4:9">Grouping hieroglyphs</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="p:1;6:6">Use ":" and "*" to group hieroglyphs. It is crucial that you work with the photos or facsimile
+   of the original text. Publications containing hand- or computer-written hieroglyphs may present
+   the hieroglyphs in a different order than the original text. If neither photo nor facsimile of
+   your text is available, please refrain from grouping the hieroglyphs. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="p:2;10:6"> Example: </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="p:3;11:6">H-t:p = <image href="Images/grouphieroglyphs1.png" id="image_kyr_32y_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="image:1;11:80"/></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="p:4;12:6">Q3*X1:N1 = <image href="Images/grouphieroglyphs2.png" id="image_g4q_p2y_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="image:2;12:83"/></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="p:5;13:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_grouping.dita" xtrc="p:6;14:6">NOTE: Due to technical reasons, columns have to be transcribed into lines.</p>
+ </conbody>
+</concept>

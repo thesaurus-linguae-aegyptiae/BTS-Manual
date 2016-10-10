@@ -3,21 +3,21 @@
 <concept id="concept_pfs_n4g_mr">
  <title>System requirements</title>
  <conbody>
-  <p><b>Supported Operation Systems: Windows 7 SP1 64-bit </b>
+  <p><b>Supported Operation Systems</b>
   </p>
   <p>BTS has been tested on Windows 7 SP1 64-bit, Windows 8.1 64-bit and Windows 10 64-bit. We do
    not guarantee the full functionality on other Windows OS (XP or Windows Server). </p>
   <p><b>Required RAM</b></p>
   <p>BTS requieres minumum 2 GB RAM. To work fluently we recommand at least 4 GB RAM. Your local BTS
    installation will constantly communicate with the server, updating the data. BTS will synchronize
-   and download all available database files, which are now about 2 GB large. Check your
-   internet-connection and make sure it's working, otherwise BTS will be in offline-mode and will
-   not be able to synchronize with the server.</p>
-  <p><b>Attention Mac and Linux users</b></p>
+   and download all available database files, which are now about 2 GB large. Check your internet
+   connection and make sure it is working, otherwise BTS will be in offline-mode and will not be
+   able to synchronize with the server.</p>
+  <p><b>Mac and Linux</b></p>
   <p>At the moment BTS does not support Mac or Linux OS. As a "workaround" we suggest using a
    virtual machine with Windows such as WINE and running BTS there. Popular VM solutions for Mac
-   include VM Ware Fusion and Parallels (both commercial) and Virtual Box (free of charge) . You
-   will still need Windows license to install Windows on your VM. </p>
+   include VM Ware Fusion and Parallels (both commercial) and Virtual Box (free of charge). You will
+   still need Windows license to install Windows on your VM. </p>
   <p><b>Required Java Version: Java V 7</b></p>
   <p>BTS is a Java application, which requires JAVA Runtime Environment from Version 7 up. To check
    if Java is installed on your PC, go to <xref
@@ -27,7 +27,7 @@
   <p><b>Port sharing</b>
   </p>
   <p>The port number used by the Couch DB to communicate with the server should be shared in the
-   firewall of your PC. For the port number see <xref href="intro_install.dita">Install BTS</xref>. </p>
+   firewall of your PC. For the port number see <xref href="intro_install.dita"/>. </p>
   <p><b>Internet access</b></p>
   <p>BTS can be used online and offline, i.e. you do not need permanent internet access. You only
    need access to download the wordlist and other data during the installation process and to

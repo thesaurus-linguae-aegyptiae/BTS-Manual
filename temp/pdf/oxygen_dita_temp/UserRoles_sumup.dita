@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_ysm_g4m_cv" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="title:1;4:10">User roles sum-up</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:1;6:8">The interplay of user roles, user statuses and visibility statuses is summarized in the table
+      below</p>
+    <table id="table_o1v_vj2_2v" class="- topic/table " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="table:1;8:34">
+      <tgroup cols="5" class="- topic/tgroup " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="tgroup:1;9:24">
+        <colspec colname="col1" colnum="1" align="center" colsep="1" rowsep="1" colwidth="85.5pt" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="colspec:1;10:100"/>
+        <colspec colname="col2" colnum="2" align="center" colsep="1" rowsep="1" colwidth="77.25pt" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="colspec:2;11:101"/>
+        <colspec colname="col3" colnum="3" align="center" colsep="1" rowsep="1" colwidth="71.25pt" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="colspec:3;12:101"/>
+        <colspec colname="col4" colnum="4" align="center" colsep="1" rowsep="1" colwidth="80.25pt" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="colspec:4;13:101"/>
+        <colspec colname="col5" colnum="5" align="center" colsep="1" rowsep="1" colwidth="89.25pt" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="colspec:5;14:101"/>
+        <tbody class="- topic/tbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="tbody:1;15:16">
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:1;16:16">
+            <entry colname="col1" namest="col1" nameend="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:1;17:49">
+              <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:1;18:18">ADMINISTRATOR</b></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:2;20:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:2;21:20"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:2;21:23">DB Object Visibility</b></entry>
+            <entry colname="col2" namest="col2" nameend="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:3;22:49"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:3;22:52">User status</b></entry>
+            <entry colname="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:4;23:20"> </entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:3;25:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:5;26:21"/>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:6;27:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:1;27:23">No status</i></entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:7;28:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:2;28:23">Reader</i></entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:8;29:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:3;29:23">Updater</i></entry>
+            <entry colname="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:9;30:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:4;30:23">Can assign User Status?</i></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:4;32:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:10;33:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:5;33:23">Public</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:11;34:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:12;35:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:13;36:20">Can edit all</entry>
+            <entry colname="col5" morerows="4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:14;37:33">
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:2;38:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:3;39:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:4;40:18">Yes</p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:5;41:18"> </p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:5;44:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:15;45:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:6;45:23">Reader</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:16;46:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:17;47:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:18;48:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:6;50:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:19;51:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:7;51:23">Group</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:20;52:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:21;53:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:22;54:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:7;56:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:23;57:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:8;57:23">Project</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:24;58:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:25;59:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:26;60:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:8;62:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:27;63:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:9;63:23">All Authenticated</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:28;64:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:29;65:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:30;66:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:9;68:16">
+            <entry colname="col1" namest="col1" nameend="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:31;69:49"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:4;69:52">EDITOR</b></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:10;71:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:32;72:20"> </entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:33;73:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:10;73:23">No status</i></entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:34;74:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:11;74:23">Reader</i></entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:35;75:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:12;75:23">Updater</i></entry>
+            <entry colname="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:36;76:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:13;76:23">Can assign User Status?</i></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:11;78:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:37;79:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:14;79:23">Public</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:38;80:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:39;81:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:40;82:20">Can edit all</entry>
+            <entry colname="col5" morerows="4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:41;83:33">
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:6;84:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:7;85:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:8;86:18">Yes</p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:9;87:18"> </p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:12;90:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:42;91:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:15;91:23">Reader</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:43;92:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:44;93:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:45;94:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:13;96:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:46;97:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:16;97:23">Group</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:47;98:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:48;99:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:49;100:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:14;102:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:50;103:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:17;103:23">Project</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:51;104:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:52;105:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:53;106:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:15;108:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:54;109:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:18;109:23">All Authenticated</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:55;110:20">Can edit all</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:56;111:20">Can edit all</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:57;112:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:16;114:16">
+            <entry colname="col1" namest="col1" nameend="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:58;115:49"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:5;115:52">RESEARCHER</b></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:17;117:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:59;118:20"> </entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:60;119:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:19;119:23">No Status</i></entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:61;120:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:20;120:23">Reader</i></entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:62;121:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:21;121:23">Updater</i></entry>
+            <entry colname="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:63;122:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:22;122:23">Can assign User Status?</i></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:18;124:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:64;125:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:23;125:23">Public</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:65;126:20">Can view, not edit</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:66;127:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:67;128:20">Can edit all</entry>
+            <entry colname="col5" morerows="4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:68;129:33">
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:10;130:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:11;131:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:12;132:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:13;133:18">Yes</p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:14;134:18"> </p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:19;137:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:69;138:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:24;138:23">Reader</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:70;139:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:71;140:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:72;141:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:20;143:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:73;144:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:25;144:23">Group</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:74;145:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:75;146:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:76;147:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:21;149:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:77;150:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:26;150:23">Project</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:78;151:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:79;152:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:80;153:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:22;155:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:81;156:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:27;156:23">All Authenticated</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:82;157:20">Can view, not edit</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:83;158:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:84;159:20">Can edit all</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:23;161:16">
+            <entry colname="col1" namest="col1" nameend="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:85;162:49"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:6;162:52">TRANSCRIBER</b></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:24;164:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:86;165:20"> </entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:87;166:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:28;166:23">No Status</i></entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:88;167:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:29;167:23">Reader</i></entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:89;168:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:30;168:23">Updater</i></entry>
+            <entry colname="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:90;169:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:31;169:23">Can assign User Status?</i></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:25;171:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:91;172:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:32;172:23">Public</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:92;173:20">Can view, not edit</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:93;174:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:94;175:20">Can only edit Hieroglyphs</entry>
+            <entry colname="col5" morerows="4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:95;176:33">
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:15;177:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:16;178:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:17;179:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:18;180:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:19;181:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:20;182:18">No </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:21;183:18"> </p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:26;186:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:96;187:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:33;187:23">Reader</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:97;188:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:98;189:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:99;190:20">Can only edit Hieroglyphs</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:27;192:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:100;193:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:34;193:23">Group</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:101;194:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:102;195:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:103;196:20">Can only edit Hieroglyphs</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:28;198:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:104;199:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:35;199:23">Project</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:105;200:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:106;201:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:107;202:20">Can only edit Hieroglyphs</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:29;204:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:108;205:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:36;205:23">All Authenticated</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:109;206:20">Can view, not edit</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:110;207:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:111;208:20">Can only edit Hieroglyphs</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:30;210:16">
+            <entry colname="col1" namest="col1" nameend="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:112;211:49"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="b:7;211:52">GUEST</b></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:31;213:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:113;214:20"> </entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:114;215:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:37;215:23">No Status</i></entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:115;216:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:38;216:23">Reader</i></entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:116;217:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:39;217:23">Updater</i></entry>
+            <entry colname="col5" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:117;218:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:40;218:23">Can assign User Status?</i></entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:32;220:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:118;221:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:41;221:23">Public</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:119;222:20">Can view, not edit</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:120;223:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:121;224:20">Can view, not edit</entry>
+            <entry colname="col5" morerows="4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:122;225:33">
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:22;226:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:23;227:18"> </p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:24;228:18">No</p>
+              <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="p:25;229:18"> </p>
+            </entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:33;232:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:123;233:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:42;233:23">Reader</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:124;234:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:125;235:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:126;236:20">Can view, not edit</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:34;238:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:127;239:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:43;239:23">Group</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:128;240:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:129;241:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:130;242:20">Can view, not edit</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:35;244:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:131;245:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:44;245:23">Project</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:132;246:20">Cannot view</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:133;247:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:134;248:20">Can view, not edit</entry>
+          </row>
+          <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="row:36;250:16">
+            <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:135;251:20"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="i:45;251:23">All Authenticated</i></entry>
+            <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:136;252:20">Can view, not edit</entry>
+            <entry colname="col3" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:137;253:20">Can view, not edit</entry>
+            <entry colname="col4" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_sumup.dita" xtrc="entry:138;254:20">Can view, not edit</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

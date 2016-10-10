@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ung_x1g_cv" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="title:1;4:9">Synonyms</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="p:1;6:6">This tab allows you to enter synonyms to the "Name" of the database object.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="p:2;7:6">
+   <ul id="ul_zg2_kdm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="ul:1;8:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="li:1;9:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="b:1;9:12">Synonym:</b> Enter a synonym of the "Name" of the database object in the Main tab.</li>
+   </ul>
+   <ul id="ul_atq_ndm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="ul:2;11:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="li:2;12:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="b:2;12:12">Language:</b> Select the language of the synonym name from the drop-down menu. </li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="p:3;15:6">
+   <ul id="ul_od4_rmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="ul:3;16:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="li:3;17:9"><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="image:1;17:99"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="b:3;18:9">Add Entry Group:</b> Add another synonym group to add another synonym in the same or further
+     language. You can add as many synonyms as necessary. </li>
+   </ul>
+   <ul id="ul_xdm_yxl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="ul:4;21:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="li:4;22:9"><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="image:2;22:102"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="b:4;23:9">Remove Entry Group:</b> Removes the synonym group</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="p:4;26:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_synonyms.dita" xtrc="p:5;27:6">Example: Add to your entry "Sarg" the synonym "coffin" with the language "en" (English).</p>
+ </conbody>
+</concept>

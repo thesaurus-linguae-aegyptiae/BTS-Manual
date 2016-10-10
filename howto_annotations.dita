@@ -3,8 +3,8 @@
 <concept id="concept_w4c_cxf_mr">
  <title>Annotations, Rubra, Glosses and Comments</title>
  <conbody>
-    <p>BTS text editing tools include an annotation, a rubrum, a gloss or a comment, which can be
-      applied to a word or a sequence of words, a sentence or several sentences. </p>
+    <p>BTS text editing tools include annotations, rubra, glosses and comments, which can be applied
+      to a word or a sequence of words, a sentence or several sentences. </p>
     <p>NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun jn
       the n was omitted and later added in red: j((n)), this n cannot be marked as being written in
       red)"</p>
@@ -15,15 +15,15 @@
           text, which may include bibliographical references and other metadata. Annotations are not
           limited to one fragment, they can be connected with more than one section of a text. You
           can use annotation, for example, to divide your text into chapters (e.g. to define and
-          seperate the remedies of a medical text or the maxime Ptahhotep ) and other forms of
+          seperate the remedies of a medical text or the maximes of Ptahhotep ) and other forms of
           alignment. Annotations can be used for syntactic, stylistic, prosopographic information.
           Therefore, there are different types and subtypes of annotations so that one can
           distinguish these types of information. If you need further types and subtypes, please
           contact the BTS team in Berlin.<p>NOTE: To seperate specific parts of a text, annotations
             are only used, if their sequence is evident. To mark sections of a text in a case when
             the sequence of the chapters is not clear or ambigous (e.g. first part being a biography
-            and the next an offering scene or a Ptolemaic temple scene is a text with various
-            Beischriften. ), <b>Subtext</b> is used.</p></li>
+            and the next an offering scene or a Ptolemaic temple scene with a text and various
+            Beischriften.), <b>Subtext</b> is used.</p></li>
       </ul>
     </p>
     <p>
@@ -46,10 +46,10 @@
     </p>
     <p><b>Annotating a text</b></p>
     <p>To annotate a text, use the buttons above the "Text Editor" tab. Mark the sequence you want
-      to annotate: for only one word you just place the cursor within the word; if the word
-      comprises a single character only, place the cursor directly behind the character). You can
-      create more than one annotation for the same token, and vice versa, the same annotation can be
-      created for different tokens. </p>
+      to annotate: for only one word just place the cursor within the word; if the word comprises a
+      single character only, place the cursor directly behind the character. You can create more
+      than one annotation for the same token, and vice versa, the same annotation can be created for
+      different tokens. </p>
     <p>NOTE: If buttons are deactivated, click somewhere outside of your text and then again in
       it.</p>
     <p>
@@ -66,7 +66,7 @@
       <ul id="ul_q24_mlj_lx">
         <li><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
           <b>Add Rubrum</b>: Converts the selected part of the text into a rubrum, which is
-          indicated by red color of the text and a grey bar on the right. </li>
+          indicated by red color of the text and a red bar on the right. </li>
       </ul>
     </p>
     <p>
@@ -92,19 +92,19 @@
       the annotation and see more information as well as further editing options. </p>
     <p>NOTE: All annotations to the transliterated tokens (including lemmatization) are anchored to
       the first and the last element of the token or the series of tokens, respectively. That means,
-      if you make changes to the first and the last element in the texteditor, the annotations loose
-      their link to the token. If you need to make changes to an already lemmatized and/or annotated
-      token, switch to the Sign Text Editor and make the changes in the field "Selected Word" (see
-      also <xref href="howto_lemmatizing.dita"/>).</p>
+      if you make changes to the first and the last element, the annotations loose their link to the
+      token. If you need to make changes to an already lemmatized and/or annotated token, switch to
+      the Sign Text Editor and make the changes in the field "Selected Word" (see also <xref
+        href="howto_lemmatizing.dita"/>).</p>
     <p><b>Deleting annotations</b></p>
     <p>You can delete the annotation by selecting it and clicking <image
-        href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/>
-      <u>Delete</u> in the upper right corner of the Annotations tab. A confirmation window will
-      appear, click "Delete" to confirm or "Cancel" if you have changed your mind.</p>
+        href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/> "Delete" in the upper
+      right corner of the Annotation tab. A confirmation window will appear, click "Delete" to
+      confirm or "Cancel" if you have changed your mind.</p>
     <p>NOTE: You cannot delete any annotation via the "Undo" button.</p>
     <p><b>Editing annotations</b></p>
-    <p>Once you have created an annotation, rubrum, glosse, or comment, you are enabled to edit
-      them: </p>
+    <p>Once you have created an annotation, rubrum, glosse, or comment, you are enabled to edit it
+      by selecting it from the Annotation tab: </p>
     <p>
       <ul id="ul_gvl_xjj_lx">
         <li>Cick <image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> to edit the
@@ -130,7 +130,7 @@
       hide all rubra from the list or display only comments. Select the filter by clicking <image
         href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/> in the
       Annotation tab.   </p>
-    <p>NOTE: When you text is loaded, BTS loads all annotations, filters them according to you
+    <p>NOTE: When your text is loaded, BTS loads all annotations, filters them according to you
       filter settings and then displays the first 40 annotations. Annotations that are not displayed
       will appear in the list as soon as you click on the annotated token in the Transliteration
       Editor.</p>

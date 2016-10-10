@@ -10,22 +10,22 @@
     <p>
       <ul id="ul_v25_l4v_bt">
         <li>Can edit all items in a database, i.e. a corpus, a lemma list, or the thesaurus
-          database, where he or she has the editor rights.</li>
+          database, where editor rights assigned.</li>
         <li>Can add or remove database objects within a corpus.</li>
         <li>Can assign a Updater or Reader status to other users, but only for individual database
           objects.</li>
-        <li>Can, technically, change his or her own status as a Reader or an Updater. This is
-          irrelevant though, because the user role "Editor" takes precedence (as in the case of the
+        <li>Can, technically, change the own status as a Reader or an Updater. This is irrelevant
+          though, because the user role "Editor" takes precedence (as in the case of the
             Admin).<p>NOTE: These rights apply only for databse objects with visibility "project",
             "public", or "all authenticated". In all other intances, the editor has only access to
-            the database objects if he is asigned as Updater or Reader.</p></li>
+            the database objects if assigned as Updater or Reader.</p></li>
       </ul>
     </p>
     <p><b>Limitations</b></p>
     <p>
       <ul id="ul_lwp_n4v_bt">
-        <li>In case the corpus was created by someone else, Editor can modify individual database
-          objects, but is attributed a guest role for the corpus itself (cannot edit the corpus
+        <li>In case the corpus was created by someone else, Editors can modify individual database
+          objects, but are attributed a guest role for the corpus itself (cannot edit the corpus
           passport data, or edit updaters/readers for an entire corpus). </li>
         <li>Cannot create new corpora within a project.</li>
       </ul>

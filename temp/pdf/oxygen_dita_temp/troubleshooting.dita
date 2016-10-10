@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_ymm_ddc_lx" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="title:1;4:10">BTS Troubleshooting</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="p:1;6:8">
+      <ul id="ul_udn_42c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:1;7:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:1;8:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="b:1;8:16">BTS does not start</b><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="p:2;8:41">If BTS does not start, it might be due to a server down
+            time. Please contact the BTS team in Berlin.</p></li>
+      </ul>
+      <ul id="ul_cwx_q2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:2;11:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:2;12:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="b:2;12:16">All windows and tabs have disappeared</b><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="p:3;12:60">This happens, when you draged the last
+            window or tab out of the BTS program window. Restart BTS to restore all windows and
+            tabs</p></li>
+      </ul>
+      <ul id="ul_hnz_q2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:3;16:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:3;17:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="b:3;17:16">BTS icons are to small</b><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="p:4;17:45">On Windows 8.1 and Windows 10 systems the icons are
+            smaller than on previous systems. Start BTS in Windows-XP-mode.</p></li>
+      </ul>
+      <ul id="ul_cw1_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:4;20:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:4;21:14"/>
+      </ul>
+      <ul id="ul_s1c_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:5;23:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:5;24:14"/>
+      </ul>
+      <ul id="ul_xfd_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:6;26:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:6;27:14"/>
+      </ul>
+      <ul id="ul_nk2_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:7;29:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:7;30:13">die Daten werden bei der Installation nicht vollständig heruntergeladen</li>
+      </ul>
+      <ul id="ul_hxp_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:8;32:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:8;33:13">sehr häufig benötigtes Doppelklicken, damit erwartete Aktion funktioniert</li>
+      </ul>
+      <ul id="ul_sjr_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:9;35:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:9;36:13">das lange Warten, um sicher zu sein, dass eine Aktion ausgeführt wurde oder nicht</li>
+      </ul>
+      <ul id="ul_x4s_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:10;38:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:10;39:14"/>
+      </ul>
+      <ul id="ul_crt_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:11;41:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:11;42:14"/>
+      </ul>
+      <ul id="ul_xt5_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:12;44:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:12;45:14"/>
+      </ul>
+      <ul id="ul_hxv_r2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:13;47:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:13;48:14"/>
+      </ul>
+      <ul id="ul_nlk_t2c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="ul:14;50:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\troubleshooting.dita" xtrc="li:14;51:14"/>
+      </ul>
+    </p>
+  </body>
+</topic>

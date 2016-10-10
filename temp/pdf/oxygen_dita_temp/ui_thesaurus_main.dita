@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_isp_k5f_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="title:1;4:9">Main</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="conbody:1;5:11">
+        <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:1;6:12">The text input fields and drop-down menus give you several options to enter technical
+                  information of your thesaurus entry.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:2;8:6">
+                  <ul id="ul_s4m_wyf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:1;9:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:1;10:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:1;10:32">Name:</b> Enter or change the name of your thesaurus entry.</li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:3;13:6">
+                  <ul id="ul_dq2_yyf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:2;14:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:2;15:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:2;15:32">Type and Subtype:</b> Choose a type and subtype (e.g. language, date,
+                              script). The subtype applied only to certain types of thesauri, e.g.
+                              the location "Aufbewahrungsort".</li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:4;20:6">
+                  <ul id="ul_vxg_zyf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:3;21:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:3;22:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:3;22:32">SortKey:</b> By default, all thesaurus entries on the same level have
+                              "0" as a sort key and are thus sorted alphabetically. Defining a
+                              "SortKey" in the Passport data of the database object will change its
+                              position regarding other objects, "0" being on top.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:5;25:85">NOTE: If your
+                                    database object is in a polyhierarchical position, changes in
+                                    the sortkey apply to all relations.</p></li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:6;30:6">
+                  <ul id="ul_m2n_bzf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:4;31:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:4;32:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:4;32:32">ID:</b> Displays the ID of the thesaurus entry, which is generated
+                              automatically by the BTS. It cannot be changed.</li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:7;36:6">
+                  <ul id="ul_ws3_czf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:5;37:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:5;38:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:5;38:32">Author:</b> Displays the author (creator) of an thesaurus entry. </li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:8;41:6">
+                  <ul id="ul_m2s_dzf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:6;42:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:6;43:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:6;43:32">Date:</b> Displays the date of the creation of the thesaurus entry. </li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:9;46:6">
+                  <ul id="ul_rk1_2zf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:7;47:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:7;48:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:7;48:32">Visibility:</b> Define who can see the thesaurus entry (public,
+                              project, group, reader, all_authenticated). See also <xref href="user_roles.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="xref:1;50:60" type="topic"><?ditaot usertext?>User Roles Description</xref>.</li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:10;53:6">
+                  <ul id="ul_m2c_fzf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:8;54:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:8;55:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:8;55:32">Review State:</b> Enter or edit the review state of the thesaurus
+                              entry (published, reviewed, awaiting-update, awaiting-review, new,
+                              transformed awaiting update).</li>
+                  </ul>
+            </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:11;60:6">
+                  <ul id="ul_r41_gzf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:9;61:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:9;62:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:9;62:32">Project and Corpus:</b> The field displays the name of the project or
+                              corpus, respectively. Clicking on <image href="Images/icons/full/icon16/preferences.png" id="image_ohg_55x_ls" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="image:1;65:60"/> you can move the database object to
+                              another project / corpus. You can only move the corpora or projects
+                              for which you have rights. Note that only the physical position of an
+                              object will change (displayed in the Navigator in the square
+                              brackets), not its position in the hierarchical tree. (If you want to
+                              change the position of an item in the hierarchical tree then you have
+                              to change the relation of your thesaurus entry. See <xref href="ui_thesaurus_relations.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="xref:2;72:72" type="concept"><?ditaot usertext?>Relations Tab</xref>.). </li>
+                  </ul>
+            </p>
+        <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="p:12;75:12">
+                  <ul id="ul_mc1_3zf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="ul:10;76:42">
+                        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="li:10;77:29"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="b:10;77:32">History:</b> Displays the history of editing of the thesaurus entry.
+                              Information includes the username of the editor and the date. To close
+                              the history information, change to another thesaurus entry and then
+                              back. To restore a previous version, use the <xref href="ui_thesaurusnavigator.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_main.dita" xtrc="xref:3;81:71" type="concept"><?ditaot usertext?>Open Revision
+                                    History</xref> dialogue.</li>
+                  </ul>
+            </p>
+ </conbody>
+</concept>

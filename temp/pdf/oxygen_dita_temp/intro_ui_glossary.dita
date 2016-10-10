@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_esv_jpq_55" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="title:1;4:9">Glossary</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="conbody:1;5:11">
+      <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:1;6:11"/>
+      <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:2;7:10">This manual used the following terms for the description of the user interface:</p>
+      <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:3;8:10"><ul id="ul_udd_vkp_ps" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="ul:1;8:33">
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:1;9:17">Menu bar</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:2;10:17">Drop-down menu</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:3;11:17">Drop-down entry<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:4;11:35"><image href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Menu%20bar.png" id="image_gmt_dyw_st" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="image:1;13:45"/></p></li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:4;14:17">Toolbar </li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:5;15:17">Toolbar Icon<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:5;15:32"><image href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Toolbar.png" id="image_flf_4yw_st" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="image:2;17:45"/></p></li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:6;18:17">Icon</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:7;19:17">ToolTip (only activated by mouseover)<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:6;19:57"><image href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png" id="image_ptv_pyw_st" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="image:3;21:45"/></p></li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:8;22:17">Workspace: main working field between Toolbar and Statusbar in which the user can
+               switch in one of for different views / workspace modes</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:9;24:17"> View / Workspace mode: the Text corpus view, the Lemma view (Lemma list), the
+               Thesaurus view (Management of Metadata) and the special level Abstract text view.
+               These four Views differs according to the different contents and each shows own
+               windows. The default setting of the Workspace is the Text Corpus view for edit und
+               annotate texts. </li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:10;29:17">Viewing mode</li>
+         </ul><image href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png" id="image_qp5_syw_st" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="image:4;32:36"/><ul id="ul_j4y_5vm_y5" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="ul:2;32:59">
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:11;33:17">Navigator tree </li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:12;34:17">Node (= Branch) - entry in a navigation tree, which can be further expanded, ex.
+               text corpus, text corpus object or a text<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:7;35:60"><image href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png" id="image_vgm_5yw_st" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="image:5;37:45"/></p><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:8;37:53"/><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="p:9;37:56">Moreover the following terms are
+               used:</p></li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:13;39:17">Database object: any element (item) of the database</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:14;40:17">Text Corpus Object: an item of the corpus database, which is not a text, mainly
+               referring to a physical object. Texts and Text Corpus Objects are in child-parent
+               relation, i.e. text is always attributed to the object.</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:15;43:17">Child-parent relation: the relation of subordination between two items of the
+               database</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:16;45:17">Lemma: the canonical form (dictionary form) of a set of words</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:17;46:17">Token: the representation of a lemma in the text (word form)</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:18;47:17">Local and remote databases: local databases are running on user's PCs, remote
+               databases are located on BTS central server in Berlin</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_ui_glossary.dita" xtrc="li:19;49:17">WCN: word corpus number, i.e. the ID of the lemma</li>
+         </ul></p>
+   </conbody>
+</concept>

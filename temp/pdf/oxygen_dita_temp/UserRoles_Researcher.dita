@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_atn_xnv_bt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="title:1;4:10">Researcher</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="p:1;6:8">Researcher may create new objects within a corpus. Researchers can also edit or delete their
+      own database objects, or objects for which they were granted editing rights (Updater
+      status).</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="p:2;9:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="b:1;9:11">Rights</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="p:3;10:8">
+      <ul id="ul_v25_l4v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="ul:1;11:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="li:1;12:13">Can add database objects within a corpus.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="li:2;13:13">Can edit database objects within a corpus, when given an Updater status for these
+          database objects.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="li:3;15:13">Can assign reader/updater status for other users, but only if the researcher has Updater
+          status.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="li:4;17:13">Researchers can change their own status from an Updater to a Reader for a database
+          object and thus lose their editing rights. They will not be able to upgrade the status
+          again, i.e. to change back to the Updater.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="p:4;22:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="b:2;22:11">Limitations</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="p:5;23:8">
+      <ul id="ul_lwp_n4v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="ul:2;24:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="li:5;25:13">Cannot edit the already existing database objects within a corpus (created by other
+          users) when a Reader or no status is assigned to him/her.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="li:6;27:13">If a database object within a corpus has a visibility status <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="i:1;27:77">Reader</i>, <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="i:2;27:92">Group</i>
+          or <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Researcher.dita" xtrc="i:3;28:17">Project</i>, the Researcher will not be able to see it unless obtaining an
+          Updater/Reader user status</li>
+      </ul>
+    </p>
+  </body>
+</topic>

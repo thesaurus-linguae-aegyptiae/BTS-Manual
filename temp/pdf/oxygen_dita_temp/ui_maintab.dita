@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_isp_k5f_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="title:1;4:9">Main</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="conbody:1;5:11">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:1;6:8">The text-input fields and drop-down menus in this tab allow you to enter technical data of
+      your text or object. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:2;8:6">
+      <ul id="ul_bjg_l3y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:1;9:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:1;10:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:1;10:16">Name:</b> Enter or change the name of your Text Corpus Object or Text.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:3;13:8">
+      <ul id="ul_l5t_m3y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:2;14:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:2;15:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:2;15:16">Type:</b> Choose a type (e.g. TCObject, ObjectPart, Text, Subtext, etc.). For the
+          definition of the the types see chapter <xref href="howto_create_corpusobject.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="xref:1;17:14" type="topic"><?ditaot usertext?>Creating a database object</xref>.</li>
+      </ul>
+      <ul id="ul_p4y_c3d_jx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:3;19:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:3;20:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:3;20:16">Subtype:</b> This field remains empty. Do not use it.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:4;23:8">
+      <ul id="ul_tz2_r3y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:4;24:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:4;25:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:4;25:16">SortKey:</b> By default, all database objects on the same level have "0" as a sort
+          key and are thus sorted alphabetically. Defining a "SortKey" in the Passport data of the
+          database object will change its position regarding other objects, "0" being on top.
+            <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:5;28:16">NOTE: If your database object is in a polyhierarchical position, changes in the
+            sortkey apply to all relations.</p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:6;32:8">
+      <ul id="ul_hyv_s3y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:5;33:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:5;34:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:5;34:16">ID:</b> Displays the ID of the database object, which is generated automatically by
+          the BTS. It cannot be changed.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:7;38:8">
+      <ul id="ul_rdg_53y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:6;39:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:6;40:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:6;40:16">Author:</b> Displays the author (= creator) of the database object. </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:8;43:8">
+      <ul id="ul_hwq_v3y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:7;44:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:7;45:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:7;45:16">Date:</b> Displays the date of creation of the database object.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:9;48:8">
+      <ul id="ul_izm_sjy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:8;49:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:8;50:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:8;50:16">Visibility:</b> Define who can see the database object or Text (public, project,
+          group, reader, all_authenticated). See also <xref href="user_roles.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="xref:2;51:84" type="topic"><?ditaot usertext?>User Roles
+            Description</xref>.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:10;55:8">
+      <ul id="ul_n3f_5jy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:9;56:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:9;57:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:9;57:16">Review State:</b> Enter or edit the review state of the database object or text
+          (published, reviewed, awaiting-update, awaiting-review, new, transformed awaiting
+          update).</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:11;62:8">
+      <ul id="ul_ixf_zjy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:10;63:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:10;64:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:10;64:16">Project and Corpus:</b> The field displays the name of the project or corpus,
+          respectively. Clicking on <image href="Images/icons/full/icon16/preferences.png" id="image_ohg_55x_ls" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="image:1;66:36"/> you can move the database object to another project / corpus.
+          You can only move the corpora or projects for which you have rights. Note that only the
+          physical position of an object will change (displayed in the Corpus Navigator in the
+          square brackets), not its position in the hierarchical tree. (If you want to change the
+          position of an item in the hierarchical tree then you have to change the relation of your
+          text or object. See <xref href="ui_relationstab.dita#concept_qvz_mwf_yr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="xref:3;72:14" type="concept"><?ditaot usertext?>Relations Tab</xref>.)</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="p:12;75:8">
+      <ul id="ul_x1q_1ky_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="ul:11;76:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="li:11;77:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="b:11;77:16">History:</b> Click to see all changes of the selected database object. Information
+          includes the username of the editor and the date. To close the history information, change
+          to another "Corpus Navigator" object and then back. To restore a previous version, use the
+            <xref href="ui_corpusnavigator_e9.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_maintab.dita" xtrc="xref:4;80:53" type="concept"><?ditaot usertext?>Open Revision History</xref>
+          dialogue.</li>
+      </ul>
+    </p>
+ </conbody>
+</concept>

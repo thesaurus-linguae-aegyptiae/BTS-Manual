@@ -26,23 +26,22 @@
       <ul id="ul_lzg_jpm_ft">
         <li>Access all entries in the drop-down menu "Window".</li>
         <li>Access "Preferences / Database Manager".</li>
-        <li>Adjust individual Preferences (see <xref
-            href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref> section for
-          more detail).</li>
+        <li>Adjust individual Preferences (see <xref href="howto_prefs.dita"/> for more
+          detail).</li>
         <li>Access all options in the drop-down menu "Help".</li>
       </ul>
     </p>
     <p><b>User roles</b></p>
     <p>Users can have one of five different user roles, which apply only to particular corpora:
-        <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>, <xref
+        <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt">Administrator</xref>, <xref
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref>, <xref
         href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref>, <xref
         href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> or <xref
         href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>. One user can have varying user
       roles in different corpora (but just one user role per corpus). E.g. a user can be an <xref
-        href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus
-        <i>"bbawamarna"</i>, but only a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt"
-        >Transcriber</xref> in the corpus <i>"bbawbriefe"</i>. </p>
+        href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus "bbawamarna", but
+      only a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> in the
+      corpus "bbawbriefe". </p>
     <p>NOTE: Unless specifically set by BTS administrator, the default user role with respect to all
       corpora as well as Thesaurus and Lemma-list is <xref
         href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>

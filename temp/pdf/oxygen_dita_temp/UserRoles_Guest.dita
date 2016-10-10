@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_bvq_b4v_bt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="title:1;4:10">Guest</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="p:1;6:8">Guests can read data but are not allowed to create new database objects, edit or delete
+      anything.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="p:2;8:8">If given no status (Reader/Updater), a guest will not be able to see the database objects in
+      the corpus with a visibility status: Reader, Group, or Project.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="p:3;10:8">Even if guests have not been given such status for a particular corpus, they will still be
+      able to view its content.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Guest.dita" xtrc="p:4;12:8">Guests may view the lemma and the thesaurus views.
+      <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+    <?oxy_custom_end?>
+  </body>
+</topic>

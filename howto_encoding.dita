@@ -10,13 +10,13 @@
       a list of codes see <xref href="grammar_inflection.dita"/>.</p>
     <p>Experience has learned that it is better to lemmatize a text first and afterwards fill out
       the field "Flexion". If you want to encode the inflection during the lemmatization process,
-      type the approriate code (see <xref href="grammar_inflection.dita">Inflection codes</xref>)
-      into the field "Flexion" before or after you have selected the lemma and than confirm with
-        <image href="Images/icons/full/icon16/lemma-ok.png" id="image_zt4_fvf_fx"/>. If you choose
-      to encode the inflection after you have finished the lemmatization (as we recommand), you can
-      use the button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png"
-        id="image_zxg_dks_2x"/> to proceed to the next not yet inflected word. You can also use the
-      ENTER key to confirm and proceed.</p>
+      type the approriate code into the field "Flexion" before or after you have selected the lemma
+      and than confirm with <image href="Images/icons/full/icon16/lemma-ok.png"
+        id="image_zt4_fvf_fx"/>. If you choose to encode the inflection after you have finished the
+      lemmatization (as we recommand), you can use the button <image
+        href="Images/Icons_updated/full/icon16/flexion-confirm.png" id="image_zxg_dks_2x"/> to
+      proceed to the next not yet inflected word. You can also use the ENTER key to confirm and
+      proceed.</p>
     <p/>
     <p>NOTE: The button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png"
         id="image_p42_hvf_fx"/> brings you to the next word with default inflection code, i.e. if

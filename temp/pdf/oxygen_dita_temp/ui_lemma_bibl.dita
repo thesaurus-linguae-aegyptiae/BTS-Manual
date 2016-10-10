@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_f5q_grd_vt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="title:1;4:10">Bibliography</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:1;6:8">Enter bibliographical information here. The tab contains: </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:2;7:8">
+      <ul id="ul_o4n_dy2_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:1;8:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:1;9:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:1;9:16">Bibliographical text field:</b> A field to enter the bibliographical data manually.
+          Currently it is recommended to use this field only. Divide your bibliographic items with
+          Semicolon ";".<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:3;11:28">Example: Wb 1, 25; EAG § 159; Schenkel, Einf., 105; ENG §§ 59-64; JWSpG §
+            216</p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:4;15:8">
+      <ul id="ul_pn1_jy2_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:2;16:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:2;17:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:2;17:16">Bibliographical entry:</b> This feature is currenly not available.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:5;17:85">
+            <ul id="ul_ajh_drm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:3;18:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:3;19:19"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:3;19:22">Bib. Item:</b> Displays the name of the selected thesaurus entry. This is no
+                input field.</li>
+            </ul>
+          </p><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:6;22:18">
+            <ul id="ul_fcs_vqm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:4;23:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:4;24:19"><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="image:1;24:92"/>
+                <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:4;25:20">Search Object:</b> You may select the language from the Thesaurus. This feature
+                is currenly not available.</li>
+            </ul>
+            <ul id="ul_vgm_drm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:5;28:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:5;29:19"><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="image:2;29:102"/>
+                <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:5;30:20">Open Object in Passport Editor:</b> Displays the passport data of the selected
+                thesaurus entry. This feature is currenly not available.</li>
+            </ul>
+            <ul id="ul_gc3_grm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:6;33:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:6;34:19"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:6;34:22">Pages/plates:</b> Enter the pages / plate number complementing the
+                bibliographical item selected from the thesaurus and select the check boxes. For the
+                meaning of the abbreviations see above.</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:7;37:19"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:7;37:22">Comment:</b> Use this input field to comment your reference.</li>
+            </ul>
+            <ul id="ul_qt3_jrm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:7;39:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:8;40:19"><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="image:3;41:42"/>
+                <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:8;42:20">Add Entry Group:</b> Add an additional bibliography section.</li>
+            </ul>
+            <ul id="ul_l4k_jrm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="ul:8;44:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="li:9;45:19"><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="image:4;46:42"/>
+                <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="b:9;47:20">Remove Entry Group:</b> Delete a bibliography section.</li>
+            </ul>
+          </p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:7;52:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_bibl.dita" xtrc="p:8;53:8">NOTE: The bibliographical thesaurus does not exist yet. We recommend to use "Bibliographical
+      text field" instead until it is available.</p>
+  </body>
+</topic>

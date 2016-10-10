@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_dqd_y4m_4x">
+  <title>BBAWLibertine Test</title>
+  <body>
+    <p>NORMAL:</p>
+    <p>The transliteration alphabet used in BTS is the following:</p>
+    <p>ʾ, ꜣ, j, y, i̯, ı͗, ï, i, ꜥ, w, u, u̯, a, e, b, p, f, m, n, r, l, h, ḥ, ḫ, ẖ, h̭, z, s, š, q,
+      k, g, t, ṯ, d, ḏ</p>
+    <p>ꜣ, J, Y, I͗, I, ꜥ, W, U, A, B, P, F, M, N, R, L, H, Ḥ, Ḫ, ẖ, H̭, Z, S, Š, Q, K, G, T, Ṯ, D,
+      Ḏ</p>
+    <p/>
+    <p>The following signs are not allowed in the transliteration and may only be used in comments,
+      bibliography etc.:</p>
+    <p>ś, Ś, ḳ, Ḳ, ṭ, Ṭ, č, Č, č̣, Č̣</p>
+    <p/>
+    <p>KURSIV:</p>
+    <p><i>The transliteration alphabet used in BTS is the following:</i></p>
+    <p><i>ʾ, ꜣ, j, y, i̯, ı͗, ï, i, ꜥ, w, u, u̯, a, e, b, p, f, m, n, r, l, h, ḥ, ḫ, ẖ, h̭, z, s, š,
+        q, k, g, t, ṯ, d, ḏ</i></p>
+    <p><i>ꜣ, J, Y, I͗, I, ꜥ, W, U, A, B, P, F, M, N, R, L, H, Ḥ, Ḫ, ẖ, H̭, Z, S, Š, Q, K, G, T, Ṯ,
+        D, Ḏ</i></p>
+    <p/>
+    <p><i>The following signs are not allowed in the transliteration and may only be used in
+        comments, bibliography etc.:</i></p>
+    <p><i>ś, Ś, ḳ, Ḳ, ṭ, Ṭ, č, Č, č̣, Č̣</i></p>
+    <p/>
+    <p>FETT:</p>
+    <p><b>The transliteration alphabet used in BTS is the following:</b></p>
+    <p><b>ʾ, ꜣ, j, y, i̯, ı͗, ï, i, ꜥ, w, u, u̯, a, e, b, p, f, m, n, r, l, h, ḥ, ḫ, ẖ, h̭, z, s, š,
+        q, k, g, t, ṯ, d, ḏ</b></p>
+    <p><b>ꜣ, J, Y, I͗, I, ꜥ, W, U, A, B, P, F, M, N, R, L, H, Ḥ, Ḫ, ẖ, H̭, Z, S, Š, Q, K, G, T, Ṯ,
+        D, Ḏ</b></p>
+    <p/>
+    <p><b>The following signs are not allowed in the transliteration and may only be used in
+        comments, bibliography etc.:</b></p>
+    <p><b>ś, Ś, ḳ, Ḳ, ṭ, Ṭ, č, Č, č̣, Č̣</b></p>
+    <p/>
+    <p>Anführungszeichen:</p>
+    <p>"test" <i>"test"</i> "<i>test</i>"</p>
+    <p>"noch ein test" <i>"noch ein test"</i> "<i>noch ein test</i>"</p>
+  </body>
+</topic>

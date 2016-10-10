@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_mvz_rmv_bt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="title:1;4:10">Editor</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="p:1;6:8">Editors may review and correct database objects owned by other users even if no special
+      rights for the database object were granted to them. Thus they can review and improve the
+      quality of the data.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="p:2;9:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="b:1;9:11">Rights</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="p:3;10:8">
+      <ul id="ul_v25_l4v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="ul:1;11:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="li:1;12:13">Can edit all items in a database, i.e. a corpus, a lemma list, or the thesaurus
+          database, where editor rights assigned.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="li:2;14:13">Can add or remove database objects within a corpus.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="li:3;15:13">Can assign a Updater or Reader status to other users, but only for individual database
+          objects.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="li:4;17:13">Can, technically, change the own status as a Reader or an Updater. This is irrelevant
+          though, because the user role "Editor" takes precedence (as in the case of the
+            Admin).<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="p:4;19:23">NOTE: These rights apply only for databse objects with visibility "project",
+            "public", or "all authenticated". In all other intances, the editor has only access to
+            the database objects if assigned as Updater or Reader.</p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="p:5;24:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="b:2;24:11">Limitations</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="p:6;25:8">
+      <ul id="ul_lwp_n4v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="ul:2;26:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="li:5;27:13">In case the corpus was created by someone else, Editors can modify individual database
+          objects, but are attributed a guest role for the corpus itself (cannot edit the corpus
+          passport data, or edit updaters/readers for an entire corpus). </li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Editor.dita" xtrc="li:6;30:13">Cannot create new corpora within a project.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_ih3_blv_bt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="title:1;4:10">Administrator</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="p:1;6:8">The administrator role applies only to a specific database, i.e. a corpus, a lemma list, or
+      the thesaurus database (not the entire BTS!). Administrator can edit or delete all database
+      objects in a given corpus, with no Updater status for specific database objects requiered. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="p:2;9:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="b:1;9:11">Rights</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="p:3;10:8">
+      <ul id="ul_bky_44v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="ul:1;11:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:1;12:13">Can manage and control any user role within a corpus where assigned. (Not available at
+          the moment.)</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:2;14:13">Can edit all items in a given corpus, regardless of their visibility status.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:3;15:13">Can add or remove database objects within a corpus. Deleted database objects can be
+          found in the "Bin" tab, from where they can be deleted permanently.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:4;17:13">Can assign the status of Updater or Reader to other users who have access to a given
+          corpus.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:5;19:13">The Updater/Reader status is irrelevant for the Admin, since the user role takes
+          precedence and automatically gives the Admin rights to edit database objects.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:6;21:13">Can alter the visibility of individual database objects in the Passport Editor (Main
+          Tab).</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="p:4;25:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="b:2;25:11">Limitations</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="p:5;26:8">
+      <ul id="ul_okz_zlv_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="ul:2;27:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:7;28:13">Admin user role applies to particular corpora only.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:8;29:13">Admin cannot edit the passport data or name of an entire corpus if the corpus was
+          created by someone else. Even if the entire corpus has a visibility status "Public", Admin
+          user will still have a guest status when selecting the corpus. Admin has rights only for
+          individual database objects within the corpus. </li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Admin.dita" xtrc="li:9;33:13">Admin cannot create new corpora within a project.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

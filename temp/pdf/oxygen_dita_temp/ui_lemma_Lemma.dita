@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_hzq_trd_vt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="title:1;4:10">Lemma</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="p:1;6:8">Lemma tab provides information about different properties of the lemma. These are the
+      following:</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="p:2;8:8">
+      <ul id="ul_jly_r4f_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="ul:1;9:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="li:1;10:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="b:1;10:16">Comment:</b> Any comment to the Lemma which did not fit in any other subsection.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="p:3;13:8">
+      <ul id="ul_dkx_s4f_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="ul:2;14:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="li:2;15:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="b:2;15:16">Comment (English translation):</b> Any comment to the English translation of the
+          Lemma.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="p:4;19:8">
+      <ul id="ul_edk_54f_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="ul:3;20:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="li:3;21:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Lemma.dita" xtrc="b:3;21:16">Lsort, arb_vermerk, simplify, wclassnum, woart, word_class:</b> These are information
+          tags inherited from the previous BTS version. They are not used for newly created
+          lemmata.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

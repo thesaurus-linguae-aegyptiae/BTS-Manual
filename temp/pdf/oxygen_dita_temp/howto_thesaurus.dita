@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_sjw_lvx_st" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="title:1;4:10">Creating a thesaurus entry</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="p:1;6:8">This option is available to the user with researcher privileges for the thesaurus! If you
+      have a new thesaurus entry, which is not yet present in the BTS thesaurus list, please send a
+      proposal to the BTS team via E-mail: aegypt1@bbaw.de.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="p:2;9:8">The main function of the Thesaurus is to provide controlled vocabulary for the metadata of
+      texts, (physical) objects, lemma entries and thesauaus entries, e.g. dating, location or
+      material. For a detailed description of the individual elements of the Thesaurus view see
+        <xref href="ui_thesaurus.dita#concept_w5m_g4d_4r" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="xref:1;12:59" type="concept"><?ditaot usertext?>Thesaurus</xref>.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="p:3;13:8">
+      <ol id="ol_sb3_xvx_st" class="- topic/ol " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="ol:1;14:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:1;15:13">Open the Thesaurus view by clicking the <image href="Images/icons/full/icon16/thss.png" id="image_fck_tgj_cs" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:1;16:36"/> "Thesaurus" icon in the <xref href="ui_toolbar_e3.dita#topic_ejn_sdy_lr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="xref:2;17:56" type="topic"><?ditaot usertext?>Toolbar</xref>.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:2;18:13">In the Thesaurus Navigator on the left, click either <image href="Images/icons/full/icon16/thss_add.png" id="image_vbs_52k_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:2;19:81"/> "Add Thesaurus Root
+          Entry" or <image href="Images/icons/full/icon16/ths-add.png" id="image_v3d_w2k_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:3;20:95"/> "Add
+          Thesaurus Child Entry" to create a new thesaurus entry. A root entry may stand on its own,
+          while a child entry is always dependent on the root entry. </li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:3;23:13">Click on the newly created "Thesaurus" entry to edit its content. Its Passport Editor
+            <image href="Images/icons/full/icon16/passport.png" id="image_ott_5fk_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:4;24:88"/> will appear
+          in the middle.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:4;26:13">In the Passport Editor you have to type a name (default name is either "Thesaurus Root"
+          or "Thesaurus Child"), define type and subtype via the drop-down menus and edit visibility
+          and review status. </li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:5;29:13">Now fill in all availabe metadata into the Passport Editor. For a detailed description
+          of the individual tabs and elements of the passport editor of the Thesaurus View, see
+            <xref href="ui_thesaurus_passporteditor.dita#concept_wpd_hqd_4r" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="xref:3;31:78" type="concept"><?ditaot usertext?>Passport
+            Editor</xref>.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:6;33:13">To add an annotation or a comment to a Thesaurus entry, click <image href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:5;34:87"/> "Add
+          Annotation" and <image href="Images/icons/full/icon16/comment-add.png" id="image_st5_vvm_wr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:6;36:36"/> "Add Comment" in the toolbar of the Thesaurus Navigator.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="li:7;37:13">To delete a thesaurus entry, use the <image href="Images/icons/full/obj16/delete.png" id="image_xdl_2wm_wr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_thesaurus.dita" xtrc="image:7;38:36"/> "Delete" button in the Thesaurus Navigator toolbar. It will move
+          the entry to the "Bin" tab, where you can manually permanently delete it. Closing or
+          restarting the BTS will also lead to the permanent deletion of an entry from the Bin.</li>
+      </ol>
+    </p>
+
+  </body>
+</topic>

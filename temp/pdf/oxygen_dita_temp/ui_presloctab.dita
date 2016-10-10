@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_otk_ywf_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="title:1;4:9">Present Location</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:1;6:6">This tab allows you to put in data concerning the present location (i.e. a museum or
+   collection) of the Egytian object, that bears the text you want to edit.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:2;8:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:3;9:6">
+   <ul id="ul_rqj_zpl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:1;10:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:1;11:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:1;11:12">Location:</b> Displays the name of the selected thesaurus entry. This is no input field.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:4;11:103">
+      <ul id="ul_nsl_rcm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:2;12:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:2;13:12"><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="image:1;13:85"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:2;14:12">Search Object:</b> Select the location from the Thesaurus.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:3;15:12"><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="image:2;15:95"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:3;16:12">Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:5;22:6">
+   <ul id="ul_b4z_zpl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:3;23:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:4;24:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:4;24:12">Inventory Number:</b> Enter the number of your object if provided. The field may contain
+     only one inventory number. If an object consists of several fragments with separate inventory
+     numbers or has several names, you can add another widget within the same entry group, using the
+     following buttons:<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:6;27:27">
+      <ul id="ul_typ_tcm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:4;28:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:5;29:12"><image href="Images/icons/full/icon16/widget-text-add.png" id="image_wxb_3pl_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="image:3;29:94"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:5;30:12">Add widget:</b> Add another inventory number of the same object in the selected
+        location.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:6;32:12"><image href="Images/icons/full/icon16/widget-text-delete.png" id="image_g2b_jpl_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="image:4;32:97"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:6;33:12">Remove widget:</b> Removes the inventory number.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:7;38:6">
+   <ul id="ul_vdd_w5b_55" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:5;39:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:7;40:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:7;40:12">Comment:</b> Add a comment to the location.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:8;43:6">
+   <ul id="ul_hzd_qmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:6;44:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:8;45:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:8;45:12">in_situ:</b> Select this checkbox, if the object still remains at its position at an
+     archaeological site.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="p:9;49:6">
+   <ul id="ul_od4_rmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:7;50:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:9;51:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:9;51:12">is_present_location:</b> Select this checkbox, if the selected location is the museum or
+     collection where the object is stored at present.</li>
+   </ul>
+   <ul id="ul_ctx_4md_jx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:8;54:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:10;55:9"><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="image:5;55:99"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:10;56:9">Add Entry Group:</b> Add another "location" section to enter a previous location, e.g. if
+     the object was formerly stored in another museum.</li>
+   </ul>
+   <ul id="ul_h1s_vxl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="ul:9;59:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="li:11;60:9"><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="image:6;60:102"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_presloctab.dita" xtrc="b:11;61:9">Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     the only entry group.</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

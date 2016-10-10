@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ewq_twf_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="title:1;4:9">Bibliography</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:1;6:6">Enter bibliographical information here. The tab contains: </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:2;7:6">
+   <ul id="ul_o4n_dy2_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:1;8:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:1;9:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:1;9:12">Bibliographical text field:</b> A field to enter the bibliographical data manually.
+          Currently it is recommended to use this field only. Divide your bibliographic items with
+          ENTER. At the end of each item, give the following information separated with comma in
+          square brackets:<ul id="ul_b44_xgm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:2;12:50">
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:2;13:17">A for squeeze ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:2;13:36">A</b>bklatsch")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:3;14:17">B for bibliography ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:3;14:41">B</b>ibliography")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:4;15:17">F for faksimile ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:4;15:38">F</b>aksimile")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:5;16:17">H for hand copy ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:5;16:38">H</b>andkopie")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:6;17:17">K for comment ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:6;17:36">K</b>ommentar")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:7;18:17">L for site plan ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:7;18:38">L</b>ageplan")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:8;19:17">P for photo ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:8;19:34">P</b>hoto")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:9;20:17">T for transcription from Hieratic ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:9;20:56">T</b>ranskription")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:10;21:17">U for transliteration ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:10;21:44">U</b>mschrift")</li>
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:11;22:17">Ü for translation ("<b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:11;22:40">Ü</b>bersetzung")</li>
+          </ul><ul id="ul_wkj_1sm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:3;23:39">
+            <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:12;24:17">The asterisk (*) marks the leading reference you have used for your BTS
+              edition.</li>
+          </ul><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:3;26:19">Examples:</p><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:4;26:35">
+            <ul id="ul_wlr_bhm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:4;27:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:13;28:19">D. Bidoli, in: MDAIK 28, 1973, 193-200 [P, Ü, K]</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:14;29:19">R. Drenkhahn, Die Elephantine-Stele des Sethnacht und ihr historischer
+                Hintergrund, ÄA 36, 1980 [P, A, Ü, K]</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:15;31:19">H. Altenmüller, in: JEA 1982, 107-115 [Ü, K]</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:16;32:19">J. Murnane, in: CdE 58, 1983, 133-135 [K]</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:17;33:19">KRI V, 671-672 [*H]</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:18;34:19">F. Junge, Elephantine XI, AV 49, 1987, 55-58 [*P, Ü, K]</li>
+            </ul>
+          </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:5;39:6">
+   <ul id="ul_pn1_jy2_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:5;40:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:19;41:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:12;41:12">Bibliographical entry:</b> This feature is currenly not available.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:6;41:81">
+      <ul id="ul_ajh_drm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:6;42:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:20;43:12"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:13;43:15">Bib. Item:</b> Displays the name of the selected thesaurus entry. This is no input
+        field.</li>
+      </ul>
+     </p><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:7;46:13">
+      <ul id="ul_fcs_vqm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:7;47:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:21;48:12"><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="image:1;48:85"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:14;49:12">Search Object:</b> You may select the language from the Thesaurus. This feature is
+        currenly not available.</li>
+      </ul>
+      <ul id="ul_vgm_drm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:8;52:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:22;53:12"><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="image:2;53:95"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:15;54:12">Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry. This feature is currenly not available.</li>
+      </ul>
+      <ul id="ul_gc3_grm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:9;57:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:23;58:12"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:16;58:15">Pages/plates:</b> Enter the pages / plate number complementing the bibliographical
+        item selected from the thesaurus and select the check boxes. For the meaning of the
+        abbreviations see above.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:24;61:12"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:17;61:15">Comment:</b> Use this input field to comment your reference.</li>
+      </ul>
+      <ul id="ul_qt3_jrm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:10;63:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:25;64:12"><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="image:3;64:102"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:18;65:12">Add Entry Group:</b> Add an additional bibliography section.</li>
+      </ul>
+      <ul id="ul_l4k_jrm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="ul:11;67:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="li:26;68:12"><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="image:4;69:33"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="b:19;70:12">Remove Entry Group:</b> Delete a bibliography section.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:8;75:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_bibliography.dita" xtrc="p:9;76:6">NOTE: The bibliographical thesaurus does not exist yet. We recommend to use "Bibliographical
+   text field" instead until it is available.</p>
+ </conbody>
+</concept>

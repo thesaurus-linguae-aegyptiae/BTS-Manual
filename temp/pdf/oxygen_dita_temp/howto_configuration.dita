@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_r4k_zqf_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="title:1;4:9">Configuration</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="p:1;6:6">The BTS allows you to adjust various settings in a way that best suits your needs.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="p:2;7:6">The features available for configuration are:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="p:3;8:6">
+   <ul id="ul_ats_ntv_ps" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="ul:1;9:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="li:1;10:9">Changing font size</li>
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="li:2;11:9">Adjusting display</li>
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="li:3;12:9">Defining Templates</li>
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="li:4;13:9">Setting personal preferences<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="p:4;13:41"/></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_configuration.dita" xtrc="p:5;16:6">NOTE: All changes in the configuration are valid on your local computer. They are not saved in
+   your user account, i.e. if you login on another computer you have to configure your settings
+   anew.</p>
+ </conbody>
+</concept>

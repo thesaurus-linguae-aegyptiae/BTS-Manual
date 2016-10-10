@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_jqz_5wf_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="title:1;4:9">Description </title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:1;6:6">This tab is used for recording the working process. The provided input fields are the
+   following:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:2;8:6">
+   <ul id="ul_zyq_bmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="ul:1;9:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="li:1;10:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="b:1;10:12">Line count:</b> Enter the modus of the text's line count (e.g. define how the lines are
+     counted in your text). <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:3;11:32">NOTE: Line count only applies to the item-type "text".</p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:4;14:6">
+   <ul id="ul_zqb_dmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="ul:2;15:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="li:2;16:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="b:2;16:12">Protocol:</b> Enter the dates of your working process here (e.g. first entering, editing
+     etc.).</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:5;20:6">
+   <ul id="ul_e1f_2my_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="ul:3;21:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="li:3;22:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="b:3;22:12">Description:</b> This input field offers the oportunity to provide a more thorough
+     definition of the object / text in case the name of the database object is not sufficient for
+     identification. Usualy this field remains blank.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:6;24:57">NOTE: This does not replace conscientious
+      naming of the database and proper filling of the passport data.</p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="p:7;28:6">
+   <ul id="ul_aw4_fmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="ul:4;29:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="li:4;30:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_definition.dita" xtrc="b:4;30:12">Comment:</b> Write any additional comments you may have to your work.</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

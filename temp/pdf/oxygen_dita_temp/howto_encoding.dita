@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_dlt_2db_nx" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="title:1;4:10">Encoding Inflection</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="p:1;6:8">To ecode the inflection, switch to the Sign Text Editor and activate the Lemmatizer. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="p:2;7:8">Assign an inflection code to each word form (token). The inflection codes apply to forms that
+      are distinguished morphologically. It does not encode forms that depend on grammar theory,
+      that means there is no differentation between morphological identical <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="i:1;9:80">sḏm=f</i>-Forms. For
+      a list of codes see <xref href="grammar_inflection.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="xref:1;10:65" type="concept"><?ditaot gentext?>Inflection Codes<?ditaot genshortdesc?><desc class="- topic/desc "/></xref>.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="p:3;11:8">Experience has learned that it is better to lemmatize a text first and afterwards fill out
+      the field "Flexion". If you want to encode the inflection during the lemmatization process,
+      type the approriate code (see <xref href="grammar_inflection.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="xref:2;13:74" type="concept"><?ditaot usertext?>Inflection codes<?ditaot genshortdesc?><desc class="- topic/desc "/></xref>)
+      into the field "Flexion" before or after you have selected the lemma and than confirm with
+        <image href="Images/icons/full/icon16/lemma-ok.png" id="image_zt4_fvf_fx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="image:1;15:84"/>. If you choose
+      to encode the inflection after you have finished the lemmatization (as we recommand), you can
+      use the button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png" id="image_zxg_dks_2x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="image:2;18:32"/> to proceed to the next not yet inflected word. You can also use the
+      ENTER key to confirm and proceed.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="p:4;20:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="p:5;21:8">NOTE: The button <image href="Images/Icons_updated/full/icon16/flexion-confirm.png" id="image_p42_hvf_fx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_encoding.dita" xtrc="image:3;22:32"/> brings you to the next word with default inflection code, i.e. if
+      you defined "Default Inflexion = 3" in the preferences, the button brings you to the next word
+      with inflection code 3, although you might already have entered this code as the correct
+      form.</p>
+  </body>
+</topic>

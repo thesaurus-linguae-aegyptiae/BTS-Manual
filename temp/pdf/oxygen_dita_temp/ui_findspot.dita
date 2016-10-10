@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_xt1_ryf_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="title:1;4:9">Findspot</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:1;6:6">This tab allows you to put in data concerning the findspot of the Egytian object, that bears
+   the text you want to edit.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:2;8:6">This tab is divided into two sections: "Place" and "Former Place".</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:3;9:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:1;9:9">Place</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:4;10:6">
+   <ul id="ul_glz_xpl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:1;11:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:1;12:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:2;12:12">Place:</b> Displays the name of the selected thesaurus entry. This is no input field.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:5;12:100">
+      <ul id="ul_ocv_wcm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:2;13:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:2;14:12"><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:1;14:85"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:3;15:12">Search Object:</b> Select the findspot from the Thesaurus.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:3;16:12"><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:2;16:95"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:4;17:12">Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:6;23:6">
+   <ul id="ul_vdd_w5b_55" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:3;24:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:4;25:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:5;25:12">Comment:</b> Add a comment to the findspot.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:7;28:6">
+   <ul id="ul_hzd_qmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:4;29:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:5;30:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:6;30:12">is_origin:</b> Select this check box if the chosen findspot is the original site where
+     the object originally came from.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:8;34:6">
+   <ul id="ul_od4_rmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:5;35:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:6;36:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:7;36:12">Certainty:</b> Choose between "Certain", "Probable" and "Uncertain".</li>
+   </ul>
+   <ul id="ul_mwk_wxl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:6;38:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:7;39:9"><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:3;39:99"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:8;40:9">Add Entry Group:</b> Add another set of information, including "Place" and "Former place".
+     Use this option, if your objects consits of more than one fragment which were found at
+     different places.</li>
+   </ul>
+   <ul id="ul_xdx_xxl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:7;44:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:8;45:9"><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:4;45:102"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:9;46:9">Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     the only entry group.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:9;50:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:10;51:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:10;51:9">Former place</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:11;52:6">
+   <ul id="ul_tzb_5my_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:8;53:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:9;54:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:11;54:12">former_place:</b> Displays the name of the selected thesaurus entry. This is no input
+     field. <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:12;55:16">
+      <ul id="ul_tj4_ycm_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:9;56:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:10;57:12"><image href="Images/icons/full/icon16/search.png" id="image_jh2_jvf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:5;57:85"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:12;58:12">Search Object:</b> Select the former place from the Thesaurus.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:11;59:12"><image href="Images/Icons_updated/full/icon16/passport.png" id="image_ijt_jvf_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:6;59:95"/>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:13;60:12">Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:13;66:6">
+   <ul id="ul_skx_5my_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:10;67:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:12;68:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:14;68:12">Comment:</b> Add any comment to the findspot.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:14;71:6">
+   <ul id="ul_hmq_vmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:11;72:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:13;73:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:15;73:12">is_origin:</b> Select this check box if the chosen findspot is the original site where
+     the object originally came from.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:15;77:6">
+   <ul id="ul_pb2_wmy_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:12;78:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:14;79:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:16;79:12">Certainty:</b> Choose between "Certain", "Probable" and "Uncertain".</li>
+   </ul>
+   <ul id="ul_xy3_xxl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:13;81:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:15;82:9"><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_kct_p1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:7;82:99"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:17;83:9">Add Entry Group:</b> Add another set of information for "Former place" (without "Place").
+     Use this option, if more than one former location of your object is known.</li>
+   </ul>
+   <ul id="ul_c44_xxl_hx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="ul:14;86:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="li:16;87:9"><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_psz_p1g_hx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="image:8;87:102"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="b:18;88:9">Remove Entry Group:</b> Removes the entry group "Former place" or clears the entry fields if
+     it is the only entry group.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:16;92:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_findspot.dita" xtrc="p:17;93:6">Example: The Pantheon obelisk (PM VII, 409) found in 1374 under Santa Maria sopra Minerva,
+   re-erected in 1711 opposite the Pantheon. Therefore chosoe, the following entries: Place:
+   Pantheon; Certainty: Certain; Former_Place: Santa Maria sopra Minerva; Certainty: Certain;
+   another Former_Place: Heliopolis; Is_Origin: Check box selected; Certainty: Probable.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+ </conbody>
+ <?oxy_custom_end?>
+</concept>

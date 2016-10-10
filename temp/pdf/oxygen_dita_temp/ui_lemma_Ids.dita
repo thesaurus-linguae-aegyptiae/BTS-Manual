@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_fhl_wqd_vt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="title:1;4:10">IDs</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:1;6:8">This tab provides the option to enter external IDs of your lemma to establish links to other
+      projects and databases. By default a <image href="Images/icons/full/obj16/add.png" id="image_hjw_n3w_zs" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="image:1;8:32"/> button will be displayed. Click it to add an external ID. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:2;9:8">NOTE: Lemmata transferred from the project "Altägyptisches Wörterbuch" display here the ID
+      from the project "Altägyptisches Wörterbuch" in the field External ID. In this case, the field
+      type has the value aaew_wcn.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:3;12:8">
+      <ul id="ul_w2b_jnf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="ul:1;13:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="li:1;14:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="b:1;14:16">Provider:</b> Choose the provider (an external project) from the drop-down menu.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:4;14:99">If
+            a provider you need is missing, please send a proposal to the BTS team in Berlin via
+            E-mail: aegypt1@bbaw.de.</p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:5;19:8">
+      <ul id="ul_ad5_mnf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="ul:2;20:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="li:2;21:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="b:2;21:16">Type:</b> Enter the type of the external ID.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:6;24:8">
+      <ul id="ul_rgz_nnf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="ul:3;25:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="li:3;26:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="b:3;26:16">External ID:</b> Enter the external ID here.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="li:4;27:13">Example: The lemma <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="i:1;27:35">nfr</i> also appears in the Ramses project:
+          http://ramses.ulg.ac.be. Select Ramses as provider, enter 96274 as external ID.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="p:7;31:8">
+      <ul id="ul_fhc_snf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="ul:4;32:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="li:5;33:13"><image href="Images/icons/full/obj16/add.png" id="image_mmm_qsz_tr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="image:2;33:82"/>
+          <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="b:4;34:14">Add Identifier:</b> Add another set of information, including the "Provider", "Type"
+          and "External ID".</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="li:6;36:13"><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="image:3;36:85"/>
+          <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_Ids.dita" xtrc="b:5;37:14">Remove Widget:</b> This removes the external ID from the lemma.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

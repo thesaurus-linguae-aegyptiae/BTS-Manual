@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_zzt_24c_lx" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_start.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_start.dita" xtrc="title:1;4:10">Start BTS</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_start.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_start.dita" xtrc="p:1;6:8">BTS starts automatically during the installation process. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_start.dita" xtrc="p:2;7:8">Afterwards BTS is started by double-clicking "bts.exe". After the installation is completed,
+      this file serves to run the software.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_start.dita" xtrc="p:3;9:8">BTS installer currently does not create BTS entries in the windows "Start" menu or on the
+      desktop. You can manually create a shortcut of the "bts.exe" and drag-&amp;-drop it into the
+      start menu, taskbar and desktop. Click/double click this icon to start the program. </p>
+  </body>
+</topic>

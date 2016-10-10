@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_ext_1nb_lt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="title:1;4:10">Unwritten Consonants</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:1;6:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="b:1;6:11">Conventions</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:2;7:8">The transliteration in BTS represents the written forms as they appear in the text.
+      Nevertheless, we recomand to determined unwritten grammatical or phonetic elements and
+      (correctly) unwritten - but not weak - consonants by the use of the round brackets: “(...)”.
+      This helps the reader to understand your translation and makes it easier for you to lemmatize
+      your text, as the lemmatizer finds the respective entries automatically.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:3;12:8">
+      <table frame="all" rowsep="1" colsep="1" id="table_ecq_lk4_fx" class="- topic/table " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="table:1;13:70">
+        <tgroup cols="1" class="- topic/tgroup " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="tgroup:1;14:26">
+          <colspec colname="col1" colnum="1" colwidth="1.0*" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="colspec:1;15:61"/>
+          <tbody class="- topic/tbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="tbody:1;16:18">
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:1;17:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:1;18:22"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="b:2;18:25">Examples</b></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:2;20:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:2;21:22"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:1;21:25">ḥ(n)q,t</i></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:3;23:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:3;24:22"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:2;24:25">r(m)ṯ</i></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:4;26:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:4;27:22"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:3;27:25">n(,j)</i></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:5;29:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:5;30:22"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:4;30:25">(j)m(,j)-r(ʾ)</i></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:6;32:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:6;33:22"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:5;33:25">jw =f (ḥr) sḏm</i></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:7;35:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:7;36:22"><i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:6;36:25">jw =f sḏm(.w)</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:4;42:8">NOTE: Dots and commas have to be written within the round brackets: <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:7;42:79">...(.w)</i>,
+        <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:8;43:12">...(,j)</i>.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:5;44:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:6;45:8">This means: whenever an unwritten but strong radical is expected, it has to appear in the
+      transliteration. There are a few exceptions which will be listed below.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:7;47:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:8;48:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="b:3;48:11">Rules for the reflection of unwritten consonants</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:9;49:8">
+      <table id="table_opl_fnb_lt" class="- topic/table " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="table:2;50:36">
+        <tgroup cols="2" class="- topic/tgroup " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="tgroup:2;51:26">
+          <colspec colname="col1" colnum="1" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="colspec:2;52:47"/>
+          <colspec colname="col2" colnum="2" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="colspec:3;53:47"/>
+          <tbody class="- topic/tbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="tbody:2;54:18">
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:8;55:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:8;56:22"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="b:4;56:25">Grammar</b></entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:9;57:22"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="b:5;57:25">Yes (x) / No (-)</b></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:9;59:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:10;60:22">Numerus</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:11;61:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:10;63:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:12;64:22">Infinitive</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:13;65:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:11;67:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:14;68:22">Passive (<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:9;68:34">tw/tj</i>)</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:15;69:22">x (by using "(...)", e.g. <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:10;69:51">sḏm.t(w)=f</i>)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:12;71:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:16;72:22">Contigent</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:17;73:22">x (by using "〈...〉", e.g. <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:11;73:51">sḏm〈.jn〉=f</i>)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:13;75:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:18;76:22">Passive (<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="i:12;76:34">sḏm.w=f</i>)</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:19;77:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:14;79:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:20;80:22">Prospective</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:21;81:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:15;83:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:22;84:22">Subjunctive</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:23;85:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:16;87:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:24;88:22">Imperative</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:25;89:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:17;91:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:26;92:22">Stative / PSP</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:27;93:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:18;95:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:28;96:22">Negative-comeplement</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:29;97:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:19;99:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:30;100:22">Participle</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:31;101:22">-</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="row:20;103:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:32;104:22">Relativeform</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="entry:33;105:22">-</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:10;111:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:11;112:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="b:6;112:11">Numerus</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="p:12;113:8">Ideographic writings of numerus are not to be represented phonetically but designated through
+      “.pl” and “.du”. For details see chapter <xref href="grammar_structure_convention.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_unwrittenconsonants.dita" xtrc="xref:1;114:96" type="topic"><?ditaot gentext?>Structural signs and conventions</xref>.</p>
+  </body>
+</topic>

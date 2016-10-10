@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ywn_ghb_lt" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="title:1;4:9">Brackets</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:1;6:6">Only consonants of words or full words that are destroyed or partially destroyed are allowed to
+   be put into brackets (“[ ]” / “⸢ ⸣“), if signs representing the consonants are intrinsically part
+   of the writing. This means that the consonants that are complements of fully existing ideograms
+   should not be surrounded by brackets. If a word is partially destroyed but is still fully
+   readable (that happens if a determinative or a complement is destroyed, but the word is clearly
+   written) then there is no need for a bracket, unless there is no ambiguity possible, e.g. because
+   of homography.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:2;13:6">
+   <ul id="ul_qzy_g2g_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="ul:1;14:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="li:1;15:9">Example 1: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg" id="image_ghr_yy5_wt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="image:1;16:30"/> has to be transcribed as “<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="i:1;16:60">nfr</i>”, not “<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="i:2;16:78">nf[r]</i>”.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:3;19:6">
+   <ul id="ul_q2n_h2g_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="ul:2;20:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="li:2;21:9">Example 2: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg" id="image_rmm_nz5_wt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="image:2;22:30"/> has to be transcribed as "<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="i:3;22:60">⸢nfr⸣</i>".</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:4;25:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:5;26:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="b:1;26:9">Table of brackets available in BTS</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:6;27:6">
+   <table frame="all" rowsep="1" colsep="1" id="table_r5c_gjy_2x" class="- topic/table " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="table:1;28:67">
+    <tgroup cols="2" class="- topic/tgroup " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="tgroup:1;29:22">
+     <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="colspec:1;30:54"/>
+     <colspec colname="col2" colnum="2" colwidth="3.08*" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="colspec:2;31:57"/>
+     <tbody class="- topic/tbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="tbody:1;32:13">
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:1;33:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:1;34:15">(...)</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:2;35:15">Correctly unwritten consonants / words or abbreviation expanded by the editor</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:2;37:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:3;38:15">⸢...⸣</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:4;39:15">Partly damaged or otherwise unclear consonants / words</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:3;41:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:5;42:15">〈...〉</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:6;43:15">Consonants / words erroneously omitted by the ancient scribe, restored or corrected by
+        the editor</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:4;46:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:7;47:15">{...}</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:8;48:15">Consonants / words considered erroneous and superfluous by the editor</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:5;50:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:9;51:15">[...]</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:10;52:15">Consonants / words missing from the original text due to lacuna, restored by the
+        editor</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:6;55:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:11;56:15">⸮...?</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:12;57:15">Consonants / words with doubtful reading</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:7;59:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:13;60:15">〈〈...〉〉 </entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:14;61:15">Haplography</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:8;63:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:15;64:15">((...))</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:16;65:15">Ancient additions to the text (above line or beside column)</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:9;67:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:17;68:15">{{...}}</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:18;69:15">Ancient deletions</entry>
+      </row>
+      <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="row:10;71:12">
+       <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:19;72:15">[[...]]</entry>
+       <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="entry:20;73:15">Ancient reconstructions over deletions</entry>
+      </row>
+     </tbody>
+    </tgroup>
+   </table>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:7;79:6">NOTE: For 〈...〉 use the font BBAWLibertine, do not use &lt;...&gt;, as the latter are not valid in
+   BTS.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:8;81:6">NOTE: ((...)) is not to be used for glosses.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:9;82:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:10;83:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="b:2;83:9">General rules for the use of brackets</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:11;84:6">
+   <ul id="ul_jr1_fmy_2x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="ul:3;85:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="li:3;86:9">Brackets alwys come in pairs. You have to close every bracket you have opened. Usually the
+     system will do this automatically, but there are cases where that does not work. Pressing
+     "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
+     recurring elements you also can define a template in the  <xref href="ui_preferences2.dita#concept_trz_tw2_yr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="xref:1;90:54" type="concept"><?ditaot usertext?>Preferences</xref>.</li>
+   </ul>
+  </p>
+  <ul id="ul_omg_fmy_2x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="ul:4;93:26">
+   <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="li:4;94:8">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:12;95:8">Brackets have to be closed with each token (word), e.g. [jw] [nfr] (not: [jw nfr]).</p>
+   </li>
+   <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="li:5;97:8">Brackets can be combined, as long as the bracket oped last is closed first, e.g. [ḫp(r)],
+    ⸢ḫp(r)⸣, ⸮[ḫ]p(r)? etc. Interlacing diffrent kinds is not valid, e.g. ⸮[ḫ?]pr.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_brackets.dita" xtrc="p:13;98:86">NOTE: Some
+     combinations of round brackets and doubble round brackets result in errors, although they
+     should be valid. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
+     dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
+  </ul>
+ </conbody>
+</concept>

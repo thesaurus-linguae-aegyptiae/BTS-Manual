@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ux4_gyl_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="title:1;4:9">Thesaurus: Coordinates </title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="p:1;6:6">This tab allows you to enter the coordinates of the place names in the thesauri
+   ("Aufbewahrungsorte" and "Fundstellen")</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="p:2;8:6">
+   <ul id="ul_ytd_m1g_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="ul:1;9:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="li:1;10:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="b:1;10:12">Latitude:</b> Enter the latitude of the location.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="p:3;13:6">
+   <ul id="ul_iwb_n1g_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="ul:2;14:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="li:2;15:9"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_thesaurus_coordinates.dita" xtrc="b:2;15:12">Longitude:</b> Enter the longitude of the location.</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

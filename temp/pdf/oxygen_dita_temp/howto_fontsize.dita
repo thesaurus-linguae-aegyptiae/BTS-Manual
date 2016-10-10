@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_il5_4dt_kr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_fontsize.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_fontsize.dita" xtrc="title:1;4:10">Changing font size</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_fontsize.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_fontsize.dita" xtrc="p:1;6:8">Changing font size of the BTS is quite simple. Select Window entry from the Menu bar. The
+      first option in the drop-down menu will be "Switch Font Size/CSS Theme". Click on it in order
+      to enlarge the font. There is no list of font sizes to choose from. The font size will be
+      enlarged or reduced upon clicking on the entry. Clicking on the entry the second time will
+      bring back the original size and change the look of the BTS a little. Next two clicks will
+      keep enlarging the font with the new coloring. The next clicks shrink it again and bring back
+      the original coloring. Test it out in order to establish which look is the best for you. The
+      example below demonstrates the look after three clicks on the "Switch Font Size/CSS Theme"
+      entry.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_fontsize.dita" xtrc="p:2;15:8"><image href="Images/new%20screenshots/BTS%20Screenshots/Font_size_3ckicks.png" id="image_z4n_d52_1v" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_fontsize.dita" xtrc="image:1;16:32"/></p>
+  </body>
+</topic>

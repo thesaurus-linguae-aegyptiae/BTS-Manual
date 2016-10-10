@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ohd_sq5_fs" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="title:1;4:9">Update / Uninstall BTS</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="p:1;6:6">
+   <ol id="ol_vhy_cr5_fs" class="- topic/ol " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="ol:1;7:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="li:1;8:9"><u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="u:1;8:12">Update BTS</u><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="p:2;8:29">BTS automatically checks for updates every time you start the
+      application. In case an update is found, you will be offered a choice to install it or to
+      postpone it. The update can be installed via program user interface of BTS as well. In order
+      to do so click "Help / Update Application" in the top menu bar.</p></li>
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="li:2;12:9"><u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="u:2;12:12">Uninstall BTS</u><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="p:3;12:32">BTS is not listed in the "Control Panel / Programs / Programs and
+      Features" section of your operating system. Thus it is not possible to uninstall it in the
+      regular way. To uninstall the application, close the program window and delete all files from
+      the installation folder. </p><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="p:4;15:39">NOTE: You might have to restart your system before deleting
+      the folder. The reason for this is that the DB services of the program might be still running
+      in background after closing the application and therefore might block the deletion.
+      </p><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\intro_uninstall_update.dita" xtrc="p:5;18:14">NOTE: Using "Help / Uninstall software" entry in the upper menu bar of BTS will not
+      uninstall the application completely. It only uninstalls individual components, and sometimes
+      this may not be possible because Database service was started and is still running. You will
+      have to close the program window and delete the files again. </p></li>
+   </ol>
+  </p>
+ </conbody>
+</concept>

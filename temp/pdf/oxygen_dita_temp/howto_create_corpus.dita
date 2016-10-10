@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_umb_xrq_nt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="title:1;4:10">Creating a corpus</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="p:1;6:8">The following function is available to the user with global administrator privileges only.
+      The detailed description of the UI elements can be found in <xref href="ui_corpora.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="xref:1;8:32" type="concept"><?ditaot usertext?>Text Corpus</xref> section.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="p:2;9:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="b:1;9:11">Creating a corpus</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="p:3;10:8">
+      <ol id="ol_ikk_dsy_qt" class="- topic/ol " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="ol:1;11:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="li:1;12:13">Click on the <image href="Images/icons/full/icon16/corpus-add.png" id="image_rbk_ssv_ps" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="image:1;13:13"/> New Corpus icon. It is located above the <xref href="ui_corpusnavigator_e9.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="xref:2;14:47" type="concept"><?ditaot usertext?>Corpus Navigator</xref>. Alternatively,
+          right-click on any corpus and select "Create New Text Corpus".</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="li:2;16:13">Choose a name and a prefix (a prefix is a short name under which the corpus will be
+          saved in the database). <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="p:4;17:38">NOTE: No special signs, spaces or capital letters are allowed
+            in the prefix!</p></li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="li:3;19:13">Select the check box if you want to "Synchronize corpus with central database". Other
+          users will be able to see your new corpus only if it is synchronized with the remote
+          database server. Otherwise, it will rest in offline mode on your PC. After you have
+          finished, click "OK". Cancel the creation with the "Cancel" button.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_create_corpus.dita" xtrc="li:4;23:13">Your new corpus will appear in the list of the corpora.</li>
+      </ol>
+    </p>
+  </body>
+</topic>

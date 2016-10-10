@@ -12,19 +12,19 @@
       <ol id="ol_zxm_3ty_qt">
         <li>Choose the corpus from the Corpus Navigator tree where you wish your TCObject to appear.
           You can add an TCObject to a corpus or to another already existing TCObject. Although you
-          can later move database objects, consider a logicl hierachic order.</li>
+          can later move database objects, consider a logical hierachic order.</li>
         <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
           sub-entry of the chosen corpus. The newly created TCObject has the relation "PartOf" to
           the chosen corpus or to an already existing database object of this corpus. <p>NOTE: A
             Text Corpus Object is referring to a physical object, covered with texts. Texts and Text
             Corpus Objects are in child-parent relation, i.e. Text is always attributed to the a
-            specific Text Corpus Object - not vice versa (see <xref href="intro_ui_glossary.dita"
-              >Glossary</xref> in the Chapter Introduction).</p><p>NOTE: Currently newly created
-            database objects will be saved in your main working corpus (as selected in the <xref
-              href="ui_berlintextsystem.dita">preferences</xref>) and not in the selected
-            corpus if those two differ. New database objects will appear in the selected corpus, but
-            will not be saved there. The appearance is dependent on the relations of the database
-            objects, not on their physical storage.</p></li>
+            specific Text Corpus Object - not vice versa (see also <xref
+              href="intro_ui_glossary.dita"/>).</p><p>NOTE: Newly created database objects will be
+            saved in your main working corpus (as selected in the <xref
+              href="ui_berlintextsystem.dita">preferences</xref>) and not in the selected corpus, if
+            those two differ. New database objects will appear in the selected corpus, but will not
+            be saved there. The appearance is dependent on the relations of the database objects,
+            not on their physical storage.</p></li>
         <li>Name your Text Corpus Object in the <xref
             href="ui_maintab.dita#concept_isp_k5f_yr">Main Tab </xref> of the Passport
           Editor (The "Name" input field will appear red). You can actually start working without
@@ -44,7 +44,7 @@
               <li><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x"/>
                 <b>Group:</b> A Group defines a number of physical objects belonging together on
                 geographic reasons (e.g. the graves of a specific cemetery like the Eastern Cemetery
-                at Gisa or an papyrus archive like the Abusir Papyri).</li>
+                at Giza or an papyrus archive like the Abusir Papyri).</li>
             </ul>
             <ul id="ul_gqd_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/arrangement.png"
@@ -54,7 +54,8 @@
             </ul>
             <ul id="ul_q3f_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/scene.png" id="image_hjy_t5p_3x"/>
-                <b>Scene:</b> This is an obsolete entry. Do not use it.</li>
+                <b>Scene:</b> This is an obsolete entry that was used for data imported from the
+                previous project. Do not use it.</li>
             </ul>
             <ul id="ul_egh_xwp_3x">
               <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
@@ -106,7 +107,7 @@
                 but without a defined order of reading (e.g. diffrent persons and their respective
                 inscriptins on a relief).<p>NOTE: Do not treat chapters or captions of a continuous
                   text (e.g. the medical remedies in Papyrus Ebers) as subexts. These have to be
-                  segmented by annotations. </p></li>
+                  segmented by annotations (see <xref href="howto_annotations.dita"/>).</p></li>
             </ul>
           </p></li>
       </ol>
@@ -169,7 +170,7 @@
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/moving_objects.png"
         id="image_tqj_nyv_3x"/></p>
     <p><b>Deleting database objects (TCObjects / Texts)</b></p>
-    <p>There are twom options to delete a database object from the database:</p>
+    <p>There are two options to delete a database object from the database:</p>
     <p>
       <ol id="ol_awf_h1x_3x">
         <li>To delete a database object (Text Corpus Objects or Texts) select it and then click on

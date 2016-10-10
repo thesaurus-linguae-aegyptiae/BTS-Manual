@@ -17,7 +17,7 @@
         <li>Main and subclauses belong together as one sentence.</li>
         <li>The emphatic construction is one sentence (e.g. <i>pr.n =j m pr =j hꜣ.n =j m spꜣ.t =j
             jrj.n =j mꜣꜥ.z tp tꜣ</i>).</li>
-        <li>Protasis and Apodosis of a conditional clause are one sentence (e.g. <i>jr ḏd=f nj ꜥnḫ=f
+        <li>Protasis and apodosis of a conditional clause are one sentence (e.g. <i>jr ḏd=f nj ꜥnḫ=f
             pw</i>).</li>
         <li>Relative clauses belong to the superordinated clause.</li>
         <li>Subjuctive clauses and clauses introduced by n.tj, wn.t, or jw.tj belong to the
@@ -54,7 +54,9 @@
       layout see chapter <xref href="intro_keyboard.dita"/>.</p>
     <p/>
     <p>The transliteration in BTS represents the <b>written forms</b> as they appear in the text,
-      not as they would be expected in the dictionary. </p>
+      not as they would be expected in the dictionary, e.g. <image
+        href="Images/new%20screenshots/Hieroglyphs/swrj001.png" id="image_i2j_trl_4x"/> has to be
+      transliterated <i>swrj</i>, not <i>zwr</i>.</p>
     <p>The <b>dual and plural endings</b> are transliterated with ".w" or ".wj/.tj" when written
       phonetically. When marked graphically, they are marked with ".pl" or ".du". When the plural
       and dual endings are written both phonetically and graphically they are transliterated with
@@ -76,12 +78,12 @@
     <p>
       <ul id="ul_ugx_ryw_ns">
         <li>Line counts according to the physical object are introduced by #lc: and end with
-            <b>#</b>. The numbers (arabic numerals) are written in square brackets, e.g.: Line 1 =
-          #lc: [1]#. <p>Use the line cout of a principle edition if it follows the line count of the
-            physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc: [12.4]#.</p><p>For <b>columns</b>
-            use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line break in the original text occurs
-            within the borders of a word, the line count is to be placed after the respective
-            word.</p></li>
+            <b>#</b>. The numbers (usually arabic numerals) are written in square brackets, e.g.:
+          Line 1 = #lc: [1]#. <p>Use the line cout of a principle edition if it follows the line
+            count of the physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc: [12.4]#.</p><p>For
+              <b>columns</b> use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line break in the
+            original text occurs within the borders of a word, the line count is to be placed after
+            the respective word.</p></li>
       </ul>
       <ul id="ul_bvp_4w5_mx">
         <li>For line count according to synoptic editions used to align multiple versions of a text,
@@ -117,8 +119,6 @@
         <li>If the number of words missing can precisely be determined (e.g. if the words are
           completely lost, but with the determinatives preserved), use three underscores in brackets
           "[___]". E.g.: "[___] [___]" for 2 missing words.</li>
-        <li>All other descriptive information is to be put between "#": E.g.: #in front of the first
-          person looking left#; #3Q are left empty#.</li>
       </ul>
     </p>
     <p/>
@@ -167,15 +167,15 @@
       counts (#lc: ...#) and --2Q--, are not allowed within ambiguities.</p>
     <p/>
     <p><b>Using Templates</b></p>
-    <p>It is possible to use templates in order to speed up the transliteration process. Note that
-      you can create your own templates . You can access the templates by right-clicking in Text
-      Editor and choosing "Content Assist" or by pressing "CRTL+Spacebar". Depending on the position
-      of the cursor (within a sentence / word or outside the sentence marked by §§) you will get a
-      different set of templates to choose from. This can be influenced by changing the "Context" of
-      your templates (for more details see chapter <xref href="howto_templates.dita"/>).</p>
+    <p>It is possible to use templates in order to speed up the transliteration process. You may
+      create your own templates: Access the templates by right-clicking in Text Editor and choosing
+      "Content Assist" or by pressing "CRTL+Spacebar". Depending on the position of the cursor
+      (within a sentence / word or outside the sentence marked by §§) you will get a different set
+      of templates to choose from. This can be influenced by changing the "Context" of your
+      templates (for more details see chapter <xref href="howto_templates.dita"/>).</p>
     <p/>
     <p><b>Copy&amp;Paste functions</b></p>
-    <p>BTS supports copy&amp;paste within the same text as well as between diffrent texts.</p>
+    <p>BTS supports copy&amp;paste within the same text as well as between different texts.</p>
     <p>
       <ul id="ul_jgl_mby_2x">
         <li>It is possible to enter the complete transliteration of a text at once out of an
@@ -200,13 +200,13 @@
           </p></li>
       </ul>
     </p>
-   <p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. Frist you need to
+   <p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. First you need to
       enter some dummy text and press "Load Text Lemmata". After pasting yout text you can delete
-      dummy.</p>
+      the dummy.</p>
     <p>NOTE: The sentence you want to copy as well as the sentence in, before, or after which you
-      want to insert the copied sentence(s) is activated. Activation is shown by the sign <image
-        href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the left of
-      the sentence (compare note on <xref href="howto_translation.dita">translation</xref>
+      want to insert the copied sentence(s) must be activated. Activation is shown by the sign
+        <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the
+      left of the sentence (compare note on <xref href="howto_translation.dita">translation</xref>
       below).</p>
  </conbody>
 </concept>

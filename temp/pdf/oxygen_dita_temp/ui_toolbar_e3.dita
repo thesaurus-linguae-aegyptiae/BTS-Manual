@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_ejn_sdy_lr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="title:1;4:10">Toolbar </title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:1;6:8">The Tool  bar displays several icons. ToolTips are displayed upon the mouse-over.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:2;7:8"><image href="Images/new%20screenshots/BTS%20Screenshots/Toolbar_complete.png" id="image_rvd_tjp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:1;8:32"/></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:3;9:8"><image href="Images/icons/full/obj16/add.png" id="image_izv_hlr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:2;9:77"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:1;10:10">New</u>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:4;12:8">Click the black triangle on the right of the plus sign to open a context menu.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:5;13:8">Here you can choose between the entries to create a new corpus, a new text corpus object, a
+      new text or an annotation. As long as you did not select a corpus in the Navigator window the
+      entries in the context menu are disabled. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:6;16:8"><image href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:3;16:83"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:2;17:10">Save</u>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:7;19:8">Save the changes you made in the currently active window or tab. As long as you did not work
+      in the database object it will be inactive (grey) and after saving it will return to the
+      inactive state. If you attempt to close the program the window will ask you to save your
+      changes unless you already have done a save before. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:8;23:8">NOTE: There is no auto-save in BTS, but the program will save your file when you click on
+      another database object. Make sure you save your work in regular intervals to avoid loss of
+      input!</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:9;26:8"><image href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:4;26:79"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:3;27:10">Save all </u></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:10;28:8">Save all changes in all the database objects you have worked on.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:11;29:8"><image href="Images/icons/full/icon16/undo.png" id="image_rfb_wmr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:5;29:79"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:4;30:10">Undo (Ctrl+Z)</u>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:12;32:8">Undo the last action. You can undo more than one action. The Undo-button only applies to
+      changes in the Text Editor and can only undo actions you have done during the current session
+      in the text. Once you have switched to antother database object, the feature is not available
+      anymore. Newly created database objects cannot be deleted this way.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:13;36:8"><image href="Images/icons/full/icon16/redo.png" id="image_ffc_mnr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:6;36:79"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:5;37:10">Redo</u>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:14;39:8">Reverse last "undone" action, applies only to changes in the Text Editor.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:15;40:8"><image href="Images/icons/full/icon16/preferences.png" id="image_rkn_4nr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:7;40:86"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:6;41:10">Preferences</u>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:16;43:8">This option is available twice on the toolbar and leads to Preferences / Project Settings. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:17;44:8">Next to the cup <image href="Images/icons/full/icon16/user.png" id="image_chv_5nr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:8;44:95"/> the
+      currently logged in user is shown. Next to pencil <image href="Images/icons/full/icon16/edit.png" id="image_cbs_ynr_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:9;46:73"/> and key <image href="Images/icons/full/icon16/userrole.png" id="image_g5n_14r_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:10;47:77"/> the user role is
+      visible. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:18;49:8"><image href="Images/icons/full/icon16/project.png" id="image_dn3_jm1_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:11;49:82"/> displays the name
+      of the current project.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:19;51:8"><image href="Images/icons/full/icon16/Open_Perspective.png" id="image_mdc_dkp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:12;51:91"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:7;52:10">Open Perspective...</u>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:20;54:8">A pop-up window will appear with the list of four perspectives / views of the workspace (Text
+      Corpus, Lemma, Thesaurus, Abstract Text). Select the respective perspective / view and confirm
+      with "OK" to open it.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:21;57:8">You can also open <image href="Images/icons/full/icon16/corpora.png" id="image_dry_hkp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:13;57:100"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:8;58:10">Text Corpus</u>, <image href="Images/icons/full/icon16/lemmata.png" id="image_ecw_jkp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:14;58:101"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:9;59:10">Lemma</u>, <image href="Images/icons/full/icon16/thss.png" id="image_jxq_lkp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:15;59:92"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:10;60:10">Thesaurus</u> and <image href="Images/icons/full/icon16/abstracttexts.png" id="image_wvw_mkp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:16;61:32"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:11;62:10">Abstract Text</u>  by clicking on their respective icon at the right edge of the
+      toolbar.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:22;64:8"><u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="u:12;64:11">NOTE</u>: The Abstract Text view is not available yet. It will compile the witnesses of a
+      single text (e.g. Sinuhe) and deliver a generic structure, e.g. display the concordance of
+      paragraphs. The metadata concerning the "abstract text" can be entered here, e.g. the
+      bibliography. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="p:23;68:8">To the right of the <image href="Images/icons/full/icon16/corpus.png" id="image_vrb_v4r_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:17;68:101"/>
+      you can see your main working corpus. At startup "No Corpus" is displayed. To set the corpus
+      click on the <image href="Images/icons/full/icon16/preferences.png" id="image_tsm_5q1_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="image:18;70:98"/>
+      Preferences icon, which will forward you to the <xref href="ui_berlintextsystem.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_toolbar_e3.dita" xtrc="xref:1;72:10" type="topic"><?ditaot usertext?>Corpus Settings</xref>.</p>
+  </body>
+</topic>

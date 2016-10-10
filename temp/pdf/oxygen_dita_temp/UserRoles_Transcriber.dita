@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_k1v_znv_bt" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="title:1;4:10">Transcriber</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="p:1;6:8">Transcribers are allowed to add hieroglyphic encodings. They may not create new database
+      objects and may not change anything except adding hieroglyphic encodings to text for which
+      they are granted the "Updater" status.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="p:2;9:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="b:1;9:11">Rights</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="p:3;10:8">
+      <ul id="ul_v25_l4v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="ul:1;11:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="li:1;12:13">Can edit hieroglyphs for items within a particular corpus (only with the "Updater"
+          status).</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="p:4;16:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="b:2;16:11">Limitations</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="p:5;17:8">
+      <ul id="ul_lwp_n4v_bt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="ul:2;18:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="li:2;19:13">Cannot edit transliteration, lemma or passport data of the corpus items.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="li:3;20:13">Without a Reader status in a given corpus, database object or text: can only view the
+          corpus items, but is not allowed to edit them in any way, which also includes input of
+          hieroglyphs.</li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="li:4;23:13">Database objects with a visibility status <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="i:1;23:58">Reader</i>, <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="i:2;23:73">Group</i> or <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\UserRoles_Transcriber.dita" xtrc="i:3;23:89">Project</i>
+          will not be visible when no status is assigned to the Transcriber.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

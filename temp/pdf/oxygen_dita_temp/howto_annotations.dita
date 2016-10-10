@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_w4c_cxf_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="title:1;4:9">Annotations, Rubra, Glosses and Comments</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="conbody:1;5:11">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:1;6:8">BTS text editing tools include an annotation, a rubrum, a gloss or a comment, which can be
+      applied to a word or a sequence of words, a sentence or several sentences. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:2;8:8">NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun jn
+      the n was omitted and later added in red: j((n)), this n cannot be marked as being written in
+      red)"</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:3;11:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:1;11:11">What is the difference between an annotation, a gloss, a rubrum or a comment?</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:4;12:8">
+      <ul id="ul_kk3_3lj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:1;13:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:1;14:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:2;14:16">Annotation</b> is intended to provide the extra-textual information for parts of the
+          text, which may include bibliographical references and other metadata. Annotations are not
+          limited to one fragment, they can be connected with more than one section of a text. You
+          can use annotation, for example, to divide your text into chapters (e.g. to define and
+          seperate the remedies of a medical text or the maxime Ptahhotep ) and other forms of
+          alignment. Annotations can be used for syntactic, stylistic, prosopographic information.
+          Therefore, there are different types and subtypes of annotations so that one can
+          distinguish these types of information. If you need further types and subtypes, please
+          contact the BTS team in Berlin.<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:5;22:45">NOTE: To seperate specific parts of a text, annotations
+            are only used, if their sequence is evident. To mark sections of a text in a case when
+            the sequence of the chapters is not clear or ambigous (e.g. first part being a biography
+            and the next an offering scene or a Ptolemaic temple scene is a text with various
+            Beischriften. ), <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:3;26:33">Subtext</b> is used.</p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:6;29:8">
+      <ul id="ul_f1y_jlj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:2;30:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:2;31:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:4;31:16">Gloss</b> is a semantic or phonetic explanation of a passage in a text made by an
+          ancient scribe (not a modern comment!), written above the word or in the margin.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:7;35:8">
+      <ul id="ul_kdd_klj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:3;36:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:3;37:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:5;37:16">Rubrum</b> is used to mark rubrum in the text.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:8;40:8">
+      <ul id="ul_k1s_klj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:4;41:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:4;42:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:6;42:16">Comment</b> is an information to a text which can discuss problems of a phrase or a
+          word (unlike annotations, comments cannot have metadata such as e.g. bibliographical
+          information). </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:9;47:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:7;47:11">Annotating a text</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:10;48:8">To annotate a text, use the buttons above the "Text Editor" tab. Mark the sequence you want
+      to annotate: for only one word you just place the cursor within the word; if the word
+      comprises a single character only, place the cursor directly behind the character). You can
+      create more than one annotation for the same token, and vice versa, the same annotation can be
+      created for different tokens. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:11;53:8">NOTE: If buttons are deactivated, click somewhere outside of your text and then again in
+      it.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:12;55:8">
+      <ul id="ul_vgj_mlj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:5;56:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:5;57:13"><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:1;57:94"/>
+          <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:8;58:14">Add Annotation</b>: Adds an <xref href="howto_annotations.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="xref:1;58:78" type="concept"><?ditaot usertext?>Annotation</xref> to
+          the selected part of your text. A grey bar appears in the "Annotation" tab to the right,
+          with a thin like marking which part of the text the annotation refers to. It is possible
+          to enter Passport Data, as you may want to provide metadata (extra-textual information).
+        </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:13;65:8">
+      <ul id="ul_q24_mlj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:6;66:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:6;67:13"><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:2;67:90"/>
+          <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:9;68:14">Add Rubrum</b>: Converts the selected part of the text into a rubrum, which is
+          indicated by red color of the text and a grey bar on the right. </li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:14;72:8">
+      <ul id="ul_qfs_mlj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:7;73:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:7;74:13"><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:3;74:91"/>
+          <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:10;75:14">Add Glosse</b>: Clicking on a button will add a "child"-element of your text in the
+          corpora tree. The gloss can be edited like a regular text. Once it is created, it is first
+          labelled "BTS Text". You have to rename it and enter passport data etc.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:15;80:8">
+      <ul id="ul_vvv_mlj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:8;81:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:8;82:13"><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:4;82:91"/>
+          <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:11;83:14">Add Comment</b>: Adds a comment to the selected part of the transliteration. This will
+          be underlined yellow.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:16;87:8">You can also use these functions via the drop-down menu that appears when you click on the
+      triangle to the right of the annotation symbols.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:17;89:8">The existing annotations are displayed in the <xref href="ui_annotations.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="xref:2;90:36" type="concept"><?ditaot usertext?>Annotation tab</xref> on the right. A new
+      annotation will appear at the bottom of this list. With the arrow on the right you can expand
+      the annotation and see more information as well as further editing options. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:18;93:8">NOTE: All annotations to the transliterated tokens (including lemmatization) are anchored to
+      the first and the last element of the token or the series of tokens, respectively. That means,
+      if you make changes to the first and the last element in the texteditor, the annotations loose
+      their link to the token. If you need to make changes to an already lemmatized and/or annotated
+      token, switch to the Sign Text Editor and make the changes in the field "Selected Word" (see
+      also <xref href="howto_lemmatizing.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="xref:3;98:49" type="concept"><?ditaot gentext?>Lemmatizing</xref>).</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:19;99:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:12;99:11">Deleting annotations</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:20;100:8">You can delete the annotation by selecting it and clicking <image href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:5;101:74"/> "Delete" in the upper
+      right corner of the Annotations tab. A confirmation window will appear, click "Delete" to
+      confirm or "Cancel" if you have changed your mind.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:21;104:8">NOTE: You cannot delete any annotation via the "Undo" button.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:22;105:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:13;105:11">Editing annotations</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:23;106:8">Once you have created an annotation, rubrum, glosse, or comment, you are enabled to edit
+      them: </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:24;108:8">
+      <ul id="ul_gvl_xjj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:9;109:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:9;110:13">Cick <image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:6;110:89"/> to edit the
+          content and the metadata of the annotation.</li>
+      </ul>
+      <ul id="ul_nsk_kkj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:10;113:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:10;114:13">Use <image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:7;114:93"/> to add
+          a futher text selction to the annotation, e.g. if you make a comment on a word that occurs
+          several times in your text.</li>
+      </ul>
+      <ul id="ul_ock_vqv_mx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:11;118:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:11;119:13">You may also click <image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:8;120:36"/> to add a further text selection to the annotaion.</li>
+      </ul>
+      <ul id="ul_dvm_kkj_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="ul:12;122:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="li:12;123:13">Use <image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:9;123:96"/> to
+          remove a current reference. This only removes the link between the annotation and the
+          text. It does not delete the annotation.</li>
+      </ul>
+    </p>
+   <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:25;128:7"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="b:14;128:10">Using filters</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:26;129:8">You can use filters to hide or display specific types or subtypes of annotation, e.g. you can
+      hide all rubra from the list or display only comments. Select the filter by clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="image:10;131:86"/> in the
+      Annotation tab.   </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_annotations.dita" xtrc="p:27;133:8">NOTE: When you text is loaded, BTS loads all annotations, filters them according to you
+      filter settings and then displays the first 40 annotations. Annotations that are not displayed
+      will appear in the list as soon as you click on the annotated token in the Transliteration
+      Editor.</p>
+  </conbody>
+</concept>

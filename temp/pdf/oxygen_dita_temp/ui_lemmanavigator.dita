@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_pgn_j4d_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="title:1;4:9">Lemma Navigator</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:1;6:6">In the Lemma Navigator you can browse, coordinate and control the lemma-entries of the TLA. It
+   is divided into two sub-tabs: WL and Bin. Clicking one of those will show either the word list or
+   a "trash can". Please note that generating the list of the objects in the "Bin" tab may take up
+   to one minute the first time you click it after installing BTS. Thereafter the preview works
+   faster. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:2;11:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="b:1;11:9">Tools</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:3;12:6">The Lemma Navigator's toolbar includes the <xref href="ui_commonfeatures.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="xref:1;12:85" type="topic"><?ditaot usertext?>standard
+    tools</xref> plus the following additional ones (from left to right):</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:4;14:6"><image href="Images/icons/full/icon16/lemmata.png" id="image_ncd_mtb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:1;14:80"/> Add Lemma Root
+   Entry: This adds a new lemma root entry. Entering the name of the lemma will automatically
+   arrange its position in the hierarchical tree. A refresh might be necessary.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:5;17:6"><image href="Images/icons/full/icon16/lemma.png" id="image_ofx_ptb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:2;17:78"/> Add Lemma Child Entry:
+   This adds a new child entry to a selected root entry or child entry.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:6;19:6"><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:3;19:87"/> Add
+   Annotation: Adds an annotation to the selected lemma. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:7;21:6"><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:4;21:84"/> Add Comment:
+   Adds a comment to the selected lemma. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:8;23:6"><image href="Images/icons/full/obj16/delete.png" id="image_klw_ttb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:5;23:78"/> Delete: This moves an
+   entry from the WL to the Bin. Deleting entries that are moved to bin will be deleted
+   permanently.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:9;26:6"><image href="Images/icons/full/icon16/search.png" id="image_oct_xtb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:6;26:79"/> Open Simple Search
+   Dialog: This opens a search dialog to filter the WL for specific entries.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:10;28:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="b:2;28:9">WL</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:11;29:6">In the WL (=Wortliste/word list) the lemmata are presented as groups in a tree. The label of a
+   specific group shows the first and the last word of each group, sorted according to the
+   egyptological "alphabetic" order. Clicking on a group opens new subgroups (if such exist) until
+   lemma root entries show up. Root entries can have child entries. To display child entries simply
+   click the root entry.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:12;34:6">Each lemma entry constists of an icon (indicating the review state of the lemma),
+   transliteration, translation, word class, physical location of the database object. and number of
+   relations.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:13;37:6">Next to each lemmata there is one of the following icons:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:14;38:6"><image href="Images/Icons_updated/full/icon16/lemma_checked.png" id="image_gwr_wky_gx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:7;38:94"/> means
+   that a lemma is certain and confirmed.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:15;40:6"><image href="Images/icons/full/icon16/lemma-uncertain.png" id="image_vpc_mpl_yr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:8;40:88"/> means that
+   the meaning of a lemma is uncertain/ not defined.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:16;42:6"><image href="Images/icons/full/icon16/lemma-wrong.png" id="image_ykq_ppl_yr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:9;42:84"/> means that a
+   lemma has been proven to be wrong and usually, upon expanding, a correct lemma, linked with the
+   wrong lemma, will be displayed.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:17;45:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="b:3;45:9">Roots</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:18;46:6"><image href="Images/Icons_updated/full/icon16/root.png" id="image_b24_2hx_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:10;46:85"/> prepresents
+   root entries. The review state is indicated by the same small icons as for the lemma entries
+   above.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:19;49:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="b:4;49:9">Bin</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:20;50:6">Entries (root or child) deleted in the WL are moved to the Bin. The entries in the Bin are not
+   grouped alphabetically anymore. Deleting an item at this point (in the Bin) will remove it
+   permanently. Note that the initial opening of the tab "Bin" may take some time.  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:21;53:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="b:5;53:9">Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png" id="image_umy_spv_ps" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:11;54:28"/>"</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:22;55:6">Clicking the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_vbq_myb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:12;56:28"/> will display all the options present in teh toolbar (see above) and a
+   few more:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:23;58:6">
+   <ul id="ul_vmj_thf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:1;59:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:1;60:9">Delete Permanently: Use this option to delete an item completely (it will not be moved to
+     the bin).T he item will be removed after you have restarted BTS.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:24;64:6">
+   <ul id="ul_qbw_vhf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:2;65:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:2;66:9">Restore: Restores a deleted lemma to its original position in the tree.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:25;69:6">
+   <ul id="ul_v2q_whf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:3;70:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:3;71:9"><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:13;71:84"/> Edit
+     Updaters/Readers: Assign <xref href="ui_preferences.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="xref:2;72:64" type="concept"><?ditaot usertext?>user roles</xref> for Lemma
+     entries (see <xref href="ui_edit.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="xref:3;73:45" type="concept"><?ditaot usertext?>Menu bar &gt; Edit</xref>). </li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:26;76:6">
+   <ul id="ul_lkq_13f_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:4;77:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:4;78:9">Open Conflict Dialog: If two users work simultanously on a database object, it is possible,
+     that they produce different versions at the same time. The conflict dialog solves the problem,
+     which version is the preferable one (see <xref href="ui_edit.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="xref:4;80:73" type="concept"><?ditaot usertext?>Menu bar &gt;
+      Edit</xref>).</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:27;84:6">
+   <ul id="ul_gnm_b3f_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:5;85:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:5;86:9"><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="image:14;86:83"/> Open Revision
+     History: Opens the history of the changes made for the selected lemma (see <xref href="ui_edit.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="xref:5;88:27" type="concept"><?ditaot usertext?>Menu bar &gt; Edit</xref>).</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:28;91:6">
+   <ul id="ul_vl5_c3f_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:6;92:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:6;93:9">Filter: Apply different filters on the available lemma-list: <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="p:29;93:73">
+      <ul id="ul_ybc_myp_gx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="ul:7;94:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:7;95:12">Filter by Project / Creator / Updaters / Review Status / Visibility / Types opens a
+        dialogue to select your filter criteria by clicking the relevant check boxes. To undo the
+        filter, unselect the checkboxes. </li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemmanavigator.dita" xtrc="li:8;98:12">Filter only invalid Lemmata: Displays all texts that do not match the formal system
+        grammar.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

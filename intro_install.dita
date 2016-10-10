@@ -71,19 +71,19 @@
             from the server. This process will usually take about 20 minutes and is not visible to
             the user, it might take longer depending on your system. There is also no notification
             once the process is completed. Close the "Database manager" window and reopen it after
-            approximately 20 minutes. As soon as the "aaew_wlist" displays the number 49.500 in "DB
-            Doc Count" column, the process is completed. </p><p>NOTE: Sometimes the automatic log-in
-            does not work after the installation and restart. As the result "No user logged in" and
-            "No role" will be initially displayed in the BTS toolbar. In this case, start the
-            program again. A small window appears, where you have to log in with your user name and
-            password. You can activate "Remember me", so BTS will not ask you for user name and
+            approximately 20 minutes. As soon as the "aaew_wlist" displays the number of c. 49.500
+            in "DB Doc Count" column, the process is completed. </p><p>NOTE: Sometimes the automatic
+            log-in does not work after the installation and restart. As the result "No user logged
+            in" and "No role" will be initially displayed in the BTS toolbar. In this case, start
+            the program again. A small window appears, where you have to log in with your user name
+            and password. You can activate "Remember me", so BTS will not ask you for user name and
             password again. You can change and deactivate this function in the <xref
               href="ui_berlintextsystem.dita">preferences</xref>.</p></li>
         <li><b>Index data</b><p>Last but not least. All data imported from the server, must be
             indexed. Indexing enabels the search, as the query is not done in the database (which
             would take time), but in the document indexes.</p>In the upper left corner of the
-          "Database manager" window click on "Re-index all" . The indexing process will start and
-          may take up to 20 minutes. If indexing has been completed correctly, the corpus color will
+          "Database manager" window click on "Re-index all". The indexing process will start and may
+          take up to 20 minutes. If indexing has been completed correctly, the corpus color will
           change from red to green. Databases that are not indexed sucessfully are marked either in
           yellow or in red. If indexing was not successful for some corpora re-index them by
           clicking on the button "Re-index all non-OK". <p>NOTE: To work with BTS all databases

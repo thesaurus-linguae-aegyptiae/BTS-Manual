@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ws4_2pd_4r" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="title:1;4:9">Passport Editor</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="conbody:1;5:11">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:1;6:8">The Passport Editor section is located in the bottom part in the middle of the Text Corpus
+      view. It contains the metadata of a selected database object. It is divided into different
+      subsections which are organized in tabs. These categories vary depending on the database
+      object: Text Corpus Objects have other tab than Texts. You can maximize and minimize the
+      window with <image href="Images/icons/extra%20icons/maximize.png" id="image_w3j_gn3_ns" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="image:1;10:96"/> and
+        <image href="Images/icons/extra%20icons/minimize.png" id="image_qkj_gn3_ns" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="image:2;11:86"/> buttons.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:2;12:8">If you are working on a "child object" and want it to have the same metadata as the "parent
+      object", you can click <image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="image:3;14:32"/> "Inherit Passport Data" in the top right corner of the Passport
+      Editor. Note that the "parent" data will be copied in the empty fields only. If the fields
+      were filled out, their content will remain unchanged. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:3;17:8">The option "Inherit Overwrite Passport Data", available via the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_umy_spv_ps" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="image:4;18:86"/>" allows you to
+      overwrite already existing metadata with updates metadata of the "parent object".</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:4;20:8">NOTE: Both inheritance procedures applies to all tabs at once, not only the currently open
+      one. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:5;22:8">NOTE: Be sure that all entered metadata are correct, as you might inherit errors to "child
+      objects".</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:6;24:8">NOTE: It is not possile to undo the inheritance procedure.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:7;25:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="p:8;26:8"><image href="Images/new%20screenshots/BTS%20Screenshots/passport_lemma.png" id="image_qm1_k1z_gx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_lemma_passporteditor.dita" xtrc="image:5;27:32"/></p>
+  </conbody>
+</concept>

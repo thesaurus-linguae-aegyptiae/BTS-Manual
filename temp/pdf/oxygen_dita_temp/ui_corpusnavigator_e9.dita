@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_axv_vfm_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="title:1;4:9">Corpus Navigator </title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:1;6:6">The Corpus Navigator tab is located on the left side of the Text Corpus view. Here you can see
+   the position of the text in the corpus tree, displayed hierarchically. You can navigate through
+   the corpus by clicking the database objects or using the "up" and "down" arrow keys on your
+   keyboard, and using "right" and "left" arrows in order to expand or close a node (entry in a
+   tree). Only one text can be opened at a time in the Text Editor.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:2;11:6"><image href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Corpus_Navigator.png" id="image_exj_k4p_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:1;13:28"/></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:3;14:6">Apart from its name, the physical location of the database object is displayed in square
+   brackets. The number of elements it contains is displayed in round brackets. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:4;16:6"><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:2;16:79"/> is displayed for any
+   active corpus in the tree, for which you have an updater or reader status. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:5;18:6"><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:3;18:88"/> is displayed
+   for any other corpus the user has the user right to see.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:6;20:6">For activating and deactivating corpora use the Corpus Settings in the <xref href="ui_berlintextsystem.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:1;21:37" type="topic"><?ditaot usertext?>Preferences</xref></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:7;22:6">Corpus Navigator has two sub-tabs: <image href="Images/icons/full/icon16/corpora.png" id="image_o21_2y3_zs" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:4;23:28"/> Text Corpora and <image href="Images/icons/full/icon16/bin.png" id="image_vqw_pjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:5;24:28"/> Bin. A third tab with the search results will appear, when you open the
+   search dialog. By default the tab Text Corpora is activated. In the Bin tab you can find your
+   deleted Texts and Text Corpus Objects. Please note that generating the list of the database
+   objects in the "Bin" tab may take up to one minute the first time you click it after installing
+   BTS. Thereafter the preview works faster. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:8;29:6">At the top of the Corpus Navigator section there are several buttons. Two of them, <image href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:6;30:75"/> and <image href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:7;31:75"/>, are also available in
+   other windows and are therefore explained in the <xref href="ui_commonfeatures.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:2;32:89" type="topic"><?ditaot usertext?>Common
+    features</xref> section. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:9;34:6">Corpus Navigator-specific buttons are the following: </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:10;35:6"><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:8;35:83"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:1;36:7">Create New Text Corpus</u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:11;37:6">Click to create a new corpus. Only available for the administrator</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:12;38:6"><image href="Images/icons/full/icon16/tcobject-add.png" id="image_szx_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:9;38:85"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:2;39:7">Add Text Corpus Object </u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:13;40:6">Adds a "child" (a lower level)-object to the currently selected database object. It receives a
+   default title "BTSTC Object". Select the newly created element by clicking it and rename it in
+   the Passport Editor. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:14;43:6">NOTE: The physical location where the child element is saved is the active corpus by default.
+   But if you chosen a stable main working corpus in the <xref href="ui_preferences2.dita#concept_trz_tw2_yr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:3;45:52" type="concept"><?ditaot usertext?>Preference Settings</xref>, the new element is
+   physically saved in this corpus.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:15;47:6"><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:10;47:81"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:3;48:7">Add Text </u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:16;49:6">Adds a "child" text to the selected node. It is called "BTS Text" unless you rename it in the
+   Passport Editor. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:17;51:6">NOTE: The physical location where the child element is saved is not the active corpus but your
+   main working corpus you have chosen in the <xref href="ui_preferences2.dita#concept_trz_tw2_yr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:4;53:6" type="concept"><?ditaot usertext?>Preference Settings</xref>.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:18;54:6"><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:11;54:87"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:4;55:7">Add Annotation </u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:19;56:6">Adds an annotation to the selected node. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:20;57:6"><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:12;57:84"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:5;58:7">Add Comment </u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:21;59:6">Adds a comment to the selected node.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:22;61:6"><?oxy_custom_end?><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:13;61:96"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:6;62:7">Delete</u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:23;63:6">Deletes the selected database object from the Corpus Navigator tree and moves it into the Bin
+   tab. In the Bin you can either restore it or permanently delete it per right-click. Note that you
+   are only allowed to delete your own database objects, texts etc.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:24;66:6">NOTE: This only deletes the selected database object. All child elements (e.g. Subtexts,
+   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Oprhans" and are still
+   accesible via the Search Dialog. You have to delete all child elemets before deleting the
+   respective database object.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:25;70:6"><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:14;70:79"/>
+   <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="u:7;71:7">Open Simple Search Dialog</u></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:26;72:6">Opens a search dialog in order to search for specific database objects, phrases. etc.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:27;73:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:1;73:9">Drop-down menu</b>
+   <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_umy_spv_ps" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:15;74:88"/>"</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:28;75:6">Clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_zj3_d2g_ys" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:16;75:99"/>
+   will display the drop-down menu containing options described above plus the additional ones: </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:29;77:6">
+   <ul id="ul_xf1_h1y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:1;78:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:1;79:9">Delete Permanently: use this option to delete an item completely (it will not be moved to
+     the bin). The removal of the database object will be visible after you have restarted BTS.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:30;83:6">
+   <ul id="ul_r1v_31y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:2;84:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:2;85:9">Restore: Click to restore an item from the bin.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:31;88:6">
+   <ul id="ul_s5v_j1y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:3;89:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:3;90:9">Move Object among Projects: Allows you to assign the physical location of the given database
+     object to another corpus. Only Editors and Administrators are allowed to move database
+     objects.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:32;95:6">
+   <ul id="ul_cxf_l1y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:4;96:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:4;97:9">Open Conflict Dialog: If two users work simultanously on a database object, it is possible,
+     that they produce different versions at the same time. The conflict dialog solves the problem,
+     which version is the preferable one (see <xref href="ui_edit.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:5;99:73" type="concept"><?ditaot usertext?>Menu bar &gt; Edit</xref>)</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:33;102:6">
+   <ul id="ul_ags_p1y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:5;103:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:5;104:9"><image href="Images/icons/full/icon16/history.png" id="image_kn5_gjc_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:17;104:83"/> Open Revision
+     History: See <xref href="ui_edit.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:6;105:45" type="concept"><?ditaot usertext?>Menu bar -&gt; Edit</xref>.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:34;108:6">
+   <ul id="ul_qzx_q1y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:6;109:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:6;110:9"><image href="Images/icons/full/icon16/userrole.png" id="image_yjj_x3c_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:18;110:84"/> Edit
+     Updaters/Readers: See <xref href="ui_edit.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="xref:7;111:54" type="concept"><?ditaot usertext?>Menu bar -&gt; Edit</xref>.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:35;114:6">
+   <ul id="ul_al5_s1y_bv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:7;115:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:7;116:9">Filter: Filters the corpora according to the listed criteria. <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:36;116:74">
+      <ul id="ul_ybc_myp_gx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:8;117:30">
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:8;118:12">Filter by Project / Creator / Updaters / Review Status / Visibility / Types opens a
+        dialogue to select your filter criteria by clicking the relevant check boxes. To undo the
+        filter, unselect the checkboxes. </li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:9;121:12">Only active text corpora: Displays only active corpara, marked by <image href="Images/icons/full/icon16/corpus.png" id="image_tff_typ_gx" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:19;122:76"/>.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:10;123:12">Filter only invalid texts: Displays all texts that do not match the formal system
+        grammar.</li>
+       <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:11;125:12">Filter only incomplete texts: Displays all texts, which either lemmatitation, encoding of
+        inflection, hieroglyphs or translation have not been entered at all or have not been entered
+        completely.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:37;132:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:2;132:9">Icons in the Corpus Navigator tree</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:38;133:6">There are several icons that reprent different types of database objects in the Corpus
+   Navigator tree. These are combined with smaler one to definde the review state or to provide a
+   warning.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:39;136:6">
+   <ul id="ul_c1c_qgp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:9;137:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:12;138:9"><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:20;138:91"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:3;139:9">Caption:</b> The Caption is used as a folder to list a set of physical objects under one
+     heading due to pragmatic reasons (e.g. the stelae from Kawa or the medical papyri).</li>
+   </ul>
+   <ul id="ul_gtb_xwp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:10;142:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:13;143:9"><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:21;143:89"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:4;144:9">Group:</b> A Group defines a number of physical objects belonging together on geographic
+     reasons (e.g. the graves of a specific cemetery like the Eastern Cemetery at Gisa).</li>
+   </ul>
+   <ul id="ul_gqd_xwp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:11;147:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:14;148:9"><image href="Images/Icons_updated/full/icon16/arrangement.png" id="image_isy_c3p_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:22;148:95"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:5;149:9">Arrangement:</b> An arrangement defines a closed association of finds (e.g. the objects from
+     the tomb of Tutankhamun).</li>
+   </ul>
+   <ul id="ul_q3f_xwp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:12;152:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:15;153:9"><image href="Images/Icons_updated/full/icon16/scene.png" id="image_hjy_t5p_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:23;153:89"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:6;154:9">Scene:</b> This is an obsolete entry. Do not use it.</li>
+   </ul>
+   <ul id="ul_egh_xwp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:13;156:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:16;157:9"><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:24;157:84"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:7;158:9">TCObject:</b> The Text Corpus Object is the physical ancient Egyptian object that is covered
+     with your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose IV.).</li>
+   </ul>
+   <ul id="ul_obj_xwp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:14;161:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:17;162:9"><image href="Images/Icons_updated/full/icon16/tcobjectpart.png" id="image_tpj_b3p_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:25;162:96"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:8;163:9">ObjectPart:</b> ObjectPart is hieratically subordinated to TCObject. Use it, when the
+     carrier of your text consits of more than one physical object (e.g. a statue and its base or
+     several parts of a buidling).</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:40;168:6">
+   <ul id="ul_hp1_jgp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:15;169:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:18;170:9"><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:26;170:80"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:9;171:9">Text:</b> A Text is defined as a coherent entity. Your physical object might contain several
+     texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The Taking of Joppe" etc. Each
+     of these tales and poems recieves its own database object "Text" subordinated to the TCObject
+     "Papyrus Harris 500).</li>
+   </ul>
+   <ul id="ul_pwm_rwp_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:16;176:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:19;177:9"><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:27;177:83"/>
+     <b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="b:10;178:9">Subtext:</b> Subtexts are parts of the same text that are related to each other, but without
+     a defined order of reading (e.g. diffrent persons and their respective inscriptins on a
+     relief).</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:41;183:6">The review state is displayed as follows:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:42;184:6">
+   <ul id="ul_vf3_3cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:17;185:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:20;186:9"><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:28;186:86"/> new</li>
+   </ul>
+   <ul id="ul_pql_3cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:18;188:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:21;189:9"><image href="Images/Icons_updated/full/ovr16/awaiting-review.png" id="image_bjh_qhq_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:29;189:98"/>
+     awaiting review</li>
+   </ul>
+   <ul id="ul_psn_3cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:19;192:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:22;193:9"><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:30;193:98"/>
+     awaiting update</li>
+   </ul>
+   <ul id="ul_alp_3cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:20;196:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:23;197:9"><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:31;197:91"/> reviewd /
+     published</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:43;201:6">These icons mark warnings etc.:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:44;202:6">
+   <ul id="ul_anl_4cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:21;203:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:24;204:9"><image href="Images/icons/full/ovr16/conflicts-small.png" id="image_vzg_qcx_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:32;204:90"/>: This
+     marks a conflict of versions.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:45;208:6">
+   <ul id="ul_qmq_4cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:22;209:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:25;210:9"><image href="Images/icons/full/ovr16/lock-small.png" id="image_ayb_rcx_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:33;210:85"/>: This marks
+     that another user is currently working on this database object.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:46;214:6">
+   <ul id="ul_vpv_4cx_3x" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="ul:23;215:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="li:26;216:9"><image href="Images/icons/full/ovr16/pen_small.png" id="image_v5d_scx_3x" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="image:34;216:84"/>The pen marks
+     that this is the database object you are currenly working on.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_corpusnavigator_e9.dita" xtrc="p:47;220:7"/>
+ </conbody>
+</concept>

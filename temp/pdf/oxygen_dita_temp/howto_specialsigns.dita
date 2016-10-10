@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ivy_kzc_cs" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="title:1;4:9">Special signs and Haplographies</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:1;6:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="b:1;6:9">Dots and other hieratic signs without hieroglyphic equivalent</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:2;7:6">Some hieratic signs like lines or dots without hieroglyphic equivalent are available in the Ff
+            group. For instance the dot is rendered by JSesh Code Ff110. As this is not averse
+            point, do not use "O" or "o", because in JSesh these are indeed verse points.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:3;10:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="b:2;10:9">Cartouches</b>
+        </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:4;12:6">A cartouche is an oval form surrounding a word: <image href="Images/Hypszer/Handbuch-Screenschots/ovalencl.png" id="image_s4h_5cj_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="image:1;13:97"/> It
+            is to be entered with &lt;-G7-&gt;.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:5;15:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="b:3;15:9">Serekhs</b>
+        </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:6;17:6">A serekh <image href="Images/Hypszer/Handbuch-Screenschots/rectframe.png" id="image_cds_jcj_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="image:2;18:15"/> is to be entered with &lt;S-G7-&gt;.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:7;19:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="b:4;19:9">Hw.t-sign</b>
+        </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:8;21:6">A sign in a rectangular enclosure <image href="Images/Hypszer/Handbuch-Screenschots/rectencl.png" id="image_icx_qcj_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="image:3;22:97"/> is
+            to be entered with &lt;H-R8-&gt;.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:9;24:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="b:5;24:9">Haplographies</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="p:10;25:6">Haplographies are encoded normally at the position of the first occurrence. In the further
+            occurrence they are to be encoded in double angle brackets: [&amp;-[&amp;- + Hieroglyph
+            + -&amp;]-&amp;]. E.g. in this case <image href="Images/Hypszer/Handbuch-Screenschots/Haplo.jpg" id="image_dkv_r25_mr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_specialsigns.dita" xtrc="image:4;28:94"/> the
+            sign X8 should be written twice, so it needs to be inserted into double angle brackets
+            in the position where it should occur for the second time: M23-X1 R4 X8
+            [&amp;-[&amp;-X8-&amp;]-&amp;] E15 R4.</p>
+ </conbody>
+</concept>

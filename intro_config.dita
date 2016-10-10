@@ -3,7 +3,7 @@
 <topic id="topic_zdy_q3c_lx">
   <title>Configure your BTS</title>
   <body>
-    <p>After the initial BTS start, a few settings have to be made. In the Menu bar click on
+    <p>After the initial BTS start, a few settings have to be made. In the menu bar click on
       "Preferences / Preferences" and expand the "Berlin Text System General" entry by clicking on
       the triangle symbol on the left.</p>
     <p>
@@ -15,8 +15,8 @@
             and activate the check box "Corpus Navigator sort by sort key" if it is not activated
             (It should be by default). Press "Apply" to save the setting. Repeat the same for "Lemma
             Navigator Settings" and "Thesaurus Navigator Settings". </p><p>NOTE: By default all
-            database objects have/own "0" as sort key and, thus, are organized in alphabethical
-            order at the same level. </p></li>
+            database objects have "0" as sort key and, thus, are organized in alphabethical order at
+            the same level. </p></li>
         <li><b>Remember Me</b><p>By selecting the check box you may save your login credentials, so
             you do not have to enter your user name and password again, when you start BTS the next
             time.</p></li>

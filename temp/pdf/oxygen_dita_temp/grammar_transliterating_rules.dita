@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ops_zgb_lt" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_transliterating_rules.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_transliterating_rules.dita" xtrc="title:1;4:9">Rules for transliterating a text</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_transliterating_rules.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_transliterating_rules.dita" xtrc="p:1;6:6">A proper transliteration should represent all phonetical and morphological information that can
+   be received from a text. A transliteration should also represent damages of the text and mistakes
+   or corrections of the text by the ancient scribes. We recommend transliterating the written form
+   of any word, as long as there is no evidence that it has undergone considerable changes in its
+   phonology.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_transliterating_rules.dita" xtrc="p:2;11:7"/>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\grammar_transliterating_rules.dita" xtrc="p:3;12:6">The following structural elements should be reflected by a transliteration: every phonological
+   or morphological element which is a part of a written word. Graphical elements without
+   phonological or morphological function must not to be reflected (e.g. determinatives, cartouches,
+   serekhs etc.). </p>
+ </conbody>
+</concept>

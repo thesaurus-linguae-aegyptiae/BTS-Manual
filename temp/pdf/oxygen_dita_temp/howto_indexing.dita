@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_p43_tmp_kx" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="title:1;4:10">Indexing the database</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:1;6:8">To index or re-index the database open the "Database Manager" by clicking Preferences &gt; Open
+      Database Manager in the menu bar. The "Database Manager" window automatically will open with
+      each BTS start, if there are any problems with the index. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:2;9:8">The "Database manager" window displays all available database collections. Each database
+      collection is reflected by a line in the table. The number of documents per collection is
+      shown in the column "DB Doc Count". </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:3;12:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="b:1;12:11">Indexing</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:4;13:8">Indexing is a process, which enabels the search in the database, as the query is not done in
+      the database itself (which would take time), but in the document indexes. The status of a
+      corpus' indexing process is indicated by the background colour of its line in the "Database
+      Manager". Each line can have one of three background colours. Green means that everything is
+      indexed properly. Yellow and red indicate that in this corpus ia problem had occurred. The
+      column "Index Doc Count" shows the number of the already indexed documents in this corpus.
+      Additionally, the Status of the corpus will be displayed in the "Status" column (OK- green,
+      ERROR- red or INDEXING...- yellow). The "% indexed" column shows the percentage of the
+      indexing process.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:5;22:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="b:2;22:11">Re-Indexing</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:6;23:8">BTS indexes the databases itself, when it recieves new data from the server, but sometimes
+      the automatical process produces errors and requires manual re-indexing.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:7;25:8">Databases that are not indexed sucessfully are marked either in yellow or in red. If indexing
+      was not successful for some corpora re-index them by clicking on the button "Re-index all
+      non-OK".  Re-indexing may take a while. The more databases you have to re-index, the longer it
+      will take. During this process you will not be able to use BTS.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:8;29:8">Re-indexing has three options: </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:9;30:8">- Re-index all</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:10;31:8">- Re-index all non-OK </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:11;32:8">- Re-index individual DB collection. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:12;33:8">To re-index individual collections, select them by left-click, scroll to the right of the
+      table and click on "Re-index" in the most right column.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:13;35:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="b:3;35:11">Close</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:14;36:8">Leave the "Database Manager" window by clicking the "Close" button in the lower right corner. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:15;37:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:16;38:8">NOTE: We recommand to re-index all databases that are either marked red or yellow.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_indexing.dita" xtrc="p:17;39:8">NOTE: The items "_recplicator" and "_uses" cannot be indexed and thus always are marked in
+      red. You do not have to re-index these items.</p>
+  </body>
+</topic>

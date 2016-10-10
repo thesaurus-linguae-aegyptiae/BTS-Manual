@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_b5w_lkg_fx" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="title:1;4:10">Lemmatizing numbers</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="p:1;6:8">Numbers are transliterated as they appear in the original text, i.e. they are transliterated
+      phonetically, when they are written phonetically, and are written as numbers, when they appear
+      as numbers in the text. This paragraph helps you to lemmatize fractions and numbers that are
+      not written phonetically.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="p:2;10:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="p:3;11:8">
+      <table frame="all" rowsep="1" colsep="1" id="table_xwp_gng_fx" class="- topic/table " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="table:1;12:70">
+        <tgroup cols="2" class="- topic/tgroup " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="tgroup:1;13:26">
+          <colspec colname="col1" colnum="1" colwidth="1.0*" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="colspec:1;14:61"/>
+          <colspec colname="col2" colnum="2" colwidth="1.0*" class="- topic/colspec " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="colspec:2;15:61"/>
+          <thead class="- topic/thead " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="thead:1;16:18">
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:1;17:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:1;18:22">WCN number</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:2;19:23"/>
+            </row>
+          </thead>
+          <tbody class="- topic/tbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="tbody:1;22:18">
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:2;23:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:3;24:22">850814</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:4;25:22">cardinal number</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:3;27:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:5;28:22">863636</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:6;29:22">1/2 (fraction) (<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:1;29:41">gs</i>)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:4;31:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:7;32:22">600203</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:8;33:22">2/3 (fraction) (<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:2;33:41">rʾ.wj</i>)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:5;35:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:9;36:22">92610</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:10;37:22">1/3 (fraction) (<i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:3;37:41">rʾ</i>)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:6;39:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:11;40:22">600569</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:12;41:22">all other fractions (e.g. <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:4;41:51">rʾ-4</i>, <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:5;41:64">rʾ-5</i>, etc.) and rows of fractions
+                (e.g. <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:6;42:26">1+1/2+1/6</i> etc.)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:7;44:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:13;45:22">600235</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:14;46:22">ordinal number constucted with <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:7;46:56">.nw</i> (e.g. <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:8;46:73">2.nw</i>)</entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:8;48:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:15;49:22">852650</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:16;50:22">ordinal number <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:9;50:40">mḥ-1</i>
+              </entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:9;53:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:17;54:22">852649</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:18;55:22">ordinal numbers <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:10;55:41">mḥ-2 ... 9</i></entry>
+            </row>
+            <row class="- topic/row " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="row:10;57:18">
+              <entry colname="col1" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:19;58:22">600236</entry>
+              <entry colname="col2" class="- topic/entry " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="entry:20;59:22">ordinal numbers <i class="+ topic/ph hi-d/i " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_lemmatizing_numbers.dita" xtrc="i:11;59:41">mḥ-10 ... n</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

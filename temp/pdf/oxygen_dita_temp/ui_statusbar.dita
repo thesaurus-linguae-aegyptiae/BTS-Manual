@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_azx_hrl_mr" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="title:1;4:10">Status bar </title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="p:1;6:8">The status bar is located at the bottom of the BTS program. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="p:2;7:8"><image href="Images/icons/full/icon32/parent-node32.png" id="image_v4r_rm3_2s" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="image:1;7:88"/> To the right
+      of this icon, the position of the currently selected database object in the Navigator tree is
+      displayed. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="p:3;10:8"><image href="Images/icons/full/icon32/Information.png" id="image_ltl_fn3_2s" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_statusbar.dita" xtrc="image:2;10:86"/> To the right
+      of this icon, a status messege is displayed, e.g. the position of your coursor in a selected
+      text (line number, column (= position in line), unicode) or the information that database
+      objects are suppressed because you do not have the specific rights to see them. Clicking on
+      the icon will display a window with the last 25 status messages. </p>
+    <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
+  </body>
+</topic><?oxy_custom_end?>

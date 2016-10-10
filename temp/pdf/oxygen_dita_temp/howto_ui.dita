@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_t1b_tkq_zs" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="title:1;4:10">Introduction to BTS User Interface</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:1;6:8">This chapter provides a brief introduction to the BTS User Interface (UI). For a detailled
+      description see the chapter <xref href="ui_bts.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="xref:1;7:60" type="concept"><?ditaot usertext?>BTS User Interface</xref> below.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:2;8:8">The BTS window is split into four major sections:</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:3;9:8">
+      <ul id="ul_yxf_j2z_4t" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="ul:1;10:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:1;11:13"><xref href="ui_menubar.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="xref:2;11:42" type="topic"><?ditaot usertext?>Menu bar</xref></li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:2;12:13"><xref href="ui_toolbar_e3.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="xref:3;12:45" type="topic"><?ditaot usertext?>Toolbar</xref>
+        </li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:3;14:13"><xref href="ui_workspace.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="xref:4;14:44" type="concept"><?ditaot usertext?>Workspace</xref></li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:4;15:13"><xref href="ui_statusbar.dita#topic_azx_hrl_mr" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="xref:5;15:61" type="topic"><?ditaot usertext?>Status bar</xref></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:4;18:8">The Menu bar and the Toolbar are located at the top of the program window. At the bottom of
+      the program window the Status bar is displayed. The area between Toolbar and Status bar is
+      called Workspace. The contents of the Workspace change depending on the viewing mode. BTS has
+      four such modes, activated by clicking on th appropriate button in the Toolbar: </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:5;22:8"><image href="Images/icons/full/icon16/corpora.png" id="image_fzs_xyx_qt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="image:1;22:82"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="u:1;23:10">Text Corpus view</u></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:6;24:8"><image href="Images/icons/full/icon16/lemmata.png" id="image_ffx_yyx_qt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="image:2;24:82"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="u:2;25:10">Lemma view</u></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:7;26:8"><image href="Images/icons/full/icon16/thss.png" id="image_fsz_zyx_qt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="image:3;26:79"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="u:3;27:10">Thesaurus view</u></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:8;28:8"><image href="Images/icons/full/icon16/abstracttexts.png" id="image_zpz_1zx_qt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="image:4;28:88"/>
+      <u class="+ topic/ph hi-d/u " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="u:4;29:10">Abstract Text view</u></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:9;30:8">Within each view there is a number of windows, which may include tabs and sub-tabs. Any tab
+      and window of the workspace can be arranged according to the individual need of the user. You
+      can maximize / minimize them within the workspace or you can move them within the workspace or
+      you drag-&amp;-drop them outside the BTS program UI into a separate window. If you close the
+      separate window, you can restore the tab via the menu entry Window / Open [name of the tab] or
+      by restarting BTS. </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:10;36:8">The default arrangement of the tabs and windows is currently the following (see the
+      screen-shot below):</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:11;38:8">
+      <ul id="ul_eb5_z2z_4t" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="ul:2;39:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:5;40:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="b:1;40:16">"Navigator" window on the left</b><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:12;40:53">Depending on the view selected, it is named
+            Corpus-, Thesaurus- or Lemma Navigator. The tabs are the following: for the Corpus
+            Navigator: "Text Corpora" + "Bin"; for the Lemma Navigator: "WL" + "Bin"; for the
+            Thesaurus Navigator: "Thesauri" + "Bin"; and for the Abstract Text Navigator: "Ths" +
+            "Bin". </p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:13;47:8">
+      <ul id="ul_z2l_ggz_4t" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="ul:3;48:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:6;49:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="b:2;49:16">"Annotation and Translation" window on the right</b><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:14;49:71">In Lemma, Thesaurus and
+            Abstract Text view the "Translation" tab is not displayed.</p></li>
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:7;51:13"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="b:3;51:16">"Editor" window at the top center</b><p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:15;51:56">In Text Corpus view this window contains
+            "Text Editor" tab with three sub-tabs: "Transliteration", "Sign Text Editor" and "JSesh
+            View". In Lemma view it is called "Lemma editor" with no sub-tabs. Abstract Text view
+            contains both "Text editor" and "Abstract text editor" tabs. </p></li>
+      </ul>
+    </p>
+    <ul id="ul_xjh_why_qt" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="ul:4;57:28">
+      <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="li:8;58:11">
+        <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:16;59:12"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="b:4;59:15">"Passport Data Editor", "Lemmatizer" and "Hieroglyph Type Writer (HTW)" as one window
+            at the bottom center</b>
+        </p>
+        <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:17;62:12">At the bottom three tabs are grouped together in one window. The Text Corpus and Lemma
+          views display all three. Thesaurus and Abstract Text views have only "Passport Data
+          Editor" tab. </p>
+        <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:18;65:12">NOTE: As soon as a database object is selected in the Navigator window, the titles of the
+          tabs "Text Editor", "Passport Data Editor", "Lemmatizer" and "Translation" adopt the
+          selected database object name.</p>
+      </li>
+    </ul>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:19;70:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="p:20;71:8"><image href="Images/new%20screenshots/BTS%20Screenshots/BTS.png" id="image_knr_fdx_st" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_ui.dita" xtrc="image:5;71:96"/></p>
+  </body>
+</topic>

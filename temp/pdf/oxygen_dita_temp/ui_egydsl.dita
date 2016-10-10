@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_gsv_15n_y5" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="topic:1;3:30">
+  <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="title:1;4:10">EgyDsl</title>
+  <body class="- topic/body " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="body:1;5:9">
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:1;6:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:2;7:8">In the "EgyDsl" menu entry (Dsl = Domain Specific Language) you can change the appearance of
+      your BTS. This includes applying different colours and scripts as well as importing and
+      editing templates.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:3;10:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:4;11:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:1;11:11">1. Syntax Coloring</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:5;12:8">This feature does not work in the current version.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:6;13:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:7;14:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:2;14:11">2. Templates</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:8;15:8">This window offers you a functionality to create templates to make the transliteration input
+      easier. For example, you can define short cuts for line counts etc. While transliterating,
+      right-click a word and select "Content assist". Your template will be displayed at the end of
+      the list. Double click on it - it will be automatically inserted into the text. For a
+      detailled decription see the chapter <xref href="howto_templates.dita" class="- topic/xref " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="xref:1;19:78" type="topic"><?ditaot usertext?>Templates</xref>.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:9;20:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:3;20:11">New...</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:10;22:8">Displays a pop-up window with the following options:</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:11;23:8">
+      <ul id="ul_pjs_45n_y5" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="ul:1;24:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:1;25:13">Name: Enter the name of the template (this is not the performed output that the template
+          gives, only a label).</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:12;29:8">
+      <ul id="ul_flq_r5n_y5" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="ul:2;30:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:2;31:13">Context: Choose the context where your template can be used. E.g. while your position in
+          a text is inside a word, the Content Assist will only allow you to use templates that have
+          the context "WordPart". There are only two context that you are allowed to use here:<p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:13;33:98">
+            <ul id="ul_clg_55c_lx" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="ul:3;34:36">
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:3;35:19">SentenceItem: The template can be used inside a sentence.</li>
+              <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:4;36:19">WordPart: The template can be used inside a word.</li>
+            </ul>
+          </p></li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:14;41:8">
+      <ul id="ul_l1g_z5n_y5" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="ul:4;42:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:5;43:13">Automatically insert: Not functional yet.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:15;46:8">
+      <ul id="ul_gf2_1vn_y5" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="ul:5;47:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:6;48:13">Description: Enter any description for your template.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:16;51:8">
+      <ul id="ul_bgh_bvn_y5" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="ul:6;52:30">
+        <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="li:7;53:13">Pattern: Enter any input that you want to be performed by the template here. This means
+          the input you have entered into the pattern will appear one-to-one in your text after
+          clicking the template-name in the Content Assist later. You can use the button "Insert
+          Variable..." to insert predefined states e.g. brackets etc.</li>
+      </ul>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:17;59:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:4;59:11">Edit</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:18;61:8">Select an already existing template and click this option in order to edit it.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:19;62:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:5;62:11">Remove</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:20;64:8">Select an already existing template and click this option in order to remove it.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:21;65:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:6;65:11">Restore Removed</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:22;67:8">Currently not available.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:23;68:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:7;68:11">Revert to Default</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:24;70:8">Currently not available.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:25;71:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:8;71:11">Import</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:26;73:8">Click this button and browse the explorer to locate your template file (this only works if
+      you have a template (.xml) file already existing). Click it and press "open" to import a
+      template.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:27;76:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:9;76:11">Export</b>
+    </p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:28;78:8">Select the template you want to export from the template list and press this button to export
+      your template. Browse your explorer to the location where you want to save your export-file.
+      Afterwards enter a name inside the pop-up-window and press "save".</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:29;81:9"/>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:30;82:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:10;82:11">Restore Default</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:31;83:8">Click this button to delete all templates from the list.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:32;84:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:11;84:11">Apply</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:33;85:8">Click here to confirm your changes.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:34;86:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:12;86:11">OK</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:35;87:8">Confirms your changes and closes the window.</p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:36;88:8"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="b:13;88:11">Cancel</b></p>
+    <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_egydsl.dita" xtrc="p:37;89:8">Closes the window without saving the changes.</p>
+  </body>
+</topic>

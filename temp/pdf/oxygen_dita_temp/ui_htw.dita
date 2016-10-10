@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_qmv_p2b_sr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="title:1;4:9">Hieroglyph Type Writer (HTW)</title>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="conbody:1;5:11">
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:1;6:6">The HTW-tab in the window at the bottom center leads to the Hieroglyph Type Writer. This is a
+   tool which enables entering or editing of hieroglyphs fro any transliterated text in the
+   "Sign-Text-Editor". The Hieroglyph Type Writer is situated by default in the lower part of the
+   BTS user interface, next to the Passport Editor and the Lemmatizer.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:2;10:6">Note: After selecting the HTW tab or after selecting a text in the Text Corpus Navigator the
+   name of the HTW will switch to the name of the selected text. Move the cursor on the tab header
+   to see the original name of the tab (HTW).</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:3;13:6">In order to use the HTW you need to open the "Sign Text Editor" and select a lemma for which
+   hieroglyphs are to be entered.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:4;15:6"><image href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/HTW.png" id="image_zqq_rtp_5t" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:1;16:28"/></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:5;17:6">The HTW consists of the following sections: </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:6;18:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="b:1;18:9">Type here</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:7;19:6">Enter the hieroglphy sign by sign either by the Gardiner codes or "Manuel de Codage"
+   transcription of a word selected in the Sign-Text-Editor above. The first of the two fields below
+   the "Type here" field offers hieroglyphic variants for selection based on your input in "Type
+   here".</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:8;23:6">Select and confirm each sign by pressing "Ctrl" + the number (marked in red next to the
+   respective sign) or simply complete the number manually and continue after the hyphen with the
+   next hieroglyph. The second field underneath displays the hieroglyphic writing of the word you
+   typed in. After confirmation the writing appears within the selected word in the "Sign Text
+   Editor". </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:9;28:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="b:2;28:9">Select Single Glyphs</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:10;29:6">In the case of an inversion this function offers the option to mark a hieroglyph and assign a
+   different position for it in a sentence.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:11;31:6">
+   <ul id="ul_uyl_jbf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="ul:1;32:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="li:1;33:9"><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_wqn_ty4_nt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:2;33:96"/> Move
+     selection to the first sign.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:12;37:6">
+   <ul id="ul_pvy_jbf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="ul:2;38:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="li:2;39:9">&lt; Move selection to the previous sign.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:13;42:6">
+   <ul id="ul_kck_kbf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="ul:3;43:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="li:3;44:9">&gt; Move selection to the next sign.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:14;47:6">
+   <ul id="ul_ksr_kbf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="ul:4;48:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="li:4;49:9"><image href="Images/icons/extra%20icons/pfeil_ende_zeile.png" id="image_wfm_xy4_nt" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:3;49:94"/> Move
+     selection to the last sign.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:15;53:6">
+   <ul id="ul_k5c_lbf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="ul:5;54:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="li:5;55:9">Order in Sentence: Use the up/down arrows to set a number corresponding to the position of a
+     sign in a sentence if the transcription does not correspond to the order of signs in the
+     manuscript.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:16;60:6">
+   <ul id="ul_ksn_mbf_cv" class="- topic/ul " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="ul:6;61:27">
+    <li class="- topic/li " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="li:6;62:9">Ignore Glyph: Check box is applicable, for instance, in a case of a haplography. Checking
+     this box after selecting a sign will signalize that the sign does not originally appear in the
+     manuscript.</li>
+   </ul>
+  </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:17;67:6"><b class="+ topic/ph hi-d/b " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="b:3;67:9">Toolbar</b></p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:18;68:6">Placed in the upper-right corner of the HTW, the toolbar shows following buttons:</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:19;69:6"><image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_nsc_5fx_qr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:4;69:89"/> Confirm
+   current hieroglyph editing and continue to the next word. Pressing the "Enter" key also confirms
+   the hieroglyph editing.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:20;72:6"><image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_q3c_gtg_wr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:5;72:93"/> Remove
+   hieroglyph data: removes already entered hieroglyphs of a token selected in the Sign Text
+   Editor.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:21;75:6"><image href="Images/icons/extra%20icons/pfeil_anfang_dokument.png" id="image_kgg_r31_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:6;75:96"/> Move
+   selection to the beginning of the document. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:22;77:6"><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_obl_s31_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:7;77:93"/> Move
+   selection to the beginning of the line. </p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:23;79:6"><image href="Images/icons/extra%20icons/pfeil_links.png" id="image_ocj_t31_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:8;79:86"/> Move selection
+   to the previous word.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:24;81:6"><image href="Images/icons/extra%20icons/pfeil_rechts.png" id="image_m5h_531_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:9;81:87"/> Move
+   selection to the next word.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:25;83:6"><image href="Images/icons/extra%20icons/pfeil_ende_zeile.png" id="image_upn_v31_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:10;83:91"/> Move
+   selection to end of line.</p>
+  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="p:26;85:6"><image href="Images/icons/extra%20icons/pfeil_ende_dokument.png" id="image_k3r_y31_sr" placement="inline" class="- topic/image " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_htw.dita" xtrc="image:11;85:94"/> Move
+   selection to end of document.</p>
+ </conbody>
+</concept>

@@ -3,10 +3,10 @@
 <topic id="topic_w4g_4kg_fx">
   <title>Lemmatizing illegible words</title>
   <body>
-    <p>If you are able to determine the excat number of word missing in a lacuna or gap without
+    <p>If you are able to determine the exact number of words missing in a lacuna or gap without
       being able to designate them to a specific lemma, use the representative "[___]". If a word or
       a sequence of words is illegible or only partly legible, use underscores, e.g. "_b_";
-      "n_[_],t"; "[_]_[_]"; [___].pl etc. In some cases it might  be possible to determine word
+      "n_[_],t"; "[_]_[_]"; [___].pl etc. In some cases it might be possible to determine word
       class, number, and gender. To lemmatize the representatives there are entries in the lemma
       list for each of these options. Therefore you have to search the WCN number via the magnifying
       glass (see <xref href="howto_lemmatizing.dita"/>). The following list helps you to find the
