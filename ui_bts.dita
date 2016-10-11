@@ -4,13 +4,13 @@
  <title>BTS User Interface </title>
  <conbody>
     <p>This section provides a detailed description of the UI elements of the application. It is
-      intended as a reference for the User and Administrator guides. </p>
-    <p>The Menu bar and the Toolbar are located at the top of the program window. At the bottom of
-      the program window the Status bar is displayed. The area between Toolbar and Status bar is the
-      Workspace. </p>
+      intended as a reference for the user guides. </p>
+    <p>The <b>Menu bar</b> and the <b>Toolbar</b> are located at the top of the program window. At
+      the bottom of the program window the <b>Status bar </b>is displayed. The area between toolbar
+      and status bar is the <b>Workspace</b>. </p>
     <p>
       <ul id="ul_esg_5qc_lx">
-        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allowes to file and edit new projects,
+        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allows to file and edit new projects,
           to get access to different windows and to the preferences (with all settings of user and
           databases).</li>
       </ul>
@@ -25,10 +25,10 @@
       <ul id="ul_tyk_vqc_lx">
         <li>The <xref href="ui_workspace.dita">Workspace</xref> is a part of the BTS user interface
           where all database records are entered and processed. Differents contents are edited
-          within the workspace, according to your mode of work, i.e. wether you edit texts, edit the
-          lemma list, work on the thesauri or create abstact texts. The Text Corpus View, the Lemma
-          View, the Thesaurus View and the Abstract Text View can be accessed via the toolbar. The
-          workspace of each view is subdivided into four windows: the Navigator window
+          within the workspace, according to your mode of work, i.e. whether you edit texts, edit
+          the lemma list, work on the thesauri or create abstact texts. The Text Corpus View, the
+          Lemma View, the Thesaurus View and the Abstract Text View can be accessed via the toolbar.
+          The workspace of each view is subdivided into four windows: the Navigator window
           (left/yellow), the Editor window (middle above/blue) and the Passport Editor window
           (middle below/green) and the Annotation window (right/red).</li>
       </ul>

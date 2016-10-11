@@ -3,11 +3,11 @@
 <topic id="topic_wzx_fgd_lx">
   <title>Preferences</title>
   <body>
-    <p>To get to the "Preferences" window for individual settings, click either button <image
+    <p>To get to the "Preferences" window for individual settings, click either the button <image
         href="Images/icons/full/icon16/preferences.png" id="image_ilm_dg1_nr"/> in the left part of
       the toolbar menu or on a drop-down entry "<image
         href="Images/icons/full/icon16/preferences.png" id="image_svd_hg1_nr"/> Preferences..." in
-      the Menu bar / Preferences. For more details see BTS User Interface, chapter <xref
+      the menu bar / Preferences. For more details see BTS User Interface, chapter <xref
         href="ui_preferences2.dita"/>.</p>
     <p/>
     <p>Expanding the <b>"Berlin Text System General"</b> will present several options. Those
@@ -15,93 +15,94 @@
     <p><b>Corpus Settings</b></p>
     <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
       appear in the active corpora list on the right will not be accessed by BTS (this includes
-      diaplay in the Navigator tree and search querries). To activate a corpus select it in the list
+      display in the Navigator tree and search querries). To activate a corpus select it in the list
       on the left and then click "Add". To remove the corpus from your working list, select it and
-      click Remove. Add all / Remove all will add or remove all available corpora to or from the
-      active corpora list. </p>
+      click "Remove". "Add all" / "Remove all" will add or remove all available corpora to or from
+      the active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
-      activated all new text or database objects created in the "Corpus Navigator" window will be
-      physically saved in the selected corpus. For example in the Corpus Navigator you have selected
-      Corpus 2, but your main working corpus is Corpus 1. The new database object will be
-        <i>physically</i> saved in Corpus 1, although in the Corpus Navigator it is displayed as a
-      part of Corpus 2. </p>
+      activated all new database objects created in the "Corpus Navigator" window will be physically
+      saved in the selected corpus. For example in the Corpus Navigator you have selected Corpus 2,
+      but your main working corpus is Corpus 1. The new database object will be <i>physically</i>
+      saved in Corpus 1, although in the Corpus Navigator it is displayed as a part of Corpus 2. </p>
     <p>NOTE: As you are currently enabled to select a corpus as main working corpus for which you do
       not have any rights, it might happen that by accident you create a database object for which
-      you then do not have any editing rights.</p>
+      you then do not have any editing rights. In that case please contact the BTS team in Berlin:
+      aegypt1@bbaw.de.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">
-        <li>Check box "Corpus Navigator sort by sort key". By default, all objects on the same level
-          have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey in the
-          Passport data of the object will change its position regarding other objects, "0" being on
-          top. See <xref href="ui_maintab.dita">Main Tab</xref>.</li>
+        <li>Check box "Corpus Navigator sort by sort key". By default, all database objects on the
+          same level have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey
+          in the passport data of the database object will change its position regarding other
+          database objects, "0" being on top. See Passport Editor, chapter <xref
+            href="ui_maintab.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_egq_wl2_vt">
-        <li>Default Visibility applies to all newly created objects. Defines a visibility status a
-          corpus will have by default after its creation.</li>
+        <li>"Default Visibility" applies to all newly created database objects. It defines the
+          visibility status a corpus will have by default after its creation.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fdd_xl2_vt">
-        <li>Default Review State applies to all newly created objects. Like the "Default Visibility"
-          above, this defines a review state which a corpus will have directly after its
+        <li>"Default Review State" applies to all newly created database objects. Like the "Default
+          Visibility" above, this defines a review state which a corpus will have directly after its
           creation.</li>
       </ul>
     </p>
     <p><b>Lemma List Settings </b>
     </p>
-    <p>Here you can choose a project with a main working lemma list. All new lemmas will be saved in
-      this project. You can currently choose Altägyptisches Wörterbuch BBAW and Demotic. If you
-      choose both, the combined lemma list will be displayed in "Lemma Navigator". If you work with
-      texts in Demotic script, please select Demotic as main working lemma list. Otherwise, select
-      Altägyptisches Wörterbuch BBAW.</p>
+    <p>Here you can choose a project with a main working lemma list. All new lemmata will be saved
+      in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW" and
+      "Demotic". If you select both, the combined lemma list will be displayed in "Lemma Navigator".
+      If you work with texts in Demotic script, please select "Demotic" as main working lemma list.
+      Otherwise, select "Altägyptisches Wörterbuch BBAW".</p>
     <p><b>Lemma Navigator Settings</b></p>
     <p>
       <ul id="ul_gvc_vl2_vt">
-        <li>Check box "Lemma Navigator sort by sort key". Per default all objects on the same level
-          have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
-          Passport data of the object will change its position relevant to other objects, "0" being
-          on top. </li>
+        <li>Check box "Lemma Navigator sort by sort key". By default all database objects on the
+          same level have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey"
+          in the passport data of the database object will change its position relevant to other
+          database objects, "0" being on top. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_uy3_vl2_vt">
-        <li>Default Visibility applies to all newly created objects. Defines a visibility status a
-          lemma will have by default after its creation. See also chapter <xref
+        <li>"Default Visibility" applies to all newly created database objects. It defines the
+          visibility status a lemma will have by default after its creation. See also chapter <xref
             href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ylp_vl2_vt">
-        <li>Default Review State applies to all newly created objects. Like the "Default Visibility"
-          above, this defines a review state which a lemma will have directly after its
+        <li>"Default Review State" applies to all newly created database objects. Like the "Default
+          Visibility" above, this defines a review state which a lemma will have directly after its
           creation.</li>
       </ul>
     </p>
-    <p>NOTE: Default Visibilty and Default Review State apply to all newly created database objects,
-      also including annotations, rubra, comments etc. Currenly there is no feature available to
-      apply changes in the visibilty and review state to child elements. That means, if e.g. your
-      default visibility is "reader", you have to change all TCObjects, Texts, annotations, rubra
-      etc. to "public" manually once you want to publish your text in the TLA.</p>
+    <p>NOTE: "Default Visibilty" and "Default Review State" apply to all newly created database
+      objects, also including annotations, rubra, comments etc. Currenly there is no feature
+      available to apply changes in the visibilty and review state to child elements. That means, if
+      e.g. your default visibility is "reader", you have to change all TCObjects, Texts,
+      annotations, rubra etc. to "public" manually once you want to publish your text in the
+      TLA.</p>
     <p><b>Lemmatizer</b>
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the programmes default inflection is
       "3") and activate the check box "Automatically select first lemma proposal". The latter
       feature enables you to navigate through the proposed lemmata via the arrow keys of you
-      keyboard. More on grammatical rules see <xref href="grammar_rules.dita#topic_f5w_3z5_kr">BTS
-        Grammar Rules - Reference</xref>. </p>
+      keyboard. More on grammatical rules see <xref href="grammar_rules.dita"/>.</p>
     <p><b>Project settings</b>
     </p>
     <p>Here you can choose your main working project from the drop-down menu. The field below gives
-      you an option to choose further projects from which you want to load and read data. In the box
+      you an option to select further projects from which you want to load and read data. In the box
       on the left is a list of available projects. Clicking on one will give you an option to add it
-      to the "Projects to be downloaded" on the right. Clicking on Apply below will download the
+      to the "Projects to be downloaded" on the right. Clicking on "Apply" below will download the
       project. Between the two fields you also have an option to remove the project from the right
-      field and to "Add All" from available to to-be-downloaded and "Remove All" from
-      to-be-downloaded to available. Next to the "Apply" button there is also one that will restore
-      default settings "Restore Default".</p>
+      field and to "Add All" from available to "Projects to be downloaded" and "Remove All" from
+      "Projects to be downloaded" to "Available Projects". Next to the "Apply" button there is also
+      one that will restore default settings "Restore Default".</p>
     <p><b>Remember me</b></p>
     <p>Select the check box "Remember my login credentials on startup" to be logged in
       automatically, when starting BTS. To deactivate this function unselect the check box.</p>
@@ -129,28 +130,28 @@
     <p><b>Thesaurus Settings</b>
     </p>
     <p>Here you can choose a project with a main working thesaurus. All new thesaurus entries will
-      be saved there. Currently only one working thesaurus is available "Altägyptisches Wörterbuch
+      be saved there. Currently only one working thesaurus is available: "Altägyptisches Wörterbuch
       BBAW".</p>
     <p><b>Thesaurus Navigator Settings</b></p>
     <p>
       <ul id="ul_dn2_bm2_vt">
-        <li>Check box "Ths Navigator sort by sort key". Per default all objects on the same level
-          have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
-          Passport data of the object will change its position relevant to other objects, "0" being
-          on top. </li>
+        <li>Check box "Ths Navigator sort by sort key". By default all  database objects on the same
+          level have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in
+          the passport data of the database object will change its position relevant to other
+          database objects, "0" being on top. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_ojn_bm2_vt">
-        <li>Default Visibility applies to all newly created objects. Defines a visibility status a
-          thesaurus entry will have by default after its creation.</li>
+        <li>"Default Visibility" applies to all newly created database objects. It defines the
+          visibility status a thesaurus entry will have by default after its creation.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_mfc_cm2_vt">
-        <li>Default Review State applies to all newly created objects. Like the Default Visibility
-          above, this defines a review state which a thesaurus entry will have directly after its
-          creation.</li>
+        <li>"Default Review State" applies to all newly created database objects. Like the "Default
+          Visibility" above, this defines a review state which a thesaurus entry will have directly
+          after its creation.</li>
       </ul>
     </p>
     <p/>
@@ -163,10 +164,10 @@
     <p>This window offers you a functionality to create templates to make the transliteration input
       easier. For example, you can define short cuts for line counts etc. While transliterating,
       right-click a word and select "Content assist". Your template will be displayed at the end of
-      the list. Double click on it - it will be automatically inserted into the text. For a
-      detailled decription see the chapter <xref href="howto_templates.dita">Templates</xref>.</p>
+      the list. Double click it - it will be automatically inserted into the text. For a detailled
+      decription see the chapter <xref href="howto_templates.dita"/>.</p>
     <p/>
-    <p>To restore a default configurtation, click the "Restore Default" button. To confirm your
+    <p>To restore a default configuration, click the "Restore Default" button. To confirm your
       changes without closing the window click "Apply", to save and close click "OK". To reject all
       changes, click "Cancel".</p>
   </body>

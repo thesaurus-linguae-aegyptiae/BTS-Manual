@@ -3,14 +3,14 @@
 <topic id="topic_pjt_czn_kx">
   <title>Edting Updaters / Readers of selected database objects</title>
   <body>
-    <p>To set and edit  <xref href="user_roles.dita#topic_yqt_fpq_zs">User Status</xref> for the
+    <p>To set and edit the <xref href="user_roles.dita#topic_yqt_fpq_zs">User Status</xref> for the
       currently selected database object (corpus, text, lemma, thesaurus entry etc.) select "Edit"
       in the menu bar and click "Edit Updaters/Readers". To use this feature your user role within
-      the selected corpus must at least be "Rearcher" and your user status for the specitic database
-      object you want to edit must be "Updater".</p>
+      the selected corpus must at least be "Researcher" and your user status for the specific
+      database object you want to edit must be "Updater".</p>
     <p>On the left side of the "Edit Updaters/Readers" window the Readers and Updaters of the
-      current database object are shown. Click on and expand Reader or Updater to display them.
-      Clicking on a name of a user will display details on the right side.</p>
+      current database object are shown. Click on and expand "Reader" or "Updater" to display them.
+      Clicking on the name of a user will display details on the right side.</p>
     <p>On the right side you find the definition of the user role and drop-down menus to select and
       assign users to the respective role. Select the user or user group from the appropriate
       drop-down menu. Click on "Assign role to user" or "Assign role to whole user group" to assign

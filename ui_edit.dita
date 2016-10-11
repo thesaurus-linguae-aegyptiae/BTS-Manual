@@ -3,7 +3,7 @@
 <concept id="concept_qkz_rqd_4r">
  <title>Edit</title>
  <conbody>
-  <p>The Edit drop-down menu contains the following entries:</p>
+  <p>The drop-down menu "Edit" contains the following entries:</p>
   <p><b>Edit...</b></p>
   <p>This entry has currently no functionality.</p>
   <p><b>Edit current Project</b></p>
@@ -14,10 +14,10 @@
   <p>This option allows you to set <xref href="user_roles.dita#topic_yqt_fpq_zs">User Status</xref>
    for the currently selected database object (corpus, text, lemma, thesaurus entry etc.). </p>
   <p><b>Open Conflict Dialog</b></p>
-  <p>If two users work simultanously on one database object, it is possible, that they produce
+  <p>If two users work simultaneously on one database object, it is possible, that they produce
    different versions at the same time. This is indicated by the icon <image
     href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in the Navigator
-   tree, The conflict dialog solves the problem, which version is the preferable one.</p>
+   tree. The conflict dialog solves the problem, which version is the preferable one.</p>
   <p><b>Open Revision History</b></p>
   <p>The Revision History <image href="Images/icons/full/icon16/history.png" id="image_cck_fs4_kx"/>
    enables the user to compare the changes made to an database object and to return to a certain

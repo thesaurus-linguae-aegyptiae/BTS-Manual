@@ -11,29 +11,29 @@
       a corpus and then users are assigned to existing roles (i.e. Project -> Corpus -> User Role ->
       User Name).</p>
     <p><b>1st Level: Projects</b></p>
-    <p>A List of projects is displayed in the field on the left side. Upon clicking on a chosen
-      project, its data will appear in the field on the right. The data includes: Project ID,
-      Project Name, Project Prefix, Description, Connection Type, Server URL and DB Path. You can
-      also click on the blue link below "Add Database Collection" and in the pop-up window give the
-      name of the collection and check boxes "Synchronize Collection" and "Index Collection for Full
-      Text Search" if needed. Clicking OK will add the collection to the chosen project and it will
+    <p>A List of projects is displayed in the field on the left side. Upon clicking on a selected
+      project, its data will appear in the field on the right. The data include: Project ID, Project
+      Name, Project Prefix, Description, Connection Type, Server URL and DB Path. You can also click
+      on the blue link below "Add Database Collection" and in the pop-up window give the name of the
+      collection and check boxes "Synchronize Collection" and "Index Collection for Full Text
+      Search" if needed. Clicking "OK" will add the collection to the selected project and it will
       appear at the bottom after opening the project tree.</p>
     <p><b>2nd Level: DB Collections</b></p>
     <p>For each collection the data will also be displayed on the right. "DB Collection Name" is
       shown, but cannot be edited. Two check boxes can be selected: "Synchronize with Server" and
       "Index Collection". Below is a drop-down menu "Create New Roles Description" where you can
-      choose: admins, editors, researchers, transcribers or guest roles for the users. After
-      choosing one option from the drop-down menu, click on the blue link "Add New User Roles
+      choose between admins, editors, researchers, transcribers or guest roles for the users. After
+      selecting one option from the drop-down menu, click on the blue link "Add New User Roles
       Description" to add the role.</p>
     <p><b>3rd Level: User Roles</b></p>
     <p>In the tree on the left, the added roles will appear after expanding the collection. On the
-      right, Role Name and User Role Definition (a description of tasks and rights) will appear,
+      right, "Role Name" and "User Role Definition" (a description of tasks and rights) will appear,
       which cannot be changed. In the two fields below you can assign a user or a group to each
       role. At the bottom there is a blue link "Remove this Role and its members form DB
-      collection". Clicking it will remove the chosen role from the collection on the left.</p>
+      collection". Clicking it will remove the selected role from the collection on the left.</p>
     <p><b>4th Level: Users</b></p>
     <p>Expanding (clicking on) a role, users with the assigned roles will be displayed. Clicking on
-      individual user will make their first name and surname to appear on the right, in the case
+      individual users will make their first name and surname to appear on the right, in the case
       where an entire group has a specific role, the name of the group will appear. You can remove
       users and groups from specific roles by clicking the blue link on the bottom "Remove Role from
       User" or "Remove Group from Role".</p>

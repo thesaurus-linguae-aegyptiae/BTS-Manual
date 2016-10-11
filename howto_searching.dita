@@ -3,7 +3,7 @@
 <topic id="topic_okf_4sh_nt">
   <title>Search Function</title>
   <body>
-    <p>Search function is available in the Navigator tab of each view (Text Corpus, Lemma,
+    <p>The search function is available in the Navigator tab of each view (Text Corpus, Lemma,
       Thesaurus). </p>
     <p>In the toolbar of the Navigator, click on the search icon <image
         href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>. A window will appear
@@ -11,11 +11,11 @@
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Search_Function.png"
         id="image_fkx_zr2_vt"/></p>
     <p>The search works as a full-text search. Therefore, the search is executed on the name of the
-      object, the metadata of the object, and the textual data (i.e. the transcription, the
+      object, the metadata of the object, and the textual data (i.e. the transliteration, the
       translation) of the object. The search terms are combined with the operator OR. So, when you
       search for Papyrus Westcar, the program will look for "Papyrus" and "Westcar" separately and
       present you with results that contain Papyrus or Westcar. If you want to search phrases you
-      will have to insert a phrase into quotation marks " ".</p>
+      will have to insert a phrase into quotation marks "...", e.g. "Papyrus Westcar".</p>
     <p>When you want to locate a specific database object within a project there are two
       possibilities for the search:</p>
     <p>
@@ -23,7 +23,8 @@
         <li>If you know the ID of a database object, enter the ID into the input field and activate
           the check box "Search for IDs". </li>
         <li>You can restrict your search activating the check box "Search for Names only". Then, the
-          search is no longer a full-text search, it is executed on the database names..</li>
+          search is no longer a full-text search, it is executed on the names of database
+          objects.</li>
       </ol>
     </p>
   </body>

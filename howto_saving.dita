@@ -10,10 +10,10 @@
       <ul id="ul_pfg_s4h_nt">
         <li>The program will save your data automatically after you select a different database
           object.</li>
-        <li>You can save manually by clicking buttons <image
+        <li>Save manually by clicking the buttons <image
             href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/> or <image
             href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r"/> in the toolbar. See
-            <xref href="ui_toolbar_e3.dita#topic_ejn_sdy_lr">Toolbar</xref> for more information.<p>
+            <xref href="ui_toolbar_e3.dita"/> for more information.<p>
             <ul id="ul_vxg_zdw_kx">
               <li><image href="Images/icons/full/icon16/save-all.png" id="image_glm_zdw_kx"/> saves
                 the changes in the currenly selected window or tab.</li>
@@ -28,14 +28,14 @@
     <p/>
     <p>NOTE: We recommend you to save your work in regular intervals. In case your operation system
       or BTS software hangs up, you may lose your data. </p>
-    <p>NOTE: Saving might take quite a while and perhaps one cannot work during this time or a
+    <p>NOTE: Saving might take quite a while and perhaps you cannot work during this time or a
       message "BTS is not responding" can pop up. This does not necessarily mean that the software
       hung up.</p>
-    <p>NOTE: Newly reated database objects will be automatically saved but changing any data
+    <p>NOTE: Newly created database objects will automatically be saved, but changing any data
       (including their names etc.) requires manual saving.</p>
     <p/>
     <p><b>Data backup</b></p>
-    <p>If nyou work in the online mode, BTS will permanently synchronize your data with the server
+    <p>If you work in the online mode, BTS will permanently synchronize your data with the server
       and produce backups. If you work in the offline mode and wish to backup your data you can
       manually copy the relevant folder (C:\bts\dbdir\CouchDB\var\lib\couchdb if you chose the <xref
         href="intro_install.dita">standard directory</xref>) and save it at another directory.</p>

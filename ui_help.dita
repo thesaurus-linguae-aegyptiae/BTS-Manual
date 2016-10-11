@@ -11,11 +11,11 @@
     <p><b>Update Application</b></p>
     <p>Searches for available software updates.</p>
     <p><b>Install New Software-Components</b></p>
-    <p>Choose software to add to your BTS.</p>
+    <p>Select software to add to your BTS.</p>
     <p><b>Uninstall Software-Components</b></p>
-    <p>Choose to see which parts of software are installed. Select a specific path. Click
+    <p>Select to see which parts of the software are installed. Select a specific path. Click
       "Uninstall" at the bottom of this window to uninstall selected parts of the program.</p>
-    <p>NOTE: This does not uninstall BTS. To uninstall BTS you have to manually delete all files
-      from the installation path.</p>
+    <p>NOTE: This does not uninstall BTS. To uninstall BTS you have to delete all files from the
+      installation path manually (see <xref href="intro_uninstall_update.dita"/>).</p>
   </conbody>
 </concept>

@@ -4,7 +4,7 @@
  <title>Open ES GUI</title>
  <conbody>
         <p>This menu item is only available to users with administrator privileges.</p>
-  <p>Opens the "Elastic Search" graphic user interface with your standard internet browser. Allows
-      you to see the "backdoor" of the queries done in the BTS. </p>
+  <p>Opens the "Elastic Search" graphic user interface with the standard internet browser. Allows to
+            see the "backdoor" of the queries done in the BTS. </p>
  </conbody>
 </concept>

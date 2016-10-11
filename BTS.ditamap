@@ -47,8 +47,8 @@
   <topicref href="howto_configuration.dita">
    <topicref href="howto_fontsize.dita"/>
    <topicref href="howto_adjusting_display.dita"/>
-   <topicref href="howto_templates.dita"/>
    <topicref href="howto_prefs.dita"/>
+   <topicref href="howto_templates.dita"/>
    <topicref href="howto_changepassword.dita"/>
   </topicref>
   <topicref href="howto_searching.dita"/>

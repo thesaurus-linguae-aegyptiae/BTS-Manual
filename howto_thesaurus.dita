@@ -3,13 +3,13 @@
 <topic id="topic_sjw_lvx_st">
   <title>Creating a thesaurus entry</title>
   <body>
-    <p>This option is available to the user with researcher privileges for the thesaurus! If you
-      have a new thesaurus entry, which is not yet present in the BTS thesaurus list, please send a
+    <p>This option is available to users with researcher privileges for the thesaurus. If you have a
+      new thesaurus entry, which is not yet present in the BTS thesaurus list, please send a
       proposal to the BTS team via E-mail: aegypt1@bbaw.de.</p>
     <p>The main function of the Thesaurus is to provide controlled vocabulary for the metadata of
-      texts, (physical) objects, lemma entries and thesauaus entries, e.g. dating, location or
+      texts, (physical) objects, lemma entries and thesaurus entries, e.g. dating, location or
       material. For a detailed description of the individual elements of the Thesaurus view see
-        <xref href="ui_thesaurus.dita#concept_w5m_g4d_4r">Thesaurus</xref>.</p>
+        <xref href="ui_thesaurus.dita"/>.</p>
     <p>
       <ol id="ol_sb3_xvx_st">
         <li>Open the Thesaurus view by clicking the <image href="Images/icons/full/icon16/thss.png"
@@ -28,15 +28,14 @@
           and review status. </li>
         <li>Now fill in all availabe metadata into the Passport Editor. For a detailed description
           of the individual tabs and elements of the passport editor of the Thesaurus View, see
-            <xref href="ui_thesaurus_passporteditor.dita#concept_wpd_hqd_4r">Passport
-            Editor</xref>.</li>
+            <xref href="ui_thesaurus_passporteditor.dita"/>.</li>
         <li>To add an annotation or a comment to a Thesaurus entry, click <image
             href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add
           Annotation" and <image href="Images/icons/full/icon16/comment-add.png"
             id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Thesaurus Navigator.</li>
         <li>To delete a thesaurus entry, use the <image href="Images/icons/full/obj16/delete.png"
             id="image_xdl_2wm_wr"/> "Delete" button in the Thesaurus Navigator toolbar. It will move
-          the entry to the "Bin" tab, where you can manually permanently delete it. Closing or
+          the entry to the "Bin" tab, where you can manually delete it permanently. Closing or
           restarting the BTS will also lead to the permanent deletion of an entry from the Bin.</li>
       </ol>
     </p>

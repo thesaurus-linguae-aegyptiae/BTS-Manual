@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_vfb_sw2_yr">
- <title>Database Manager</title>
+ <title>Open Database Manager</title>
  <conbody>
-  <p><b>Open Database Manager</b></p>
   <p>The "Database Manager" window in "Preferences" displays all available database collections.
    Each database collection is reflected by a line in the table. The number of documents per
    collection is shown in the column "DB Doc Count". </p>
   <p>The "Database Manager" window automatically opens with each BTS start, if there are any
    problems with the index. To work with the databases and to enable search queries, the databases
-   have to be indexed properly. Re-index all databases when they appear either in yellow or red.</p>
+   have to be indexed properly. Re-index all databases when they appear either in yellow or red (see
+    <xref href="howto_indexing.dita"/>).</p>
  </conbody>
 </concept>

@@ -7,25 +7,25 @@
     <p>To open the user management select "Open User Manager" from the drop-down menu "Preferences"
       of the menu bar. Clicking on this menu entry opens the window "User Management". Select the
       tab: "Manage Users and User Groups".</p>
-    <p>The tab Manage Users and User Groups  offers the opportunity to create new accounts for users
-      and add users to project groups, which have a specific set of rights in the editing
+    <p>The tab "Manage Users and User Groups" offers the opportunity to create new accounts for
+      users and add users to project groups, which have a specific set of rights in the editing
       process.</p>
-    <p>In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r"/>
-      <u>Active Users</u> the active user groups are displayed. In the tab Bin deleted user groups
-      are shown. In the brackets behind the group names the number of the assigned users is
-      displayed. Clicking on a group name will open the list of assigned users. The last entry in
-      the list "_Orphans" shows on click all available users. </p>
+    <p>In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r"/> "Active
+      Users" the active user groups are displayed. In the tab "Bin" deleted user groups are shown.
+      In the brackets behind the group names the number of the assigned users is displayed. Clicking
+      on a group name will open the list of assigned users. The last entry in the list "_Orphans"
+      shows all available users. </p>
     <p>Each group has an ID and a name which appear in the field on the right. For each group a type
       can also be given and there is a possibility to write a comment. Also on the right side, below
       the group data, there is a section for creating new individual members within the group:
-      Create New User. A username and a password are to be entered while creating a new user. In the
-      third section below there is a drop-down menu, where you can choose existing users and add
-      them to the group by clicking on the Add user to Group.</p>
+      "Create New User". A username and a password are to be entered while creating a new user. In
+      the third section below there is a drop-down menu, where you can choose existing users and add
+      them to the group by clicking on "Add user to Group".</p>
     <p>Clicking on a username allows to modify the user information on the right side of the window.
-      It contains such fields as ID of User, First name and Surname (both required fields marked
-      with *), E-mail, Website, Description, Web Description, Siglum and Comment. In the ID field a
-      username given earlier appears, but cannot be edited anymore. The check box "User is Database
-      Administrator" can be checked.</p>
+      It contains such fields as "ID of User", "Forename", "Surname", "Email", "Website",
+      "Description", "Web Description", "Siglum", and "Comment". In the ID field a username given
+      earlier appears, but cannot be edited anymore. The check box "User is Database Administrator"
+      can be checked. Requiered fields are marked by an asterisk (*).</p>
     <p>Functions of the buttons in this tab:</p>
     <p><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r"/>
       <u>New Group</u>
@@ -34,7 +34,7 @@
     <p><image href="Images/icons/full/obj16/delete.png" id="image_tml_hxk_4r"/>
       <u>Delete</u></p>
     <p>Deletes and moves the selected user into the tab <image
-        href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r"/>"Bin". </p>
+        href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r"/> "Bin". </p>
     <p><image href="Images/icons/full/icon16/undo.png" id="image_sjs_sxk_4r"/>
       <u>Undo</u></p>
     <p>Undo the last action.</p>

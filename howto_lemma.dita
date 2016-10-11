@@ -3,9 +3,9 @@
 <topic id="topic_p53_bnw_ns">
   <title>Creating a lemma entry</title>
   <body>
-    <p>This option is only available to the user with researcher privileges for the lemma-list. If
-      you have a new lemma, which is not yet present in the BTS lemma list, please send a proposal
-      to the BTS team via E-mail: aegypt1@bbaw.de.</p>
+    <p>This option is only available to users with researcher privileges for the lemma-list. If you
+      have a new lemma, which is not yet present in the BTS lemma list, please send a proposal to
+      the BTS team via E-mail: aegypt1@bbaw.de.</p>
     <p>
       <ol id="ol_v31_3nw_ns">
         <li>To create a new lemma, open the <xref href="ui_lemmanaview.dita">Lemma
@@ -32,7 +32,7 @@
             id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Lemma Navigator.</li>
         <li>To delete a lemma entry, use the <image href="Images/icons/full/obj16/delete.png"
             id="image_xdl_2wm_wr"/> "Delete" button in the Lemma Navigator toolbar. It will move the
-          entry to the "Bin" tab, where you can manually permanently delete it. Closing or
+          entry to the "Bin" tab, where you can manually delete it permanently. Closing or
           restarting the BTS will also lead to the permanent deletion of an entry from the bin.</li>
       </ol>
     </p>
