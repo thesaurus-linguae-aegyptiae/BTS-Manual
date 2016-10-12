@@ -7,21 +7,9 @@
       contains three sections.</p>
   <p><b>Transliteration</b></p>
   <p>The lemma transliteration section is identical to <xref
-                href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>.
-            Transliterate the lemma in this field within the "§" signs ( "§" marks the beginning and
-            the end of the lemma). If the transliteration is not enclosed with "§", it will not be
-            valid. </p>
-  <p><i>Compound-word-lemmata:</i> If you want to enter a lemma that consists of multiple words
-            (e.g. as in <i>m-ẖnw</i>), use "-" between each element. If you want to split them into
-            multiple elements (but have it as one entry) then just use "space" between each word. Do
-            not enclose each word individually with "§". </p>
-  <p>The consequence of splitting the compounds into multiple elements is that in the case of
-            searching for a part of the compound (e.g. "<i>ḥm</i>" in the case of <i>ḥm-nṯr</i>) the
-            evidence of the token lemmatized as compound will appear.</p>
-  <p><i>Example:</i></p>
-  <p>"<i>m-ẖnw</i>": Typing §<i>m-ẖnw</i>§ marks one element while §<i>m ẖnw</i>§ marks two
-            elements: <i>m</i> and <i>ẖnw</i>.</p>
-  <p>Wrong: §<u><i>m</i></u>§ §<i>ẖnw</i>§.</p>
+                href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>. Transliterate
+            the lemma in this field within the "§" signs ("§" marks the beginning and the end of the
+            lemma). If the transliteration is not enclosed with "§", it will not be valid. </p>
   <p><b>Sign-Text</b></p>
   <p>In the Sign-Text section every lemma appears as a single element, no matter if the element is
       part of a compound word or not. This means that you can sub-lemmatize every part of a compound

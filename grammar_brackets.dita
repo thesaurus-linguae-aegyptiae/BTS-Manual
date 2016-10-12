@@ -3,23 +3,22 @@
 <concept id="concept_ywn_ghb_lt">
  <title>Brackets</title>
  <conbody>
-  <p>Only consonants of words or full words that are destroyed or partially destroyed are allowed to
-   be put into brackets (“[ ]” / “⸢ ⸣“), if signs representing the consonants are intrinsically part
-   of the writing. This means that the consonants that are complements of fully existing ideograms
-   should not be surrounded by brackets. If a word is partially destroyed but is still fully
-   readable (that happens if a determinative or a complement is destroyed, but the word is clearly
-   written) then there is no need for a bracket, unless there is no ambiguity possible, e.g. because
-   of homography.</p>
+  <p>Only consonants of words or full words that are lost or partially damaged are allowed to be put
+   into brackets (“[ ]” / “⸢ ⸣“), if signs representing the consonants are intrinsically part of the
+   writing. This means that the consonants that are complements of fully existing ideograms should
+   not be surrounded by brackets. If a word is partially destroyed but is still fully readable (that
+   happens if a determinative or a complement is lost, but the word is clearly written) then there
+   is no need for a bracket, unless there is no ambiguity possible, e.g. because of homography.</p>
   <p>
    <ul id="ul_qzy_g2g_cv">
     <li>Example 1: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
-      id="image_ghr_yy5_wt"/> has to be transcribed as “<i>nfr</i>”, not “<i>nf[r]</i>”.</li>
+      id="image_ghr_yy5_wt"/> has to be transliterated as “<i>nfr</i>”, not “<i>nf[r]</i>”.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_q2n_h2g_cv">
     <li>Example 2: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
-      id="image_rmm_nz5_wt"/> has to be transcribed as "<i>⸢nfr⸣</i>".</li>
+      id="image_rmm_nz5_wt"/> has to be transliterated as "<i>⸢nfr⸣</i>".</li>
    </ul>
   </p>
   <p/>
@@ -83,10 +82,10 @@
   <p><b>General rules for the use of brackets</b></p>
   <p>
    <ul id="ul_jr1_fmy_2x">
-    <li>Brackets alwys come in pairs. You have to close every bracket you have opened. Usually the
-     system will do this automatically, but there are cases where that does not work. Pressing
+    <li>Brackets always come in pairs. You have to close each bracket you have opened. Usually the
+     system will do this automatically, but for 〈...〉 and 〈〈...〉〉 this does not work. Pressing
      "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
-     recurring elements you also can define a template in the  <xref
+     recurring elements you also can define a template in the <xref
       href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
    </ul>
   </p>
@@ -94,11 +93,11 @@
    <li>
     <p>Brackets have to be closed with each token (word), e.g. [jw] [nfr] (not: [jw nfr]).</p>
    </li>
-   <li>Brackets can be combined, as long as the bracket oped last is closed first, e.g. [ḫp(r)],
+   <li>Brackets can be combined, as long as the bracket opened last is closed first, e.g. [ḫp(r)],
     ⸢ḫp(r)⸣, ⸮[ḫ]p(r)? etc. Interlacing diffrent kinds is not valid, e.g. ⸮[ḫ?]pr.<p>NOTE: Some
-     combinations of round brackets and doubble round brackets result in errors, although they
-     should be valid. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the
-     dummy sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
+     combinations of round brackets and double round brackets result in errors, although they should
+     be valid. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the dummy
+     sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
   </ul>
  </conbody>
 </concept>

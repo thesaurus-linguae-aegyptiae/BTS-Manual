@@ -8,7 +8,7 @@
    important step to perform the subsequent lexical search in the database, to create word indexes
    or to conduct all kinds of lexical analyses. </p>
   <p>NOTE: You can use the lemmatizer only if the Sign Text Editor tab has been selected.</p>
-  <p>Note: After selecting the Lemmatizer tab or after selecting a text in the Text Corpus Navigator
+  <p>NOTE: After selecting the Lemmatizer tab or after selecting a text in the Text Corpus Navigator
    the name of the lemmatizer will switch to the name of the selected text. Move the cursor on the
    tab header to see the original name of the tab.</p>
   <p/>
@@ -18,42 +18,43 @@
   <p>
    <ul id="ul_fn1_zz2_cv">
     <li>Activate: Click Activate to enable the lemmatization, click it again to deactivate it after
-     you are done with lemmatizing. The color of the button turns to blue while activated.</li>
+     you are done with lemmatizing. The color of the button turns from grey to blue while
+     activated.</li>
    </ul>
   </p>
   <p><b>Text input fields</b></p>
   <p>
    <ul id="ul_ag2_11f_cv">
-    <li><u>"Selected Word"</u><p>This field displays the word that you had previously selected in
-      the "Sign Text Editor". You can change its transliteration (e.g. to correct your input) and
-      the new list of lemmas will be displayed in the field below. </p><p>NOTE: Changing the
-      transliteration in this field, changes your transliteration in the Text Editor.</p><p>The
-      lemmata corresponding to the altered transliteration appear only after moving first to another
-      lemma and then coming back to the lemma you are working on! There are three sections in this
-      field: Lemma, Flexion and Translation. </p></li>
+    <li><b>Selected Word</b><p>This field displays the word that you had previously selected in the
+      "Sign Text Editor". You can change its transliteration (e.g. to correct your input) and the
+      new list of lemmas will be displayed in the field below. </p><p>NOTE: Changing the
+      transliteration in this field, changes your transliteration in the Text Editor.</p></li>
    </ul>
   </p>
+  <p>The lemmata corresponding to the altered transliteration appear only after moving first to
+   another lemma and then coming back to the lemma you are working on. There are three sections in
+   this field: Lemma, Flexion and Translation.</p>
   <p>
    <ul id="ul_tdj_bqx_gx">
-    <li><u>"Lemma"</u><p>The section Lemma at the bottom left is composed of three fields. The
-      Lemma-list is automatically generated, based on the entry in the "Selected Word". Choosing a
-      lemma from the list will display its ID "Word Corpus Number" in the Lemma field. The standard
-      transliteration of the lemma itself is displayed in the field to the right of the
-       ID.</p><p><image href="Images/icons/full/icon16/search.png" id="image_bmh_c32_ms"/>Search
+    <li><b>Lemma</b><p>The section Lemma at the bottom left is composed of three fields. The
+      Lemma-list is automatically generated, based on the entry in the "Selected Word" field.
+      Selecting a lemma from the list will display its ID "Word Corpus Number" in the Lemma field.
+      The standard transliteration of the lemma itself is displayed in the field to the right of the
+      ID.</p><p><image href="Images/icons/full/icon16/search.png" id="image_bmh_c32_ms"/> Search
       Object: Opens a search dialogue where you can look for lemmata manually.</p><p><image
        href="Images/icons/full/icon16/lemmata.png" id="image_bsh_c32_ms"/> Open Lemma Navigator:
-      Opens a complete list of available lemmas ("Lemma View) in the separate window. </p></li>
+      Opens a complete list of available lemmata ("Lemma View) in the separate window. </p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_tkx_fqx_gx">
-    <li><u>"Flexion" and "Translation"</u><p>The section <u>Flexion</u> (bottom middle) and
-       <u>Translation</u> (bottom right) show the default inflection number "3" and translation
+    <li><b>Flexion and Translation</b><p>The section <b>Flexion</b> (bottom middle) and
+       <b>Translation</b> (bottom right) show the default inflection number "3" and translation
       options for the selected lemma. The inflection number and translation can either be selected
       from the available ones (lower text box, this feature is not yet implemented for the
       inflection) or manually entered (upper text box). The values in the "Translation" field depend
-      on the <image href="Images/icons/full/icon16/locale.png" id="image_ons_sxf_ms"/>Language
-      Selection on the right. </p></li>
+      on the <image href="Images/icons/full/icon16/locale.png" id="image_ons_sxf_ms"/> language
+      selection on the right. </p></li>
    </ul>
   </p>
   <p/>
@@ -61,13 +62,13 @@
   <p>
    <ul id="ul_wzr_k1f_cv">
     <li><image href="Images/icons/full/icon16/lemma-ok.png" id="image_mp5_3j1_sr"/> Confirm current
-     lemma editing and continue to the next unlemmatized word</li>
+     lemma editing and continue to the next unlemmatized word.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_hfq_l1f_cv">
     <li><image href="Images/Icons_updated/full/icon16/flexion-confirm.png" id="image_vfp_g2g_ms"/>
-     Confirm current lemma editing and continue to next, not yet inflected word</li>
+     Confirm current lemma editing and continue to next, not yet inflected word.</li>
    </ul>
   </p>
   <p>Confirm the current inflection code of the lemma and continue to next word, where the
@@ -75,7 +76,7 @@
   <p>
    <ul id="ul_rtq_s1f_cv">
     <li><image href="Images/Icons_updated/full/icon16/lemmatizer-delete.png" id="image_l33_m2g_ms"/>
-     Remove lemma information</li>
+     Remove lemma information.</li>
    </ul>
   </p>
   <p>

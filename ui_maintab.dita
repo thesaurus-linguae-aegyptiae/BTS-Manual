@@ -4,7 +4,7 @@
  <title>Main</title>
  <conbody>
     <p>The text-input fields and drop-down menus in this tab allow you to enter technical data of
-      your text or object. </p>
+      your text or (physical) object. </p>
   <p>
       <ul id="ul_bjg_l3y_bv">
         <li><b>Name:</b> Enter or change the name of your Text Corpus Object or Text.</li>
@@ -13,8 +13,7 @@
     <p>
       <ul id="ul_l5t_m3y_bv">
         <li><b>Type:</b> Choose a type (e.g. TCObject, ObjectPart, Text, Subtext, etc.). For the
-          definition of the the types see chapter <xref href="howto_create_corpusobject.dita"
-            >Creating a database object</xref>.</li>
+          definition of the types see <xref href="howto_create_corpusobject.dita"/>.</li>
       </ul>
       <ul id="ul_p4y_c3d_jx">
         <li><b>Subtype:</b> This field remains empty. Do not use it.</li>
@@ -24,15 +23,15 @@
       <ul id="ul_tz2_r3y_bv">
         <li><b>SortKey:</b> By default, all database objects on the same level have "0" as a sort
           key and are thus sorted alphabetically. Defining a "SortKey" in the Passport data of the
-          database object will change its position regarding other objects, "0" being on top.
-            <p>NOTE: If your database object is in a polyhierarchical position, changes in the
+          database object will change its position regarding other database objects, "0" being on
+          top. <p>NOTE: If your database object is in a polyhierarchical position, changes in the
             sortkey apply to all relations.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_hyv_s3y_bv">
         <li><b>ID:</b> Displays the ID of the database object, which is generated automatically by
-          the BTS. It cannot be changed.</li>
+          BTS. It cannot be changed.</li>
       </ul>
     </p>
     <p>
@@ -48,8 +47,7 @@
     <p>
       <ul id="ul_izm_sjy_bv">
         <li><b>Visibility:</b> Define who can see the database object or Text (public, project,
-          group, reader, all_authenticated). See also <xref href="user_roles.dita">User Roles
-            Description</xref>.</li>
+          group, reader, all_authenticated). See also <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
@@ -65,20 +63,18 @@
           respectively. Clicking on <image href="Images/icons/full/icon16/preferences.png"
             id="image_ohg_55x_ls"/> you can move the database object to another project / corpus.
           You can only move the corpora or projects for which you have rights. Note that only the
-          physical position of an object will change (displayed in the Corpus Navigator in the
-          square brackets), not its position in the hierarchical tree. (If you want to change the
-          position of an item in the hierarchical tree then you have to change the relation of your
-          text or object. See <xref href="ui_relationstab.dita#concept_qvz_mwf_yr"
-            >Relations Tab</xref>.)</li>
+          physical position of an object will change (displayed in the Navigator tree in square
+          brackets), not its position in the hierarchical tree. (If you want to change the position
+          of an item in the hierarchical tree then you have to change the relation of your text or
+          object. See <xref href="ui_relationstab.dita"/>.)</li>
       </ul>
     </p>
     <p>
       <ul id="ul_x1q_1ky_bv">
         <li><b>History:</b> Click to see all changes of the selected database object. Information
           includes the username of the editor and the date. To close the history information, change
-          to another "Corpus Navigator" object and then back. To restore a previous version, use the
-            <xref href="ui_corpusnavigator_e9.dita">Open Revision History</xref>
-          dialogue.</li>
+          to another "Corpus Navigator" object and then back. To restore a previous version, use use
+          the Open Revision History dialogue (see <xref href="howto_revision.dita"/>).</li>
       </ul>
     </p>
  </conbody>

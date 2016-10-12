@@ -4,7 +4,7 @@
  <title>Glossary</title>
  <conbody>
       <p/>
-      <p>This manual used the following terms for the description of the user interface:</p>
+      <p>This manual uses the following terms for the description of the user interface:</p>
       <p><ul id="ul_udd_vkp_ps">
             <li>Menu bar</li>
             <li>Drop-down menu</li>
@@ -20,10 +20,10 @@
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png"
                      id="image_ptv_pyw_st"/></p></li>
             <li>Workspace: main working field between Toolbar and Statusbar in which the user can
-               switch in one of for different views / workspace modes</li>
+               switch in one of for different views / workspace modes.</li>
             <li> View / Workspace mode: the Text corpus view, the Lemma view (Lemma list), the
                Thesaurus view (Management of Metadata) and the special level Abstract text view.
-               These four Views differs according to the different contents and each shows own
+               These four Views differ according to the different contents and each shows own
                windows. The default setting of the Workspace is the Text Corpus view for edit und
                annotate texts. </li>
             <li>Viewing mode</li>

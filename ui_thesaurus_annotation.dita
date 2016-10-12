@@ -4,9 +4,7 @@
  <title>Annotations</title>
  <conbody>
   <p>The annotations and text translation window is placed on the right side of the default BTS user
-   interface in each view. You can maximize and minimize the window with <image
-    href="Images/icons/extra%20icons/maximize.png" id="image_w3j_gn3_ns"/> and <image
-    href="Images/icons/extra%20icons/minimize.png" id="image_qkj_gn3_ns"/> buttons. </p>
+   interface in each view.</p>
   <p>For each entry either an "Annotation" <image href="Images/icons/full/icon16/annotation.png"
     id="image_p3k_pz3_sr"/> or a "Comment" <image href="Images/icons/full/icon16/comment.png"
     id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are placed in the toolbar of the
@@ -24,15 +22,14 @@
   <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
    <b>Edit Comment or Edit Annotation</b>: This opens a window to edit the content of annotations
    and comments.</p>
-  <p>Clicking on the "Edit Annotation" will display the passport editor. Each annotation will have
-   its own ID and its relation to the chosen thesaurus entry will be shown in the "Relations" tab. </p>
+  <p>Clicking on "Edit Annotation" will display the passport editor. Each annotation will have its
+   own ID and its relation to the selected thesaurus entry will be shown in the "Relations" tab. </p>
   <p>By clicking the "Edit Comment" button, a "Comment Editor" a window will appear. You can enter
    or edit a title for your comment in the upper input field and the content of your comment in the
    lower input field. Below there is also a section where you can see or edit a relation of the
    comment to the thesaurus entry, using the ID.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
    <b>Delete</b>: Will delete the currently selected element.</p>
-  <p>To learn more about annotations refer to the <xref href="howto_annotations.dita">"Annotations"
-    section</xref> in the "User guide". </p>
+  <p>To learn more about annotations see <xref href="howto_annotations.dita"/>.</p>
  </conbody>
 </concept>

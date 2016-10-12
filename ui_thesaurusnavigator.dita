@@ -5,9 +5,8 @@
  <conbody>
   <p>The window of the Thesaurus Navigator is located on the left of your workspace in the Thesaurus
    view. The Thesaurus list comprises a controlled vocabulary of unique concepts for describing the
-   properties of database objects like text corpus objects, texts, and lemmata. Such metadata enable
-   search queries on a global or local level of the database. They are attributed to the database
-   objects in the Passport Editor.</p>
+   properties of database objects. Such metadata enable search querries on a global or local level
+   of the database. They are attributed to the database objects in the Passport Editor.</p>
   <p> </p>
   <p><b>Toolbar</b></p>
   <p>The toolbar of the Thesaurus navigator contains the following entries: </p>
@@ -43,23 +42,22 @@
   <p>
    <ul id="ul_lf1_5vf_cv">
     <li><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr"/> Edit
-     Updaters/Readers: Assign user roles for thesaurus entries (see <xref
-      href="ui_edit.dita">Menu bar > Edit</xref>). </li>
+     Updaters/Readers: Assign user roles for thesaurus entries (see <xref href="ui_edit.dita"
+     />).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_qqf_vvf_cv">
     <li><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/> Open Revision
      History: Opens the history of the changes made for the selected thesaurus entry (see <xref
-      href="ui_edit.dita">Menu bar > Edit</xref>).</li>
+      href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_g5j_wvf_cv">
-    <li>Open Conflict Dialogue: If two users work simultanously on a database object, it is
+    <li>Open Conflict Dialogue: If two users work simultaneously on a database object, it is
      possible, that they produce different versions at the same time. The conflict dialog solves the
-     problem, which version is the preferable one (see <xref href="ui_edit.dita">Menu bar >
-      Edit</xref>)</li>
+     problem, which version is the preferable one (see <xref href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>

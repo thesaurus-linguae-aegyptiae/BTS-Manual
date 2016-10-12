@@ -27,7 +27,7 @@
   </p>
   <p>
    <ul id="ul_hzd_qmy_bv">
-    <li><b>is_origin:</b> Select this check box if the chosen findspot is the original site where
+    <li><b>is_origin:</b> Select this check box if the selected findspot is the original site where
      the object originally came from.</li>
    </ul>
   </p>
@@ -70,7 +70,7 @@
   </p>
   <p>
    <ul id="ul_hmq_vmy_bv">
-    <li><b>is_origin:</b> Select this check box if the chosen findspot is the original site where
+    <li><b>is_origin:</b> Select this check box if the selected findspot is the original site where
      the object originally came from.</li>
    </ul>
   </p>
@@ -91,7 +91,7 @@
   </p>
   <p/>
   <p>Example: The Pantheon obelisk (PM VII, 409) found in 1374 under Santa Maria sopra Minerva,
-   re-erected in 1711 opposite the Pantheon. Therefore chosoe, the following entries: Place:
+   re-erected in 1711 opposite the Pantheon. Therefore select, the following entries: Place:
    Pantheon; Certainty: Certain; Former_Place: Santa Maria sopra Minerva; Certainty: Certain;
    another Former_Place: Heliopolis; Is_Origin: Check box selected; Certainty: Probable.</p>
   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>

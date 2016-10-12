@@ -66,9 +66,9 @@
             <ul id="ul_obj_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png"
                   id="image_tpj_b3p_3x"/>
-                <b>ObjectPart:</b> ObjectPart is hieratically subordinated to TCObject. Use it, when
-                the carrier of your text consits of more than one physical object (e.g. a statue and
-                its base or several parts of a buidling).</li>
+                <b>ObjectPart:</b> ObjectPart is hierarchically subordinated to TCObject. Use it,
+                when the carrier of your text consits of more than one physical object (e.g. a
+                statue and its base or several parts of a buidling).</li>
             </ul>
           </p></li>
       </ol>
@@ -99,7 +99,7 @@
                 <b>Text:</b> A Text is defined as a coherent entity. Your physical object might
                 contain several texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The
                 Taking of Joppe" etc. Each of these tales and poems recieves its own database object
-                "Text" subordinated to the TCObject "Papyrus Harris 500).</li>
+                "Text" subordinated to the TCObject "Papyrus Harris 500.</li>
             </ul>
             <ul id="ul_pwm_rwp_3x">
               <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>

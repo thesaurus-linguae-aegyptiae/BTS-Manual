@@ -4,7 +4,7 @@
  <title>Hieroglyph Type Writer (HTW)</title>
  <conbody>
   <p>The HTW-tab in the window at the bottom center leads to the Hieroglyph Type Writer. This is a
-   tool which enables entering or editing of hieroglyphs fro any transliterated text in the
+   tool which enables entering or editing of hieroglyphs for any transliterated text in the
    "Sign-Text-Editor". The Hieroglyph Type Writer is situated by default in the lower part of the
    BTS user interface, next to the Passport Editor and the Lemmatizer.</p>
   <p>Note: After selecting the HTW tab or after selecting a text in the Text Corpus Navigator the
@@ -16,11 +16,11 @@
     id="image_zqq_rtp_5t"/></p>
   <p>The HTW consists of the following sections: </p>
   <p><b>Type here</b></p>
-  <p>Enter the hieroglphy sign by sign either by the Gardiner codes or "Manuel de Codage"
-   transcription of a word selected in the Sign-Text-Editor above. The first of the two fields below
+  <p>Enter the hieroglphs sign by sign either by the Gardiner codes or "Manuel de Codage"
+   transcription of a word selected in the Sign Text Editor above. The first of the two fields below
    the "Type here" field offers hieroglyphic variants for selection based on your input in "Type
    here".</p>
-  <p>Select and confirm each sign by pressing "Ctrl" + the number (marked in red next to the
+  <p>Select and confirm each sign by pressing "CTRL" + the number (marked in red next to the
    respective sign) or simply complete the number manually and continue after the hyphen with the
    next hieroglyph. The second field underneath displays the hieroglyphic writing of the word you
    typed in. After confirmation the writing appears within the selected word in the "Sign Text
@@ -65,12 +65,12 @@
    </ul>
   </p>
   <p><b>Toolbar</b></p>
-  <p>Placed in the upper-right corner of the HTW, the toolbar shows following buttons:</p>
+  <p>Placed in the upper-right corner of the HTW, the toolbar shows the following buttons:</p>
   <p><image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_nsc_5fx_qr"/> Confirm
    current hieroglyph editing and continue to the next word. Pressing the "Enter" key also confirms
    the hieroglyph editing.</p>
   <p><image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_q3c_gtg_wr"/> Remove
-   hieroglyph data: removes already entered hieroglyphs of a token selected in the Sign Text
+   hieroglyph data: Removes already entered hieroglyphs of a token selected in the Sign Text
    Editor.</p>
   <p><image href="Images/icons/extra%20icons/pfeil_anfang_dokument.png" id="image_kgg_r31_sr"/> Move
    selection to the beginning of the document. </p>

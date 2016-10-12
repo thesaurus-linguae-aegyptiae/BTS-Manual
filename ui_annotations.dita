@@ -3,11 +3,8 @@
 <concept id="concept_cpy_xss_mr">
  <title>Annotation and text translation</title>
  <conbody>
-  <p>The annotations and text translation window is placed on the right side of the default BTS user
-   interface in each view. You can <xref href="ui_commonfeatures.dita">maximize and
-    minimize</xref> the window with <image href="Images/icons/extra%20icons/maximize.png"
-    id="image_w3j_gn3_ns"/> and <image href="Images/icons/extra%20icons/minimize.png"
-    id="image_qkj_gn3_ns"/> buttons.</p>
+  <p>The annotation and text translation window is placed on the right side of the default BTS user
+   interface in each view. </p>
   <p><image
     href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Annotations.png"
     id="image_jnl_vtp_5t"/></p>
@@ -20,8 +17,8 @@
    Glosse<?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
   <?oxy_custom_end?>
   <p>Clicking one of them will display their content. The related textpart will be marked in
-   "Transliteration" tab with different colours: bright red for Rubra; yellow for comments; gray for
-   Annotations and blue for Glosses. When you elct an element, the underlining of the related
+   "Transliteration" tab with different colours: red for rubra; yellow for comments; grey for
+   annotations and blue for glosses. When you select an element, the underlining of the related
    segment in the text will appear thicker. Additionally, for Annotations, Rubra and Comments, a
    small rectangle will appear next to the scroll bar of the Text Editor with the corresponding
    colour. Clicking on the rectangle will bring you to the marked segment of the text. </p>
@@ -53,21 +50,21 @@
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
    <b>Delete</b>: Will delete the currently selected element.</p>
   <p><image href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/>
-   <b>Filter</b>: Here you find a filter hide or display specific types or subtypes of annotation,
+   <b>Filter</b>: Here you find filter to hide or display specific types or subtypes of annotation,
    e.g. you can hide all rubra from the list or display only comments.</p>
-  <p>NOTE: When you text is loaded, BTS loads all annotations, filters them according to you filter
-   settings and then displays the first 40 annotations. Annotations that are not displayed will
-   appear in the list as soon as you click on the annotated token in the Transliteration Editor.</p>
-  <p>To learn more about annotations refer to the <xref href="howto_annotations.dita">"Annotations"
-    section</xref> in the "General User guide". </p>
+  <p>NOTE: When your text is loaded, BTS loads all annotations, filters them according to your
+   filter settings and then displays the first 40 annotations. Annotations that are not displayed
+   will appear in the list as soon as you click on the annotated token in the Transliteration
+   Editor.</p>
+  <p>To learn more about annotations see <xref href="howto_annotations.dita"/>.</p>
   <p><b>Text translation</b></p>
   <p>The "Text translation" section shows a consequent, sentence-by-sentence, translation, which
    makes a continuous proofreading possible. The drop-down menu "Languages" <image
-    href="Images/icons/full/icon16/locale.png" id="image_w1q_vm3_ns"/>allows to select a translation
-   in the relevant languages. Sentences which have not been translated yet are marked as "## no
-   trans: de ##§" / "## no trans: en ##§" etc. A click on a sentence highlights the sentence in the
-   "Sign text editor", in the "Transliteration" tabs, and in the "Sentence translation" input field.
-   A typo or another problem observed in the continuous translation can be altered in the "Sentence
-   translation" input field, but not in the Text translatin field.</p>
+    href="Images/icons/full/icon16/locale.png" id="image_w1q_vm3_ns"/> allows you to select a
+   translation in the relevant languages. Sentences which have not been translated yet are marked as
+   "## no trans: de ##§" / "## no trans: en ##§" etc. A click on a sentence highlights the sentence
+   in the "Sign text editor", in the "Transliteration" tabs, and in the "Sentence translation" input
+   field. A typo or another problem observed in the continuous translation can be altered in the
+   "Sentence translation" input field, but not in the Text translation field.</p>
  </conbody>
 </concept>

@@ -3,11 +3,11 @@
 <concept id="concept_pgn_j4d_4r">
  <title>Lemma Navigator</title>
  <conbody>
-  <p>In the Lemma Navigator you can browse, coordinate and control the lemma-entries of the TLA. It
-   is divided into two sub-tabs: WL and Bin. Clicking one of those will show either the word list or
-   a "trash can". Please note that generating the list of the objects in the "Bin" tab may take up
-   to one minute the first time you click it after installing BTS. Thereafter the preview works
-   faster. </p>
+  <p>In the Lemma Navigator you can browse, coordinate and control the lemma entries of the TLA. It
+   is divided into two sub-tabs: "WL" and "Bin". Clicking one of those will show either the word
+   list or a "trash can". Please note that generating the list of the objects in the "Bin" tab may
+   take up to one minute the first time you click it after installing BTS. Thereafter the preview
+   works faster. </p>
   <p><b>Tools</b></p>
   <p>The Lemma Navigator's toolbar includes the <xref href="ui_commonfeatures.dita">standard
     tools</xref> plus the following additional ones (from left to right):</p>
@@ -47,18 +47,18 @@
    root entries. The review state is indicated by the same small icons as for the lemma entries
    above.</p>
   <p><b>Bin</b></p>
-  <p>Entries (root or child) deleted in the WL are moved to the Bin. The entries in the Bin are not
-   grouped alphabetically anymore. Deleting an item at this point (in the Bin) will remove it
-   permanently. Note that the initial opening of the tab "Bin" may take some time.  </p>
+  <p>Entries (root or child) deleted in the word list are moved to the Bin. The entries in the Bin
+   are not grouped alphabetically anymore. Deleting an item at this point (in the Bin) will remove
+   it permanently. Note that the initial opening of the tab "Bin" may take some time. </p>
   <p><b>Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png"
     id="image_umy_spv_ps"/>"</p>
   <p>Clicking the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png"
-    id="image_vbq_myb_qr"/> will display all the options present in teh toolbar (see above) and a
+    id="image_vbq_myb_qr"/> will display all the options present in the toolbar (see above) and a
    few more:</p>
   <p>
    <ul id="ul_vmj_thf_cv">
     <li>Delete Permanently: Use this option to delete an item completely (it will not be moved to
-     the bin).T he item will be removed after you have restarted BTS.</li>
+     the bin). The item will be removed after you have restarted BTS.</li>
    </ul>
   </p>
   <p>
@@ -69,28 +69,27 @@
   <p>
    <ul id="ul_v2q_whf_cv">
     <li><image href="Images/icons/full/icon16/userrole.png" id="image_hk1_b1c_qr"/> Edit
-     Updaters/Readers: Assign <xref href="ui_preferences.dita">user roles</xref> for Lemma
-     entries (see <xref href="ui_edit.dita">Menu bar > Edit</xref>). </li>
+     Updaters/Readers: Assign <xref href="ui_preferences.dita">user roles</xref> for Lemma entries
+     (see <xref href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_lkq_13f_cv">
-    <li>Open Conflict Dialog: If two users work simultanously on a database object, it is possible,
+    <li>Open Conflict Dialog: If two users work simultaneously on a database object, it is possible,
      that they produce different versions at the same time. The conflict dialog solves the problem,
-     which version is the preferable one (see <xref href="ui_edit.dita">Menu bar >
-      Edit</xref>).</li>
+     which version is the preferable one (see <xref href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_gnm_b3f_cv">
     <li><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/> Open Revision
      History: Opens the history of the changes made for the selected lemma (see <xref
-      href="ui_edit.dita">Menu bar > Edit</xref>).</li>
+      href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_vl5_c3f_cv">
-    <li>Filter: Apply different filters on the available lemma-list: <p>
+    <li>Filter: Apply different filters on the available lemma list: <p>
       <ul id="ul_ybc_myp_gx">
        <li>Filter by Project / Creator / Updaters / Review Status / Visibility / Types opens a
         dialogue to select your filter criteria by clicking the relevant check boxes. To undo the

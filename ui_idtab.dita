@@ -21,7 +21,7 @@
   <p>
    <ul id="ul_dz5_rly_bv">
     <li><b>External ID:</b> Enter the external ID here.<p>Example: The papyrus Oxford, Ashmolean
-      Museum 1984-55 Ro is mentioned in the Trsimegistos project:
+      Museum 1984-55 Ro is mentioned in the Trismegistos project:
       http://www.trismegistos.org/hhp/detail.php?tm=56143. Select trismegistos as provider, enter
       56143 as external ID.</p></li>
    </ul>
@@ -31,6 +31,8 @@
     <li><image href="Images/icons/full/obj16/add.png" id="image_mmm_qsz_tr"/>
      <b>Add Identifier:</b> Add another set of information, including the "Provider", "Type" and
      "External ID".</li>
+   </ul>
+   <ul id="ul_w14_qyz_4x">
     <li><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
      <b>Remove Widget:</b> This removes the external ID from the database object.</li>
    </ul>

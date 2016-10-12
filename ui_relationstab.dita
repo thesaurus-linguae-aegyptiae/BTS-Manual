@@ -44,7 +44,7 @@
   <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
    <b>Remove Widget:</b> This removes a relation from the database object.</p>
   <p>NOTE: If the last relation is removed, the database object will remain in the database as
-   "Oprhan" and is still accesible via the Search Dialog.</p>
+   "Orphan" and is still accesible via the Search Dialog.</p>
   <p>NOTE: If a database object has more than one relation, it is displayed at each respective
    position in the Navigator tree. This does not mean that the database object has been duplicated.
    To delete one of these relations, use the "Remove Widget" button in the Relation tab. Do not

@@ -115,14 +115,14 @@
               <entry namest="col1" nameend="col2"><b>Examples</b></entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2">Morphological Suffixes:</entry>
+              <entry namest="col1" nameend="col2">Morphological suffixes:</entry>
             </row>
             <row>
               <entry>correct: <i>sḏm =f</i></entry>
               <entry>incorrect: <i>sḏm=f</i></entry>
             </row>
             <row>
-              <entry>Lexically Bound Suffixes:</entry>
+              <entry>Lexically bound suffixes:</entry>
               <entry> </entry>
             </row>
             <row>
@@ -135,10 +135,10 @@
     </p><p/>
     <p><b>Endings</b></p>
     <p>Morphological endings are to be marked by a dot “.” (e.g. numerus endings, inflective
-      infix/affix), endings of word formations by a comma “,” (e.g. feminin ending). Endings of
+      infix/affix), endings of word formations by a comma “,” (e.g. feminine ending). Endings of
       proper names have to be written at the end of the full name, no matter if a name consists of
       compound words and/or suffixes. </p>
-    <p>NOTE: The feminin ending <i>.t</i> is marked by a comma (","), if the word is noun. The
+    <p>NOTE: The feminine ending <i>.t</i> is marked by a comma (","), if the word is noun. The
       ending of adjectives is treated as morphological endings and thus marked by a dot ("."), e.g.
         <i>nb,t nfr.t</i>.</p>
     <table id="table_lkz_dkb_lt">
@@ -188,7 +188,7 @@
     <p><b>Notation of Plural and Dual</b></p>
     <p>Plural and dual endings are morphological endings and thus marked by a dot (".").
       Phonetically written endings are transliterated as "<i>.w</i>", "<i>.wj</i>", "<i>.wt</i>" and
-        "<i>.tj</i>" respectively. Strokes and other ideographic writings of number are represendted
+        "<i>.tj</i>" respectively. Strokes and other ideographic writings of number are represented
       by either ".pl" or ".du". In case there is a phonetic and ideographic writing, both are
       represented in the transliteration, e.g. ".w.pl." or ".tj.du".</p>
     <p>Dots and commas are combined if both morphological and inflectional endings appear in one
@@ -313,12 +313,12 @@
       Verse points are not represented in the hieroglyphical encoding.</p>
     <p>
       <ul id="ul_zfv_sy5_mx">
-        <li>󰂀 - preserves verse point</li>
+        <li>󰂀 - preserved verse point</li>
       </ul>
     </p>
     <p>
       <ul id="ul_obf_ty5_mx">
-        <li>󰂁 - reconstructes versepoint </li>
+        <li>󰂁 - reconstructed verse point </li>
       </ul>
     </p>
     <p>

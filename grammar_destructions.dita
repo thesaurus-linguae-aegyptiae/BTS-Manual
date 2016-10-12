@@ -3,16 +3,12 @@
 <concept id="concept_fwh_hhb_lt">
  <title>Gaps, lacunas, and damaged parts</title>
  <conbody>
-  <p>The author of a text should himself decide whether to reconstruct a word / phrase or not. If
+  <p>The editor of a text should himself decide whether to reconstruct a word / phrase or not. If
    you are able recontruct the missing parts, e.g. from parallel texts or from recurring phrases,
-   use <xref href="grammar_brackets.dita">Brackets</xref>. If only a word class can be reconstructed, the
-   "representative" should be used instead (see below).</p>
+   use <xref href="grammar_brackets.dita">Brackets</xref>. If only a word class can be
+   reconstructed, a "representative" should be used instead (see below).</p>
   <p/>
   <p><b>General representation of gaps and lacunas</b></p>
-  <p>If the number of words missing can precisely be determined (e.g. if the words are completely
-   lost, but with the determinatives preserved), use three underscores in brackets "[___]". E.g.:
-   "[___] [___]" for 2 missing words. These representations are treated as words by BTS and can be
-   lemmatized (see below).</p>
   <p>If words or even the number of missing words cannot be reconstructed, the lacuna has to be
    represented by the following notations. The marker "--...--" with two hyphens is reserved for
    damaged parts and will be interpreted by BTS in this way. The marker cannot be lemmatized.</p>
@@ -37,7 +33,7 @@
     <li>Complete destruction of the rest of the text: “--Rest des Textes zerstört--"</li>
    </ul>
   </p>
-  <p>If there traces of signs that cannot be identified, use: "--Zeichenreste--"</p>
+  <p>If there are traces of signs that cannot be identified, use: "--Zeichenreste--"</p>
   <p/>
   <p>
    <table id="table_ejz_rnb_lt">
@@ -68,12 +64,15 @@
   <p>NOTE: Between "--" no hyphens ("-") are allowed, thus write "--4 bis 5Q--", not "--4-5Q--".</p>
   <p/>
   <p><b>Representatives</b></p>
-  <p>The representative "[___]" is used if the number of words can be identified. In some cases it
-   might even be possible to determine word class, number, and gender. To lemmatize the
-   representatives there are entries in the lemma list for each of these options. Therefore you have
-   to search the WCN number via the magnifying glass (see <xref href="howto_lemmatizing.dita"/>).
-   For a list that helps you to find the relevant WCN number, see <xref
-    href="howto_lemmatizing_unknownwords.dita"/>.</p>
+  <p>If the number of words missing can precisely be determined (e.g. if the words are completely
+   lost, but with the determinatives preserved), use three underscores in brackets "[___]". E.g.:
+   "[___] [___]" for 2 missing words. These representations are treated as words by BTS and can be
+   lemmatized. </p>
+  <p>In some cases it might even be possible to determine word class, number, and gender. To
+   lemmatize the representatives there are entries in the lemma list for each of these options.
+   Therefore you have to search the WCN number via the magnifying glass (see <xref
+    href="howto_lemmatizing.dita"/>). For a list that helps you to find the relevant WCN number, see
+    <xref href="howto_lemmatizing_unknownwords.dita"/>.</p>
   <p>NOTE: To find the complete list in the lemma list, you may also open search via the magnifying
    glass and search vor "[Wort]" (full text search with both check boxes deactivated). The results
    will appear at the end of the list.</p>

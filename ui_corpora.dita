@@ -4,17 +4,17 @@
  <title>Text Corpus View</title>
  <conbody>
   <p>Text Corpus is the default view of the BTS workspace. Here the user adds, arranges and
-   rearranges database objects in the Textcoprus tree. The user works on text corpus objects and
-   texts, including editing transliteration, translation, lemmatization, hieroglyphs and their
+   rearranges database objects in the Coprus Navigator tree. The user works on text corpus objects
+   and texts, including editing transliteration, translation, lemmatization, hieroglyphs and their
    metadata.</p>
   <p>This chapter provides a general description of the Workspace with its windows and tabs of the
-   Text Corpus View. For a step-by-step instruction of how to enter a new text please refer to the
-   relevant chapter of this manual (<xref href="howto_general.dita">General User Guide</xref>).</p>
+   Text Corpus View. For a step-by-step instruction of how to enter a new text see <xref
+    href="howto_general.dita"/>.</p>
   <p>The contents, structure and functions of the four windows are: </p>
   <p>
    <ul id="ul_blm_m5p_gx">
-    <li>"Corpus Navigator" window (<b>yellow</b>) on the left: To navigate in the Textcorpus Trees
-     and arrange database objects.</li>
+    <li>"Corpus Navigator" window (<b>yellow</b>) on the left: To navigate in the Corpus Navigator
+     tree and arrange database objects.</li>
    </ul>
    <ul id="ul_r5s_m5p_gx">
     <li>"Text Editor" window (<b>blue</b>) at the top center: There are three subtabs: (1) the
@@ -40,8 +40,8 @@
    /></p>
   <p>In the default view some of the tabs, like "Passport Data Editor", "Lemmatizer" and "HTW", are
    grouped together in one window. Nevertheless they can be rearranged and moved separately.</p>
-  <p>As soon as you select a Text Corpus Object or a Text in the Corpus Navigator, titles of these
-   tabs as well as those of the "Text editor", "Annotation" and "Text Translation" change to the
-   name of the selcted database object. </p>
+  <p>As soon as you select a Text Corpus Object or a Text in the Corpus Navigator, the titles of
+   these tabs as well as those of the "Text editor", "Annotation" and "Text Translation" change to
+   the name of the selcted database object. </p>
  </conbody>
 </concept>
