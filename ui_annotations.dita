@@ -27,15 +27,9 @@
    <b>Add Current Text Selection as Reference</b>: The selected text part is referenced to the
    current annotation, rubrum, comment and gloss. This feature provides an opportunity, for example,
    to reference multiple text parts to a single annotation.</p>
-  <p>The following buttons can be used to connect the existing comments, annotations, rubra and
-   subtexts/glosses to other parts of the text: </p>
-  <p><image href="Images/icons/full/icon16/chain-edit.png" id="image_zwn_fv3_sr"/>
-   <b>Update Current Reference</b>: The selected text part is referenced to the current annotation,
-   rubrum, comment and gloss. This feature provides an opportunity, for example, to reference
-   multiple text parts to a single annotation.</p>
   <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
    <b>Remove Current Reference</b>: The selected text part is removed from the current annotation,
-   rubrum, comment or gloss. </p>
+   rubrum, comment or gloss. This removes only the link. It does not delete the annotation.</p>
   <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
    <b>Edit Comment or Edit Annotation</b>: This opens a window with different content for
    annotation, rubrum and comment. It is not available for <image

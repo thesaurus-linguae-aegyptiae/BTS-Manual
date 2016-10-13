@@ -7,7 +7,7 @@
         <xref href="ui_texteditor_e10.dita">Text Editor</xref> in the upper centre of the
       Text Corpus view.</p>
   <p/>
-    <p><b>Segmentation of a text</b></p>
+    <p><b>1. Segmentation of a text</b></p>
     <p>The text has to be sequenced in sentences according to the Egyptian syntax. Start and end
       each sentence with the sentence marker "§". There is no "space" between "§" and the adjacent
       word.</p>
@@ -41,9 +41,9 @@
     <p>NOTE: Sentence boundaries can always be modified later, but the translation of the modified
       sentences will be lost.</p>
     <p/>
-    <p><b>Transliteration</b>
+    <p><b>2. Transliteration</b>
     </p>
-    <p>The transliteration follows the BTS Conventions (see: <xref
+    <p>The transliteration follows the BTS Conventions (see <xref
         href="grammar_transliteration_system.dita"/>). Do not use the transliteration system
       established by Wolfgang Schenkel. These characters are not valid in the BTS text editor, but
       you are enabled to use it for instance in comments. Here you may also use Coptic, Greek,
@@ -56,94 +56,128 @@
     <p>The transliteration in BTS represents the <b>written forms</b> as they appear in the text,
       not as they would be expected in the dictionary, e.g. <image
         href="Images/new%20screenshots/Hieroglyphs/swrj001.png" id="image_i2j_trl_4x"/> has to be
-      transliterated <i>swrj</i>, not <i>zwr</i>.</p>
+      transliterated <i>swrj</i>, not <i>zwr</i> (see <xref
+        href="grammar_transliteration_system.dita"/>).</p>
+    <p/>
+    <p><b>3. Structural signs</b>
+    </p>
+    <p>Structural signs are used to mark up morphological properties of a lexical entry and changes
+      caused by inflections of words in the texts (see <xref
+        href="grammar_structure_convention.dita"/>). Structural signs for lexical and inflectional
+      morphology indicate:</p>
+    <p>
+      <ul id="ul_y51_rfh_px">
+        <li>prefixes</li>
+        <li>suffixes </li>
+        <li>all kind of endings</li>
+        <li>stemm modification</li>
+        <li>compound words </li>
+      </ul>
+    </p>
     <p>The <b>dual and plural endings</b> are transliterated with ".w" or ".wj/.tj" when written
       phonetically. When marked graphically, they are marked with ".pl" or ".du". When the plural
       and dual endings are written both phonetically and graphically they are transliterated with
       both options: ".w.pl" or ".wj/.tj.du". For details see chapter <xref
         href="grammar_structure_convention.dita"/>.</p>
-    <p>An <b>internal system grammar</b> checks the validity of the transliteration, i.e. BTS
-      follows an internal logic according to which specific signs can only occur in specific
-      combinations. For instance, it is not allowed to leave out an ending ("nb."), to write two
-      full stops ("nb.."), to close brackets before opening them ("n]b[") or to interlace different
-      kinds of brackets ("{n[b}]"). Such inputs are marked by an error waring, for details see
-      chapter <xref href="howto_grammar_check.dita"/>.</p>
-    <p>NOTE: When you enter your transliteration, BTS will represent each sentence as on long line.
-      To produce a line break click <image href="Images/icons/full/icon16/lemma-load.png"
-        id="image_sws_dns_mr"/> (Load Text Lemmata) or switch between Sign Text Editor and
-      Transliteration Editor.</p>
     <p/>
-    <p><b>Adding Extra-textual Information</b></p>
-    <p><b>Line Count</b></p>
+    <p><b>4. Sigla for textual criticism</b></p>
+    <p>Some sigla are used to indicate condition of a text and editorial corrections and
+      restorations (textual criticism). BTS used sigla to mark up damaged and lost parts in a text,
+      emendations and additions of the editor as well as ancient deletions, additions and
+      corrections of the texts, i.e. brackets and sigla for lacuna or gap in a text.</p>
     <p>
-      <ul id="ul_ugx_ryw_ns">
-        <li>Line counts according to the physical object are introduced by #lc: and end with
-            <b>#</b>. The numbers (usually arabic numerals) are written in square brackets, e.g.:
-          Line 1 = #lc: [1]#. <p>Use the line cout of a principle edition if it follows the line
-            count of the physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc: [12.4]#.</p><p>For
-              <b>columns</b> use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line break in the
-            original text occurs within the borders of a word, the line count is to be placed after
-            the respective word.</p></li>
-      </ul>
-      <ul id="ul_bvp_4w5_mx">
-        <li>For line count according to synoptic editions used to align multiple versions of a text,
-          as a kind of milestone use #para: ...#. E.g.: CT VI 106a = #para: CT VI 106a#.</li>
+      <ul id="ul_kjf_hgh_px">
+        <li><b>Text-critical signs and brackets</b> follow BTS Conventions (see chapter <xref
+            href="grammar_brackets.dita"/>).</li>
       </ul>
     </p>
-    <p>NOTE: It is not allowed to use colon between "#" more than once.</p>
-   <p>NOTE: It is not allowed to use colon directly after or directly before "#".</p>
-    <p>NOTE: The line count provided by BTS at the left egde of the Text Editor is only temporary.
-      It changes at each line break.</p>
-    <p/>
-   <p><b>Descriptive Information</b></p>
-    <p>Descriptive information, e.g. for representations the inscriptions are referring to, are
-      placed between "#". </p>
     <p>
-      <ul id="ul_jly_jzz_2x">
-        <li>For the description of representations to which text refers, use "#descr: #", e.g.
-          #descr: Amun, thronend#</li>
-        <li>Other descriptions without reference can be added freely between two "#", e.g. #3Q sind
-          leer gelassen# / #3Q left empty#.</li>
+      <ul id="ul_fbk_hgh_px">
+        <li><b>Damaged parts</b> (see chapter <xref href="grammar_destructions.dita"/>)<ul
+            id="ul_pyx_fgh_px">
+            <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
+              destroyed--, --3Q-- (destruction of 3 scriptorial squares).<p>NOTE: It is not allowed
+                to use the hyphen within the destruction marker.</p></li>
+            <li>If the number of words missing can precisely be determined (e.g. if the words are
+              completely lost, but with the determinatives preserved), use three underscores in
+              brackets "[___]". E.g.: "[___] [___]" for 2 missing words.</li>
+          </ul></li>
       </ul>
     </p>
-    <p/>
-    <p><b>Text-critical signs and brackets</b> follow BTS Conventions (see chapter <xref
-        href="grammar_brackets.dita"/>).</p>
-    <p/>
-    <p><b>Damaged parts</b> (see chapter <xref href="grammar_destructions.dita"/>)</p>
     <p>
-      <ul>
-        <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
-          destroyed--, --3Q-- (destruction of 3 scriptorial squares).<p>NOTE: It is not allowed to
-            use the hyphen within the destruction marker.</p></li>
-        <li>If the number of words missing can precisely be determined (e.g. if the words are
-          completely lost, but with the determinatives preserved), use three underscores in brackets
-          "[___]". E.g.: "[___] [___]" for 2 missing words.</li>
+      <ul id="ul_f1y_hgh_px">
+        <li><b>Illegible parts and spaces intentionally left blank</b><p>
+            <ul id="ul_pgr_3gh_px">
+              <li>If a word or a sequence of words is illegible or only partly legible, use
+                underscores, e.g. "_b_"; "n_[_],t"; "[_]_[_]"; [___].pl etc. (see <xref
+                  href="howto_lemmatizing_unknownwords.dita"/>).</li>
+            </ul>
+            <ul id="ul_umv_kgh_px">
+              <li>Empty cartouches are transliterated with 3 underscores: "___" and are lemmatized
+                with lemma ID (WCN) 550225 (see <xref href="howto_lemmatizing_empty.dita"/>).</li>
+            </ul>
+            <ul id="ul_afy_kgh_px">
+              <li>Blank parts of a text that were intended for a later addition of a personal name
+                and titles (e.g. on a coffin), are transliterated as decriptive information: "#3Q
+                unbeschriftet#", "#5Q leer für Titel und Namen des Verstorbenen#" etc.</li>
+            </ul>
+          </p></li>
       </ul>
     </p>
     <p/>
-    <p><b>Illegible parts and spaces intentionally left blank</b></p>
-    <ul id="ul_uth_rc1_fx">
-      <li>
-        <p>If a word or a sequence of words is illegible or only partly legible, use underscores,
-          e.g. "_b_"; "n_[_],t"; "[_]_[_]"; [___].pl etc.</p>
-      </li>
-    </ul>
-    <ul id="ul_zhm_rc1_fx">
-      <li>
-        <p>Empty cartouches are transliterated with 3 underscores: "___" and are lemmatized with
-          lemma ID (WCN) 550225.</p>
-      </li>
-    </ul>
-    <ul id="ul_jdr_rc1_fx">
-      <li>
-        <p>Blank parts of a text that were intended for a later addition of a personal name and
-          titles (e.g. on a coffin), are transliterated as decriptive information: "#3Q
-          unbeschriftet#", "#5Q leer für Titel und Namen des Verstorbenen#" etc.</p>
-      </li>
-    </ul>
+    <p><b>5. Sigla for textual structure</b></p>
+    <p>
+      <ul id="ul_qtp_xgh_px">
+        <li><b>Sentence marker</b><p>Each sentene is to be placed between sentence markers "§", e.g.
+              §<i>jw =f sḏm</i>§</p><p>NOTE: When you enter your transliteration, BTS will represent
+            each sentence as on long line. To produce a line break click <image
+              href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/> (Load Text
+            Lemmata) or switch between Sign Text Editor and Transliteration Editor.</p></li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_vr4_tgh_px">
+        <li><b>Line Count</b><ul id="ul_ugx_ryw_ns">
+            <li>Line counts according to the physical object are introduced by #lc: and end with
+                <b>#</b>. The numbers (usually arabic numerals) are written in square brackets,
+              e.g.: Line 1 = #lc: [1]#. <p>Use the line cout of a principle edition if it follows
+                the line count of the physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc:
+                [12.4]#.</p><p>For <b>columns</b> use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line
+                break in the original text occurs within the borders of a word, the line count is to
+                be placed after the respective word.</p></li>
+          </ul><ul id="ul_bvp_4w5_mx">
+            <li>For line count according to synoptic editions used to align multiple versions of a
+              text, as a kind of milestone use #para: ...#. E.g.: CT VI 106a = #para: CT VI
+              106a#.</li>
+          </ul><p>NOTE: It is not allowed to use colon between "#" more than once.</p><p>NOTE: It is
+            not allowed to use colon directly after or directly before "#".</p><p>NOTE: The line
+            count provided by BTS at the left egde of the Text Editor is only temporary. It changes
+            at each line break.</p></li>
+      </ul>
+    </p>
+   <p>
+      <ul id="ul_qn3_fhh_px">
+        <li><b>Descriptive Information</b><p>Descriptive information, e.g. for representations the
+            inscriptions are referring to, are placed between "#". </p><p>
+            <ul id="ul_v5h_hhh_px">
+              <li>For the description of representations to which text refers, use "#descr: #", e.g.
+                #descr: Amun, thronend#</li>
+            </ul>
+          </p><p>
+            <ul id="ul_gm4_hhh_px">
+              <li>Other descriptions without reference can be added freely between two "#", e.g. #3Q
+                sind leer gelassen# / #3Q left empty#.</li>
+            </ul>
+            <ul id="ul_rwc_mkh_px">
+              <li>Parts intentionally left blank for a later addition of a personal name and titles
+                (e.g. on a coffin), e.g. #5Q leer für Titel und Namen des Verstorbenen# (see
+                above).</li>
+            </ul>
+          </p></li>
+      </ul>
+    </p>
     <p/>
-    <p><b>Ambiguities</b></p>
+    <p><b>6. Ambiguities</b></p>
     <p>Ambiguities have to be noted,</p>
     <p>
       <ul id="ul_pls_1vy_2x">
@@ -166,7 +200,7 @@
     <p>NOTE: Sentence separators, extra-textual information and destruction markers, e.g. "§", line
       counts (#lc: ...#) and --2Q--, are not allowed within ambiguities.</p>
     <p/>
-    <p><b>Using Templates</b></p>
+    <p><b>7. Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. You may
       create your own templates: Access the templates by right-clicking in Text Editor and choosing
       "Content Assist" or by pressing "CRTL+Spacebar". Depending on the position of the cursor
@@ -174,7 +208,7 @@
       of templates to choose from. This can be influenced by changing the "Context" of your
       templates (for more details see chapter <xref href="howto_templates.dita"/>).</p>
     <p/>
-    <p><b>Copy&amp;Paste functions</b></p>
+    <p><b>8. Copy&amp;Paste functions</b></p>
     <p>BTS supports copy&amp;paste within the same text as well as between different texts.</p>
     <p>
       <ul id="ul_jgl_mby_2x">
@@ -208,5 +242,13 @@
         <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the
       left of the sentence (compare note on <xref href="howto_translation.dita">translation</xref>
       below).</p>
+    <p/>
+    <p><b>9. System grammar check</b></p>
+    <p>An internal system grammar checks the validity of the transliteration, i.e. BTS follows an
+      internal logic according to which specific signs can only occur in specific combinations. For
+      instance, it is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."),
+      to close brackets before opening them ("n]b[") or to interlace different kinds of brackets
+      ("{n[b}]"). Such inputs are marked by an error waring, for details see chapter <xref
+        href="howto_grammar_check.dita"/>.</p>
  </conbody>
 </concept>

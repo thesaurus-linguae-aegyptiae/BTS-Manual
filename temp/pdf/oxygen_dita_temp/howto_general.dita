@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_oyn_2lg_mr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_general.dita" xtrc="concept:1;3:34">
- <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_general.dita" xtrc="title:1;4:9">General user guide: How to edit a text</title>
- <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_general.dita" xtrc="conbody:1;5:11">
-  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\howto_general.dita" xtrc="p:1;6:6">The following instructions are for users with basic privileges. Researchers learn the basic and
-      most important tools. They are advised how to create and edit a text and how to configure
-      their personal settings. Transcribers learn how to edit hieroglyphs of an already edited text.
-      All features covered also apply to users with editor and adminstrator priviliges.</p>
- </conbody>
-</concept>

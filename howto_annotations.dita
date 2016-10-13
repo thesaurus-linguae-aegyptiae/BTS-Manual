@@ -112,12 +112,8 @@
       </ul>
       <ul id="ul_nsk_kkj_lx">
         <li>Use <image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/> to add
-          a futher text selction to the annotation, e.g. if you make a comment on a word that occurs
-          several times in your text.</li>
-      </ul>
-      <ul id="ul_ock_vqv_mx">
-        <li>You may also click <image href="Images/icons/full/icon16/chain-edit.png"
-            id="image_zwn_fv3_sr"/> to add a further text selection to the annotaion.</li>
+          a text selection to the annotation. You may add more than one text selection to each
+          annotation.</li>
       </ul>
       <ul id="ul_dvm_kkj_lx">
         <li>Use <image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/> to

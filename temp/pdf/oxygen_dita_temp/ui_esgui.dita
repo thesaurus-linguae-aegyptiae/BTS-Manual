@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\boehme\Documents\GitHub\BTS-Manual\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/boehme/Documents/GitHub/BTS-Manual/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_ipd_22f_yr" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_esgui.dita" xtrc="concept:1;3:34">
- <title class="- topic/title " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_esgui.dita" xtrc="title:1;4:9">Open ES GUI</title>
- <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_esgui.dita" xtrc="conbody:1;5:11">
-        <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_esgui.dita" xtrc="p:1;6:12">This menu item is only available to users with administrator privileges.</p>
-  <p class="- topic/p " xtrf="C:\Users\boehme\Documents\GitHub\BTS-Manual\ui_esgui.dita" xtrc="p:2;7:6">Opens the "Elastic Search" graphic user interface with your standard internet browser. Allows
-      you to see the "backdoor" of the queries done in the BTS. </p>
- </conbody>
-</concept>
