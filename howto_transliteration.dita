@@ -9,21 +9,21 @@
   <p/>
     <p><b>1. Segmentation of a text</b></p>
     <p>The text has to be sequenced in sentences according to the Egyptian syntax. Start and end
-      each sentence with the sentence marker "§". There is no "space" between "§" and the adjacent
-      word.</p>
+      each sentence with the sentence marker "§". There is no "space" between "§" and the following
+      / preceeding word.</p>
     <p>Rules for the segmentation of sentences:</p>
     <p>
       <ul id="ul_yp5_2sz_2x">
         <li>Main and subclauses belong together as one sentence.</li>
         <li>The emphatic construction is one sentence (e.g. <i>pr.n =j m pr =j hꜣ.n =j m spꜣ.t =j
-            jrj.n =j mꜣꜥ.z tp tꜣ</i>).</li>
+            jrj.n =j mꜣꜥ.t tp tꜣ</i>).</li>
         <li>Protasis and apodosis of a conditional clause are one sentence (e.g. <i>jr ḏd=f nj ꜥnḫ=f
             pw</i>).</li>
-        <li>Relative clauses belong to the superordinated clause.</li>
-        <li>Subjuctive clauses and clauses introduced by n.tj, wn.t, or jw.tj belong to the
-          superordinated clause.</li>
+        <li>Relative clauses (<i>n.tj</i>, <i>jw.tj</i>) belong to the superordinated clause.</li>
+        <li>Subjuctive clauses and clauses with <i>wn.t</i>, <i>n.tjt</i>, or <i>jw.tjt</i> belong
+          to the superordinated clause.</li>
         <li>Prepositional subclauses belong to the superordinated clause (e.g. <i>ḫr m-ḫt hrw.w 3
-            swꜣw ḥr nn</i> + main clauce + <i>r rdj.t</i> ...).</li>
+            swꜣw ḥr nn</i> + main clause + <i>r rdj.t</i> ...).</li>
         <li>Adverbal clauses belong to the superordinated clause, if the subordination is
           clear.</li>
         <li>Continuative forms (e.g. <i>mtw=</i>) are segmented in seperate sentences.</li>
@@ -34,7 +34,9 @@
     <p>
       <ul id="ul_szy_lrz_2x">
         <li>Headings, labels, and notes are sentences.</li>
-        <li>Tables are segmented according to headings, lines, and columns.</li>
+        <li>Tables are segmented according to headings, lines, and columns. For a high degree of
+          comprehensibility it is recommended to repeat headings and repeatedly read signs in
+          〈〈...〉〉. </li>
         <li>Offering formulas and (short) prayers are treated as one sentence.</li>
       </ul>
     </p>
@@ -43,12 +45,14 @@
     <p/>
     <p><b>2. Transliteration</b>
     </p>
-    <p>The transliteration follows the BTS Conventions (see <xref
+    <p>The transliteration follows the BTS conventions (see <xref
         href="grammar_transliteration_system.dita"/>). Do not use the transliteration system
       established by Wolfgang Schenkel. These characters are not valid in the BTS text editor, but
       you are enabled to use it for instance in comments. Here you may also use Coptic, Greek,
       Hebrew etc. as long as the characters are available in unicode and are supported by the
-      BBAWLibertine font. Coptic script (unicode) is also allowed in the text editor.</p>
+      BBAWLibertine font. Coptic script (unicode) is also allowed in the text editor, e.g. for
+      glosses, but as there is no Coptic lemma list yet, it is currently not possible to lemmatize
+      Coptic glosses.</p>
     <p>To enter the transliteration signs, you need to switch the keyboard layout by pressing "CRTL"
       + "Shift" (Win XP, Win 7) or "Windows key" + "Space bar" (Win 8, Win 10). For the keyboard
       layout see chapter <xref href="intro_keyboard.dita"/>.</p>
@@ -81,19 +85,19 @@
         href="grammar_structure_convention.dita"/>.</p>
     <p/>
     <p><b>4. Sigla for textual criticism</b></p>
-    <p>Some sigla are used to indicate condition of a text and editorial corrections and
-      restorations (textual criticism). BTS used sigla to mark up damaged and lost parts in a text,
+    <p>Some sigla are used to indicate the condition of a text and editorial corrections and
+      restorations (textual criticism). BTS uses sigla to mark up damaged and lost parts in a text,
       emendations and additions of the editor as well as ancient deletions, additions and
-      corrections of the texts, i.e. brackets and sigla for lacuna or gap in a text.</p>
+      corrections of the texts.</p>
     <p>
       <ul id="ul_kjf_hgh_px">
-        <li><b>Text-critical signs and brackets</b> follow BTS Conventions (see chapter <xref
+        <li><b>Text-critical signs and brackets</b> follow BTS conventions (see chapter <xref
             href="grammar_brackets.dita"/>).</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fbk_hgh_px">
-        <li><b>Damaged parts</b> (see chapter <xref href="grammar_destructions.dita"/>)<ul
+        <li><b>Damaged parts</b> (see chapter <xref href="grammar_destructions.dita"/>).<ul
             id="ul_pyx_fgh_px">
             <li>A destruction is indicated by two hyphens <b>--...--</b>. E.g.: --rest of line
               destroyed--, --3Q-- (destruction of 3 scriptorial squares).<p>NOTE: It is not allowed
@@ -130,7 +134,7 @@
       <ul id="ul_qtp_xgh_px">
         <li><b>Sentence marker</b><p>Each sentene is to be placed between sentence markers "§", e.g.
               §<i>jw =f sḏm</i>§</p><p>NOTE: When you enter your transliteration, BTS will represent
-            each sentence as on long line. To produce a line break click <image
+            each sentence as one long line. To produce a line break click <image
               href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/> (Load Text
             Lemmata) or switch between Sign Text Editor and Transliteration Editor.</p></li>
       </ul>
@@ -149,10 +153,10 @@
             <li>For line count according to synoptic editions used to align multiple versions of a
               text, as a kind of milestone use #para: ...#. E.g.: CT VI 106a = #para: CT VI
               106a#.</li>
-          </ul><p>NOTE: It is not allowed to use colon between "#" more than once.</p><p>NOTE: It is
-            not allowed to use colon directly after or directly before "#".</p><p>NOTE: The line
-            count provided by BTS at the left egde of the Text Editor is only temporary. It changes
-            at each line break.</p></li>
+          </ul><p>NOTE: It is not allowed to use colon between "#" more than once, e.g. #lc: [1:4]#
+            is not valid.</p><p>NOTE: It is not allowed to use colon directly after or directly
+            before "#".</p><p>NOTE: The line count provided by BTS at the left egde of the Text
+            Editor is only temporary. It changes at each line break.</p></li>
       </ul>
     </p>
    <p>
@@ -196,16 +200,16 @@
     </p>
     <p>Ambiguities are entered as: "%case 1: ...| case 2: ...| case 3: ...%". You can input as many
       cases as you need. Be careful not to type a space in front of the vertical stroke. </p>
-    <p>Example: %case 1: rd.du| case 2: wꜥr,t.du%</p>
+    <p>Examples: %case 1: rd.du| case 2: wꜥr,t.du%; %case 1: sḏm.n =f| case 2: sḏm n =f%</p>
     <p>NOTE: Sentence separators, extra-textual information and destruction markers, e.g. "§", line
       counts (#lc: ...#) and --2Q--, are not allowed within ambiguities.</p>
     <p/>
     <p><b>7. Using Templates</b></p>
     <p>It is possible to use templates in order to speed up the transliteration process. You may
-      create your own templates: Access the templates by right-clicking in Text Editor and choosing
+      create your own templates: Access the templates by right-clicking in Text Editor and selecting
       "Content Assist" or by pressing "CRTL+Spacebar". Depending on the position of the cursor
       (within a sentence / word or outside the sentence marked by §§) you will get a different set
-      of templates to choose from. This can be influenced by changing the "Context" of your
+      of templates to select from. This can be influenced by changing the "Context" of your
       templates (for more details see chapter <xref href="howto_templates.dita"/>).</p>
     <p/>
     <p><b>8. Copy&amp;Paste functions</b></p>
@@ -213,9 +217,9 @@
     <p>
       <ul id="ul_jgl_mby_2x">
         <li>It is possible to enter the complete transliteration of a text at once out of an
-          external source (e.g. a MS Word document) by copy&amp;paste, if one follows all the rules
+          external source (e.g. a MS Word document) by copy&amp;paste, if it follows all the rules
           of BTS grammar. The transliteration used in MS Word should be the unicodefont
-          BBAW-Libertine.</li>
+          BBAWLibertine.</li>
         <li>You can copy your transliteration, parts of it or extra-textual information and paste it
           anywhere in the same or another text. By doing this, only the transliteration will be
           copied, even if the tokens are lemmatized.</li>
@@ -229,7 +233,7 @@
                 copy. Click on it (right-click) and select "Copy with Lemmata".</li>
               <li>Proceed to the text where you want to insert the sentence(s). Righ-click the exact
                 position and select "Paste with Lemmata". To insert a sentence after an existing
-                sentence, plase the cursor behind the "§" sign.</li>
+                sentence, place the cursor behind the "§" sign.</li>
             </ul>
           </p></li>
       </ul>
@@ -240,7 +244,8 @@
     <p>NOTE: The sentence you want to copy as well as the sentence in, before, or after which you
       want to insert the copied sentence(s) must be activated. Activation is shown by the sign
         <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the
-      left of the sentence (compare note on <xref href="howto_translation.dita">translation</xref>
+      left of the sentence. It might take some time or a switch between database objects, until the
+      sentence is activated (compare note on <xref href="howto_translation.dita">translation</xref>
       below).</p>
     <p/>
     <p><b>9. System grammar check</b></p>

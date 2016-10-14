@@ -31,8 +31,9 @@
         <p>NOTE: Before you enter your translation, be sure that the relevant sentence is activated.
             The activation is indicated by the sign <image
                 href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> in the Text
-            Editor direcly to the left of the relevant sentence. If the sign does not show up, your
-            translation will not be saved (compare note on <xref href="howto_transliteration.dita">Copy with Lemmata</xref>
-            above). </p>
+            Editor direcly to the left of the relevant sentence. It might take some time or a switch
+            between database objects, until the sentence is activated. If the sign does not show up,
+            your translation will not be saved (compare note on <xref
+                href="howto_transliteration.dita">Copy with Lemmata</xref> above). </p>
  </conbody>
 </concept>

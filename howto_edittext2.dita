@@ -5,8 +5,8 @@
   <body>
     <p>The process of editing a text begins with entering the transliteration in the Text Editor
       Transliteration field. However, in order to enter a transliteration, you first need to <xref
-        href="intro_install_keyboard.dita"> install and configure the keyboard</xref> provided by
-      the BBAW. </p>
+        href="intro_install_keyboard.dita">install and configure the keyboard</xref> provided by the
+      BBAW. </p>
     <p>One of the most important steps in the text editing process is lemmatizing each word of your
       transliterated text. Lemmatization is a lexical annotation of each word reardless of its
       inflected forms. In a semi automatic process each word is linked with a lemma entry in the
