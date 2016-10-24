@@ -10,8 +10,8 @@
       <table frame="all" rowsep="1" colsep="1" id="table_d1h_4vj_sx">
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
-          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>72000</entry>

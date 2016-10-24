@@ -24,10 +24,8 @@
       saved in the selected corpus. For example in the Corpus Navigator you have selected Corpus 2,
       but your main working corpus is Corpus 1. The new database object will be <i>physically</i>
       saved in Corpus 1, although in the Corpus Navigator it is displayed as a part of Corpus 2. </p>
-    <p>NOTE: As you are currently enabled to select a corpus as main working corpus for which you do
-      not have any rights, it might happen that by accident you create a database object for which
-      you then do not have any editing rights. In that case please contact the BTS team in Berlin:
-      aegypt1@bbaw.de.</p>
+    <p>NOTE: You can only select a corpus as "main working corpus" on which you have the rights to
+      work in.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">

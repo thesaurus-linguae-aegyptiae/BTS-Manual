@@ -184,7 +184,8 @@
           right-clicking the respective item and selecting "Delete Permanently" or by selecting the
           item from the Navigator tree and then selecting "Delete Permanently" from the drop-down
           menu <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_zj3_d2g_ys"/>.
-          The removal of the database object will be visible after BTS restart.</li>
+          Clicking on "Delete Permanently" will open a confirmation dialogue in which you have to
+          confirm (or reject) the deletion.</li>
       </ol>
     </p>
   </body>

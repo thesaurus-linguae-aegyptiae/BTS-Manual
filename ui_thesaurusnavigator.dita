@@ -35,8 +35,8 @@
   <p>Offers all the options available in the Toolbar (see above) plus the following:</p>
   <p>
    <ul id="ul_gkz_svf_cv">
-    <li>Delete Permanently: Delete selected entry completely. The item will be removed after you
-     have restarted BTS.</li>
+    <li>Delete Permanently: Delete selected entry completely. Clicking on "Delete Permanently" will
+     open a confirmation dialogue.</li>
    </ul>
   </p>
   <p>

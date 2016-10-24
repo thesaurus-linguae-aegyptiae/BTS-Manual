@@ -20,8 +20,8 @@
         <title>Infinitive without endings</title>
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1*"/>
-          <colspec colname="c2" colnum="2" colwidth="1.94*"/>
-          <colspec colname="c3" colnum="3" colwidth="1.47*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>61000</entry>
@@ -147,8 +147,8 @@
         <title>Gemminating infinitives</title>
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
-          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>69000</entry>
@@ -274,8 +274,8 @@
         <title>Infinitives with .t</title>
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
-          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>61300</entry>

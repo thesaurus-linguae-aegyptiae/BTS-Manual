@@ -27,8 +27,8 @@
       <table frame="all" rowsep="1" colsep="1" id="table_hbb_kcj_sx">
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1*"/>
-          <colspec colname="c2" colnum="2" colwidth="2.94*"/>
-          <colspec colname="c3" colnum="3" colwidth="2.77*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>10020</entry>
@@ -316,8 +316,8 @@
       <table frame="all" rowsep="1" colsep="1" id="table_vzr_vfj_sx">
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1*"/>
-          <colspec colname="c2" colnum="2" colwidth="2.17*"/>
-          <colspec colname="c3" colnum="3" colwidth="3.11*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>13000</entry>
@@ -370,8 +370,8 @@
         <title>Old /Middle Egyptian </title>
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1*"/>
-          <colspec colname="c2" colnum="2" colwidth="2.39*"/>
-          <colspec colname="c3" colnum="3" colwidth="3.44*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>1</entry>
@@ -422,8 +422,8 @@
         <title>Late Egyptian</title>
         <tgroup cols="3">
           <colspec colname="c1" colnum="1" colwidth="1*"/>
-          <colspec colname="c2" colnum="2" colwidth="2.26*"/>
-          <colspec colname="c3" colnum="3" colwidth="3.26*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
           <tbody>
             <row>
               <entry>82000</entry>

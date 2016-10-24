@@ -58,7 +58,7 @@
   <p>
    <ul id="ul_vmj_thf_cv">
     <li>Delete Permanently: Use this option to delete an item completely (it will not be moved to
-     the bin). The item will be removed after you have restarted BTS.</li>
+     the bin). Clicking on "Delete Permanently" will open a confirmation dialogue .</li>
    </ul>
   </p>
   <p>
