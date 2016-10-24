@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_t3c_c4d_4r">
+ <title>Text Corpus View</title>
+ <conbody>
+  <p>Text Corpus is the default view of the BTS workspace. Here the user adds, arranges and
+   rearranges database objects in the Coprus Navigator tree. The user works on text corpus objects
+   and texts, including editing transliteration, translation, lemmatization, hieroglyphs and their
+   metadata.</p>
+  <p>This chapter provides a general description of the Workspace with its windows and tabs of the
+   Text Corpus View. For a step-by-step instruction of how to enter a new text see <xref
+    href="howto_general.dita"/>.</p>
+  <p>The contents, structure and functions of the four windows are: </p>
+  <p>
+   <ul id="ul_blm_m5p_gx">
+    <li>"Corpus Navigator" window (<b>yellow</b>) on the left: To navigate in the Corpus Navigator
+     tree and arrange database objects.</li>
+   </ul>
+   <ul id="ul_r5s_m5p_gx">
+    <li>"Text Editor" window (<b>blue</b>) at the top center: There are three subtabs: (1) the
+     transliteration (with a field for language selection), (2) the Sign Text Editor and (3) a JSesh
+     View.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_gvn_n5p_gx">
+    <li>"Passport Data Editor, Lemmatizer and Hieroglyphic Type Writer" (<b>green</b>) are grouped
+     in one window at the bottom center. Three subtabs are grouped together: (1) Text Corpus Object
+     / Text-Name, (2) Lemmatizer, (3) HTW (Hieroglyphic Type Writer).</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_gnx_n5p_gx">
+    <li>"Annotation and Translation" window (<b>red</b>) on the right: To annotate words or
+     sequences of the texts with different linguistic and metalinguistical properties and comments.
+     One can switch to a whole Text-Translation in this window. </li>
+   </ul>
+  </p>
+  <p><image href="Images/new%20screenshots/BTS%20Screenshots/Workspace_1.png" id="image_bmv_x5p_gx"
+   /></p>
+  <p>In the default view some of the tabs, like "Passport Data Editor", "Lemmatizer" and "HTW", are
+   grouped together in one window. Nevertheless they can be rearranged and moved separately.</p>
+  <p>As soon as you select a Text Corpus Object or a Text in the Corpus Navigator, the titles of
+   these tabs as well as those of the "Text editor", "Annotation" and "Text Translation" change to
+   the name of the selcted database object. </p>
+ </conbody>
+</concept>

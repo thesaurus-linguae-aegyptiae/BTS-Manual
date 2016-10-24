@@ -9,29 +9,30 @@
     <p>Access the already-existing templates through the Content Assist (right-click in the Text
       Editor Transliteration field or pressing CTRL + Spacebar) and choose it from the menu. The
       already-existing templates are essentially what you can find on the keyboard layout and type
-      manually, but you can decide which method is better for your needs. Depending on the position
-      of your cursor (within a sentence / word or outside the sentence marked by §§) you will get a
-      different set of templates to choose from, so it might be helpful if you ever have doubts
-      about what is allowed to be inserted in a given position. In the example below, the position
-      is line 3, where no §§ have been added yet. Hence the Content Assist gives you only one
-      option: to enter §. </p>
+      manually, but you can decide which method is better for your workflow. Depending on the
+      position of your cursor (within a sentence / word or outside the sentence marked by §§) you
+      will get a different set of templates to choose from, so it might be helpful if you ever have
+      doubts about what is allowed to be inserted in a given position. In the example below, the
+      position is line 3, where no §§ have been added yet. Hence the Content Assist gives you only
+      one option: to enter §. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template1.png" id="image_icd_3q2_1v"
       /></p>
     <p/>
     <p><b>Creating a new template</b></p>
-    <p>You can also create your own templates. Select Preferences in the Menu bar. Then expand
-      EgyDsl and click on Templates entry. Clicking on "New..." will open a new window where you
-      first have to name your template and select its context from the drop-down menu. The context
-      determines at which position in the text the template will be displayed (SentenceItem or
-      WordPart). </p>
+    <p>You are enabled to create your own templates. Select "Preferences" in the menu bar. Then
+      expand "EgyDsl" and click on the entry "Templates". Clicking on "New..." will open a new
+      window where you first have to name your template and select its context from the drop-down
+      menu. The context determines at which position in the text the template will be displayed
+      (SentenceItem or WordPart). </p>
     <p>NOTE: You are advised only to select "SentenceItem" and "WordPart" as context from the
       dropdown menu. Use "SentenceItem" for independent items (e.g. linecount) and "WordPart" for
       dependet items (e.g. plural and dual endings). All other contexts shall not be used.</p>
     <p>You may add a short description to it in order to remember what it does. Other than the name,
       a description is not mandatory. Name and short description will be displayed in the Content
-      Assist. In the field Pattern enter the motive which will be displayed in the transliteration.
-      The Button Insert Variable allows you to choose from some pre-set patterns which you can use
-      for your template. The example below demonstrates how a template works. </p>
+      Assist. In the field "Pattern" enter the motive which will be displayed in the
+      transliteration. The button "Insert Variable..." allows you to choose from some pre-set
+      patterns which you can use for your template. The example below demonstrates how a template
+      works. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template2.png" id="image_gjh_wq2_1v"
       /></p>
     <p>When it is finished, click OK and it will appear in the list. You can edit or remove it as

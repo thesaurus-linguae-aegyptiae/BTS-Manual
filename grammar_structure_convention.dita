@@ -115,14 +115,14 @@
               <entry namest="col1" nameend="col2"><b>Examples</b></entry>
             </row>
             <row>
-              <entry namest="col1" nameend="col2">Morphological Suffixes:</entry>
+              <entry namest="col1" nameend="col2">Morphological suffixes:</entry>
             </row>
             <row>
               <entry>correct: <i>sḏm =f</i></entry>
               <entry>incorrect: <i>sḏm=f</i></entry>
             </row>
             <row>
-              <entry>Lexically Bound Suffixes:</entry>
+              <entry>Lexically bound suffixes:</entry>
               <entry> </entry>
             </row>
             <row>
@@ -135,10 +135,10 @@
     </p><p/>
     <p><b>Endings</b></p>
     <p>Morphological endings are to be marked by a dot “.” (e.g. numerus endings, inflective
-      infix/affix), endings of word formations by a comma “,” (e.g. feminin ending). Endings of
+      infix/affix), endings of word formations by a comma “,” (e.g. feminine ending). Endings of
       proper names have to be written at the end of the full name, no matter if a name consists of
       compound words and/or suffixes. </p>
-    <p>NOTE: The feminin ending <i>.t</i> is marked by a comma (","), if the word is noun. The
+    <p>NOTE: The feminine ending <i>.t</i> is marked by a comma (","), if the word is noun. The
       ending of adjectives is treated as morphological endings and thus marked by a dot ("."), e.g.
         <i>nb,t nfr.t</i>.</p>
     <table id="table_lkz_dkb_lt">
@@ -188,9 +188,30 @@
     <p><b>Notation of Plural and Dual</b></p>
     <p>Plural and dual endings are morphological endings and thus marked by a dot (".").
       Phonetically written endings are transliterated as "<i>.w</i>", "<i>.wj</i>", "<i>.wt</i>" and
-        "<i>.tj</i>" respectively. Strokes and ideographic writings of number are represendted by
-      either ".pl" or ".du". In case there is a phonetic nd ideographic writing, both are
+        "<i>.tj</i>" respectively. Strokes and other ideographic writings of number are represented
+      by either ".pl" or ".du". In case there is a phonetic and ideographic writing, both are
       represented in the transliteration, e.g. ".w.pl." or ".tj.du".</p>
+    <p>Dots and commas are combined if both morphological and inflectional endings appear in one
+      word,e.g.:</p>
+    <p>
+      <ul id="ul_d5t_mvt_mx">
+        <li><i>nh,t</i> - "sycamore" (sg.)</li>
+        <li><i>nh.w,t</i> (pl. phonetic)</li>
+        <li><i>nh,t.pl</i> (pl. ideographic)</li>
+        <li><i>nh.w,t.pl</i> (pl. phonetic + ideographic)</li>
+        <li><i>jm,j-rʾ-ḥm,pl-nṯr</i> (title, sg.)</li>
+        <li><i>jm,j<b>.pl</b>-rʾ-ḥm,pl-nṯr</i> (title, pl.)</li>
+      </ul>
+    </p>
+    <p>Strokes and other ideographic writing are only represented by .pl and .du, respectively, if
+      they mark "real" plurals or duals. If written in collectiva, they are treated as
+      determinatives and are thus not transliterated, e.g.:</p>
+    <p>
+      <ul id="ul_sg5_pwt_mx">
+        <li><i>mnmn,t</i> - "cattle"</li>
+        <li><i>nfr(,w)</i> - "beauty"</li>
+      </ul>
+    </p>
     <p/>
     <p><b>Stem Modification</b></p>
     <p>
@@ -267,11 +288,11 @@
             </row>
             <row>
               <entry><i>ḥm-nṯr-Jmn</i></entry>
-              <entry>title</entry>
+              <entry>a title</entry>
             </row>
             <row>
               <entry><i>ḥꜣ.tj-ꜥ-n-Nḫb</i></entry>
-              <entry>title</entry>
+              <entry>a title</entry>
             </row>
             <row>
               <entry><i>Jwn,w</i></entry>
@@ -282,8 +303,29 @@
       </table>
     </p>
     <p/>
+    <p><b>Cartouches, Serekhs etc.</b></p>
+    <p>Cartouches "𓍹 ... 𓍺", Serekhs "𓉘 ... 𓊂" and enclosures of places names "𓊆 ... 𓊇" etc.
+      are treated as determintives and are thus not represented in the transliteration. </p>
     <p/>
+    <p><b>Verse Points</b></p>
+    <p>Verse points are represented in the transliteration via the appropriate signs (see <xref
+        href="intro_keyboard.dita"/>). There has to be a space before and after the verse point.
+      Verse points are not represented in the hieroglyphical encoding.</p>
+    <p>
+      <ul id="ul_zfv_sy5_mx">
+        <li>󰂀 - preserved verse point</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_obf_ty5_mx">
+        <li>󰂁 - reconstructed verse point </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_jtj_ty5_mx">
+        <li>{󰂀} - verse point deleted by the editor</li>
+      </ul>
+    </p>
     <p/>
-    <p></p>
     </body>
 </topic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ih3_blv_bt">
-  <title>Admin</title>
+  <title>Administrator</title>
   <body>
     <p>The administrator role applies only to a specific database, i.e. a corpus, a lemma list, or
       the thesaurus database (not the entire BTS!). Administrator can edit or delete all database
@@ -9,8 +9,8 @@
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_bky_44v_bt">
-        <li>Can manage and control any user role within a corpus where she or he is assigned. (Not
-          available at the moment.)</li>
+        <li>Can manage and control any user role within a corpus where assigned. (Not available at
+          the moment.)</li>
         <li>Can edit all items in a given corpus, regardless of their visibility status.</li>
         <li>Can add or remove database objects within a corpus. Deleted database objects can be
           found in the "Bin" tab, from where they can be deleted permanently.</li>
@@ -26,10 +26,10 @@
     <p>
       <ul id="ul_okz_zlv_bt">
         <li>Admin user role applies to particular corpora only.</li>
-        <li>Admin cannot edit the passport data or name of an entire corpus if the corpus was
-          created by someone else. Even if the entire corpus has a visibility status "Public", Admin
-          user will still have a guest status when selecting the corpus. Admin has rights only for
-          individual database objects within the corpus. </li>
+        <li>Admin cannot edit the passport data or name of an entire corpus if not assigned
+          administrator privileges to that particular corpus. Even if the entire corpus has a
+          visibility status "Public", Admin user will still have a guest status when selecting the
+          corpus. Admin has rights only for individual database objects within the corpus. </li>
         <li>Admin cannot create new corpora within a project.</li>
       </ul>
     </p>

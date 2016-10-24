@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bnp_vw2_yr">
+ <title>Open Futon</title>
+ <conbody>
+  <p>This menu item is only available to users with administrator privileges.</p>
+  <p>Futon is a web-based graphic user interface (short GUI), which provides a basic interface to
+      the majority of the functionality of CouchDB. This is a "backdoor" to the database, allowing
+      to create, update, delete and view documents and access the configuration parameters. It shows
+      the source code of the database objects in JSON format.</p>
+ </conbody>
+</concept>

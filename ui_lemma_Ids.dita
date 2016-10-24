@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fhl_wqd_vt">
+  <title>IDs</title>
+  <body>
+    <p>This tab provides the option to enter external IDs of your lemma to establish links to other
+      projects and databases. By default a <image href="Images/icons/full/obj16/add.png"
+        id="image_hjw_n3w_zs"/> button will be displayed. Click it to add an external ID. </p>
+    <p>NOTE: Lemmata transferred from the project "Altägyptisches Wörterbuch" display here the ID
+      from the project "Altägyptisches Wörterbuch" in the field External ID. In this case, the field
+      type has the value aaew_wcn.</p>
+    <p>
+      <ul id="ul_w2b_jnf_cv">
+        <li><b>Provider:</b> Select the provider (an external project) from the drop-down menu.<p>If
+            a provider you need is missing, please send a proposal to the BTS team in Berlin via
+            E-mail: aegypt1@bbaw.de.</p></li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_ad5_mnf_cv">
+        <li><b>Type:</b> Enter the type of the external ID.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_rgz_nnf_cv">
+        <li><b>External ID:</b> Enter the external ID here.<p>Example: The lemma <i>nfr</i> also
+            appears in the Ramses project: http://ramses.ulg.ac.be. Select Ramses as provider, enter
+            96274 as external ID.</p></li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_fhc_snf_cv">
+        <li><image href="Images/icons/full/obj16/add.png" id="image_mmm_qsz_tr"/>
+          <b>Add Identifier:</b> Add another set of information, including the "Provider", "Type"
+          and "External ID".</li>
+      </ul>
+      <ul id="ul_eys_vf1_px">
+        <li><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
+          <b>Remove Widget:</b> This removes the external ID from the lemma.</li>
+      </ul>
+    </p>
+  </body>
+</topic>

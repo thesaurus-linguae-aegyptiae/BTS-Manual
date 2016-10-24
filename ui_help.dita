@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nst_wqd_4r">
+ <title>Help</title>
+ <conbody>
+    <image href="Images/help2.png" id="image_pjm_134_pt"/>
+    <p><b>Open Manual (PDF)</b></p>
+    <p>Clicking on this menu entry will open the PDF version of the user manual.</p>
+    <p><b>Open Webhelp</b></p>
+    <p>Clicking on this menu entry will open the HTML version of the user manual. </p>
+    <p><b>Update Application</b></p>
+    <p>Searches for available software updates.</p>
+    <p><b>Install New Software-Components</b></p>
+    <p>Select software to add to your BTS.</p>
+    <p><b>Uninstall Software-Components</b></p>
+    <p>Select to see which parts of the software are installed. Select a specific path. Click
+      "Uninstall" at the bottom of this window to uninstall selected parts of the program.</p>
+    <p>NOTE: This does not uninstall BTS. To uninstall BTS you have to delete all files from the
+      installation path manually (see <xref href="intro_uninstall_update.dita"/>).</p>
+  </conbody>
+</concept>

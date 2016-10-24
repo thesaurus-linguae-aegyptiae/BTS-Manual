@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_lv5_cpd_vt">
+  <title>Relations</title>
+  <body>
+    <p>The Relations tab gives information on the relation between the lemmata. The default setting
+      is the relationship between the selected database object and its parent database object ("Part
+      of"). BTS supports polyhierarchies, that means that database objects may have more than one
+      parent element.</p>
+    <p><b>Relation</b></p>
+    <p>Choose between different types of relations from the drop-down menu:</p>
+    <p>
+      <ul id="ul_jl4_5lf_cv">
+        <li>PartOf: A lemma is hierarchically subordinated to another lemma, it is a sublemma of
+          another lemma.</li>
+      </ul>
+      <ul id="ul_e2b_pf1_px">
+        <li>Contains: A lemma is hierarchically superordinated to another lemma.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_e3g_vlf_cv">
+        <li>Is composed of: A relation between a compound and its components. Do not use this
+          relation! Instead of this, divide the compound into its components in the texteditor, and
+          lemmatize them.</li>
+      </ul>
+      <ul id="ul_omh_pf1_px">
+        <li>Is cross-reference to: This references your entry to another entry.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_syx_zlf_cv">
+        <li>Referencing: Establishes a relation between obsolete lemmata (<image
+            href="Images/icons/full/icon16/lemma-wrong.png" id="image_ykq_ppl_yr"/>) and correct
+          lemmata (<image href="Images/Icons_updated/full/icon16/lemma_checked.png"
+            id="image_dlf_2k2_hx"/>) .</li>
+      </ul>
+      <ul id="ul_yhm_pf1_px">
+        <li>ReferencedBy: Defines the relation between correct lemmata and obsolete lemmata. </li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_gc3_smf_cv">
+        <li>RootOf: A relation between a lemma and its root.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_rts_tmf_cv">
+        <li>Successor / Predecessor:  Sets the correlation between the Egyptian and Demotic word
+          lists.</li>
+      </ul>
+    </p>
+    <p>
+      <ul id="ul_lfb_vmf_cv">
+        <li>Is cross-reference to: This option is offered but is not relevant at the moment.</li>
+      </ul>
+    </p>
+    <p><b>Object:</b> Displays the transliteration of the related lemma. </p>
+    <p><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/>
+      <b>Search Object:</b>  Search for a lemma you want to relate with your lemma. </p>
+    <p><image href="Images/Icons_updated/full/icon16/passport.png" id="image_pkx_gm2_hx"/>
+      <b>Open Object in Passport Editor:</b> Displays the passport data of the related lemma.</p>
+    <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
+      <b>Add Relation:</b> Click it to add more relations. BTS allows polyhierarchy. One item can
+      have more than one parent element. </p>
+    <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
+      <b>Remove Relation:</b> This removes relations from the lemma.</p>
+    <p>NOTE: If the last relation is removed, the lemma will remain in the database as "Orphan" and
+      is still accesible via the Search Dialog.</p>
+    <p>NOTE: If a database object has more than one relation, it is displayed at each respective
+      position in the Navigator tree. This does not mean that the database object has been
+      duplicated. To delete one of these relations, use the "Remove Widget" button in the Relation
+      tab. Do not delete the database object itself, unless you want to delete it permanently from
+      all appearences in the Navigator tree.</p>
+  </body>
+</topic>

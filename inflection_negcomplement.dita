@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ygq_ypj_sx">
+  <title>Negative complement</title>
+  <body>
+    <p>Owner 63000</p>
+    <p>Forms after negation verbs <i>tm </i>and<i> jmi̯</i></p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_skq_fqj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>63000</entry>
+              <entry>neg.kompl</entry>
+              <entry>also status pronominalis, pronominal object</entry>
+            </row>
+            <row>
+              <entry>63100</entry>
+              <entry>neg.kompl.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>63200</entry>
+              <entry>neg.kompl.endg.<i>w</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>63300</entry>
+              <entry>neg.kompl.endg.<i>t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>63400</entry>
+              <entry>neg.kompl.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>63500</entry>
+              <entry>neg.kompl.gem.endg.<i>t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>63600</entry>
+              <entry>neg.kompl.gem.endg.<i>w</i></entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+  </body>
+</topic>

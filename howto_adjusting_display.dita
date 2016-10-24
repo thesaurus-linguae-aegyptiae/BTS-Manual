@@ -3,18 +3,18 @@
 <topic id="topic_pxz_dzt_kr">
   <title>Adjusting display</title>
   <body>
-    <p>BTS is flexible when it comes to the location and display of individual tabs within it.</p>
-    <p>NOTE: Changes in the display and arrengement of tabs cannot be saved. Every restart of BTS
-      restores the default settings.</p>
+    <p>BTS is flexible in the location and display of individual tabs within it, but changes in the
+      display and arrengement of tabs cannot be saved. Every restart of BTS restores the default
+      settings.</p>
     <p><b>Minimizing/Maximizing</b></p>
     <p>Most tabs can be minimized or maximized by clicking these two buttons: <image
         href="Images/icons/extra%20icons/minimize.png" id="image_mry_1y2_1v"/> and <image
         href="Images/icons/extra%20icons/maximize.png" id="image_bns_by2_1v"/> respectively. When
       you have maximized or minimized one or several tabs of the workspace (Corpus Navigator, Text
       Editor, etc.), the respective icons will appear on the right or left side of the program
-      window. See <xref href="oberflaeche_window.dita#concept_u43_vqd_4r">Window</xref> for
-      explanations of the icons. Sometimes it might be necessary to return to the "Window"-entry on
-      the Menu bar to restore the tabs by clicking on "Open Text Editor" etc.</p>
+      window. For explanations of the icons see <xref href="ui_window.dita"/>. Sometimes it might be
+      necessary to return to the "Window"-entry on the Menu bar to restore the tabs by clicking on
+      "Open Text Editor" etc.</p>
     <p>This example shows the maximized Text Editor. Other tabs are minimized and displayed as icons
       on the right and left (marked by a red rectangle). To restore minimized tabs, click either
       their icon or restore <image href="Images/icons/extra%20icons/restore.png"
@@ -27,7 +27,7 @@
       closed tab via the dropdown menu "Window" in the menu bar. Restarting BTS will restore all
       closed tabs as well.</p>
     <p><b>Moving tabs</b></p>
-    <p>If you don't like the default arrangement of the BTS tabs, most of them can be moved (some
+    <p>If you do not like the default arrangement of the BTS tabs, most of them can be moved (some
       have to stay together, like all the sub-tabs of the Text Editor: Transliteration, Sign Text
       Editor and JSesh View, all the sub-tabs of the Passport Editor and the sub-tabs of the Corpus
       Navigator: Text Corpora and Bin). You can grab a tab and just pull it to a different location

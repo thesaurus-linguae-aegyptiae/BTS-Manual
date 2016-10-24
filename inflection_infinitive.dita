@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_zgt_3rj_sx">
+  <title>Infinitive</title>
+  <body>
+    <p>Owner 60700</p>
+    <p>Infinitives are encoded according to wether they are geminated or show an ending <i>.t</i> or
+      not. As for the suffix conjugations, the written forms are encoded, not the expected form,
+      that means, if an ending <i>.t</i> is expected, but not written, an infinitive without
+        <i>.t</i> is encoded. Therefore unwritten endings can be found and analyzed easily, because
+      the paradigma of infinitives depends on the verbal classes that are noted in the BWL. </p>
+    <p>Infinitives of combined verbal forms, i.e. the analytical forms in Late Egyptian, are encoded
+      as well. Auxiliaries are encoded separately according to st. abs. and st. pr. (see: <xref
+        href="inflection_auxiliaries.dita"/>); the complete form is encoded at the infinitive, e.g.
+      infinitive after aux. <i>wn.ḫr</i> = 61090.</p>
+    <p>Last digit: 0 = nominal object; 1-9 = pronominal object (see: <xref
+        href="inflection_pronouns.dita"/>)</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_jwn_nrj_sx">
+        <title>Infinitive without endings</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>61000</entry>
+              <entry>inf.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61010</entry>
+              <entry>inf. after aux. <i>jw</i></entry>
+              <entry>pseudoverbal</entry>
+            </row>
+            <row>
+              <entry>61020</entry>
+              <entry>inf. after aux. <i>jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61030</entry>
+              <entry>inf. after aux. <i>j:jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61040</entry>
+              <entry>inf. after aux. <i>j:jri̯.t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61060</entry>
+              <entry>inf. after aux .<i>mtw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61070</entry>
+              <entry>inf. after aux. <i>tw=</i>/ nom. subject</entry>
+              <entry>Present I</entry>
+            </row>
+            <row>
+              <entry>61080</entry>
+              <entry>inf. after aux. <i>wn.jn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61090</entry>
+              <entry>inf. after aux. <i>wn.ḫr</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>64000</entry>
+              <entry>inf. after aux. <i>wn</i></entry>
+              <entry>pseudoverbal</entry>
+            </row>
+            <row>
+              <entry>65000</entry>
+              <entry>inf. after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>66000</entry>
+              <entry>inf. after aux. <i>mk</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>68000</entry>
+              <entry>inf. after aux. <i>wnn</i></entry>
+              <entry>pseudoverbal</entry>
+            </row>
+            <row>
+              <entry>61050</entry>
+              <entry>inf. after neg. <i>bwpw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>67000</entry>
+              <entry>inf. after neg. <i>nn</i></entry>
+              <entry><i>nn sḏm=f</i>: "without his hearing", <i>nn wj ḥr sḏm</i></entry>
+            </row>
+            <row>
+              <entry>61100</entry>
+              <entry>inf. after neg. <i>bw </i>+ <i>jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61110</entry>
+              <entry>inf. after neg. <i>bw </i>+ <i>j:jri̯.t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61120</entry>
+              <entry>inf. after neg. <i>bn </i>+ <i>jw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61130</entry>
+              <entry>inf. after neg. <i>bn </i>+ <i>jri̯ </i>+ <i>jwn</i><i>ꜣ</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61140</entry>
+              <entry>inf. after neg. <i>bn+ tw= (+jwn</i><i>ꜣ)</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61150</entry>
+              <entry>inf. after <i>tm</i></entry>
+              <entry>[<i>jw=f (ḥr) (tm) </i>inf.] = Groll 90</entry>
+            </row>
+            <row>
+              <entry>61160</entry>
+              <entry>inf. after <i>m jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61170</entry>
+              <entry>inf. after <i>nn jw</i></entry>
+              <entry>pseudoverbal <i>nn </i>+ aux. <i>jw</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_ujz_fsj_sx">
+        <title>Gemminating infinitives</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>69000</entry>
+              <entry>inf.gem.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69010</entry>
+              <entry>inf.gem.after aux. <i>jw</i></entry>
+              <entry>pseudoverbal</entry>
+            </row>
+            <row>
+              <entry>69020</entry>
+              <entry>inf.gem.after aux. <i>jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69030</entry>
+              <entry>inf.gem.after aux. <i>j:jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69040</entry>
+              <entry>inf.gem.after aux. <i>j:jri̯.t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69060</entry>
+              <entry>inf.gem.after aux. <i>mtw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69070</entry>
+              <entry>inf.gem.after aux. <i>tw=</i>/ nom. subject</entry>
+              <entry>Present I</entry>
+            </row>
+            <row>
+              <entry>69080</entry>
+              <entry>inf.gem.after aux. <i>wn.jn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69090</entry>
+              <entry>inf.gem.after aux. <i>wn.ḫr</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69400</entry>
+              <entry>inf.gem.after aux. <i>wn</i></entry>
+              <entry>pseudoverbal</entry>
+            </row>
+            <row>
+              <entry>69500</entry>
+              <entry>inf.gem.after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69600</entry>
+              <entry>inf.gem.after aux. <i>mk</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69700</entry>
+              <entry>inf.gem.after neg. <i>nn</i></entry>
+              <entry>Negation</entry>
+            </row>
+            <row>
+              <entry>69800</entry>
+              <entry>inf.gem.after aux. <i>wnn</i></entry>
+              <entry>pseudoverbal</entry>
+            </row>
+            <row>
+              <entry>69050</entry>
+              <entry>inf.gem.after neg. <i>bwpw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69100</entry>
+              <entry>inf.gem.after neg. <i>bw </i>+ <i>jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69110</entry>
+              <entry>inf.gem.after neg. <i>bw </i>+ <i>j:jri̯.t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69120</entry>
+              <entry>inf.gem.after neg. <i>bn </i>+ <i>jw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69130</entry>
+              <entry>inf.gem.after neg. <i>bn +jri̯+ jwn</i><i>ꜣ</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69140</entry>
+              <entry>inf.gem.after neg. <i>bn+ tw= (+jwn</i><i>ꜣ)</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69150</entry>
+              <entry>inf.gem.after <i>tm</i></entry>
+              <entry>[<i>jw=f (ḥr) (tm)</i> inf.] = Groll 90</entry>
+            </row>
+            <row>
+              <entry>69160</entry>
+              <entry>inf.gem.after <i>m jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>69170</entry>
+              <entry>inf.gem.after <i>nn jw</i></entry>
+              <entry>pseudoverbal <i>nn + </i>aux. <i>jw </i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_kcf_xsj_sx">
+        <title>Infinitives with .t</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>61300</entry>
+              <entry>inf.endg.t</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61310</entry>
+              <entry>inf.endg.t/after aux. <i>jw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61320</entry>
+              <entry>inf.endg.t/after aux<i>. jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61330</entry>
+              <entry>inf.endg.t/after aux<i>. j:jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61340</entry>
+              <entry>inf.endg.t/after aux<i>. j:jri̯.t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61360</entry>
+              <entry>inf.endg.t/after aux<i>. mtw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61370</entry>
+              <entry>inf.endg.t/after aux. <i>tw=</i>/nom. subject</entry>
+              <entry>Present I</entry>
+            </row>
+            <row>
+              <entry>61380</entry>
+              <entry>inf.endg.t/after aux. <i>wn.jn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61390</entry>
+              <entry>inf.endg.t/after aux. <i>wn.ḫr</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>64300</entry>
+              <entry>inf.endg.t/after aux. <i>wn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>65300</entry>
+              <entry>inf.endg.t/after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>66300</entry>
+              <entry>inf.endg.t/after aux. <i>mk</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>68300</entry>
+              <entry>inf.endg.t/after aux. <i>wnn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61350</entry>
+              <entry>inf.endg.t/after neg<i>. bwpw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>67300</entry>
+              <entry>inf.endg.t/after neg. <i>nn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61410</entry>
+              <entry>inf.endg.t/after neg. <i>bw </i>+ <i>jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61420</entry>
+              <entry>inf.endg.t/after neg. <i>bw</i> + <i>j:jri̯.t</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61430</entry>
+              <entry>inf.endg.t/after neg. <i>bn </i>+ <i>jw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61440</entry>
+              <entry>inf.endg.t/after neg. <i>bn </i>+ <i>jri̯ </i>+ <i>jwn</i><i>ꜣ</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61450</entry>
+              <entry>inf.endg.t/after neg. <i>bn</i> + <i>tw= (+jwn</i><i>ꜣ)</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61460</entry>
+              <entry>inf.endg.t/after <i>tm</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61470</entry>
+              <entry>inf.endg.t/after <i>m jri̯</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>61480</entry>
+              <entry>inf.endg.t/after <i>nn jw</i></entry>
+              <entry>Pseudoverbal <i>nn</i> + aux. <i>jw</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+    <p><b>Infinitive st. pr. = combination with codes of suffixes</b> (see: <xref
+        href="inflection_pronouns.dita"/>)</p>
+    <p>Example: <i>pri̯.t=j</i> "mein Herauskommen": 61301 Inf.Endg.t st.pr. 1Sg </p>
+    <p/>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_gtv_5tj_sx">
+        <title>Complementary infinitive (Owner 62000)</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>62000</entry>
+              <entry>kompl.inf.</entry>
+            </row>
+            <row>
+              <entry>62100</entry>
+              <entry>kompl.inf.endg.<i>t</i></entry>
+            </row>
+            <row>
+              <entry>62200</entry>
+              <entry>kompl.inf.endg.<i>wt</i></entry>
+            </row>
+            <row>
+              <entry>62300</entry>
+              <entry>kompl.inf<i>.jt/yt</i></entry>
+            </row>
+            <row>
+              <entry>62400</entry>
+              <entry>kompl.inf.gem.</entry>
+            </row>
+            <row>
+              <entry>62500</entry>
+              <entry>kompl.inf.gem.endg.<i>t</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+  </body>
+</topic>

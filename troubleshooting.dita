@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ymm_ddc_lx">
+  <title>BTS Troubleshooting</title>
+  <body>
+    <p>
+      <ul id="ul_udn_42c_lx">
+        <li><b>BTS does not start</b><p>If BTS does not start, it might be due to a server down
+            time. Please contact the BTS team in Berlin.</p></li>
+      </ul>
+      <ul id="ul_cwx_q2c_lx">
+        <li><b>All windows and tabs have disappeared</b><p>This happens, when you draged the last
+            window or tab out of the BTS program window. Restart BTS to restore all windows and
+            tabs.</p></li>
+      </ul>
+      <ul id="ul_hnz_q2c_lx">
+        <li><b>BTS icons are to small</b><p>On Windows 8.1 and Windows 10 systems the icons are
+            smaller than on previous systems. Start BTS in Windows-XP-mode.</p></li>
+      </ul>
+      <ul id="ul_cw1_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_s1c_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_xfd_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_nk2_r2c_lx">
+        <li>die Daten werden bei der Installation nicht vollständig heruntergeladen</li>
+      </ul>
+      <ul id="ul_hxp_r2c_lx">
+        <li>sehr häufig benötigtes Doppelklicken, damit erwartete Aktion funktioniert</li>
+      </ul>
+      <ul id="ul_sjr_r2c_lx">
+        <li>das lange Warten, um sicher zu sein, dass eine Aktion ausgeführt wurde oder nicht</li>
+      </ul>
+      <ul id="ul_x4s_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_crt_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_xt5_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_hxv_r2c_lx">
+        <li/>
+      </ul>
+      <ul id="ul_nlk_t2c_lx">
+        <li/>
+      </ul>
+    </p>
+  </body>
+</topic>

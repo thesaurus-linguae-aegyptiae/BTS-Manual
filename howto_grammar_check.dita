@@ -3,22 +3,22 @@
 <topic id="topic_hkj_w55_kr">
   <title>Grammar check</title>
   <body>
-    <p>The BTS is capable of checking a transliteration for errors by using system grammar rules.
-      This does not mean that it can recognize wrongly selected lemmata or transliteration errors
-      and correct them. In fact, grammar check follows the internal logic according to which
+    <p>BTS is capable of checking the transliteration for errors by using formal system grammar
+      rules. This does not mean that it can recognize wrongly selected lemmata or transliteration
+      errors and correct them. In fact, grammar check follows an internal logic according to which
       specific signs can only occur in specific combinations. It detects disagreements with this
       logic and marks them:</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Ansicht_mit_Fehlern.png"
         id="image_ug2_v5c_xt"/></p>
     <p>Errors are marked by:</p>
     <p>1) Either the <image href="Images/new%20screenshots/BTS%20Screenshots/Fehler.png"
-        id="image_z4w_2vc_xt"/> - sign or a red square on the left of the text (depending on your
-      system);</p>
-    <p>2) a dark red rectangle on the right next to the scroll bar of the Transliteration tab - this
-      can serve as a "book mark" for errors which are not visible in text part actually displayed in
-      your window;</p>
+        id="image_z4w_2vc_xt"/> sign or a red square on the left margin of the text (depending on
+      your system);</p>
+    <p>2) a dark red rectangle on the right margin next to the scroll bar of the Transliteration tab
+      - this can serve as a "book mark" for errors which are not visible in text part actually
+      displayed in your window; click on the rectangle to jump to the relavant text passage;</p>
     <p>3) a red wavy underscore under the relevant passage.</p>
-    <p>NOTE: Do not mix the red rectangle on the right up with the light red rectangles, which show
+    <p>NOTE: Do not mix up the red rectangle on the right with the light red rectangles, which show
       the location of a rubrum. Upon mouse-over on the rectangle the tool-tip will be displayed,
       explaining the cause of the error. If there are further annotations, rubra or comments
       annotated to the same sentence, the mouse-over also provides you these information. You get a
@@ -30,7 +30,5 @@
       missing. If you insert the required symbol the error message will disappear.</p>
     <p>All grammar errors in the tranliteration should be corrected before saving or switching to the
       Sign Text Editor, otherwise you lose your data.</p>
-    <p><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><b>List of error
-        messages and their solutions</b>:<?oxy_custom_end?></p>
   </body>
 </topic>

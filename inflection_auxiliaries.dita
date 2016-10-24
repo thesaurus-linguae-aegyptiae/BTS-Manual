@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_vfh_sz3_sx">
+  <title>Auxiliaries</title>
+  <body>
+    <p>Owner 96000</p>
+    <p>The notation of combined verbal forms is encoded at the respective verb (see above <xref
+        href="inflection_suffixconjugation.dita"/>, <xref href="inflection_pseudoparticiple.dita"/>,
+        <xref href="inflection_infinitive.dita"/>).</p>
+    <p>Auxiliaries are distinguished between status absolutus (= code 3, unaltered to BWL) and
+      auxiliaries in status pronominalis. If the suffix is lost, use 0 as last digit.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_fbh_f1j_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>96300</entry>
+              <entry>aux.st.pr."/general</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96200</entry>
+              <entry>aux.<i>jw= </i></entry>
+              <entry>
+                <p><i>jw=f m pr=f</i> (96204 + <i>=f</i> + <i>m</i> + 70054 + <i>=f</i>)</p>
+              </entry>
+            </row>
+            <row>
+              <entry>96310</entry>
+              <entry>aux.<i>jw</i>= (+prep)+vf</entry>
+              <entry><i>jw=f ḥr sḏm</i> (96314 + <i>ḥr</i> + 61010)</entry>
+            </row>
+            <row>
+              <entry>96320</entry>
+              <entry>aux.<i>jri̯= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96330</entry>
+              <entry>aux.<i>j:jri̯= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96340</entry>
+              <entry>aux.<i>j:jri̯.t= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96350</entry>
+              <entry>aux.<i>ꜥḥꜥ.n</i>= +vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96360</entry>
+              <entry>aux.<i>wn= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96370</entry>
+              <entry>aux.<i>wnn= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96380</entry>
+              <entry>aux.<i>wn.jn= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96400</entry>
+              <entry>aux<i>.bwpw= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96410</entry>
+              <entry>aux.<i>mtw</i>= (+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96420</entry>
+              <entry>aux.<i>tw</i>= (+prep)+vf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>96430</entry>
+              <entry>aux<i>.wn.</i><i>ḫr= </i>(+prep)+vf</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>NOTE: Auxiliaries in other verbal forms are currently not taken into account.</p>
+    <p/>
+    <p>Example: <i>ꜥḥꜥ.n=f sḏm.n=f</i>: 96354 + 10384 + <i>=f</i>)</p>
+  </body>
+</topic>

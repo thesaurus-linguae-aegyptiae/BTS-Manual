@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_b4w_bjk_sx">
+  <title>Prepositions</title>
+  <body>
+    <p>Owner 93100</p>
+    <p>Prepositions are encoded in status pronominalis in their complete form with suffix
+      pronouns.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_lxl_4kk_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>93000</entry>
+              <entry>prep.st.pr.</entry>
+              <entry>suffix lost</entry>
+            </row>
+            <row>
+              <entry>93001-9</entry>
+              <entry>prep.st.pr.</entry>
+              <entry>e.g. <i>r =f</i> = 93004</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qmv_p2b_sr">
+ <title>Hieroglyph Type Writer (HTW)</title>
+ <conbody>
+  <p>The HTW-tab in the window at the bottom center leads to the Hieroglyph Type Writer. This is a
+   tool which enables entering or editing of hieroglyphs for any transliterated text in the
+   "Sign-Text-Editor". The Hieroglyph Type Writer is situated by default in the lower part of the
+   BTS user interface, next to the Passport Editor and the Lemmatizer.</p>
+  <p>Note: After selecting the HTW tab or after selecting a text in the Text Corpus Navigator the
+   name of the HTW will switch to the name of the selected text. Move the cursor on the tab header
+   to see the original name of the tab (HTW).</p>
+  <p>In order to use the HTW you need to open the "Sign Text Editor" and select a lemma for which
+   hieroglyphs are to be entered.</p>
+  <p><image href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/HTW.png"
+    id="image_zqq_rtp_5t"/></p>
+  <p>The HTW consists of the following sections: </p>
+  <p><b>Type here</b></p>
+  <p>Enter the hieroglphs sign by sign either by the Gardiner codes or "Manuel de Codage"
+   transcription of a word selected in the Sign Text Editor above. The first of the two fields below
+   the "Type here" field offers hieroglyphic variants for selection based on your input in "Type
+   here".</p>
+  <p>Select and confirm each sign by pressing "CTRL" + the number (marked in red next to the
+   respective sign) or simply complete the number manually and continue after the hyphen with the
+   next hieroglyph. The second field underneath displays the hieroglyphic writing of the word you
+   typed in. After confirmation the writing appears within the selected word in the "Sign Text
+   Editor". </p>
+  <p><b>Select Single Glyphs</b></p>
+  <p>In the case of an inversion this function offers the option to mark a hieroglyph and assign a
+   different position for it in a sentence.</p>
+  <p>
+   <ul id="ul_uyl_jbf_cv">
+    <li><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_wqn_ty4_nt"/> Move
+     selection to the first sign.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_pvy_jbf_cv">
+    <li>&lt; Move selection to the previous sign.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_kck_kbf_cv">
+    <li>> Move selection to the next sign.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_ksr_kbf_cv">
+    <li><image href="Images/icons/extra%20icons/pfeil_ende_zeile.png" id="image_wfm_xy4_nt"/> Move
+     selection to the last sign.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_k5c_lbf_cv">
+    <li>Order in Sentence: Use the up/down arrows to set a number corresponding to the position of a
+     sign in a sentence if the transcription does not correspond to the order of signs in the
+     manuscript.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_ksn_mbf_cv">
+    <li>Ignore Glyph: Check box is applicable, for instance, in a case of a haplography. Checking
+     this box after selecting a sign will signalize that the sign does not originally appear in the
+     manuscript.</li>
+   </ul>
+  </p>
+  <p><b>Toolbar</b></p>
+  <p>Placed in the upper-right corner of the HTW, the toolbar shows the following buttons:</p>
+  <p><image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_nsc_5fx_qr"/> Confirm
+   current hieroglyph editing and continue to the next word. Pressing the "Enter" key also confirms
+   the hieroglyph editing.</p>
+  <p><image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_q3c_gtg_wr"/> Remove
+   hieroglyph data: Removes already entered hieroglyphs of a token selected in the Sign Text
+   Editor.</p>
+  <p><image href="Images/icons/extra%20icons/pfeil_anfang_dokument.png" id="image_kgg_r31_sr"/> Move
+   selection to the beginning of the document. </p>
+  <p><image href="Images/icons/extra%20icons/pfeil_anfang_zeile.png" id="image_obl_s31_sr"/> Move
+   selection to the beginning of the line. </p>
+  <p><image href="Images/icons/extra%20icons/pfeil_links.png" id="image_ocj_t31_sr"/> Move selection
+   to the previous word.</p>
+  <p><image href="Images/icons/extra%20icons/pfeil_rechts.png" id="image_m5h_531_sr"/> Move
+   selection to the next word.</p>
+  <p><image href="Images/icons/extra%20icons/pfeil_ende_zeile.png" id="image_upn_v31_sr"/> Move
+   selection to end of line.</p>
+  <p><image href="Images/icons/extra%20icons/pfeil_ende_dokument.png" id="image_k3r_y31_sr"/> Move
+   selection to end of document.</p>
+ </conbody>
+</concept>

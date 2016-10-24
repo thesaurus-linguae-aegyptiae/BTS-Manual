@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_bvt_x3k_sx">
+  <title>Admirative suffix</title>
+  <body>
+    <p>The admirative suffix .wj is encoded together with the word token.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_kdk_3jk_sx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>90000</entry>
+              <entry>adm.suff.<i>wj</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

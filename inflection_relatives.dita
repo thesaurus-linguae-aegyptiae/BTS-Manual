@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_vdr_h3k_sx">
+  <title>Relatives</title>
+  <body>
+    <p>Owner 82000</p>
+    <p>Relatives (including negated relatives) are encoded in combinations with pronouns and are
+      encoded according to agreement in number and gender. Independet relatives are nouns and are
+      not encoded here.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_z52_l3k_sx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>80100</entry>
+              <entry>relativum.sgm</entry>
+            </row>
+            <row>
+              <entry>80200</entry>
+              <entry>relativum.sgf</entry>
+            </row>
+            <row>
+              <entry>80300</entry>
+              <entry>relativum.plm</entry>
+            </row>
+            <row>
+              <entry>80400</entry>
+              <entry>relativum.plf</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Status pronominalis in combination with codes above; last digits: suffixes and dependent
+      pronouns (see: <xref href="inflection_pronouns.dita"/>).</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_prq_p3k_sx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>81000</entry>
+              <entry>relativum.mit Pers.pronom</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+  </body>
+</topic>

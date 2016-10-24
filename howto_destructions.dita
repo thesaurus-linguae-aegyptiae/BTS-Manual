@@ -12,9 +12,9 @@
    /></p>
   <p><b>Partial Destruction</b></p>
   <p>When a sign is only partially destroyed (part of it still visible and identifiable), it is
-   rendered by half-square brackets. The half-square brackets are entered with [?-Hieroglyph-?] (see
-   screenshot below). Please enter each partially destroyed sign separately (i.e. for each sign the
-   brackets have to be entered separately; only one sign is allowed in one set of brackets).</p>
+      rendered by half-square brackets. The half-square brackets are entered with [?-Hieroglyph-?]
+      (see screenshot below). Enter each partially destroyed sign separately (i.e. for each sign the
+      brackets have to be entered separately; only one sign is allowed in one set of brackets).</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Halbklammern.png"
     id="image_ljl_2l2_1v"/></p>
   <p><b>Missing Hieroglyphs</b></p>

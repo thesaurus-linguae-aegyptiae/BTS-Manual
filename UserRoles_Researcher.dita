@@ -4,7 +4,7 @@
   <title>Researcher</title>
   <body>
     <p>Researcher may create new objects within a corpus. Researchers can also edit or delete their
-      own database objects only, or objects for which they were granted editing rights (Updater
+      own database objects, or objects for which they were granted editing rights (Updater
       status).</p>
     <p><b>Rights</b></p>
     <p>
@@ -15,7 +15,7 @@
         <li>Can assign reader/updater status for other users, but only if the researcher has Updater
           status.</li>
         <li>Researchers can change their own status from an Updater to a Reader for a database
-          object and thus lose thei editing rights. They will not be able to upgrade the status
+          object and thus lose their editing rights. They will not be able to upgrade the status
           again, i.e. to change back to the Updater.</li>
       </ul>
     </p>
@@ -24,8 +24,8 @@
       <ul id="ul_lwp_n4v_bt">
         <li>Cannot edit the already existing database objects within a corpus (created by other
           users) when a Reader or no status is assigned to him/her.</li>
-        <li>If a database object within a corpus has a visibility status <u>Reader, Group or
-            Project</u>, the Researcher will not be able to see it unless obtaining an
+        <li>If a database object within a corpus has a visibility status <i>Reader</i>, <i>Group</i>
+          or <i>Project</i>, the Researcher will not be able to see it unless obtaining an
           Updater/Reader user status</li>
       </ul>
     </p>

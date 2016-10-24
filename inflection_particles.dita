@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_lmq_cjk_sx">
+  <title>Particles</title>
+  <body>
+    <p>Owner 94100</p>
+    <p>Particles are encoded with the endings, i.e. suffix and dependent pronouns (see: <xref
+        href="inflection_pronouns.dita"/>)</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_kdk_3jk_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="newCol3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>94000</entry>
+              <entry>partk.st.pr./st.cs.</entry>
+              <entry>suffix/dep. pr. unknown/ lost</entry>
+            </row>
+            <row>
+              <entry>94001-9</entry>
+              <entry>partk.st.pr.</entry>
+              <entry><i>jr =f</i> = 94004</entry>
+            </row>
+            <row>
+              <entry>94015-24</entry>
+              <entry>partk.st.cs.</entry>
+              <entry><i>mk sw </i>= 94018</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

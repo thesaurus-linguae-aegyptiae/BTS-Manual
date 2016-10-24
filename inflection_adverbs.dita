@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jhw_lvj_sx">
+  <title>Adverbs</title>
+  <body>
+    <p>Owner 73000</p>
+    <p>Adverbs in status pronominalis are encoded with the respective pronouns.</p>
+    <p>Last digit: suffixes (see: <xref href="inflection_pronouns.dita"/>).</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_d1h_4vj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>72000</entry>
+              <entry>adv.st.pr.</entry>
+              <entry>st. pr. with suffix lost</entry>
+            </row>
+            <row>
+              <entry>72001- 9</entry>
+              <entry>adv.st.pr.</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

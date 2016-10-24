@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_tgy_py3_sx">
+  <title>Suffix pronouns and dependent pronouns</title>
+  <body>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_txm_ty3_sx">
+        <title>Suffix pronouns</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>0</entry>
+              <entry>unknown/lost suffix</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>suffix pr. <i>=j</i> sg1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>suffix pr. <i>=k</i> sg2m</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>suffix pr. <i>=ṯ</i> sg2f</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>suffix pr. <i>=f</i> sg3m</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>suffix pr. <i>=s/=st</i> sg3f/c</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>suffix pr. <i>=tw</i> sg3</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>suffix pr. <i>=n</i> pl1</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>suffix pr. <i>=ṯn</i> pl2</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>suffix pr. <i>=sn</i> pl3 (Late Eg.: <i>=w</i>)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_epr_gz3_sx">
+        <title>Dependent pronouns</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>15</entry>
+              <entry>depend. pr. <i>wj</i> sg1</entry>
+            </row>
+            <row>
+              <entry>16</entry>
+              <entry>depend. pr. <i>ṯw</i> sg2m</entry>
+            </row>
+            <row>
+              <entry>17</entry>
+              <entry>depend. pr. <i>ṯn</i> sg2f</entry>
+            </row>
+            <row>
+              <entry>18</entry>
+              <entry>depend. pr. <i>sw</i> sg3m</entry>
+            </row>
+            <row>
+              <entry>19</entry>
+              <entry>depend. pr. <i>sj</i> sg3f</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>depend. pr. <i>st</i> sg3</entry>
+            </row>
+            <row>
+              <entry>21</entry>
+              <entry>depend. pr. <i>n</i> pl1</entry>
+            </row>
+            <row>
+              <entry>22</entry>
+              <entry>depend. pr. <i>ṯn</i> pl2</entry>
+            </row>
+            <row>
+              <entry>23</entry>
+              <entry>depend. pr. <i>sn</i> pl3</entry>
+            </row>
+            <row>
+              <entry>24</entry>
+              <entry>depend. pr. <i>st</i> pl3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qzx_1jk_sx">
+  <title>Verbal adjectives</title>
+  <body>
+    <p>Owner 91030</p>
+    <p>Verbal adjectives are encoded as one word form.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_qzt_gkk_sx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>91000</entry>
+              <entry>verbaladj.<i>tj=f.</i>sg3m</entry>
+            </row>
+            <row>
+              <entry>91010</entry>
+              <entry>verbaladj.<i>tj=s</i>.sg3f</entry>
+            </row>
+            <row>
+              <entry>91020</entry>
+              <entry>verbaladj.<i>tj=sn</i>.p13</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Negated form with <i>tm</i>: <i>tm.tj=f </i>+ neg. compl. (see <xref
+        href="inflection_negcomplement.dita"/>).</p>
+  </body>
+</topic>

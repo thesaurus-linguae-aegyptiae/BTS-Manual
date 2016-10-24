@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xt1_ryf_yr">
+ <title>Findspot</title>
+ <conbody>
+  <p>This tab allows you to put in data concerning the findspot of the Egytian object, that bears
+   the text you want to edit.</p>
+  <p>This tab is divided into two sections: "Place" and "Former Place".</p>
+  <p><b>Place</b></p>
+  <p>
+   <ul id="ul_glz_xpl_hx">
+    <li><b>Place:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+      <ul id="ul_ocv_wcm_hx">
+       <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
+        <b>Search Object:</b> Select the findspot from the Thesaurus.</li>
+       <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
+        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_vdd_w5b_55">
+    <li><b>Comment:</b> Add a comment to the findspot.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_hzd_qmy_bv">
+    <li><b>is_origin:</b> Select this check box if the selected findspot is the original site where
+     the object originally came from.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_od4_rmy_bv">
+    <li><b>Certainty:</b> Choose between "Certain", "Probable" and "Uncertain".</li>
+   </ul>
+   <ul id="ul_mwk_wxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
+     <b>Add Entry Group:</b> Add another set of information, including "Place" and "Former place".
+     Use this option, if your objects consits of more than one fragment which were found at
+     different places.</li>
+   </ul>
+   <ul id="ul_xdx_xxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
+     <b>Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     the only entry group.</li>
+   </ul>
+  </p>
+  <p/>
+  <p><b>Former place</b></p>
+  <p>
+   <ul id="ul_tzb_5my_bv">
+    <li><b>former_place:</b> Displays the name of the selected thesaurus entry. This is no input
+     field. <p>
+      <ul id="ul_tj4_ycm_hx">
+       <li><image href="Images/icons/full/icon16/search.png" id="image_jh2_jvf_hx"/>
+        <b>Search Object:</b> Select the former place from the Thesaurus.</li>
+       <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_ijt_jvf_hx"/>
+        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        entry.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_skx_5my_bv">
+    <li><b>Comment:</b> Add any comment to the findspot.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_hmq_vmy_bv">
+    <li><b>is_origin:</b> Select this check box if the selected findspot is the original site where
+     the object originally came from.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_pb2_wmy_bv">
+    <li><b>Certainty:</b> Choose between "Certain", "Probable" and "Uncertain".</li>
+   </ul>
+   <ul id="ul_xy3_xxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_kct_p1g_hx"/>
+     <b>Add Entry Group:</b> Add another set of information for "Former place" (without "Place").
+     Use this option, if more than one former location of your object is known.</li>
+   </ul>
+   <ul id="ul_c44_xxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_psz_p1g_hx"/>
+     <b>Remove Entry Group:</b> Removes the entry group "Former place" or clears the entry fields if
+     it is the only entry group.</li>
+   </ul>
+  </p>
+  <p/>
+  <p>Example: The Pantheon obelisk (PM VII, 409) found in 1374 under Santa Maria sopra Minerva,
+   re-erected in 1711 opposite the Pantheon. Therefore select, the following entries: Place:
+   Pantheon; Certainty: Certain; Former_Place: Santa Maria sopra Minerva; Certainty: Certain;
+   another Former_Place: Heliopolis; Is_Origin: Check box selected; Certainty: Probable.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+ </conbody>
+ <?oxy_custom_end?>
+</concept>

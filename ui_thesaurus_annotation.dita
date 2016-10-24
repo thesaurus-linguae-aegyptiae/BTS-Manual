@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pvg_kqd_4r">
+ <title>Annotations</title>
+ <conbody>
+  <p>The annotations and text translation window is placed on the right side of the default BTS user
+   interface in each view.</p>
+  <p>For each entry either an "Annotation" <image href="Images/icons/full/icon16/annotation.png"
+    id="image_p3k_pz3_sr"/> or a "Comment" <image href="Images/icons/full/icon16/comment.png"
+    id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are placed in the toolbar of the
+   Thesaurus Navigator (at the left side of the workspace). Each annotation or comment offers
+   additionally the following functions:</p>
+  <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
+   <b>Add Current Text Selection as Reference</b>: The selected part is referenced to the current
+   annotation or comment. This feature provides an opportunity, for example, to reference multiple
+   parts to a single annotation.</p>
+  <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
+   <b>Remove Current Reference</b>: The selected part is removed from the current annotation or
+   comment. This removes only the link. It does not delete the annotation.</p>
+  <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
+   <b>Edit Comment or Edit Annotation</b>: This opens a window to edit the content of annotations
+   and comments.</p>
+  <p>Clicking on "Edit Annotation" will display the passport editor. Each annotation will have its
+   own ID and its relation to the selected thesaurus entry will be shown in the "Relations" tab. </p>
+  <p>By clicking the "Edit Comment" button, a "Comment Editor" a window will appear. You can enter
+   or edit a title for your comment in the upper input field and the content of your comment in the
+   lower input field. Below there is also a section where you can see or edit a relation of the
+   comment to the thesaurus entry, using the ID.</p>
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
+   <b>Delete</b>: Will delete the currently selected element.</p>
+  <p>To learn more about annotations see <xref href="howto_annotations.dita"/>.</p>
+ </conbody>
+</concept>

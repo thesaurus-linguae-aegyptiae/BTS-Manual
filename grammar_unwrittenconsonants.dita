@@ -5,7 +5,7 @@
   <body>
     <p><b>Conventions</b></p>
     <p>The transliteration in BTS represents the written forms as they appear in the text.
-      Nevertheless, we recomand to determined unwritten grammatical or phonetic elements and
+      Nevertheless, we recommend to determine unwritten grammatical or phonetic elements and
       (correctly) unwritten - but not weak - consonants by the use of the round brackets: “(...)”.
       This helps the reader to understand your translation and makes it easier for you to lemmatize
       your text, as the lemmatizer finds the respective entries automatically.</p>
@@ -66,11 +66,11 @@
             </row>
             <row>
               <entry>Passive (<i>tw/tj</i>)</entry>
-              <entry>x</entry>
+              <entry>x (by using "(...)", e.g. <i>sḏm.t(w)=f</i>)</entry>
             </row>
             <row>
               <entry>Contigent</entry>
-              <entry>x</entry>
+              <entry>x (by using "〈...〉", e.g. <i>sḏm〈.jn〉=f</i>)</entry>
             </row>
             <row>
               <entry>Passive (<i>sḏm.w=f</i>)</entry>
@@ -111,6 +111,6 @@
     <p/>
     <p><b>Numerus</b></p>
     <p>Ideographic writings of numerus are not to be represented phonetically but designated through
-      “.pl” and “.du”.</p>
+      “.pl” and “.du”. For details see chapter <xref href="grammar_structure_convention.dita"/>.</p>
   </body>
 </topic>

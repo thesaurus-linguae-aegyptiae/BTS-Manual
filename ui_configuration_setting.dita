@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fvw_qld_cs">
+ <title>Edit configuration</title>
+ <conbody>
+  <p>This function is available to users with administrator privileges only.</p>
+  <p>This feature enables the administrator to edit the configuration of the particular projects
+      concerning object types, revision status, visibilty, categories in the passport editor
+      etc.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ung_x1g_cv">
+ <title>Synonyms</title>
+ <conbody>
+  <p>This tab allows you to enter synonyms to the "Name" of the database object.</p>
+  <p>
+   <ul id="ul_zg2_kdm_hx">
+    <li><b>Synonym:</b> Enter a synonym of the "Name" of the database object in the Main tab.</li>
+   </ul>
+   <ul id="ul_atq_ndm_hx">
+    <li><b>Language:</b> Select the language of the synonym name from the drop-down menu. </li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_od4_rmy_bv">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
+     <b>Add Entry Group:</b> Add another synonym group to add another synonym in the same or further
+     language. You can add as many synonyms as necessary. </li>
+   </ul>
+   <ul id="ul_xdm_yxl_hx">
+    <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
+     <b>Remove Entry Group:</b> Removes the synonym group.</li>
+   </ul>
+  </p>
+  <p/>
+  <p>Example: Add to your entry "Sarg" the synonym "coffin" with the language "en" (English).</p>
+ </conbody>
+</concept>

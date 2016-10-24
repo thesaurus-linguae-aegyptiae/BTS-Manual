@@ -18,10 +18,10 @@
       <ul id="ul_lwp_n4v_bt">
         <li>Cannot edit transliteration, lemma or passport data of the corpus items.</li>
         <li>Without a Reader status in a given corpus, database object or text: can only view the
-          corpus items, but is not allowed to edit them in any way, which also includes hieroglyph
-          input.</li>
-        <li>Database objects with a visibility status <i>Reader, Group or Project</i> will not be
-          visible when no status is assigned to the Transcriber.</li>
+          corpus items, but is not allowed to edit them in any way, which also includes input of
+          hieroglyphs.</li>
+        <li>Database objects with a visibility status <i>Reader</i>, <i>Group</i> or <i>Project</i>
+          will not be visible when no status is assigned to the Transcriber.</li>
       </ul>
     </p>
   </body>

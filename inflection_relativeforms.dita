@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jvd_r4j_sx">
+  <title>Relative forms</title>
+  <body>
+    <p>Owner 40000</p>
+    <p>The relative <i>sḏm=f</i> and <i>sḏm.n=f</i> are distinguished in their normal, geminated and
+      prefixed forms. The pronominal subject is encoded as last digit of the code. Combine the
+      following codes with the codes in the table:</p>
+    <p>40000 -> "rel.f.norm" </p>
+    <p>41000 -> "rel.f.gem" </p>
+    <p>42000 -> "rel.f.präf"</p>
+    <p>Last digit: 0 = nominal subject; 1-9 = pronominal subject (see: <xref
+        href="inflection_pronouns.dita"/>)</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_gfd_1pj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>40010</entry>
+              <entry>rel.f.n-.sgm</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>40020</entry>
+              <entry>rel.f.n-.sgf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>40030</entry>
+              <entry>rel.f n-.plm</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>40040</entry>
+              <entry>rel.f.n-.plf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>40050</entry>
+              <entry>rel.f.n-.dum</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>40060</entry>
+              <entry>rel.f.n-.duf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>40070</entry>
+              <entry>rel.f.sgm</entry>
+              <entry><i>Ø/w</i></entry>
+            </row>
+            <row>
+              <entry>40080</entry>
+              <entry>rel.f.sgf</entry>
+              <entry><i>t</i></entry>
+            </row>
+            <row>
+              <entry>40090</entry>
+              <entry>rel.f.plm</entry>
+              <entry><i>w</i></entry>
+            </row>
+            <row>
+              <entry>40100</entry>
+              <entry>rel.f.plf</entry>
+              <entry><i>wt</i></entry>
+            </row>
+            <row>
+              <entry>40110</entry>
+              <entry>rel.f.dum</entry>
+              <entry><i>wj</i></entry>
+            </row>
+            <row>
+              <entry>40120</entry>
+              <entry>rel.f.duf</entry>
+              <entry><i>tj</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Negation with <i>tm</i>: relative form + neg. compl. (see <xref
+        href="inflection_negcomplement.dita"/>).</p>
+    <p>NOTE: Recurring verbal forms like <i>sḏm pw jri̯.n=f</i> are not encoded as one form, but
+      separately: Inf. <i>pw</i> Rel.f.</p>
+  </body>
+</topic>

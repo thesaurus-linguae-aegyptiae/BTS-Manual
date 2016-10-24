@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ib1_s5j_sx">
+  <title>Adjectives</title>
+  <body>
+    <p>Owner 71000</p>
+    <p>The endings of adjectives according to agreement in gender and number are encoded when the
+      adjective is used attributive. To enable the search for attributive adjectives, also forms are
+      encoded that are unaltered to the BWL (i.e. sg. m.). Adjectives in status constructus (e.g.
+        <i>nj-sw</i>) are transliterated with a hyphen and encoded with the endings of the pronouns
+      (see: <xref href="inflection_pronouns.dita"/>). Code 3 (unaltered to BWL) ist only used for
+      independent pronouns, because they always appear uninflected (e.g.
+      <i>nfr-sw-</i>construction).</p>
+    <p>Last digit: suffixes and dependend pronouns (see: <xref href="inflection_pronouns.dita"
+      />).</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_x1t_55j_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>71010</entry>
+              <entry>adj.sgm</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71020</entry>
+              <entry>adj.sgf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71030</entry>
+              <entry>adj.plm</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71040</entry>
+              <entry>adj.plf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71050</entry>
+              <entry>adj.dum</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71060</entry>
+              <entry>adj.duf</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71100</entry>
+              <entry>adj.st.cs.</entry>
+              <entry>last two digits: dependend pronouns</entry>
+            </row>
+            <row>
+              <entry>71200</entry>
+              <entry>adj.sgm.st.pr.</entry>
+              <entry><i>jm,j=sn</i></entry>
+            </row>
+            <row>
+              <entry>71210</entry>
+              <entry>adj.sgf.st.pr.</entry>
+              <entry><i>jm,j.t=sn</i></entry>
+            </row>
+            <row>
+              <entry>71220</entry>
+              <entry>adj.plm.st.pr.</entry>
+              <entry><i>jm,j.w=sn</i></entry>
+            </row>
+            <row>
+              <entry>71230</entry>
+              <entry>adj.plf.st.pr.</entry>
+              <entry><i>jm,j.wt=sn</i>
+              </entry>
+            </row>
+            <row>
+              <entry>71240</entry>
+              <entry>adj.dum.st.pr.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71250</entry>
+              <entry>adj.duf.st.pr.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>71260</entry>
+              <entry>adj. in SK m. Präfix <i>n</i><i>ꜣ</i></entry>
+              <entry>last digit: suffix; Late Period: [<i>n</i><i>ꜣ:nfr=f</i>]</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

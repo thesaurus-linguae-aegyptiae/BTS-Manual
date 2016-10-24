@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_krj_pyk_mr">
+ <title>Common features </title>
+<body>
+    <p>BTS workspace consists of dynamic windows, which can be maximized, minimized or dragged out
+      of BTS interface. Each window can contain one or more tabs. Tabs can be moved from one window
+      to another or opened in a separate window. </p>
+    <p>Sub-tabs cannot be moved independently of a tab they are assigned to, e.g. the "Passpost Data
+      Editor" tab can be moved to the "Annotations" / "Translation" and grouped together with them.
+      Alternatively it can be dragged out of BTS user interface as a separate window. The sub-tabs
+      of "Passport Data Editor" (Main, Relation, IDs etc.) cannot be moved separately. The
+      arrangement will be saved for the current view mode (Corpus, Thesaurus, Lemma and Abstract
+      Text). Restarting the program will undo the changes and restore the default windows
+      arrangement. See also <xref href="howto_ui.dita"/>.</p>
+    <p>NOTE: When you remove the last window from the program window, all windows will disappear.
+      You need to restart BTS to restore the display.</p>
+    <p/>
+    <p>The icons common for all windows are the following: </p>
+    <p><image href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> minimizes
+      window (places the window icon on the icon bar on the left or right side of the
+      workspace).</p>
+    <p><image href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/> maximizes
+      window. All other windows are automatically minimized.</p>
+    <p><image href="Images/icons/extra%20icons/restore.png" id="image_ikr_ycb_qr"/> restores window
+      to the default (non-maximized and non-minimized) view.</p>
+    <p><image href="Images/icons/extra%20icons/close.png" id="image_bzg_pct_2x"/> closes the window.
+      If you close a window, you can restore it via the dropdown menu "Window" in the toolbar or via
+      restarting BTS.</p>
+    <p/>
+  </body>
+</topic>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_axv_vfm_mr">
+ <title>Corpus Navigator </title>
+ <conbody>
+  <p>The Corpus Navigator tab is located on the left side of the Text Corpus view. Here you can see
+      the position of the text in the corpus tree, displayed hierarchically. You can navigate
+      through the corpora by clicking the database objects or using the "up" and "down" arrow keys
+      on your keyboard, and using "right" and "left" arrows in order to expand or close a node
+      (entry in a tree). Only one text can be opened at a time in the Text Editor.</p>
+  <p><image
+    href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Corpus_Navigator.png"
+    id="image_exj_k4p_5t"/></p>
+  <p>Apart from its name, the physical location of the database object is displayed in square
+   brackets. The number of elements it contains is displayed in round brackets. </p>
+  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/> (brown) is displayed
+      for any active corpus in the tree, for which you have an updater or reader status. </p>
+  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/> (black) is
+      displayed for any other corpus the user has the user right to see.</p>
+  <p>For activating and deactivating corpora use the Corpus Settings, see <xref
+        href="howto_prefs.dita"/>.</p>
+  <p>Corpus Navigator has two sub-tabs: <image href="Images/icons/full/icon16/corpora.png"
+        id="image_o21_2y3_zs"/> "Text Corpora" and <image href="Images/icons/full/icon16/bin.png"
+        id="image_vqw_pjs_4r"/> "Bin". A third tab with the search results will appear, when you
+      open the search dialog. By default the tab "Text Corpora" is activated. In the "Bin" tab you
+      can find your deleted Texts and Text Corpus Objects. Please note that generating the list of
+      the database objects in the "Bin" tab may take up to one minute the first time you click it
+      after installing BTS. Thereafter the preview works faster. </p>
+  <p>At the top of the Corpus Navigator section there are several buttons. Two of them, <image
+        href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
+        href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/>, are also available
+      in other windows, see <xref href="ui_commonfeatures.dita"/>.</p>
+  <p>Corpus Navigator-specific buttons are the following: </p>
+  <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r"/>
+   <u>Create New Text Corpus</u></p>
+  <p>Click to create a new corpus. Only available for the administrator.</p>
+  <p><image href="Images/icons/full/icon16/tcobject-add.png" id="image_szx_zjs_4r"/>
+   <u>Add Text Corpus Object </u></p>
+  <p>Adds a "child" (a lower level) element to the currently selected database object. It receives a
+      default title "BTSTC Object". Select the newly created element by clicking it and rename it in
+      the Passport Editor. </p>
+  <p>NOTE: The physical location where the child element is saved is the active corpus by default.
+      But if you have chosen a stable main working corpus in the <xref
+        href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>, the new element
+      is physically saved in this corpus.</p>
+  <p><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r"/>
+   <u>Add Text </u></p>
+  <p>Adds a "child" text to the selected node. It is called "BTS Text" until you rename it in the
+      Passport Editor. </p>
+  <p>NOTE: The physical location where the child element is saved is not the active corpus but your
+   main working corpus you have chosen in the <xref href="ui_preferences2.dita#concept_trz_tw2_yr"
+    >Preference Settings</xref>.</p>
+  <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
+   <u>Add Annotation </u></p>
+  <p>Adds an annotation to the selected node. </p>
+  <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/>
+   <u>Add Comment </u></p>
+  <p>Adds a comment to the selected node.</p>
+  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+  <p><?oxy_custom_end?><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r"/>
+   <u>Delete</u></p>
+  <p>Deletes the selected database object from the Corpus Navigator tree and moves it into the "Bin"
+      tab. In the Bin you can either restore it or permanently delete it by right-click. Note that
+      you are only allowed to delete your own database objects, texts etc.</p>
+  <p>NOTE: This only deletes the selected database object. All child elements (e.g. Subtexts,
+   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Oprhans" and are still
+   accesible via the Search Dialog. You have to delete all child elemets before deleting the
+   respective database object.</p>
+  <p><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>
+   <u>Open Simple Search Dialog</u></p>
+  <p>Opens a search dialog in order to search for specific database objects, phrases. etc.</p>
+  <p><b>Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png"
+        id="image_umy_spv_ps"/>"</p>
+  <p>Clicking <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_zj3_d2g_ys"/>
+   will display the drop-down menu containing options described above plus the additional ones: </p>
+  <p>
+   <ul id="ul_xf1_h1y_bv">
+    <li>Delete Permanently: Use this option to delete an item completely (it will not be moved to
+     the bin). Clicking on "Delete Permanently" will open a confirmation dialogue .</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_r1v_31y_bv">
+    <li>Restore: Click to restore an item from the bin.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_s5v_j1y_bv">
+    <li>Move Object among Projects: Allows you to assign the physical location of the given database
+     object to another corpus. Only Editors and Administrators are allowed to move database
+     objects.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_cxf_l1y_bv">
+    <li>Open Conflict Dialog: If two users work simultaneously on a database object, it is possible,
+          that they produce different versions at the same time. The conflict dialog solves the
+          problem, which version is the preferable one (see <xref href="ui_edit.dita"/>).</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_ags_p1y_bv">
+    <li><image href="Images/icons/full/icon16/history.png" id="image_kn5_gjc_sr"/> Open Revision
+          History: See <xref href="ui_edit.dita"/>.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_qzx_q1y_bv">
+    <li><image href="Images/icons/full/icon16/userrole.png" id="image_yjj_x3c_sr"/> Edit
+          Updaters/Readers: See <xref href="ui_edit.dita"/>.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_al5_s1y_bv">
+    <li>Filter: Filters the corpora according to the listed criteria. <p>
+      <ul id="ul_ybc_myp_gx">
+       <li>Filter by Project / Creator / Updaters / Review Status / Visibility / Types opens a
+        dialogue to select your filter criteria by clicking the relevant check boxes. To undo the
+        filter, unselect the checkboxes. </li>
+       <li>Only active text corpora: Displays only active corpara, marked by <image
+         href="Images/icons/full/icon16/corpus.png" id="image_tff_typ_gx"/>.</li>
+       <li>Filter only invalid texts: Displays all texts that do not match the formal system
+        grammar.</li>
+       <li>Filter only incomplete texts: Displays all texts, which either lemmatization, encoding of
+                inflection, hieroglyphs or translation have not been entered at all or have not been
+                entered completely.</li>
+      </ul>
+     </p></li>
+   </ul>
+  </p>
+  <p><b>Icons in the Corpus Navigator tree</b></p>
+  <p>There are several icons that represent different types of database objects in the Corpus
+      Navigator tree. These are combined with smaller ones to definde the review state or to provide
+      a warning.</p>
+  <p>
+   <ul id="ul_c1c_qgp_3x">
+    <li><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x"/>
+     <b>Caption:</b> The Caption is used as a folder to list a set of physical objects under one
+     heading due to pragmatic reasons (e.g. the stelae from Kawa or the medical papyri).</li>
+   </ul>
+   <ul id="ul_gtb_xwp_3x">
+    <li><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x"/>
+          <b>Group:</b> A Group defines a number of physical objects belonging together on
+          geographic reasons (e.g. the graves of a specific cemetery like the Eastern Cemetery at
+          Giza or an papyrus archive like the Abusir Papyri).</li>
+   </ul>
+   <ul id="ul_gqd_xwp_3x">
+    <li><image href="Images/Icons_updated/full/icon16/arrangement.png" id="image_isy_c3p_3x"/>
+          <b>Arrangement:</b> An arrangement defines a closed association of finds (e.g. the objects
+          from the tomb of Tutankhamun or the objects from a founding deposit).</li>
+   </ul>
+   <ul id="ul_q3f_xwp_3x">
+    <li><image href="Images/Icons_updated/full/icon16/scene.png" id="image_hjy_t5p_3x"/>
+          <b>Scene:</b> This is an obsolete entry that was used for data imported from the previous
+          project. Do not use it.</li>
+   </ul>
+   <ul id="ul_egh_xwp_3x">
+    <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
+     <b>TCObject:</b> The Text Corpus Object is the physical ancient Egyptian object that is covered
+     with your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose IV.).</li>
+   </ul>
+   <ul id="ul_obj_xwp_3x">
+    <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png" id="image_tpj_b3p_3x"/>
+          <b>ObjectPart:</b> ObjectPart is hierarchically subordinated to TCObject. Use it, when the
+          carrier of your text consits of more than one physical object (e.g. a statue and its base
+          or several parts of a buidling).</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_hp1_jgp_3x">
+    <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
+          <b>Text:</b> A Text is defined as a coherent entity. Your physical object might contain
+          several texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The Taking of
+          Joppe" etc. Each of these tales and poems recieves its own database object "Text"
+          subordinated to the TCObject "Papyrus Harris 500.</li>
+   </ul>
+   <ul id="ul_pwm_rwp_3x">
+    <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
+     <b>Subtext:</b> Subtexts are parts of the same text that are related to each other, but without
+     a defined order of reading (e.g. diffrent persons and their respective inscriptins on a
+     relief).</li>
+   </ul>
+  </p>
+  <p>In combinatin with the icons above the review state is displayed as follows:</p>
+  <p>
+   <ul id="ul_vf3_3cx_3x">
+    <li><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x"/> new</li>
+   </ul>
+   <ul id="ul_pql_3cx_3x">
+    <li><image href="Images/Icons_updated/full/ovr16/awaiting-review.png" id="image_bjh_qhq_3x"/>
+     awaiting review</li>
+   </ul>
+   <ul id="ul_psn_3cx_3x">
+    <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"/>
+     awaiting update</li>
+   </ul>
+   <ul id="ul_alp_3cx_3x">
+    <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/> reviewd /
+     published</li>
+   </ul>
+  </p>
+  <p>These icons mark warnings etc. in combinatin with the icons above:</p>
+  <p>
+   <ul id="ul_anl_4cx_3x">
+    <li><image href="Images/icons/full/ovr16/conflicts-small.png" id="image_vzg_qcx_3x"/>: This
+     marks a conflict of versions.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_qmq_4cx_3x">
+    <li><image href="Images/icons/full/ovr16/lock-small.png" id="image_ayb_rcx_3x"/>: This marks
+     that another user is currently working on this database object.</li>
+   </ul>
+  </p>
+  <p>
+   <ul id="ul_vpv_4cx_3x">
+    <li><image href="Images/icons/full/ovr16/pen_small.png" id="image_v5d_scx_3x"/>The pen marks
+     that this is the database object you are currenly working on.</li>
+   </ul>
+  </p>
+  <p/>
+ </conbody>
+</concept>

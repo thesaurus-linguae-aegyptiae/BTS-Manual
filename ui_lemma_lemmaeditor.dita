@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_atc_z4d_4r">
+ <title>Lemma Editor</title>
+ <conbody>
+  <p>The Lemma Editor is located in the upper centre of the workspace when Lemma view is active. It
+      contains three sections.</p>
+  <p><b>Transliteration</b></p>
+  <p>The lemma transliteration section is identical to <xref
+                href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>. Transliterate
+            the lemma in this field within the "§" signs ("§" marks the beginning and the end of the
+            lemma). If the transliteration is not enclosed with "§", it will not be valid. </p>
+  <p><b>Sign-Text</b></p>
+  <p>In the Sign-Text section every lemma appears as a single element, no matter if the element is
+      part of a compound word or not. This means that you can sub-lemmatize every part of a compound
+      in addition to the compound itself (which would be lemmatized as one lemma only).</p>
+  <p><b>Translation</b></p>
+  <p>Enter the translation for the complete lemma into this field. Select the language of your
+            choice by left-clicking the drop-down menu marked by <image
+                href="Images/icons/full/icon16/locale.png" id="image_jwn_h5c_qr"/>. </p>
+ </conbody>
+</concept>

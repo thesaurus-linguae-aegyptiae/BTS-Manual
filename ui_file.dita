@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xpn_pqd_4r">
+ <title>File</title>
+ <conbody>
+  <p>Clicking on "File" opens a drop-down menu with the entries "New > New Project", "Exit BTS" and
+   "Restart BTS".</p>
+  <p><b>New > New Project</b></p>
+  <p>This menu item is only available to users with administrator privileges.</p>
+  <p>Selecting "New Project" will open the "Edit project name" window. To create a new project,
+   enter "Project name", "Project prefix" and "Description". The project prefix is the internal name
+   of the project, under which it will be saved in the database. Description is optional. </p>
+  <p><b>Exit BTS</b></p>
+  <p>Click to exit the BTS program. If you have unsaved data, you will be asked to save it. </p>
+  <p><b>Restart BTS</b></p>
+  <p>Click to restart the program. </p>
+ </conbody>
+</concept>

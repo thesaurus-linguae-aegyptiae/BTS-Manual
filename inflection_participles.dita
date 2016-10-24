@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_udf_xnj_sx">
+  <title>Participle</title>
+  <body>
+    <p>Owner 30000</p>
+    <p>Among the participles are only distinguished by genus and by their ungeminated, geminated and
+      prefixed form according to the written forms. Tense and aspect are not encoded. If an ending
+        <i>.y</i> is written, passive forms are encoded with pronominal subject (suffix). For others
+      see <xref href="inflection_relativeforms.dita"/>. Combine the following codes with the codes
+      in the table:</p>
+    <p>30000 -> "partz.norm (=not gem.)"</p>
+    <p>31000 -> "partz.gem"</p>
+    <p>32000 -> "partz.pref"</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_trg_f4j_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="3*"/>
+          <colspec colname="c3" colnum="3" colwidth="3*"/>
+          <tbody>
+            <row>
+              <entry>30010</entry>
+              <entry>partz.akt.sgm</entry>
+              <entry>Ø<i>/w/y</i></entry>
+            </row>
+            <row>
+              <entry>30020</entry>
+              <entry>partz.akt.sgf</entry>
+              <entry><i>t/jt</i></entry>
+            </row>
+            <row>
+              <entry>30030</entry>
+              <entry>partz.akt.plm</entry>
+              <entry>Ø<i>/w/yw</i></entry>
+            </row>
+            <row>
+              <entry>30040</entry>
+              <entry>partz.akt.plf</entry>
+              <entry><i>wt/jwt</i></entry>
+            </row>
+            <row>
+              <entry>30050</entry>
+              <entry>partz.akt.dum</entry>
+              <entry><i>wj/y</i></entry>
+            </row>
+            <row>
+              <entry>30060</entry>
+              <entry>partz.akt.duf</entry>
+              <entry><i>tj</i></entry>
+            </row>
+            <row>
+              <entry>30070</entry>
+              <entry>partz.pass.sgm</entry>
+              <entry><i>w/j</i></entry>
+            </row>
+            <row>
+              <entry>30080</entry>
+              <entry>partz.pass.sgf</entry>
+              <entry><i>wt/jt</i></entry>
+            </row>
+            <row>
+              <entry>30090</entry>
+              <entry>partz.pass.plm</entry>
+              <entry><i>ww/jw</i></entry>
+            </row>
+            <row>
+              <entry>30100</entry>
+              <entry>partz.pass.plf</entry>
+              <entry><i>jwt</i></entry>
+            </row>
+            <row>
+              <entry>30110</entry>
+              <entry>partz.pass.dum</entry>
+              <entry><i>wwj</i></entry>
+            </row>
+            <row>
+              <entry>30120</entry>
+              <entry>partz.pass.duf</entry>
+              <entry><i>wtj</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Negation with <i>tm</i>: part. + neg. compl. (see <xref href="inflection_negcomplement.dita"
+      />).</p>
+  </body>
+</topic>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_wn2_hzy_qt">
-  <title>5. Entering Hieroglyphs</title>
+  <title>Entering Hieroglyphs</title>
   <body>
     <p>To enter or edit the hieroglyphs of your text, switch to the Sign Text Editor and then open
       the Hieroglyph Type Writer (HTW). HTW is based on JSesh application created by Serge
@@ -16,25 +16,26 @@
           field - this is where the hieroglyph input takes place. There are two different ways to
           enter the hieroglyphs. The first one is to enter the numbers of the Gardiner sign list
           (e.g. F18). The second is to enter the transliteration according to the Manuel de Codage
-          rules. You are also allowed to combine both ways.</li>
+          rules. You are also allowed to combine both ways. Manuel de Codage will automatically be
+          rendered into Gardiner codes.</li>
         <li>When entering the first letters of a transliteration of a lemma, the programme will
           present you a list of hieroglyphs to choose from. Every hieroglyph has a number in red
           appearing next to it. To select a sign which does not appear on the first position on the
-          list, press CTRL button on your keyboard and a number corresponding to the red number of
+          list, press CTRL button on your keyboard and the number corresponding to the red number of
           the chosen sign. E.g. in the following screenshot there are four options presented for the
           input of the letter 'n'. If you would like to select the N35B-sign you would have to press
               CTRL+3.<p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Zeichenauswahl1.png"
-              id="image_pnd_pfy_st"/></p>Afterwards, a Gardiner number will appear in the "type
-          here" field and you will be able to continue hieroglyph input normally. You can also type
-          "N35B" directly into the "type here" field. <p><image
+              id="image_pnd_pfy_st"/></p>Afterwards, the corresponding Gardiner code will appear in
+          the "type here" field and you will be able to continue hieroglyph input normally. You can
+          also type "N35B" directly into the "type here" field. <p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Zeichenauswahl2.png"
-              id="image_vp5_qfy_st"/></p>Separate the hieroglyphs of a word either only by "-"
-          between the hieroglyphs (then all signs will be written one behind the other) or group
+              id="image_vp5_qfy_st"/></p>Separate the hieroglyphs of a word either only by a hyphen
+          "-" between the hieroglyphs (then all signs will be written one behind the other) or group
           them according to the "Manuel de Codage" rules with "-", "*" and ":". For more details see
-          the section <xref href="howto_grouping.dita#concept_u45_b1d_cs">Grouping
-            Hieroglyphs</xref>.<p>NOTE: Do not use the space bar to separate the signs, because BTS
-            will automatically replace space by a underscore (e.g. "M17 G53" will be rendered into
+          the section <xref href="howto_grouping.dita"/>. <p>NOTE: Grouping with "&amp;" is not
+            allowed.</p><p>NOTE: Do not use the space bar to separate the signs, because BTS will
+            automatically replace space by a underscore (e.g. "M17 G53" will be rendered into
             "M17_-G43").</p><p>NOTE: If you enter the transliteration according to the Manuel de
             Codage rules, BTS will automatically render your transliteration into Gardiner codes
             (e.g. "i-w" will be rendered into "M17-G43", "M17-w" will also be rendered into
@@ -48,7 +49,7 @@
           the document respectively.|&lt; and >| will bring you to the word at the beginning and end
           of the line respectively (the line as it appears in the Sign Text Editor, not the line of
           the given text), &lt; and > will bring you to the previous and next word respectively.
-          Furthermore, a Tool-tip will be displayed on mouse-over for each icon.</li>
+          Furthermore, a zool-tip will be displayed on mouse-over for each icon.</li>
         <li>After the input and confirmation of the signs, upon returning to a transcribed word,
           Gardiner numbers of the signs will be shown in the "type here" field, even if the signs
           were initially entered as "Manuel de Codage" transliteration. In order to see the number
@@ -57,7 +58,7 @@
               id="image_tdt_vfy_st"/></p></li>
         <li>If you need to correct an already confirmed word, you can return to it by clicking on it
           in the Sign-Text-Editor or by using the previously described navigation icons. Make the
-          alterations in the "Type here" input field and confirn it by pressing ENTER or clicking on
+          alterations in the "Type here" input field and confirm it by pressing ENTER or clicking on
             <image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_s5z_mvp_dx"/>. If
           you need to delete the already entered hieroglyphs, you can simply use BACKSPACE or DELETE
           button on your keyboard and confirm by pressing ENTER. You can also click on the <image
