@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_oms_vvj_sx">
+  <title>Numbers</title>
+  <body>
+    <p>Owner 71000 / 70000</p>
+    <p>Ordinal numbers show gender agreement with the antecedent.</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_i3z_zvj_sx">
+        <title>Ordinal numbers</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>74010</entry>
+              <entry>ord.z.m</entry>
+            </row>
+            <row>
+              <entry>74020</entry>
+              <entry>ord.z.f</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_n4q_1wj_sx">
+        <title>Cardinal numbers</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>74030</entry>
+              <entry>kard.z.m</entry>
+              <entry>only 1 and 2, all other cardinal numbers are nouns with respective
+                inflection</entry>
+            </row>
+            <row>
+              <entry>74040</entry>
+              <entry>kard.z.f</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+    <p/>
+  </body>
+</topic>

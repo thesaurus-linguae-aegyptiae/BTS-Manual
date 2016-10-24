@@ -157,9 +157,30 @@
    <topicref href="grammar_destructions.dita"/>
   </topicref>
   <topicref href="grammar_inflection.dita">
-   <topicref href="inflection_verbs.dita"/>
+   <topicref href="inflection_suffixconjugation.dita"/>
+   <topicref href="inflection_pseudoparticiple.dita"/>
+   <topicref href="inflection_participles.dita"/>
+   <topicref href="inflection_relativeforms.dita"/>
+   <topicref href="inflection_imperative.dita"/>
+   <topicref href="inflection_nomverbforms.dita"/>
+   <topicref href="inflection_infinitive.dita"/>
+   <topicref href="inflection_negcomplement.dita"/>
+   <topicref href="inflection_nouns.dita"/>
+   <topicref href="inflection_adjectives.dita"/>
+   <topicref href="inflection_adverbs.dita"/>
+   <topicref href="inflection_numbers.dita"/>
+   <topicref href="inflection_possesives.dita"/>
+   <topicref href="inflection_relatives.dita"/>
+   <topicref href="inflection_admirative.dita"/>
+   <topicref href="inflection_verbaladjective.dita"/>
+   <topicref href="inflection_prepositions.dita"/>
+   <topicref href="inflection_particles.dita"/>
+   <topicref href="inflection_auxiliaries.dita"/>
+   <topicref href="inflection_pronouns.dita"/>
+   <topicref href="inflection_other.dita"/>
   </topicref>
  </topicref>
+ <topicref href="guidelines_hieroglyphs.dita"/>
  <topicref href="troubleshooting.dita"/>
  <topicref href="intro_ui_glossary.dita"/>
 </map>

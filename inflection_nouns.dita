@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_s3p_b5j_sx">
+  <title>Nouns</title>
+  <body>
+    <p>Owner 70000</p>
+    <p>The inflected forms of nouns are encoded as well. Plural and dual forms are transliterated in
+      their written forms and assigned to the respective inflection code. If they appear in status
+      pronominalis, the suffix is encoded as last digit of the code. Status constructus (i.e. direct
+      genitive) is encoded at the regens; the rectum is assigned code 3, i.e. unaltered to BWL.</p>
+    <p>Last digit: suffixes (see: <xref href="inflection_pronouns.dita"/>).</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_hps_h5j_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>70100</entry>
+              <entry>subst.pl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>70300</entry>
+              <entry>subst.du.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>70050</entry>
+              <entry>subst.st.pr."</entry>
+              <entry><i>pr=f </i> = 70054</entry>
+            </row>
+            <row>
+              <entry>70150</entry>
+              <entry>subst.pl.st.pr."</entry>
+              <entry><i>pr.w=k </i> = 70152</entry>
+            </row>
+            <row>
+              <entry>70350</entry>
+              <entry>subst.du.st.pr."</entry>
+              <entry><i>ꜥ.wj=f</i>  = 70354</entry>
+            </row>
+            <row>
+              <entry>70060</entry>
+              <entry>subst.st.cs.</entry>
+              <entry><i>ḥm,t w</i><i>ꜥb</i> (direct genitive)</entry>
+            </row>
+            <row>
+              <entry>70160</entry>
+              <entry>subst.pl.st.cs.</entry>
+              <entry><i>tꜣš.w km,t</i></entry>
+            </row>
+            <row>
+              <entry>70360</entry>
+              <entry>subst.du.st.cs.</entry>
+              <entry><i>ꜥ.wj nṯr</i></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+  </body>
+</topic>

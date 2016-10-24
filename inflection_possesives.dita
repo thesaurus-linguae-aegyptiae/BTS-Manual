@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_sbz_twj_sx">
+  <title>Possessives</title>
+  <body>
+    <p>Owner 81000</p>
+    <p>Possessives are encoded with suffix pronouns</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_p5v_c3k_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>80000</entry>
+              <entry>possessivart</entry>
+              <entry>suffix unknown / lost</entry>
+            </row>
+            <row>
+              <entry>80001-9</entry>
+              <entry>possessivart</entry>
+              <entry>e.g.: <i>pꜣ j =k</i>: 80002</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

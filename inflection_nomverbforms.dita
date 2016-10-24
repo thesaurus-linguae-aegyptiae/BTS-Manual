@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jnr_zqj_sx">
+  <title>Nominal verbal form</title>
+  <body>
+    <p>Owner 60600</p>
+    <p>60000 -> "subst/adv.verbf"</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_drd_2rj_sx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>60100</entry>
+              <entry>verbalnomen.kzl</entry>
+            </row>
+            <row>
+              <entry>60200</entry>
+              <entry>verbalnomen.endg <i>w/j</i></entry>
+            </row>
+            <row>
+              <entry>60300</entry>
+              <entry>verbalnomen.endg. <i>t</i></entry>
+            </row>
+            <row>
+              <entry>60400</entry>
+              <entry>verbalnomen.endg. <i>wt/jt</i></entry>
+            </row>
+            <row>
+              <entry>60500</entry>
+              <entry>verbalnomen gem</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </body>
+</topic>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fgt_whj_sx">
+  <title>Pseudo participle</title>
+  <body>
+    <p>Owner 20000</p>
+    <p>The written forms of the pseudo participle are encoded and assigned to one form, i.e. k to
+      kw, t to tj, without ending to w. Prefixed and geminated forms are distinguished. Combine the
+      following codes with the codes in the table. For the use of pseudo participles in complex
+      verbal forms see second table below.</p>
+    <p>20000 -> "psp"</p>
+    <p>21000 -> "psp.pref" </p>
+    <p>22000 -> "psp.gem"</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_gzv_glj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>20010</entry>
+              <entry>psp.sg1</entry>
+              <entry><i>kw </i>/sg1 (Late Eg. <i>t</i>/<i>w</i>)</entry>
+            </row>
+            <row>
+              <entry>20020</entry>
+              <entry>psp.sg2m</entry>
+              <entry><i>tj </i>/sg2m</entry>
+            </row>
+            <row>
+              <entry>20030</entry>
+              <entry>psp.sg2f</entry>
+              <entry><i>tj </i>/sg2f</entry>
+            </row>
+            <row>
+              <entry>20040</entry>
+              <entry>psp.sg3m</entry>
+              <entry><i>j/w</i> /sg3m</entry>
+            </row>
+            <row>
+              <entry>20050</entry>
+              <entry>psp.sg3f</entry>
+              <entry><i>tj </i>/sg3f</entry>
+            </row>
+            <row>
+              <entry>20060</entry>
+              <entry>psp.pl1</entry>
+              <entry><i>wjn </i>/pl1 (Late Eg. <i>tw</i>)</entry>
+            </row>
+            <row>
+              <entry>20070</entry>
+              <entry>psp.pl2</entry>
+              <entry><i>twnj </i>/pl2</entry>
+            </row>
+            <row>
+              <entry>20080</entry>
+              <entry>psp.pl3m</entry>
+              <entry><i>wj </i>/pl3m</entry>
+            </row>
+            <row>
+              <entry>20090</entry>
+              <entry>psp.pl3f</entry>
+              <entry><i>tj /</i>pl3f</entry>
+            </row>
+            <row>
+              <entry>20100</entry>
+              <entry>psp.du2</entry>
+              <entry><i>twny</i> /du2</entry>
+            </row>
+            <row>
+              <entry>20110</entry>
+              <entry>psp.du3m</entry>
+              <entry><i>wy</i> /du3m</entry>
+            </row>
+            <row>
+              <entry>20120</entry>
+              <entry>psp.du3f</entry>
+              <entry><i>ty </i>/du3f</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Late Egyptian: <i>t</i>, Ø for all except 3sg/pl (<i>w</i>, Ø)</p>
+    <p/>
+    <p><b>Pseudo participle in complex verbal forms (in combination with codes above)</b></p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_ckd_bnj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <colspec colname="c3" colnum="3" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry>20001</entry>
+              <entry>psp after aux. <i>jw</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>20003</entry>
+              <entry>psp after aux. <i>j.jri̯</i></entry>
+              <entry>Late Eg.</entry>
+            </row>
+            <row>
+              <entry>20004</entry>
+              <entry>psp after aux. <i>j:jri̯.t</i></entry>
+              <entry>Late Eg.</entry>
+            </row>
+            <row>
+              <entry>20007</entry>
+              <entry>psp after <i>tw=</i>/nom. subject</entry>
+              <entry>Present I</entry>
+            </row>
+            <row>
+              <entry>20008</entry>
+              <entry>psp after aux. <i>wn.jn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>20009</entry>
+              <entry>psp after aux. <i>wn.ḫr</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>23000</entry>
+              <entry>psp after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>24000</entry>
+              <entry>psp after aux. <i>wn</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>25000</entry>
+              <entry>psp after aux. <i>mk</i></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>26000</entry>
+              <entry>psp after aux. <i>bn + tw= (+jwn3)</i></entry>
+              <entry>negation</entry>
+            </row>
+            <row>
+              <entry>27000</entry>
+              <entry>psp after aux. <i>wnn</i></entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p/>
+  </body>
+</topic>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_xf1_fcj_sx">
+  <title>Suffix conjugation</title>
+  <body>
+    <p>The forms of the suffix conjugation can be either unmarked. geminated or a special form. The
+      encoding distinguishes only between written forms, i.e. form that can be distinguished by
+      their external appearance (<i>-.n-</i>, <i>-.w-</i>, <i>-.t-</i>, <i>-.tw-</i>, <i>-.jn-</i>,
+        <i>-.ḫr-</i>, <i>-.kꜣ-</i> and combinations). Syntactical and semantic implications are not
+      taken into account. Suffix pronouns are encoded as last digit of the codes listed below.
+      Nominal subjects and lost subjects are encoded with 0 as last digit. </p>
+    <p>Prefixed forms of the suffix conjugation are encoded with 1 as seond digit in combination
+      with the codes listed below, e.g. 11021 = pref. SK.akt.kzl.1sg. For the encoding of complex
+      verbal forms and negated forms of the suffix conjugation see tables below.</p>
+    <p><b>Suffix conjugation</b> Owner 10000</p>
+    <p>10000 -> suffix conjugation (SK)</p>
+    <p>11000 -> prefixed suffix conjugation</p>
+    <p/>
+    <p>kzl = unmarked ("kennzeichenlos")</p>
+    <p>akt. = active</p>
+    <p>pass. = passive</p>
+    <p>spez. = special forms</p>
+    <p/>
+    <p>last digit: 0 = nominal subject; 1-9 = pronominal subject (see: <xref
+        href="inflection_pronouns.dita"/>)</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_hbb_kcj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="2.94*"/>
+          <colspec colname="c3" colnum="3" colwidth="2.77*"/>
+          <tbody>
+            <row>
+              <entry>10020</entry>
+              <entry>SK.akt.kzl</entry>
+              <entry><i>pri̯, rḏi̯, ḏi̯, sḏm, </i><i>mꜣ </i></entry>
+            </row>
+            <row>
+              <entry>10040</entry>
+              <entry>SK.pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10100</entry>
+              <entry>SK.akt.gem</entry>
+              <entry><i>ḏḏ </i>, <i>jrr </i>, <i>mꜣꜣ</i>, <i>wnn</i></entry>
+            </row>
+            <row>
+              <entry>10120</entry>
+              <entry>SK.pass.gem=redupl</entry>
+              <entry><i>sḏmm</i>.pass.</entry>
+            </row>
+            <row>
+              <entry>10140</entry>
+              <entry>SK.akt.spez</entry>
+              <entry>special forms: <i>jnt=f, m3n=f , jwt=f, pḥr.y </i>- 3gem.</entry>
+            </row>
+            <row>
+              <entry>10160</entry>
+              <entry>SK.pass.spez</entry>
+              <entry>final <i>j</i>, <i>y</i>, also 2 + 3rad, irregular forms.</entry>
+            </row>
+            <row>
+              <entry>10170</entry>
+              <entry>SK.<i>tw</i>-pass.spez</entry>
+              <entry><i>jnt.tw</i></entry>
+            </row>
+            <row>
+              <entry>10180</entry>
+              <entry>SK.<i>w</i>-.akt.kzl</entry>
+              <entry><i>kjw. </i>2inf</entry>
+            </row>
+            <row>
+              <entry>10220</entry>
+              <entry>Sk.<i>w</i>-.akt.gem</entry>
+              <entry><i>sfḫḫ.w</i>/caus 2gem</entry>
+            </row>
+            <row>
+              <entry>10240</entry>
+              <entry>SK.<i>w</i>-.pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10280</entry>
+              <entry>SK.<i>w</i>-.<i>tw</i>-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10320</entry>
+              <entry>SK.<i>tw</i>-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10360</entry>
+              <entry>SK.<i>tw</i>-pass.gem</entry>
+              <entry><i>sḏmm.tw=f</i></entry>
+            </row>
+            <row>
+              <entry>10380</entry>
+              <entry>SK.<i>n</i>-.akt.kzl</entry>
+              <entry><i>msi̯.n</i></entry>
+            </row>
+            <row>
+              <entry>10420</entry>
+              <entry>SK.<i>n</i>-.akt.gem</entry>
+              <entry><i>wnn.n, snbb.n</i></entry>
+            </row>
+            <row>
+              <entry>10440</entry>
+              <entry>SK.<i>n</i>-.<i>tw</i>-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10480</entry>
+              <entry>SK.<i>n</i>-.<i>tw</i>-pass.gem</entry>
+              <entry>Allen <i>gmm.n.tw, tḫnn.n.tw</i></entry>
+            </row>
+            <row>
+              <entry>10500</entry>
+              <entry>SK.<i>jn</i>-.akt.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10540</entry>
+              <entry>SK.<i>jn</i>-.akt.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10560</entry>
+              <entry>SK.<i>jn</i>-.tw-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10600</entry>
+              <entry>SK.<i>ḫr</i>-.akt.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10610</entry>
+              <entry><i>ḫr</i> SK.akt.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10640</entry>
+              <entry>SK.<i>ḫr</i>-.akt.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10650</entry>
+              <entry><i>ḫr</i> SK akt.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10660</entry>
+              <entry>SK.<i>ḫr</i>-.<i>tw</i>-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10670</entry>
+              <entry><i>ḫr</i> SK-<i>tw</i>.pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10700</entry>
+              <entry>SK.<i>ḫr</i>-.<i>tw</i>-pass.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10710</entry>
+              <entry><i>ḫr</i> SK-<i>tw</i>.pass.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10720</entry>
+              <entry>SK.<i>kꜣ</i>-.akt.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10730</entry>
+              <entry><i>kꜣ</i> SK.akt.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10760</entry>
+              <entry>SK.<i>kꜣ</i>-.akt.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10770</entry>
+              <entry><i>kꜣ</i> SK. akt.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10780</entry>
+              <entry>SK.<i>k</i><i>ꜣ</i>-.<i>tw</i>-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10790</entry>
+              <entry><i>kꜣ</i> SK.-<i>tw</i>-pass.kzl</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10820</entry>
+              <entry>SK.<i>kꜣ</i>-.<i>tw</i>-pass.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10830</entry>
+              <entry><i>k3</i> SK.-<i>tw</i>-pass.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10840</entry>
+              <entry>SK.<i>t</i>-.akt.kzl</entry>
+              <entry>after negative word <i>n</i>, prpp. <i>r</i></entry>
+            </row>
+            <row>
+              <entry>10850</entry>
+              <entry>SK.<i>t</i>-.akt.gem</entry>
+              <entry><i>sꜣꜣ.t=f</i></entry>
+            </row>
+            <row>
+              <entry>10860</entry>
+              <entry>SK.<i>t</i>-.pass.kzl</entry>
+              <entry><i>n sḏm.t=f-pass: </i>Schenkel, Grammatik (1994), 177, 180 f.</entry>
+            </row>
+            <row>
+              <entry>10870</entry>
+              <entry>SK.<i>t</i>-.pass.gem</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10900</entry>
+              <entry>SK.akt.kzl.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10910</entry>
+              <entry>SK.pass.kzl.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10920</entry>
+              <entry>SK.akt.gem.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10930</entry>
+              <entry>SK.pass.gem.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10800</entry>
+              <entry>SK.<i>n</i>-akt.kzl.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10810</entry>
+              <entry>SK.<i>n</i>-<i>tw</i>.pass.kzl.unpersönl. </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10940</entry>
+              <entry>SK.unpersönl.<i>w</i>-pass.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10950</entry>
+              <entry>SK.<i>tw</i>-pass.kzl.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10960</entry>
+              <entry>SK.<i>tw</i>-pass.gem.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10190 </entry>
+              <entry>SK.<i>tw</i>- pass.spez.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10970 </entry>
+              <entry>SK.akt.spez.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10980 </entry>
+              <entry>SK.pass.spez.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10990 </entry>
+              <entry>SK.t-akt.kzl.unpersönl.</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10570 </entry>
+              <entry>SK.<i>jn</i>-.<i>tw</i>-pass.kzl.unpersönl.</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Examples:</p>
+    <p><i>sḏm=f</i>: 10024 + <i>=f</i></p>
+    <p><i>j:sḏm=f</i>: 11024 + <i>=f</i></p>
+    <p><i>mrr=sn</i>: 10109 + <i>=sn</i></p>
+    <p><i>sḏm.jn.tw=k</i>: 10562 + <i>=k</i></p>
+    <p/>
+    <p><b>Suffix conjugation in complex verbal forms (in combination with codes above)</b> Owner
+      10000</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_vzr_vfj_sx">
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="2.17*"/>
+          <colspec colname="c3" colnum="3" colwidth="3.11*"/>
+          <tbody>
+            <row>
+              <entry>13000</entry>
+              <entry>SK after aux.<i>jw</i></entry>
+              <entry>SK.kzl,<i>.tw-,.n-,</i>.<i>w</i>-form</entry>
+            </row>
+            <row>
+              <entry>14000</entry>
+              <entry>SK after aux.<i>ꜥḥꜥ.n</i></entry>
+              <entry>SK.kzl.,<i>.n</i>-,.<i>w</i>-form</entry>
+            </row>
+            <row>
+              <entry>15000</entry>
+              <entry>SK after aux.<i>wn</i></entry>
+              <entry>SK.kzl.,etc.</entry>
+            </row>
+            <row>
+              <entry>16000</entry>
+              <entry>SK after aux.<i>wn.jn</i></entry>
+              <entry>SK.kzl.,etc.</entry>
+            </row>
+            <row>
+              <entry>17000</entry>
+              <entry>SK after aux.<i>wn.ḫr</i></entry>
+              <entry>SK.kzl.,etc.</entry>
+            </row>
+            <row>
+              <entry>18000</entry>
+              <entry>SK after aux.<i>wnn</i></entry>
+              <entry>SK.kzl.,etc.</entry>
+            </row>
+            <row>
+              <entry>19000</entry>
+              <entry>SK after aux <i>jri̯</i></entry>
+              <entry>SK.kzl.,etc.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Example: <i>ꜥḥꜥ.n sḏm.n=sn</i>: <i>ꜥḥꜥ.n</i> + 14389 + <i>=sn</i></p>
+    <p/>
+    <p><b>Negated suffix conjugation</b> Owner 100000</p>
+    <p>Negation words are encoded seperately; the negation is encoded at the verbal form notiert:
+      place the digits 1-9 infront of the above mentioned codes.</p>
+    <p>Negated forms with <i>tm</i>: SK <i>tm=f </i>+ neg. complement (see <xref
+        href="inflection_negcomplement.dita"/>).</p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_xh5_ngj_sx">
+        <title>Old /Middle Egyptian </title>
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="2.39*"/>
+          <colspec colname="c3" colnum="3" colwidth="3.44*"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry><i>n+ </i>SK</entry>
+              <entry>Example: <i>n.sḏm=k</i>: 110022</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry><i>nn </i>+ SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry><i>n ... js</i> + SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry><i>jmj + </i>SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry><i>n-zp/jw,t-zp </i>+ SK</entry>
+              <entry><i>n-zp: </i>indicative; <i>jw,t-zp </i>subjunktive</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry><i>jw,tj </i>+ SK</entry>
+              <entry>2gem, 3inf gem.</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry><i>jw,t </i>+ SK</entry>
+              <entry><i>jw,t wnt</i>, e.g. <i> wnt </i>= SK.spez, z.B. 710140</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry><i>nfr/nfr-n</i></entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <table frame="all" rowsep="1" colsep="1" id="table_dhw_dhj_sx">
+        <title>Late Egyptian</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="2.26*"/>
+          <colspec colname="c3" colnum="3" colwidth="3.26*"/>
+          <tbody>
+            <row>
+              <entry>82000</entry>
+              <entry><i>bw </i>+ SK</entry>
+              <entry>Example: <i>bw sḏm=j</i>: 82021</entry>
+            </row>
+            <row>
+              <entry>83000</entry>
+              <entry><i>bw </i>+ <i>dj.t </i>+ SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>84000</entry>
+              <entry><i>bn </i>+ SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>85000</entry>
+              <entry><i>m + jri̯ + </i>SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>86000</entry>
+              <entry><i>m</i> + <i>dj </i>+ SK</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>87000</entry>
+              <entry><i>m</i> + <i>jri̯ </i>+ <i>dj.t </i>+ SK</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>Examples: </p>
+    <p><i>bw</i> + akt. <i>sḏm.t=f</i>: <i>bw</i> + 82844 + <i>=f</i></p>
+    <p><i>bn</i> + pass <i>sḏm=f</i>: <i>bn</i> + 84044 + <i>=f</i></p>
+    <p><i>bw</i> + pass. <i>sḏm=f</i>: <i>bw</i> + 82044 + =<i>f</i></p>
+    <p><i>bw jri̯=f sḏm</i>: <i>bw</i> + 96324 + =<i>f</i> + 61000</p>
+    <p><i>bn jw=tw r ḏi̯.t</i>: <i>bn</i> + 96316 + =<i>tw</i> + <i>r</i> + 61430</p>
+    <p/>
+    <p>If the <b>suffix conjugation is prefixed</b>, use 1 + codes above</p>
+    <p>Examples:</p>
+    <p>182000 = <i>bw </i>+ präf. SK</p>
+    <p>183000 = <i>bw </i>+ <i>dj.t</i> + pref. SK</p>
+  </body>
+</topic>
