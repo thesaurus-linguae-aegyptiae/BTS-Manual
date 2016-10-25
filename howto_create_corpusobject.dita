@@ -112,6 +112,14 @@
           </p></li>
       </ol>
     </p>
+    <p><b>Naming a TCObject / text</b></p>
+    <p>Defining proper a name for each database object, in particular for the TCObject and the text
+      is essential to enable quick locating of a specific text in the database. Select a concise
+      name that is short and significant. If your text is known under different names in
+      publications, you are enabled to enter synonyms in the synonym tab of the passport data (see
+        <xref href="ui_synonyms.dita"/>). There you are advised to enter other names of the text or
+      (physical) object in the same or other languages, e.g. for the "Admonitions": "Mahnworte des
+      Ipuwer", "Klagen des Ipuwer",  "The Dialogue of Ipuwer and the Lord of All" etc.</p>
     <p><b>Defining the visibility</b></p>
     <p>Define in the main tab of the <xref href="howto_passport.dita">passport editor</xref> the
       visibility of your database object. See also <xref href="user_roles.dita">User Roles
