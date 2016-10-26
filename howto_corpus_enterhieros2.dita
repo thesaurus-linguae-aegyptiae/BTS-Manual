@@ -49,7 +49,7 @@
           the document respectively.|&lt; and >| will bring you to the word at the beginning and end
           of the line respectively (the line as it appears in the Sign Text Editor, not the line of
           the given text), &lt; and > will bring you to the previous and next word respectively.
-          Furthermore, a zool-tip will be displayed on mouse-over for each icon.</li>
+          Furthermore, a tool-tip will be displayed on mouse-over for each icon.</li>
         <li>After the input and confirmation of the signs, upon returning to a transcribed word,
           Gardiner numbers of the signs will be shown in the "type here" field, even if the signs
           were initially entered as "Manuel de Codage" transliteration. In order to see the number

@@ -38,7 +38,7 @@
    <ul id="ul_hsx_zyb_lx">
     <li>The <b>Thesaurus</b> compiles a controlled vocabulary, which is used for the metadata of the
      database objects like date, location, provenance, etc. A controlled vocabulary for metadata is
-     neccessary to maintain data consistency and to allow effective and selective search functions.
+     necessary to maintain data consistency and to allow effective and selective search functions.
      All terms of a thesaurus reflect a semantic network of concepts including parent / child
      relationships. Thesaurus entries are offered in the Passport Editor section either of the Text
      Editor in the Text Corpus View or of the Lemma Editor in the Lemma view.</li>
@@ -78,10 +78,10 @@
      transliteration.</li>
    </ul>
    <ul id="ul_i1f_zcc_lx">
-    <li>The <b>BTS troubleshooting</b> chapter offers a workaround for occuring problems.</li>
+    <li>The <b>BTS troubleshooting</b> chapter offers a workaround for occurring problems.</li>
    </ul>
    <ul id="ul_r53_cpd_lx">
-    <li>The <b>Glossery</b> gives on overview of the most important terms for the description of the
+    <li>The <b>Glossary</b> gives on overview of the most important terms for the description of the
      BTS user interface.</li>
    </ul>
   </p>

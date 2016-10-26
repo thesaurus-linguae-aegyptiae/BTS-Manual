@@ -16,19 +16,19 @@
       your system);</p>
     <p>2) a dark red rectangle on the right margin next to the scroll bar of the Transliteration tab
       - this can serve as a "book mark" for errors which are not visible in text part actually
-      displayed in your window; click on the rectangle to jump to the relavant text passage;</p>
+      displayed in your window; click on the rectangle to jump to the relevant text passage;</p>
     <p>3) a red wavy underscore under the relevant passage.</p>
     <p>NOTE: Do not mix up the red rectangle on the right with the light red rectangles, which show
       the location of a rubrum. Upon mouse-over on the rectangle the tool-tip will be displayed,
       explaining the cause of the error. If there are further annotations, rubra or comments
       annotated to the same sentence, the mouse-over also provides you these information. You get a
-      tool-tip with only information on the error upon mouse-over on the unterscored passage.</p>
-    <p>NOTE: Some combinations of round brackets and doubble round brackets result in errors. For
+      tool-tip with only information on the error upon mouse-over on the underscored passage.</p>
+    <p>NOTE: Some combinations of round brackets and double round brackets result in errors. For
       example ((n(,j))) is not valid in the BTS grammar. In such a case use the dummy sign "⁝⁝":
       ((n(,j)⁝⁝)).</p>
     <p>In the example above (see screen shot) a square bracket was opened, but the second one is
       missing. If you insert the required symbol the error message will disappear.</p>
-    <p>All grammar errors in the tranliteration should be corrected before saving or switching to the
-      Sign Text Editor, otherwise you lose your data.</p>
+    <p>All grammar errors in the transliteration should be corrected before saving or switching to
+      the Sign Text Editor, otherwise you lose your data.</p>
   </body>
 </topic>

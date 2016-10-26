@@ -5,8 +5,11 @@
  <shortdesc></shortdesc>
  <conbody>
   <p>To each word form (token) an inflection code should be assigned. This enables grammatical
-            analyses of the data. Uninflected forms, for example substantives in singular and status
-            absolutus, get the code "3". In the following the example will be given, explaining the
-            inflection codes of verbs with suffix conjugation. </p>
+   analyses of the data. Uninflected forms, for example substantives in singular and status
+   absolutus, get the code "3". In the following the example will be given, explaining the
+   inflection codes of verbs with suffix conjugation.</p>
+  <p>The list of codes was developed for Old and Middle Egyptian. In most cases it also works for
+   Late Egyptian, but not for Demotic. If inflection codes are missing, please contact the BTS team
+   in Berlin: aegypt1@bbaw.de.</p>
  </conbody>
 </concept>

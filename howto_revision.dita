@@ -19,7 +19,7 @@
       Selected Revision".</p>
     <p>Close the Revision History window by clicking "Close".</p>
     <p><b>Conflict Dialog</b></p>
-    <p>If two users work simultaenously on one database object, it is possible, that they produce
+    <p>If two users work simultaneously on one database object, it is possible, that they produce
       different versions at the same time. This is indicated by the icon <image
         href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in the Navigator
       tree. The conflict dialog solves the problem, which version is the preferable one.</p>
@@ -30,7 +30,7 @@
       version. You can navigate between the tabs to see the changes made in the respective versions. </p>
     <p>To remove a conflicting version, right-click it in the list and apply "Remove Conflicting
       Revision".</p>
-    <p>NOTE: Due to technical reasons it might take several attemps to get to the "Remove
+    <p>NOTE: Due to technical reasons it might take several attempts to get to the "Remove
       Conflicting Revision" button.</p>
     <p>Apply your changes by clicking "Save and Close" or reject them by clicking "Cancel".</p>
   </body>

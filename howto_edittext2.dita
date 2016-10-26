@@ -8,7 +8,7 @@
         href="intro_install_keyboard.dita">install and configure the keyboard</xref> provided by the
       BBAW. </p>
     <p>One of the most important steps in the text editing process is lemmatizing each word of your
-      transliterated text. Lemmatization is a lexical annotation of each word reardless of its
+      transliterated text. Lemmatization is a lexical annotation of each word regardless of its
       inflected forms. In a semi automatic process each word is linked with a lemma entry in the
       integrated lemma list and takes over simultaneously all lexical properties of the lemma entry
       like (POS-label, base translation(s), bibliographical references).</p>

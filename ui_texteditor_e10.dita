@@ -43,7 +43,7 @@
   <p><b>Toolbar of the Text Editor</b></p>
   <p>There are several buttons in the toolbar above the "Text-Editor" window. They can be used in
    all three tabs "Transliteration", "Sign Text Editor", and "JSesh View". We recommend to use them
-   only in the "Translitaration" tab as we do not garantee full functionality for the other
+   only in the "Transliteration" tab as we do not guarantee full functionality for the other
    tabs.</p>
   <p><image href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/>
    <b>Load Text Lemmata</b></p>

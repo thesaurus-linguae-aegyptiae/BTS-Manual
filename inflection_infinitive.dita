@@ -4,11 +4,11 @@
   <title>Infinitive</title>
   <body>
     <p>Owner 60700</p>
-    <p>Infinitives are encoded according to wether they are geminated or show an ending <i>.t</i> or
-      not. As for the suffix conjugations, the written forms are encoded, not the expected form,
+    <p>Infinitives are encoded according to whether they are geminated or show an ending <i>.t</i>
+      or not. As for the suffix conjugations, the written forms are encoded, not the expected form,
       that means, if an ending <i>.t</i> is expected, but not written, an infinitive without
         <i>.t</i> is encoded. Therefore unwritten endings can be found and analyzed easily, because
-      the paradigma of infinitives depends on the verbal classes that are noted in the BWL. </p>
+      the paradigm of infinitives depends on the verbal classes that are noted in the BWL. </p>
     <p>Infinitives of combined verbal forms, i.e. the analytical forms in Late Egyptian, are encoded
       as well. Auxiliaries are encoded separately according to st. abs. and st. pr. (see: <xref
         href="inflection_auxiliaries.dita"/>); the complete form is encoded at the infinitive, e.g.

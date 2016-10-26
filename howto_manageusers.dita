@@ -25,7 +25,7 @@
       It contains such fields as "ID of User", "Forename", "Surname", "Email", "Website",
       "Description", "Web Description", "Siglum", and "Comment". In the ID field a username given
       earlier appears, but cannot be edited anymore. The check box "User is Database Administrator"
-      can be checked. Requiered fields are marked by an asterisk (*).</p>
+      can be checked. Required fields are marked by an asterisk (*).</p>
     <p>Functions of the buttons in this tab:</p>
     <p><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r"/>
       <u>New Group</u>

@@ -3,7 +3,7 @@
 <topic id="topic_ymm_ddc_lx">
   <title>BTS Troubleshooting</title>
   <body>
-    <p>The following list offers a workaround for occuring problems. If the solutions do not solve
+    <p>The following list offers a workaround for occurring problems. If the solutions do not solve
       your individual problem, please contact the BTS team in Berlin. If you note further problems
       that should be listed here please communicate them to the BTS team: aegypt1@bbaw.de</p>
     <p/>
@@ -43,8 +43,8 @@
             BTS.</p></li>
       </ul>
       <ul id="ul_um1_xxq_sx">
-        <li><b>No corpus can be opned in the navigator tree</b><p>Problem: After BTS start there are
-            all brown and black icons in the navigator tree, but it is not possible to open a
+        <li><b>No corpus can be opened in the navigator tree</b><p>Problem: After BTS start there
+            are all brown and black icons in the navigator tree, but it is not possible to open a
             corpus.</p><p>Solution: Something went wrong during the starting process. Please restart
             BTS.</p></li>
       </ul>
@@ -61,15 +61,15 @@
       <ul id="ul_rrf_ryq_sx">
         <li><b>The lemmatizer does not offer any selection</b><p>Problem: The lemmatizer remains
             blank and does not offer any selection for any word.</p><p>Solution 1: Be sure that the
-            lemmatizer is activated.</p><p>Solution 2: The wordlist is not indexed properly. Reindex
-            the wordlist.</p></li>
+            lemmatizer is activated.</p><p>Solution 2: The word list is not indexed properly.
+            Reindex the word list.</p></li>
       </ul>
       <ul id="ul_vng_bvq_sx">
         <li><b>I cannot find a specific word in the lemma list</b><p>Problem: During lemmatization
             the lemmatizer does not offer any selection for a specific word, although different
-            transliterations have been tested.</p><p>Solution 1: The wordlist is not indexed
-            properly. Reindex the wordlist.</p><p>Solution 2: The word does not exist in the
-            wordlist yet. Please contact the BTS team.</p></li>
+            transliterations have been tested.</p><p>Solution 1: The word list is not indexed
+            properly. Reindex the word list.</p><p>Solution 2: The word does not exist in the word
+            list yet. Please contact the BTS team.</p></li>
       </ul>
     </p>
   </body>

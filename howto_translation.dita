@@ -11,7 +11,7 @@
             Editor.</p>
   <p>Make sure to have selected the right language of your translation in the drop-down menu on the
             right (<image href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/>):
-            German (de), English (en), French (fr), Spanish (en), Italian (it), Arabic (ar), or
+            German (de), English (en), French (fr), Spanish (es), Italian (it), Arabic (ar), or
             Russian (ru). The default language of your choice can be set up in the <xref
                 href="ui_preferences.dita">Preferences</xref>. </p>
         <p>In the standard view only one line will be visible. Extend the text editor window and
@@ -22,18 +22,25 @@
             it and the same sentence will be underlined in the "Transliteration" subsection. You
             will have to enter the translation sentence by sentence (designated in the
             transliteration with §§). </p>
-        <p>Within a complete egyptian grammatical sentence, it is possible to segment the
+        <p>Within a complete Egyptian grammatical sentence, it is possible to segment the
             translation by using the ENTER key. The input of the complete translation as a running
             text is not possible. Enter only one translation for each sentence, as the selection of
             languages is not intended for multilingual translations of one and the same text.</p>
         <p>We advise you to enter a readable and understandable translation according to the formal
             rules of the target language, but not providing a free translation.</p>
+        <p><b>Using transliteration signs in the translation</b></p>
+        <p>You are enabled to use transliteration signs in your translation. This might be necessary
+            if there are only traces of a word preserved or if there is no translation available for
+            a word, e.g. "<i>jꜣ.t</i>-tree". In this case, write the transliteration between two "$"
+            signs, so that the transliteration will later on be transformed into cursive in the
+            representation in the TLA, e.g.: $jꜣ.t$-tree.</p>
+        <p/>
         <p>NOTE: Before you enter your translation, be sure that the relevant sentence is activated.
             The activation is indicated by the sign <image
                 href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> in the Text
-            Editor direcly to the left of the relevant sentence. It might take some time or a switch
-            between database objects, until the sentence is activated. If the sign does not show up,
-            your translation will not be saved (compare note on <xref
+            Editor directly to the left of the relevant sentence. It might take some time or a
+            switch between database objects, until the sentence is activated. If the sign does not
+            show up, your translation will not be saved (compare note on <xref
                 href="howto_transliteration.dita">Copy with Lemmata</xref> above). </p>
  </conbody>
 </concept>

@@ -46,13 +46,13 @@
    <ul id="ul_od4_rmy_bv">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
      <b>Add Entry Group:</b> Add another "date" section to enter a previous date. This feature is
-     applicable to "either-or"-datings (e.g. if your object dates either to the Old Kingdom or to
-     the Late Period). Use the first date section for the earlier date and the second date section
-     for the later date. </li>
+     applicable to "either-or"-dating (e.g. if your object dates either to the Old Kingdom or to the
+     Late Period). Use the first date section for the earlier date and the second date section for
+     the later date. </li>
    </ul>
    <ul id="ul_xdm_yxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     <b>Remove Entry Group:</b> Removes the set of information or clears the entry fields if it is
      the only entry group.</li>
    </ul>
   </p>

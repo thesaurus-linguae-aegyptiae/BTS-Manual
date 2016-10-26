@@ -10,7 +10,7 @@
       collection is reflected by a line in the table. The number of documents per collection is
       shown in the column "DB Doc Count". </p>
     <p><b>Indexing</b></p>
-    <p>Indexing is a process, which enabels the search in the database, as the query is not done in
+    <p>Indexing is a process, which enables the search in the database, as the query is not done in
       the database itself (which would take time), but in the document indexes. The status of a
       corpus' indexing process is indicated by the background colour of its line in the "Database
       Manager". Each line can have one of three background colours. Green means that everything is
@@ -20,12 +20,12 @@
       ERROR- red or INDEXING...- yellow). The "% indexed" column shows the percentage of the
       indexing process.</p>
     <p><b>Re-Indexing</b></p>
-    <p>BTS indexes the databases itself, when it recieves new data from the server, but sometimes
+    <p>BTS indexes the databases itself, when it receives new data from the server, but sometimes
       the automatical process produces errors and requires manual re-indexing.</p>
-    <p>Databases that are not indexed sucessfully are marked either in yellow or in red. If indexing
-      was not successful for some corpora re-index them by clicking on the button "Re-index all
-      non-OK".  Re-indexing may take a while. The more databases you have to re-index, the longer it
-      will take. During this process you will not be able to use BTS.</p>
+    <p>Databases that are not indexed successfully are marked either in yellow or in red. If
+      indexing was not successful for some corpora re-index them by clicking on the button "Re-index
+      all non-OK". Re-indexing may take a while. The more databases you have to re-index, the longer
+      it will take. During this process you will not be able to use BTS.</p>
     <p>Re-indexing has three options: </p>
     <p>- Re-index all</p>
     <p>- Re-index all non-OK </p>
@@ -35,7 +35,7 @@
     <p><b>Close</b></p>
     <p>Leave the "Database Manager" window by clicking the "Close" button in the lower right corner. </p>
     <p/>
-    <p>NOTE: We recommand to re-index all databases that are either marked red or yellow.</p>
+    <p>NOTE: We recommend to re-index all databases that are either marked red or yellow.</p>
     <p>NOTE: The items "_recplicator" and "_uses" cannot be indexed and thus always are marked in
       red. You do not have to re-index these items.</p>
   </body>

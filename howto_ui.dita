@@ -3,7 +3,7 @@
 <topic id="topic_t1b_tkq_zs">
   <title>Introduction to BTS User Interface</title>
   <body>
-    <p>This chapter provides a brief introduction to the BTS User Interface (UI). For a detailled
+    <p>This chapter provides a brief introduction to the BTS User Interface (UI). For a detailed
       description see the chapter <xref href="ui_bts.dita">BTS User Interface</xref> below.</p>
     <p>The BTS window is split into four major sections:</p>
     <p>
@@ -18,7 +18,7 @@
     <p>The Menu bar and the Toolbar are located at the top of the program window. At the bottom of
       the program window the Status bar is displayed. The area between Toolbar and Status bar is
       called Workspace. The contents of the Workspace change depending on the viewing mode. BTS has
-      four such modes, activated by clicking on th appropriate button in the Toolbar: </p>
+      four such modes, activated by clicking on the appropriate button in the Toolbar: </p>
     <p><image href="Images/icons/full/icon16/corpora.png" id="image_fzs_xyx_qt"/>
       <u>Text Corpus view</u></p>
     <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ffx_yyx_qt"/>

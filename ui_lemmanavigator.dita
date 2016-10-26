@@ -31,7 +31,7 @@
    egyptological "alphabetic" order. Clicking on a group opens new subgroups (if such exist) until
    lemma root entries show up. Root entries can have child entries. To display child entries simply
    click the root entry.</p>
-  <p>Each lemma entry constists of an icon (indicating the review state of the lemma),
+  <p>Each lemma entry consists of an icon (indicating the review state of the lemma),
    transliteration, translation, word class, physical location of the database object. and number of
    relations.</p>
   <p>Next to each lemmata there is one of the following icons:</p>
@@ -43,8 +43,8 @@
    lemma has been proven to be wrong and usually, upon expanding, a correct lemma, linked with the
    wrong lemma, will be displayed.</p>
   <p><b>Roots</b></p>
-  <p><image href="Images/Icons_updated/full/icon16/root.png" id="image_b24_2hx_3x"/> prepresents
-   root entries. The review state is indicated by the same small icons as for the lemma entries
+  <p><image href="Images/Icons_updated/full/icon16/root.png" id="image_b24_2hx_3x"/> represents root
+   entries. The review state is indicated by the same small icons as for the lemma entries
    above.</p>
   <p><b>Bin</b></p>
   <p>Entries (root or child) deleted in the word list are moved to the Bin. The entries in the Bin

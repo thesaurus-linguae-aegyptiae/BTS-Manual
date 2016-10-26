@@ -5,7 +5,7 @@
   <body>
     <p>The Passport Editor is located in the bottom part in the middle of the Text Corpus view. It
       is essential that you complete the metadata of your Text Corpus Objects, texts, subtexts, and
-      glosses conscientiously. Only correct and complete metadata enable search querries and
+      glosses conscientiously. Only correct and complete metadata enable search queries and
       statistical evaluation of the data.</p>
     <p>Most entries in the passport data are assigned by thesaurus lists. These lists compile a
       controlled vocabulary, which is used for the metadata of the database objects like date,
@@ -17,7 +17,7 @@
     <p>The thesauri are not complete, yet. In case a Thesaurus entry you need is missing, please
       send a proposal to the BTS team in Berlin via E-mail: aegypt1@bbaw.de.</p>
     <p/>
-    <p>For detailed description of passport editor fields and how there are used see <xref
+    <p>For detailed description of passport editor fields and how they are used see <xref
         href="ui_passporteditor.dita"/>.</p>
     <p/>
   </body>

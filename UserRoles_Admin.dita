@@ -5,7 +5,7 @@
   <body>
     <p>The administrator role applies only to a specific database, i.e. a corpus, a lemma list, or
       the thesaurus database (not the entire BTS!). Administrator can edit or delete all database
-      objects in a given corpus, with no Updater status for specific database objects requiered. </p>
+      objects in a given corpus, with no Updater status for specific database objects required. </p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_bky_44v_bt">

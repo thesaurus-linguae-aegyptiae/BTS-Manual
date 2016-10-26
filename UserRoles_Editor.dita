@@ -16,8 +16,8 @@
           objects.</li>
         <li>Can, technically, change the own status as a Reader or an Updater. This is irrelevant
           though, because the user role "Editor" takes precedence (as in the case of the
-            Admin).<p>NOTE: These rights apply only for databse objects with visibility "project",
-            "public", or "all authenticated". In all other intances, the editor has only access to
+            Admin).<p>NOTE: These rights apply only for database objects with visibility "project",
+            "public", or "all authenticated". In all other instances, the editor has only access to
             the database objects if assigned as Updater or Reader.</p></li>
       </ul>
     </p>

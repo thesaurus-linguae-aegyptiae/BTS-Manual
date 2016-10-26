@@ -15,8 +15,8 @@
     <p>This window offers you a functionality to create templates to make the transliteration input
       easier. For example, you can define short cuts for line counts etc. While transliterating,
       right-click a word and select "Content assist". Your template will be displayed at the end of
-      the list. Double click it - it will be automatically inserted into the text. For a detailled
-      decription see the chapter <xref href="howto_templates.dita"/>.</p>
+      the list. Double click it - it will be automatically inserted into the text. For a detailed
+      description see the chapter <xref href="howto_templates.dita"/>.</p>
     <p><b>New...</b>
     </p>
     <p>Displays a pop-up window with the following options:</p>

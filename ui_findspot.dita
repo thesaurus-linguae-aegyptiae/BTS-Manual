@@ -3,7 +3,7 @@
 <concept id="concept_xt1_ryf_yr">
  <title>Findspot</title>
  <conbody>
-  <p>This tab allows you to put in data concerning the findspot of the Egytian object, that bears
+  <p>This tab allows you to put in data concerning the findspot of the Egyptian object, that bears
    the text you want to edit.</p>
   <p>This tab is divided into two sections: "Place" and "Former Place".</p>
   <p><b>Place</b></p>
@@ -38,12 +38,12 @@
    <ul id="ul_mwk_wxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
      <b>Add Entry Group:</b> Add another set of information, including "Place" and "Former place".
-     Use this option, if your objects consits of more than one fragment which were found at
+     Use this option, if your objects consists of more than one fragment which were found at
      different places.</li>
    </ul>
    <ul id="ul_xdx_xxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     <b>Remove Entry Group:</b> Removes the set of information or clears the entry fields if it is
      the only entry group.</li>
    </ul>
   </p>

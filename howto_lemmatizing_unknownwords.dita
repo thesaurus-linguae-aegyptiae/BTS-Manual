@@ -12,7 +12,7 @@
       glass (see <xref href="howto_lemmatizing.dita"/>). The following list helps you to find the
       relevant WCN number.</p>
     <p>NOTE: To find the complete list in the lemma list, you may also open search via the
-      magnifying glass and search vor "[Wort]" (full text search with both check boxes deactivated).
+      magnifying glass and search for "[Wort]" (full text search with both check boxes deactivated).
       The results will appear at the end of the list.</p>
     <p> </p>
     <p>
@@ -157,7 +157,7 @@
             </row>
             <row>
               <entry>850821</entry>
-              <entry>titel or epithet of a private person</entry>
+              <entry>title or epithet of a private person</entry>
             </row>
           </tbody>
         </tgroup>

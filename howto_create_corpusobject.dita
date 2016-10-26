@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p15_rwv_ns">
-  <title>Creating a database object (TCObject and Text)</title>
+  <title>Creating and modifying a database object (TCObject and Text)</title>
   <body>
     <p>The following functions are available to the user with at least Researcher privileges over a
       given corpus. Creating a Text Corpus Object and a Text are the basic steps to edit a text in
       BTS. Before creating a Text you need to create a Text Corpus Object, i.e. the item referring
       to physical inscribed object, and define the physical source of your text.</p>
-    <p><b>Creating a Text Ccorpus Object</b></p>
+    <p><b>Creating a Text Corpus Object</b></p>
     <p>
       <ol id="ol_zxm_3ty_qt">
         <li>Choose the corpus from the Corpus Navigator tree where you wish your TCObject to appear.
           You can add an TCObject to a corpus or to another already existing TCObject. Although you
-          can later move database objects, consider a logical hierachic order.</li>
+          can later move database objects, consider a logical hierarchic order.</li>
         <li>Click "Add Text Corpus Object" in the toolbar. This action will add an object as a
           sub-entry of the chosen corpus. The newly created TCObject has the relation "PartOf" to
           the chosen corpus or to an already existing database object of this corpus. <p>NOTE: A
@@ -43,7 +43,7 @@
             <ul id="ul_gtb_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x"/>
                 <b>Group:</b> A Group defines a number of physical objects belonging together on
-                geographic reasons (e.g. the graves of a specific cemetery like the Eastern Cemetery
+                geographic reasons (e.g. the tombs of a specific cemetery like the Eastern Cemetery
                 at Giza or an papyrus archive like the Abusir Papyri).</li>
             </ul>
             <ul id="ul_gqd_xwp_3x">
@@ -67,14 +67,14 @@
               <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png"
                   id="image_tpj_b3p_3x"/>
                 <b>ObjectPart:</b> ObjectPart is hierarchically subordinated to TCObject. Use it,
-                when the carrier of your text consits of more than one physical object (e.g. a
-                statue and its base or several parts of a buidling).</li>
+                when the carrier of your text consist of more than one physical object (e.g. a
+                statue and its base or several parts of a building).</li>
             </ul>
           </p></li>
       </ol>
     </p>
     <p>When you create your Text Corpus Objects and Texts, be sure to arrange them in a logical
-      hierarchic order. Texts are always child elemets of Text Corpus Obejcts, not vice versa:</p>
+      hierarchic order. Texts are always child elements of Text Corpus Objects, not vice versa:</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Corpus_navigator_tree.jpg"
         id="image_tbm_bfq_3x"/></p>
     <p><b>Creating a text</b></p>
@@ -92,21 +92,21 @@
           filled out). You can actually start working without naming your text and name it later.
           Until then the default name will be "BTS Text".</li>
         <li>As for the Text Corpus Object define the Type and, if applicable, also the Subtype of
-          the datase object. Provide as much information as possible by filling out the tabs of the
-            <xref href="ui_passporteditor.dita">Passport Data Editor</xref>.<p>
+          the database object. Provide as much information as possible by filling out the tabs of
+          the <xref href="ui_passporteditor.dita">Passport Data Editor</xref>.<p>
             <ul id="ul_hp1_jgp_3x">
               <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
                 <b>Text:</b> A Text is defined as a coherent entity. Your physical object might
                 contain several texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The
-                Taking of Joppe" etc. Each of these tales and poems recieves its own database object
+                Taking of Joppe" etc. Each of these tales and poems receives its own database object
                 "Text" subordinated to the TCObject "Papyrus Harris 500.</li>
             </ul>
             <ul id="ul_pwm_rwp_3x">
               <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
                 <b>Subtext:</b> Subtexts are parts of the same text that are related to each other,
-                but without a defined order of reading (e.g. diffrent persons and their respective
-                inscriptins on a relief).<p>NOTE: Do not treat chapters or captions of a continuous
-                  text (e.g. the medical remedies in Papyrus Ebers) as subexts. These have to be
+                but without a defined order of reading (e.g. different persons and their respective
+                inscriptions on a relief).<p>NOTE: Do not treat chapters or captions of a continuous
+                  text (e.g. the medical remedies in Papyrus Ebers) as subtexts. These have to be
                   segmented by annotations (see <xref href="howto_annotations.dita"/>).</p></li>
             </ul>
           </p></li>
@@ -123,7 +123,7 @@
     <p><b>Defining the visibility</b></p>
     <p>Define in the main tab of the <xref href="howto_passport.dita">passport editor</xref> the
       visibility of your database object. See also <xref href="user_roles.dita">User Roles
-        Description</xref>. A default visibilty can be defined in the <xref
+        Description</xref>. A default visibility can be defined in the <xref
         href="ui_berlintextsystem.dita">Preferences</xref>.</p>
     <p>
       <ul id="ul_vrb_2tw_kx">
@@ -134,9 +134,9 @@
         <li>all_authenticated</li>
       </ul>
     </p>
-    <p>NOTE: The default visibilty applies to all newly created database objects, also including
-      annotations, rubra, comments etc. Currenly there is no feature available to apply changes in
-      the visibilty to child elements. That means, if your default visibility is "reader", you have
+    <p>NOTE: The default visibility applies to all newly created database objects, also including
+      annotations, rubra, comments etc. Currently there is no feature available to apply changes in
+      the visibility to child elements. That means, if your default visibility is "reader", you have
       to change all TCObjects, Texts, annotations, rubra etc. to "public" manually once you want to
       publish your text in the TLA.</p>
     <p><b>Defining the review state</b></p>
@@ -157,7 +157,7 @@
       </ul>
     </p>
     <p>NOTE: As for the visibility, the default review state applies to all newly created database
-      objects, also including annotations, rubra, comments etc. Currenly there is no feature
+      objects, also including annotations, rubra, comments etc. Currently there is no feature
       available to apply changes in the review state to child elements. That means, if your default
       review state is "new", you have to change all TCObjects, Texts, annotations, rubra etc. to
       "published" manually once you want to publish your text in the TLA.</p>
@@ -172,7 +172,7 @@
       after the name of the Text Corpus Object or of the Text (in Grey). To change the position in
       the tree as well, it is necessary to change the relation in the <xref
         href="ui_relationstab.dita">"Relations" tab</xref> of the passport editor. </p>
-    <p>NOTE: If you have accidentliy created an database object within a wrong postion and you do
+    <p>NOTE: If you have accidentally created an database object within a wrong position and you do
       not have the rights to move it, please contact the administrator in Berlin:
       aegypt1@bbaw.de.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/moving_objects.png"

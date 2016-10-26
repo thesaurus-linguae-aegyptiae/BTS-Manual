@@ -4,9 +4,9 @@
  <title>Lemmatizing</title>
  <conbody>
     <p>Lemmatization is one of the most important steps in the BTS text editing process with
-      relevance to almost all querries and analyses done in the database, e.g. to find references
-      for a specific lemma, to make collocation analyses, search for word combinations etc. Thus it
-      is an essential prerequisute that you lemmatize you text conscientiously.</p>
+      relevance to almost all queries and analyses done in the database, e.g. to find references for
+      a specific lemma, to make collocation analyses, search for word combinations etc. Thus it is
+      an essential prerequisite that you lemmatize you text conscientiously.</p>
     <p><b>Opening and activating the lemmatizer</b></p>
     <p>To lemmatize a transliterated text two tabs should be open: <xref
         href="ui_texteditor_e10.dita">Sign Text Editor</xref> (default location: top
@@ -70,7 +70,7 @@
       </ul>
     </p>
     <p><b>Finding the correct lemma</b></p>
-    <p>The lemmatizer automatically suggests lemmata which transliteration exacly matches your
+    <p>The lemmatizer automatically suggests lemmata which transliteration exactly matches your
       lemma. If your lemma is not listed, click the magnifying glass <image
         href="Images/icons/full/icon16/search.png" id="image_zyn_pqp_nt"/> and search for it in the
       lemma list by entering the WCN (i.e. the ID of the lemma) or the transliteration or the
@@ -112,7 +112,7 @@
     <p><b>Encoding inflection</b></p>
     <p>Experience has learned that it is better to lemmatize a text first and afterwards fill out
       the field "Flexion". If you decide to encode the inflection during the lemmatization process,
-      type the approriate code into the field "Flexion" before or after you have selected the lemma
+      type the appropriate code into the field "Flexion" before or after you have selected the lemma
       and than confirm with <image href="Images/icons/full/icon16/lemma-ok.png"
         id="image_zt4_fvf_fx"/>. For details see <xref href="howto_encoding.dita"/>.</p>
     <p><b>Remove all lemma information</b></p>
@@ -132,7 +132,7 @@
       <ul id="ul_vyl_yks_2x">
         <li>The transliteration of the lemma in the BTS might be different from your own (e.g.
           differentiation of s and z, weak consonants etc.).</li>
-        <li>Beware of punctation and structural signs.</li>
+        <li>Beware of punctuation and structural signs.</li>
         <li>The word might be part of a compositum.</li>
         <li>Your word might correspond to an already existing lemma with a variant meaning.</li>
         <li>The word list might not be indexed properly.</li>

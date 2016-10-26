@@ -5,8 +5,8 @@
  <conbody>
   <p>The window of the Thesaurus Navigator is located on the left of your workspace in the Thesaurus
    view. The Thesaurus list comprises a controlled vocabulary of unique concepts for describing the
-   properties of database objects. Such metadata enable search querries on a global or local level
-   of the database. They are attributed to the database objects in the Passport Editor.</p>
+   properties of database objects. Such metadata enable search queries on a global or local level of
+   the database. They are attributed to the database objects in the Passport Editor.</p>
   <p> </p>
   <p><b>Toolbar</b></p>
   <p>The toolbar of the Thesaurus navigator contains the following entries: </p>

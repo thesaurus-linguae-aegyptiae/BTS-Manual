@@ -26,7 +26,7 @@
         <li>In the Passport Editor you have to type a name (default name is either "Thesaurus Root"
           or "Thesaurus Child"), define type and subtype via the drop-down menus and edit visibility
           and review status. </li>
-        <li>Now fill in all availabe metadata into the Passport Editor. For a detailed description
+        <li>Now fill in all available metadata into the Passport Editor. For a detailed description
           of the individual tabs and elements of the passport editor of the Thesaurus View, see
             <xref href="ui_thesaurus_passporteditor.dita"/>.</li>
         <li>To add an annotation or a comment to a Thesaurus entry, click <image

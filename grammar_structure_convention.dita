@@ -18,7 +18,7 @@
             </row>
             <row>
               <entry>space</entry>
-              <entry>All word, including suffix pronouns, are seperated by space.</entry>
+              <entry>All word, including suffix pronouns, are separated by space.</entry>
             </row>
             <row>
               <entry>:</entry>
@@ -204,7 +204,7 @@
       </ul>
     </p>
     <p>Strokes and other ideographic writing are only represented by .pl and .du, respectively, if
-      they mark "real" plurals or duals. If written in collectiva, they are treated as
+      they mark "real" plurals or duals. If written in collectives, they are treated as
       determinatives and are thus not transliterated, e.g.:</p>
     <p>
       <ul id="ul_sg5_pwt_mx">
@@ -265,7 +265,7 @@
     </p>
     <p></p>
     <p><b>Proper Names</b></p>
-    <p>Proper names are written with an intial capital, also when they appear within a compound
+    <p>Proper names are written with an initial capital, also when they appear within a compound
       word.</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_nh2_l2n_fx">
@@ -305,7 +305,7 @@
     <p/>
     <p><b>Cartouches, Serekhs etc.</b></p>
     <p>Cartouches "𓍹 ... 𓍺", Serekhs "𓉘 ... 𓊂" and enclosures of places names "𓊆 ... 𓊇" etc.
-      are treated as determintives and are thus not represented in the transliteration. </p>
+      are treated as determinative and are thus not represented in the transliteration. </p>
     <p/>
     <p><b>Verse Points</b></p>
     <p>Verse points are represented in the transliteration via the appropriate signs (see <xref
