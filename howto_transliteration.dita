@@ -220,27 +220,65 @@
           external source (e.g. a MS Word document) by copy&amp;paste, if it follows all the rules
           of BTS grammar. The transliteration used in MS Word should be the unicodefont
           BBAWLibertine.</li>
+      </ul>
+      <ul id="ul_k3v_yr3_5x">
         <li>You can copy your transliteration, parts of it or extra-textual information and paste it
           anywhere in the same or another text. By doing this, only the transliteration will be
           copied, even if the tokens are lemmatized.</li>
-        <li>If you want to copy&amp;paste your transliteration as lemmatized tokens, use the feature
-          "Copy with Lemmata" and "Paste with Lemmata". This feature copies and pastes the
+      </ul>
+      <ul id="ul_wbz_yr3_5x">
+        <li>If you want to <b>copy&amp;paste your transliteration as lemmatized tokens</b>, use the
+          feature "Copy with Lemmata" and "Paste with Lemmata". This feature copies and pastes the
           transliteration including inflection code, hieroglyphs, and translation. It does not copy
           any annotation, comment, or rubrum.<p>
             <ul id="ul_k51_jcy_2x">
-              <li>This feature does not work for single words and phrases. You can only copy
-                complete sentences. Mark the sentence or the set of sentences you would like to
-                copy. Click on it (right-click) and select "Copy with Lemmata".</li>
-              <li>Proceed to the text where you want to insert the sentence(s). Right-click the
-                exact position and select "Paste with Lemmata". To insert a sentence after an
-                existing sentence, place the cursor behind the "§" sign.</li>
+              <li>This feature works for single words and phrases as well as for whole sentences or
+                sets of sentences. Select the token, the sentence or the set of sentences you would
+                like to copy. Click on it (right-click) and select "Copy with Lemmata".</li>
+            </ul>
+            <ul id="ul_k5v_fs3_5x">
+              <li>Proceed to the text where you want to insert the selected tokens. Right-click the
+                exact position and select "Paste with Lemmata": <p>
+                  <ul id="ul_axm_js3_5x">
+                    <li>To <b>insert a sentence or a set of sentences</b> after an existing
+                      sentence, place the cursor behind the "§" sign and select "Paste with
+                      Lemmata".</li>
+                    <li>If you paste the sentence(s) in front of the "§" sign, the selected
+                      sentences will be pasted into the existing sentence, but without copying the
+                      translation.</li>
+                    <li>To <b>insert a word or a phrase</b> within an already existing sentence,
+                      place the cursor at the respective position within the sentence and select
+                      "Paste with Lemmata". If you want to insert a word/phrase at the end of a
+                      sentence, be sure to place the cursor in front of the "§" sign.<p>NOTE:
+                        Copying a word or phrase with Lemmata and pasting it behind a "§" sign will
+                        paste the complete sentence, from which the original word/phrase was copied
+                        from, after the selected sentence.</p><p>NOTE: It is currently not possible
+                        to "paste with Lemmata" at the beginning of a sentence directly after the
+                        "§" sign. If you want to insert a word/phrase at the beginning of a
+                        sentence, enter a dummy word firs, paste the word/phrase after the dummy and
+                        delete the dummy word afterwords.</p></li>
+                    <li>"Copy &amp; Paste with Lemmata" of words and phrases is not limited to
+                      sentence borders. You are enabled to copy the last part of one sentences and
+                      the beginning of the following sentence and paste it into another
+                      sentence.</li>
+                  </ul>
+                </p></li>
+              <li>Summing up: <p>
+                  <ul id="ul_rqb_l53_5x">
+                    <li><b>Pasting text after the "§" sign</b> will always paste one or more
+                      complete sentences with translation (even if you have only copied parts of the
+                      respective sentence(s)).</li>
+                    <li><b>Pasting text in front of the "§" sign</b> will always copy the exact
+                      sequence of tokens without translation.</li>
+                  </ul>
+                </p></li>
             </ul>
           </p></li>
       </ul>
     </p>
    <p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. First you need to
-      enter some dummy text and press "Load Text Lemmata". After pasting your text you can delete
-      the dummy.</p>
+      enter some dummy text and press "Load Text Lemmata" or switch to the Sign Text Editor and
+      back. After pasting your text you can delete the dummy.</p>
     <p>NOTE: The sentence you want to copy as well as the sentence in, before, or after which you
       want to insert the copied sentence(s) must be activated. Activation is shown by the sign
         <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> directly to the
