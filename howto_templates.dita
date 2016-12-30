@@ -25,8 +25,8 @@
       menu. The context determines at which position in the text the template will be displayed
       (SentenceItem or WordPart). </p>
     <p>NOTE: You are advised only to select "SentenceItem" and "WordPart" as context from the
-      dropdown menu. Use "SentenceItem" for independent items (e.g. linecount) and "WordPart" for
-      dependet items (e.g. plural and dual endings). All other contexts shall not be used.</p>
+      dropdown menu. Use "SentenceItem" for independent items (e.g. line count) and "WordPart" for
+      dependent items (e.g. plural and dual endings). All other contexts shall not be used.</p>
     <p>You may add a short description to it in order to remember what it does. Other than the name,
       a description is not mandatory. Name and short description will be displayed in the Content
       Assist. In the field "Pattern" enter the motive which will be displayed in the

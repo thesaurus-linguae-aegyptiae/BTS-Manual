@@ -4,7 +4,7 @@
  <title>Text Corpus View</title>
  <conbody>
   <p>Text Corpus is the default view of the BTS workspace. Here the user adds, arranges and
-   rearranges database objects in the Coprus Navigator tree. The user works on text corpus objects
+   rearranges database objects in the Corpus Navigator tree. The user works on text corpus objects
    and texts, including editing transliteration, translation, lemmatization, hieroglyphs and their
    metadata.</p>
   <p>This chapter provides a general description of the Workspace with its windows and tabs of the
@@ -42,6 +42,6 @@
    grouped together in one window. Nevertheless they can be rearranged and moved separately.</p>
   <p>As soon as you select a Text Corpus Object or a Text in the Corpus Navigator, the titles of
    these tabs as well as those of the "Text editor", "Annotation" and "Text Translation" change to
-   the name of the selcted database object. </p>
+   the name of the selected database object. </p>
  </conbody>
 </concept>

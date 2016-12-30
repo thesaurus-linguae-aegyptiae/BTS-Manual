@@ -5,7 +5,7 @@
  <conbody>
   <p>This tab allows you to define the dating of the selected database object. This tab only applies
    to the date thesaurus ("Datierungen"). Enter the dating of your thesaurus entry in absolute
-   numbers, as these dates are used by the system to arrange the results of search querries in a
+   numbers, as these dates are used by the system to arrange the results of search queries in a
    chronological order.</p>
   <p>
    <ul id="ul_qny_gym_hx">

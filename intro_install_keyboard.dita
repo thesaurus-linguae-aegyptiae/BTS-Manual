@@ -7,7 +7,7 @@
       keyboard. Proceed with the following steps:</p>
     <p>
       <ol id="ol_ahc_4gy_qt">
-        <li><b>Install Tavultesoft Keyman Desktop</b>
+        <li><b>Install Tavultsoft Keyman Desktop</b>
           <p>Keyman Desktop is a free software of Tavultsoft which manages the keyboard. To download
             it go to <xref href="http://keyman.com/desktop/download.php" format="html"
               scope="external">http://keyman.com/desktop/download.php</xref>, scroll down to
@@ -20,7 +20,7 @@
             if the font has been installed in C:\Windows\Fonts.</p></li>
         <li><b>Install the AAeW Keyboard</b><p>Now the AAeW Keyboard can be installed in Keyman
             Desktop. This keyboard layout includes all necessary characters, including brackets,
-            verse points and cartouches. </p><p>In the task bar click "Tavultesoft Keyman Desktop"
+            verse points and cartouches. </p><p>In the task bar click "Tavultsoft Keyman Desktop"
             icon and select "Configuration". Click "Install keyboard..." and select file "aaew.kmx"
             available in your program package. Click "OK" to finish the installation. </p><p>NOTE:
             The "Onscreen Keyboard" function is not available yet. See <xref
@@ -38,10 +38,10 @@
             with dot" (ḥ) but not "s with dot" (ṣ). This means that the deadkey "dot below the
             character" only works with "h", "k", "t" and "č" but not with "s" (for ṣ) or with "d"
             (for ḍ). Further not all characters are allowed in all parts of the BTS. In particular
-            the translitaration system established by Wolfgang Schenkel is not allowed in the
+            the transliteration system established by Wolfgang Schenkel is not allowed in the
             Transliteration Editor, but only in comments, bibliography etc.</p><p>NOTE: As Keyman
             Desktop is a separate software you have to start this software prior to use the layout
-            in BTS. We recommand to incorporate it in the Windows Autostart function.</p></li>
+            in BTS. We recommend to incorporate it in the Windows Autostart function.</p></li>
       </ol>
     </p>
   </body>

@@ -3,52 +3,73 @@
 <topic id="topic_ymm_ddc_lx">
   <title>BTS Troubleshooting</title>
   <body>
+    <p>The following list offers a workaround for occurring problems. If the solutions do not solve
+      your individual problem, please contact the BTS team in Berlin. If you note further problems
+      that should be listed here please communicate them to the BTS team: aegypt1@bbaw.de</p>
+    <p/>
     <p>
       <ul id="ul_udn_42c_lx">
-        <li><b>BTS does not start</b><p>If BTS does not start, it might be due to a server down
-            time. Please contact the BTS team in Berlin.</p></li>
+        <li><b>BTS hangs up during starting process</b><p>Problem: BTS hangs up during starting
+            process, if it cannot get a connection to the server. This might be due to a server down
+            time. </p><p>Solution: Disconnect your internet connection and start BTS anew. Without
+            internet connection BTS will start in an offline mode without trying to access the
+            server.</p></li>
       </ul>
       <ul id="ul_cwx_q2c_lx">
-        <li><b>All windows and tabs have disappeared</b><p>This happens, when you draged the last
-            window or tab out of the BTS program window. Restart BTS to restore all windows and
-            tabs.</p></li>
+        <li><b>All windows and tabs have disappeared</b><p>Problem: All windows and tabs have
+            disappeared and an empty frame remains on the screen. This happens, after you dragged
+            the last window or tab out of the BTS program window. </p><p>Solution: Restart BTS to
+            restore all windows and tabs.</p></li>
       </ul>
       <ul id="ul_hnz_q2c_lx">
-        <li><b>BTS icons are to small</b><p>On Windows 8.1 and Windows 10 systems the icons are
-            smaller than on previous systems. Start BTS in Windows-XP-mode.</p></li>
+        <li><b>BTS icons are to small</b><p>Problem: On Windows 8.1 and Windows 10 systems the icons
+            are smaller than on previous systems. </p><p>Solution: Start BTS in
+          Windows-XP-mode.</p></li>
       </ul>
       <ul id="ul_cw1_r2c_lx">
-        <li/>
+        <li><b>Text Corpus Object / Text is not visible</b><p>Problem: A TCObject or a text you have
+            previously created or worked on is not visible. </p><p>Solution: This might happen when
+            the corpus is not indexed properly. Reindex the respective corpus.</p></li>
       </ul>
       <ul id="ul_s1c_r2c_lx">
-        <li/>
+        <li><b>Annotation is not visible</b><p>Problem: An annotation you have just added is not
+            visible anymore. </p><p>Solution: This might happen when the corpus is not indexed
+            properly. Reindex the respective corpus.</p></li>
       </ul>
-      <ul id="ul_xfd_r2c_lx">
-        <li/>
+      <ul id="ul_tcd_bvq_sx">
+        <li><b>There are no corpus icons in the navigator tree</b><p>Problem: After BTS start there
+            are no brown and black icons in the navigator tree and it is not possible to open a
+            corpus.</p><p>Solution: Something went wrong during the starting process. Please restart
+            BTS.</p></li>
       </ul>
-      <ul id="ul_nk2_r2c_lx">
-        <li>die Daten werden bei der Installation nicht vollständig heruntergeladen</li>
+      <ul id="ul_um1_xxq_sx">
+        <li><b>No corpus can be opened in the navigator tree</b><p>Problem: After BTS start there
+            are all brown and black icons in the navigator tree, but it is not possible to open a
+            corpus.</p><p>Solution: Something went wrong during the starting process. Please restart
+            BTS.</p></li>
       </ul>
-      <ul id="ul_hxp_r2c_lx">
-        <li>sehr häufig benötigtes Doppelklicken, damit erwartete Aktion funktioniert</li>
+      <ul id="ul_by2_bvq_sx">
+        <li><b>My translation has not been saved</b><p>Problem: A translation entered in the
+            translation field of the text editor is not visible.</p><p>Solution 1: The sentence was
+            not active when the translation was entered. Activation is shown by the flags and a
+            yellow underlining of the sentence (see: <xref href="howto_translation.dita"
+            />).</p><p>Solution 2: Be sure that the correct translation language is selected. You
+            might have saved e.g. your English translation as the German (de).</p><p>Solution 3:
+            Translations get lost if you change the borders of sentences, e.g. if you combine two
+            sentences to one (see <xref href="howto_transliteration.dita"/>).</p></li>
       </ul>
-      <ul id="ul_sjr_r2c_lx">
-        <li>das lange Warten, um sicher zu sein, dass eine Aktion ausgeführt wurde oder nicht</li>
+      <ul id="ul_rrf_ryq_sx">
+        <li><b>The lemmatizer does not offer any selection</b><p>Problem: The lemmatizer remains
+            blank and does not offer any selection for any word.</p><p>Solution 1: Be sure that the
+            lemmatizer is activated.</p><p>Solution 2: The word list is not indexed properly.
+            Reindex the word list.</p></li>
       </ul>
-      <ul id="ul_x4s_r2c_lx">
-        <li/>
-      </ul>
-      <ul id="ul_crt_r2c_lx">
-        <li/>
-      </ul>
-      <ul id="ul_xt5_r2c_lx">
-        <li/>
-      </ul>
-      <ul id="ul_hxv_r2c_lx">
-        <li/>
-      </ul>
-      <ul id="ul_nlk_t2c_lx">
-        <li/>
+      <ul id="ul_vng_bvq_sx">
+        <li><b>I cannot find a specific word in the lemma list</b><p>Problem: During lemmatization
+            the lemmatizer does not offer any selection for a specific word, although different
+            transliterations have been tested.</p><p>Solution 1: The word list is not indexed
+            properly. Reindex the word list.</p><p>Solution 2: The word does not exist in the word
+            list yet. Please contact the BTS team.</p></li>
       </ul>
     </p>
   </body>

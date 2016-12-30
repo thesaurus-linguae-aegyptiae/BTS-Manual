@@ -8,7 +8,7 @@
   <p>BTS has been tested on Windows 7 SP1 64-bit, Windows 8.1 64-bit and Windows 10 64-bit. We do
    not guarantee the full functionality on other Windows OS (XP or Windows Server). </p>
   <p><b>Required RAM</b></p>
-  <p>BTS requieres minumum 2 GB RAM. To work fluently we recommand at least 4 GB RAM. Your local BTS
+  <p>BTS requires minimum 2 GB RAM. To work fluently we recommend at least 4 GB RAM. Your local BTS
    installation will constantly communicate with the server, updating the data. BTS will synchronize
    and download all available database files, which are now about 2 GB large. Check your internet
    connection and make sure it is working, otherwise BTS will be in offline-mode and will not be
@@ -30,7 +30,7 @@
    firewall of your PC. For the port number see <xref href="intro_install.dita"/>. </p>
   <p><b>Internet access</b></p>
   <p>BTS can be used online and offline, i.e. you do not need permanent internet access. You only
-   need access to download the wordlist and other data during the installation process and to
-   sychronize your local data with the server. This process runs automatically.</p>
+   need access to download the word list and other data during the installation process and to
+   synchronize your local data with the server. This process runs automatically.</p>
  </conbody>
 </concept>

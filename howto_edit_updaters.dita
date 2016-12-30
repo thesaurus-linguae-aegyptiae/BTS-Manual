@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_pjt_czn_kx">
-  <title>Edting Updaters / Readers of selected database objects</title>
+  <title>Editing Updaters / Readers of selected database objects</title>
   <body>
     <p>To set and edit the <xref href="user_roles.dita#topic_yqt_fpq_zs">User Status</xref> for the
       currently selected database object (corpus, text, lemma, thesaurus entry etc.) select "Edit"

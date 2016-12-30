@@ -8,8 +8,7 @@
    to be reconstructed in square brackets (as in the transliteration). Instead, shading is applied
    to indicate that the destroyed sign cannot be read. The size of the destruction is not important,
    the shading will always be same size (see screen-shot below). You can enter it by using "//".</p>
-  <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Shading.png" id="image_h1k_sk2_1v"
-   /></p>
+  <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Shading.png" id="image_h1k_sk2_1v"/></p>
   <p><b>Partial Destruction</b></p>
   <p>When a sign is only partially destroyed (part of it still visible and identifiable), it is
       rendered by half-square brackets. The half-square brackets are entered with [?-Hieroglyph-?]
@@ -24,6 +23,6 @@
    the example below:</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/L%C3%BCcke.png"
     id="image_byq_xdy_st"/>
-   <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></p>
+   </p>
  </conbody>
 </concept>

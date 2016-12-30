@@ -6,7 +6,7 @@
     <p>BTS workspace consists of dynamic windows, which can be maximized, minimized or dragged out
       of BTS interface. Each window can contain one or more tabs. Tabs can be moved from one window
       to another or opened in a separate window. </p>
-    <p>Sub-tabs cannot be moved independently of a tab they are assigned to, e.g. the "Passpost Data
+    <p>Sub-tabs cannot be moved independently of a tab they are assigned to, e.g. the "Passport Data
       Editor" tab can be moved to the "Annotations" / "Translation" and grouped together with them.
       Alternatively it can be dragged out of BTS user interface as a separate window. The sub-tabs
       of "Passport Data Editor" (Main, Relation, IDs etc.) cannot be moved separately. The

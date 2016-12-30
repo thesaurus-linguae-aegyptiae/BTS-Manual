@@ -63,8 +63,8 @@
       tab. In the Bin you can either restore it or permanently delete it by right-click. Note that
       you are only allowed to delete your own database objects, texts etc.</p>
   <p>NOTE: This only deletes the selected database object. All child elements (e.g. Subtexts,
-   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Oprhans" and are still
-   accesible via the Search Dialog. You have to delete all child elemets before deleting the
+   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Orphans" and are still
+   accessible via the Search Dialog. You have to delete all child elements before deleting the
    respective database object.</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>
    <u>Open Simple Search Dialog</u></p>
@@ -117,7 +117,7 @@
        <li>Filter by Project / Creator / Updaters / Review Status / Visibility / Types opens a
         dialogue to select your filter criteria by clicking the relevant check boxes. To undo the
         filter, unselect the checkboxes. </li>
-       <li>Only active text corpora: Displays only active corpara, marked by <image
+       <li>Only active text corpora: Displays only active corpora, marked by <image
          href="Images/icons/full/icon16/corpus.png" id="image_tff_typ_gx"/>.</li>
        <li>Filter only invalid texts: Displays all texts that do not match the formal system
         grammar.</li>
@@ -130,8 +130,8 @@
   </p>
   <p><b>Icons in the Corpus Navigator tree</b></p>
   <p>There are several icons that represent different types of database objects in the Corpus
-      Navigator tree. These are combined with smaller ones to definde the review state or to provide
-      a warning.</p>
+   Navigator tree. These are combined with smaller ones to define the review state or to provide a
+   warning.</p>
   <p>
    <ul id="ul_c1c_qgp_3x">
     <li><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x"/>
@@ -161,27 +161,27 @@
    </ul>
    <ul id="ul_obj_xwp_3x">
     <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png" id="image_tpj_b3p_3x"/>
-          <b>ObjectPart:</b> ObjectPart is hierarchically subordinated to TCObject. Use it, when the
-          carrier of your text consits of more than one physical object (e.g. a statue and its base
-          or several parts of a buidling).</li>
+     <b>ObjectPart:</b> ObjectPart is hierarchically subordinated to TCObject. Use it, when the
+     carrier of your text consist of more than one physical object (e.g. a statue and its base or
+     several parts of a building).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_hp1_jgp_3x">
     <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
-          <b>Text:</b> A Text is defined as a coherent entity. Your physical object might contain
-          several texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The Taking of
-          Joppe" etc. Each of these tales and poems recieves its own database object "Text"
-          subordinated to the TCObject "Papyrus Harris 500.</li>
+     <b>Text:</b> A Text is defined as a coherent entity. Your physical object might contain several
+     texts, e.g. Papyrus Harris 500 containing "The Doomed Prince", "The Taking of Joppe" etc. Each
+     of these tales and poems receives its own database object "Text" subordinated to the TCObject
+     "Papyrus Harris 500.</li>
    </ul>
    <ul id="ul_pwm_rwp_3x">
     <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
      <b>Subtext:</b> Subtexts are parts of the same text that are related to each other, but without
-     a defined order of reading (e.g. diffrent persons and their respective inscriptins on a
+     a defined order of reading (e.g. different persons and their respective inscriptions on a
      relief).</li>
    </ul>
   </p>
-  <p>In combinatin with the icons above the review state is displayed as follows:</p>
+  <p>In combination with the icons above the review state is displayed as follows:</p>
   <p>
    <ul id="ul_vf3_3cx_3x">
     <li><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x"/> new</li>
@@ -195,11 +195,11 @@
      awaiting update</li>
    </ul>
    <ul id="ul_alp_3cx_3x">
-    <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/> reviewd /
-     published</li>
+    <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/> reviewed
+     / published</li>
    </ul>
   </p>
-  <p>These icons mark warnings etc. in combinatin with the icons above:</p>
+  <p>These icons mark warnings etc. in combination with the icons above:</p>
   <p>
    <ul id="ul_anl_4cx_3x">
     <li><image href="Images/icons/full/ovr16/conflicts-small.png" id="image_vzg_qcx_3x"/>: This
@@ -215,7 +215,7 @@
   <p>
    <ul id="ul_vpv_4cx_3x">
     <li><image href="Images/icons/full/ovr16/pen_small.png" id="image_v5d_scx_3x"/>The pen marks
-     that this is the database object you are currenly working on.</li>
+     that this is the database object you are currently working on.</li>
    </ul>
   </p>
   <p/>

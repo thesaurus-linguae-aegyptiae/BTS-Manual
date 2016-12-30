@@ -4,8 +4,8 @@
  <title>Gaps, lacunas, and damaged parts</title>
  <conbody>
   <p>The editor of a text should himself decide whether to reconstruct a word / phrase or not. If
-   you are able recontruct the missing parts, e.g. from parallel texts or from recurring phrases,
-   use <xref href="grammar_brackets.dita">Brackets</xref>. If only a word class can be
+   you are able to reconstruct the missing parts, e.g. from parallel texts or from recurring
+   phrases, use <xref href="grammar_brackets.dita">Brackets</xref>. If only a word class can be
    reconstructed, a "representative" should be used instead (see below).</p>
   <p/>
   <p><b>General representation of gaps and lacunas</b></p>
@@ -74,7 +74,7 @@
     href="howto_lemmatizing.dita"/>). For a list that helps you to find the relevant WCN number, see
     <xref href="howto_lemmatizing_unknownwords.dita"/>.</p>
   <p>NOTE: To find the complete list in the lemma list, you may also open search via the magnifying
-   glass and search vor "[Wort]" (full text search with both check boxes deactivated). The results
+   glass and search for "[Wort]" (full text search with both check boxes deactivated). The results
    will appear at the end of the list.</p>
  </conbody>
 </concept>

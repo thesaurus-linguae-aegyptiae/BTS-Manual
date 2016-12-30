@@ -3,17 +3,17 @@
 <topic id="topic_dlt_2db_nx">
   <title>Encoding Inflection</title>
   <body>
-    <p>To ecode the inflection, switch to the Sign Text Editor and activate the Lemmatizer. </p>
+    <p>To encode the inflection, switch to the Sign Text Editor and activate the Lemmatizer. </p>
     <p>Assign an inflection code to each word form (token). The inflection codes apply to forms that
       are distinguished morphologically. It does not encode forms that depend on grammar theory,
-      that means there is no differentation between morphological identical <i>sḏm=f</i>-Forms. For
+      that means there is no differentiation between morphological identical <i>sḏm=f</i>-Forms. For
       a list of codes see <xref href="grammar_inflection.dita"/>.</p>
     <p>Experience has learned that it is better to lemmatize a text first and afterwards fill out
       the field "Flexion". If you want to encode the inflection during the lemmatization process,
-      type the approriate code into the field "Flexion" before or after you have selected the lemma
+      type the appropriate code into the field "Flexion" before or after you have selected the lemma
       and than confirm with <image href="Images/icons/full/icon16/lemma-ok.png"
         id="image_zt4_fvf_fx"/>. If you choose to encode the inflection after you have finished the
-      lemmatization (as we recommand), you can use the button <image
+      lemmatization (as we recommend), you can use the button <image
         href="Images/Icons_updated/full/icon16/flexion-confirm.png" id="image_zxg_dks_2x"/> to
       proceed to the next not yet inflected word. You can also use the ENTER key to confirm and
       proceed.</p>

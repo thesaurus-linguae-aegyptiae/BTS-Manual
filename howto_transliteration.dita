@@ -10,7 +10,7 @@
     <p><b>1. Segmentation of a text</b></p>
     <p>The text has to be sequenced in sentences according to the Egyptian syntax. Start and end
       each sentence with the sentence marker "§". There is no "space" between "§" and the following
-      / preceeding word.</p>
+      / preceding word.</p>
     <p>Rules for the segmentation of sentences:</p>
     <p>
       <ul id="ul_yp5_2sz_2x">
@@ -20,14 +20,14 @@
         <li>Protasis and apodosis of a conditional clause are one sentence (e.g. <i>jr ḏd=f nj ꜥnḫ=f
             pw</i>).</li>
         <li>Relative clauses (<i>n.tj</i>, <i>jw.tj</i>) belong to the superordinated clause.</li>
-        <li>Subjuctive clauses and clauses with <i>wn.t</i>, <i>n.tjt</i>, or <i>jw.tjt</i> belong
-          to the superordinated clause.</li>
-        <li>Prepositional subclauses belong to the superordinated clause (e.g. <i>ḫr m-ḫt hrw.w 3
+        <li>Subjunctive clauses and clauses with <i>wn.t</i>, <i>n.tjt</i>, or <i>jw.tjt</i> belong
+          to the superordinate clause.</li>
+        <li>Prepositional subclauses belong to the superordinate clause (e.g. <i>ḫr m-ḫt hrw.w 3
             swꜣw ḥr nn</i> + main clause + <i>r rdj.t</i> ...).</li>
-        <li>Adverbal clauses belong to the superordinated clause, if the subordination is
+        <li>Adverbial clauses belong to the superordinate clause, if the subordination is
           clear.</li>
-        <li>Continuative forms (e.g. <i>mtw=</i>) are segmented in seperate sentences.</li>
-        <li>Direct speech forms a seperate sentence.</li>
+        <li>Continuative forms (e.g. <i>mtw=</i>) are segmented in separate sentences.</li>
+        <li>Direct speech forms a separate sentence.</li>
       </ul>
     </p>
     <p>Logical phrases and formulas are treated as sentences:</p>
@@ -74,7 +74,7 @@
         <li>prefixes</li>
         <li>suffixes </li>
         <li>all kind of endings</li>
-        <li>stemm modification</li>
+        <li>stem modification</li>
         <li>compound words </li>
       </ul>
     </p>
@@ -122,7 +122,7 @@
             </ul>
             <ul id="ul_afy_kgh_px">
               <li>Blank parts of a text that were intended for a later addition of a personal name
-                and titles (e.g. on a coffin), are transliterated as decriptive information: "#3Q
+                and titles (e.g. on a coffin), are transliterated as descriptive information: "#3Q
                 unbeschriftet#", "#5Q leer für Titel und Namen des Verstorbenen#" etc.</li>
             </ul>
           </p></li>
@@ -132,9 +132,9 @@
     <p><b>5. Sigla for textual structure</b></p>
     <p>
       <ul id="ul_qtp_xgh_px">
-        <li><b>Sentence marker</b><p>Each sentene is to be placed between sentence markers "§", e.g.
-              §<i>jw =f sḏm</i>§</p><p>NOTE: When you enter your transliteration, BTS will represent
-            each sentence as one long line. To produce a line break click <image
+        <li><b>Sentence marker</b><p>Each sentence is to be placed between sentence markers "§",
+            e.g. §<i>jw =f sḏm</i>§</p><p>NOTE: When you enter your transliteration, BTS will
+            represent each sentence as one long line. To produce a line break click <image
               href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/> (Load Text
             Lemmata) or switch between Sign Text Editor and Transliteration Editor.</p></li>
       </ul>
@@ -144,7 +144,7 @@
         <li><b>Line Count</b><ul id="ul_ugx_ryw_ns">
             <li>Line counts according to the physical object are introduced by #lc: and end with
                 <b>#</b>. The numbers (usually arabic numerals) are written in square brackets,
-              e.g.: Line 1 = #lc: [1]#. <p>Use the line cout of a principle edition if it follows
+              e.g.: Line 1 = #lc: [1]#. <p>Use the line count of a principle edition if it follows
                 the line count of the physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc:
                 [12.4]#.</p><p>For <b>columns</b> use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line
                 break in the original text occurs within the borders of a word, the line count is to
@@ -155,7 +155,7 @@
               106a#.</li>
           </ul><p>NOTE: It is not allowed to use colon between "#" more than once, e.g. #lc: [1:4]#
             is not valid.</p><p>NOTE: It is not allowed to use colon directly after or directly
-            before "#".</p><p>NOTE: The line count provided by BTS at the left egde of the Text
+            before "#".</p><p>NOTE: The line count provided by BTS at the left edge of the Text
             Editor is only temporary. It changes at each line break.</p></li>
       </ul>
     </p>
@@ -220,30 +220,68 @@
           external source (e.g. a MS Word document) by copy&amp;paste, if it follows all the rules
           of BTS grammar. The transliteration used in MS Word should be the unicodefont
           BBAWLibertine.</li>
+      </ul>
+      <ul id="ul_k3v_yr3_5x">
         <li>You can copy your transliteration, parts of it or extra-textual information and paste it
           anywhere in the same or another text. By doing this, only the transliteration will be
           copied, even if the tokens are lemmatized.</li>
-        <li>If you want to copy&amp;paste your transliteration as lemmazied tokens, use the feature
-          "Copy with Lemmata" and "Paste with Lemmata". This feature copies and pastes the
+      </ul>
+      <ul id="ul_wbz_yr3_5x">
+        <li>If you want to <b>copy&amp;paste your transliteration as lemmatized tokens</b>, use the
+          feature "Copy with Lemmata" and "Paste with Lemmata". This feature copies and pastes the
           transliteration including inflection code, hieroglyphs, and translation. It does not copy
           any annotation, comment, or rubrum.<p>
             <ul id="ul_k51_jcy_2x">
-              <li>This feature does not work for single words and phrases. You can only copy
-                complete sentences. Mark the sentence or the set of sentences you would like to
-                copy. Click on it (right-click) and select "Copy with Lemmata".</li>
-              <li>Proceed to the text where you want to insert the sentence(s). Righ-click the exact
-                position and select "Paste with Lemmata". To insert a sentence after an existing
-                sentence, place the cursor behind the "§" sign.</li>
+              <li>This feature works for single words and phrases as well as for whole sentences or
+                sets of sentences. Select the token, the sentence or the set of sentences you would
+                like to copy. Click on it (right-click) and select "Copy with Lemmata".</li>
+            </ul>
+            <ul id="ul_k5v_fs3_5x">
+              <li>Proceed to the text where you want to insert the selected tokens. Right-click the
+                exact position and select "Paste with Lemmata": <p>
+                  <ul id="ul_axm_js3_5x">
+                    <li>To <b>insert a sentence or a set of sentences</b> after an existing
+                      sentence, place the cursor behind the "§" sign and select "Paste with
+                      Lemmata".</li>
+                    <li>If you paste the sentence(s) in front of the "§" sign, the selected
+                      sentences will be pasted into the existing sentence, but without copying the
+                      translation.</li>
+                    <li>To <b>insert a word or a phrase</b> within an already existing sentence,
+                      place the cursor at the respective position within the sentence and select
+                      "Paste with Lemmata". If you want to insert a word/phrase at the end of a
+                      sentence, be sure to place the cursor in front of the "§" sign.<p>NOTE:
+                        Copying a word or phrase with Lemmata and pasting it behind a "§" sign will
+                        paste the complete sentence, from which the original word/phrase was copied
+                        from, after the selected sentence.</p><p>NOTE: It is currently not possible
+                        to "paste with Lemmata" at the beginning of a sentence directly after the
+                        "§" sign. If you want to insert a word/phrase at the beginning of a
+                        sentence, enter a dummy word firs, paste the word/phrase after the dummy and
+                        delete the dummy word afterwords.</p></li>
+                    <li>"Copy &amp; Paste with Lemmata" of words and phrases is not limited to
+                      sentence borders. You are enabled to copy the last part of one sentences and
+                      the beginning of the following sentence and paste it into another
+                      sentence.</li>
+                  </ul>
+                </p></li>
+              <li>Summing up: <p>
+                  <ul id="ul_rqb_l53_5x">
+                    <li><b>Pasting text after the "§" sign</b> will always paste one or more
+                      complete sentences with translation (even if you have only copied parts of the
+                      respective sentence(s)).</li>
+                    <li><b>Pasting text in front of the "§" sign</b> will always copy the exact
+                      sequence of tokens without translation.</li>
+                  </ul>
+                </p></li>
             </ul>
           </p></li>
       </ul>
     </p>
    <p>NOTE: You are not allowed to use "Paste with Lemmata" in an empty text. First you need to
-      enter some dummy text and press "Load Text Lemmata". After pasting yout text you can delete
-      the dummy.</p>
+      enter some dummy text and press "Load Text Lemmata" or switch to the Sign Text Editor and
+      back. After pasting your text you can delete the dummy.</p>
     <p>NOTE: The sentence you want to copy as well as the sentence in, before, or after which you
       want to insert the copied sentence(s) must be activated. Activation is shown by the sign
-        <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> diretly to the
+        <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> directly to the
       left of the sentence. It might take some time or a switch between database objects, until the
       sentence is activated (compare note on <xref href="howto_translation.dita">translation</xref>
       below).</p>
@@ -253,7 +291,7 @@
       internal logic according to which specific signs can only occur in specific combinations. For
       instance, it is not allowed to leave out an ending ("nb."), to write two full stops ("nb.."),
       to close brackets before opening them ("n]b[") or to interlace different kinds of brackets
-      ("{n[b}]"). Such inputs are marked by an error waring, for details see chapter <xref
+      ("{n[b}]"). Such inputs are marked by an error warning, for details see chapter <xref
         href="howto_grammar_check.dita"/>.</p>
  </conbody>
 </concept>

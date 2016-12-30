@@ -11,13 +11,13 @@
    is no need for a bracket, unless there is no ambiguity possible, e.g. because of homography.</p>
   <p>
    <ul id="ul_qzy_g2g_cv">
-    <li>Example 1: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
+    <li>Example 1: <i>nfr</i> written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
       id="image_ghr_yy5_wt"/> has to be transliterated as “<i>nfr</i>”, not “<i>nf[r]</i>”.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_q2n_h2g_cv">
-    <li>Example 2: nfr written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
+    <li>Example 2: <i>nfr</i> written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
       id="image_rmm_nz5_wt"/> has to be transliterated as "<i>⸢nfr⸣</i>".</li>
    </ul>
   </p>
@@ -91,13 +91,15 @@
   </p>
   <ul id="ul_omg_fmy_2x">
    <li>
-    <p>Brackets have to be closed with each token (word), e.g. [jw] [nfr] (not: [jw nfr]).</p>
+    <p>Brackets have to be closed with each token (word), e.g. <i>[jw] [nfr]</i> (not: <i>[jw
+      nfr]</i>).</p>
    </li>
-   <li>Brackets can be combined, as long as the bracket opened last is closed first, e.g. [ḫp(r)],
-    ⸢ḫp(r)⸣, ⸮[ḫ]p(r)? etc. Interlacing diffrent kinds is not valid, e.g. ⸮[ḫ?]pr.<p>NOTE: Some
-     combinations of round brackets and double round brackets result in errors, although they should
-     be valid. For example ((n(,j))) is not valid in the BTS grammar. In such a case use the dummy
-     sign "⁝⁝": ((n(,j)⁝⁝)).</p></li>
+   <li>Brackets can be combined, as long as the bracket opened last is closed first, e.g.
+     <i>[ḫp(r)]</i>, <i>⸢ḫp(r)⸣</i>, <i>⸮[ḫ]p(r)?</i> etc. Interlacing different kinds is not valid,
+    e.g. <i>⸮[ḫ?]pr</i>.<p>NOTE: Some combinations of round brackets and double round brackets
+     result in errors, although they should be valid. For example <i>((n(,j)))</i> is not valid in
+     the BTS grammar. In such a case use the dummy sign "⁝⁝" (i.e. double "⁝"; see <xref
+      href="intro_keyboard.dita"/>): <i>((n(,j)⁝⁝))</i>.</p></li>
   </ul>
  </conbody>
 </concept>

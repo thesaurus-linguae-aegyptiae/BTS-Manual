@@ -24,11 +24,11 @@
       </ul>
       <ul id="ul_tyk_vqc_lx">
         <li>The <xref href="ui_workspace.dita">Workspace</xref> is a part of the BTS user interface
-          where all database records are entered and processed. Differents contents are edited
-          within the workspace, according to your mode of work, i.e. whether you edit texts, edit
-          the lemma list, work on the thesauri or create abstact texts. The Text Corpus View, the
-          Lemma View, the Thesaurus View and the Abstract Text View can be accessed via the toolbar.
-          The workspace of each view is subdivided into four windows: the Navigator window
+          where all database records are entered and processed. Different contents are edited within
+          the workspace, according to your mode of work, i.e. whether you edit texts, edit the lemma
+          list, work on the thesauri or create abstract texts. The Text Corpus View, the Lemma View,
+          the Thesaurus View and the Abstract Text View can be accessed via the toolbar. The
+          workspace of each view is subdivided into four windows: the Navigator window
           (left/yellow), the Editor window (middle above/blue) and the Passport Editor window
           (middle below/green) and the Annotation window (right/red).</li>
       </ul>

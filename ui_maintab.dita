@@ -73,8 +73,8 @@
       <ul id="ul_x1q_1ky_bv">
         <li><b>History:</b> Click to see all changes of the selected database object. Information
           includes the username of the editor and the date. To close the history information, change
-          to another "Corpus Navigator" object and then back. To restore a previous version, use use
-          the Open Revision History dialogue (see <xref href="howto_revision.dita"/>).</li>
+          to another "Corpus Navigator" object and then back. To restore a previous version, use the
+          Open Revision History dialogue (see <xref href="howto_revision.dita"/>).</li>
       </ul>
     </p>
  </conbody>

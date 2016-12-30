@@ -36,7 +36,7 @@
     <p/>
     <p><b>Compound words</b></p>
     <p>Compound words such as prepositions, nouns, proper names, titles etc. are connected by a
-      hyphen “-“ and are thus treated as one lemma, i.e. do not lemmatize <i>ḥm-nṯr</i> seperately
+      hyphen “-“ and are thus treated as one lemma, i.e. do not lemmatize <i>ḥm-nṯr</i> separately
       as <i>ḥm</i> and <i>nṯr</i> (see: <xref href="grammar_structure_convention.dita"/>).</p>
     <p/>
     <p><b>Compound words separated by suffix pronoun or personal names</b></p>

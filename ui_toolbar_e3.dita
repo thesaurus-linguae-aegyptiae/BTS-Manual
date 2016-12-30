@@ -3,7 +3,7 @@
 <topic id="topic_ejn_sdy_lr">
   <title>Toolbar </title>
   <body>
-    <p>The Tool  bar displays several icons. ToolTips are displayed upon the mouse-over.</p>
+    <p>The Tool bar displays several icons. Tool-tips are displayed upon the mouse-over.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Toolbar_complete.png"
         id="image_rvd_tjp_5t"/></p>
     <p><image href="Images/icons/full/obj16/add.png" id="image_izv_hlr_4r"/>
@@ -30,7 +30,7 @@
       <b>Undo</b> (Ctrl+Z) </p>
     <p>Undo the last action. You can undo more than one action. The Undo-button only applies to
       changes in the Text Editor and can only undo actions you have done during the current session
-      in the text. Once you have switched to antother database object, the feature is not available
+      in the text. Once you have switched to another database object, the feature is not available
       anymore. Newly created database objects cannot be deleted this way.</p>
     <p><image href="Images/icons/full/icon16/redo.png" id="image_ffc_mnr_4r"/>
       <b>Redo</b>

@@ -14,7 +14,7 @@
     </p>
     <p>
       <ul id="ul_pn1_jy2_cv">
-        <li><b>Bibliographical entry:</b> This feature is currenly not available.<p>
+        <li><b>Bibliographical entry:</b> This feature is currently not available.<p>
             <ul id="ul_ajh_drm_hx">
               <li><b>Bib. Item:</b> Displays the name of the selected thesaurus entry. This is no
                 input field.</li>
@@ -23,12 +23,12 @@
             <ul id="ul_fcs_vqm_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
                 <b>Search Object:</b> You may select the language from the Thesaurus. This feature
-                is currenly not available.</li>
+                is currently not available.</li>
             </ul>
             <ul id="ul_vgm_drm_hx">
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
-                thesaurus entry. This feature is currenly not available.</li>
+                thesaurus entry. This feature is currently not available.</li>
             </ul>
             <ul id="ul_gc3_grm_hx">
               <li><b>Pages/plates:</b> Enter the pages / plate number complementing the

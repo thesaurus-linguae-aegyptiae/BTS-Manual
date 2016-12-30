@@ -19,7 +19,7 @@
       is "couchdb". The server URL includes the URL and port number and currently is
       "http://aaew64.bbaw.de:9589/". Database path is left empty. </p>
     <p>Clicking on the "Next >" button again will display a "Project Feature" window to select among
-      the features "Corpus Data", "Thesaurus Data", "Wordlist Data", and "Abtract Texts Data". We
+      the features "Corpus Data", "Thesaurus Data", "Wordlist Data", and "Abstract Texts Data". We
       recommend to select all the check-boxes. </p>
     <p>A further click on "Next >" leads to the "Project Database Collection" window, in which the
       newly created databases can be added or the existing ones edited. Editing includes changing
@@ -35,7 +35,7 @@
     <p>The Button "Next >" leads to the "Project Connection Settings" window. Here you can enter
       "Connection Type" (BTS uses "couchdb"), "Server URL" and "Database Path".</p>
     <p>Clicking on "Next >" will display a window with options to select additional features (Corpus
-      Data, Thesaurus Data, Wordlist Data, Abtract Texts Data). Select the relevant check boxes and
+      Data, Thesaurus Data, Wordlist Data, Abstract Texts Data). Select the relevant check boxes and
       click "Next >". </p>
     <p>In the "Project Database Collection" window you can add the existing databases to the new
       project. You can edit the name of the collection by clicking the "Edit" button. </p>

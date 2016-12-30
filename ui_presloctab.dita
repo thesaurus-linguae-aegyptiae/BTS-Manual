@@ -4,7 +4,7 @@
  <title>Present Location</title>
  <conbody>
   <p>This tab allows you to put in data concerning the present location (i.e. a museum or
-   collection) of the Egytian object, that bears the text you want to edit.</p>
+   collection) of the Egyptian object, that bears the text you want to edit.</p>
   <p/>
   <p>
    <ul id="ul_rqj_zpl_hx">
@@ -58,7 +58,7 @@
    </ul>
    <ul id="ul_h1s_vxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the set of informtion or clears the entry fields if it is
+     <b>Remove Entry Group:</b> Removes the set of information or clears the entry fields if it is
      the only entry group.</li>
    </ul>
   </p>

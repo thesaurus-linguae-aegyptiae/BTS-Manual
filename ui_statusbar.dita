@@ -8,7 +8,7 @@
       of this icon, the position of the currently selected database object in the Navigator tree is
       displayed. </p>
     <p><image href="Images/icons/full/icon32/Information.png" id="image_ltl_fn3_2s"/> To the right
-      of this icon, a status messege is displayed, e.g. the position of your coursor in a selected
+      of this icon, a status message is displayed, e.g. the position of your cursor in a selected
       text (line number, column (= position in line), unicode) or the information that database
       objects are suppressed because you do not have the specific rights to see them. Clicking on
       the icon will display a window with the last 25 status messages. </p>

@@ -5,9 +5,9 @@
  <conbody>
     <p>BTS text editing tools include annotations, rubra, glosses and comments, which can be applied
       to a word or a sequence of words, a sentence or several sentences. </p>
-    <p>NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun jn
-      the n was omitted and later added in red: j((n)), this n cannot be marked as being written in
-      red)"</p>
+    <p>NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun
+        <i>jn</i> the <i>n</i> was omitted and later added in red: <i>j((n))</i>, this <i>n</i>
+      cannot be marked as being written in red)"</p>
     <p><b>What is the difference between an annotation, a gloss, a rubrum or a comment?</b></p>
     <p>
       <ul id="ul_kk3_3lj_lx">
@@ -15,15 +15,15 @@
           text, which may include bibliographical references and other metadata. Annotations are not
           limited to one fragment, they can be connected with more than one section of a text. You
           can use annotation, for example, to divide your text into chapters (e.g. to define and
-          seperate the remedies of a medical text or the maximes of Ptahhotep ) and other forms of
+          separate the remedies of a medical text or the maximes of Ptahhotep ) and other forms of
           alignment. Annotations can be used for syntactic, stylistic, prosopographic information.
           Therefore, there are different types and subtypes of annotations so that one can
           distinguish these types of information. If you need further types and subtypes, please
-          contact the BTS team in Berlin.<p>NOTE: To seperate specific parts of a text, annotations
+          contact the BTS team in Berlin.<p>NOTE: To separate specific parts of a text, annotations
             are only used, if their sequence is evident. To mark sections of a text in a case when
-            the sequence of the chapters is not clear or ambigous (e.g. first part being a biography
-            and the next an offering scene or a Ptolemaic temple scene with a text and various
-            Beischriften.), <b>Subtext</b> is used.</p></li>
+            the sequence of the chapters is not clear or ambiguous (e.g. first part being a
+            biography and the next an offering scene or a Ptolemaic temple scene with a text and
+            various Beischriften.), <b>Subtext</b> is used.</p></li>
       </ul>
     </p>
     <p>
@@ -96,6 +96,11 @@
       token. If you need to make changes to an already lemmatized and/or annotated token, switch to
       the Sign Text Editor and make the changes in the field "Selected Word" (see also <xref
         href="howto_lemmatizing.dita"/>).</p>
+    <p><b>Using transliteration signs in comments</b></p>
+    <p>You are enabled to use transliteration signs in comments. This might for instance be
+      necessary if you discuss a word. In this case, write the transliteration between two "$"
+      signs, so that the transliteration will later on be transformed into cursive in the
+      representation in the TLA, e.g.: $sḏm$.</p>
     <p><b>Deleting annotations</b></p>
     <p>You can delete the annotation by selecting it and clicking <image
         href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/> "Delete" in the upper
@@ -103,12 +108,12 @@
       confirm or "Cancel" if you have changed your mind.</p>
     <p>NOTE: You cannot delete any annotation via the "Undo" button.</p>
     <p><b>Editing annotations</b></p>
-    <p>Once you have created an annotation, rubrum, glosse, or comment, you are enabled to edit it
-      by selecting it from the Annotation tab: </p>
+    <p>Once you have created an annotation, rubrum, gloss, or comment, you are enabled to edit it by
+      selecting it from the Annotation tab: </p>
     <p>
       <ul id="ul_gvl_xjj_lx">
-        <li>Cick <image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> to edit the
-          content and the metadata of the annotation.</li>
+        <li>Click <image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> to edit
+          the content and the metadata of the annotation.</li>
       </ul>
       <ul id="ul_nsk_kkj_lx">
         <li>Use <image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/> to add
