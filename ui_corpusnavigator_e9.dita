@@ -21,10 +21,10 @@
         href="howto_prefs.dita"/>.</p>
   <p>Corpus Navigator has two sub-tabs: <image href="Images/icons/full/icon16/corpora.png"
         id="image_o21_2y3_zs"/> "Text Corpora" and <image href="Images/icons/full/icon16/bin.png"
-        id="image_vqw_pjs_4r"/> "Bin". A third tab with the search results will appear, when you
-      open the search dialog. By default the tab "Text Corpora" is activated. In the "Bin" tab you
+        id="image_vqw_pjs_4r"/> "Trash". A third tab with the search results will appear, when you
+      open the search dialog. By default the tab "Text Corpora" is activated. In the "Trash" tab you
       can find your deleted Texts and Text Corpus Objects. Please note that generating the list of
-      the database objects in the "Bin" tab may take up to one minute the first time you click it
+      the database objects in the "Trash" tab may take up to one minute the first time you click it
       after installing BTS. Thereafter the preview works faster. </p>
   <p>At the top of the Corpus Navigator section there are several buttons. Two of them, <image
         href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
@@ -58,9 +58,9 @@
   <p>Adds a comment to the selected node.</p>
   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
   <p><?oxy_custom_end?><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r"/>
-   <u>Delete</u></p>
-  <p>Deletes the selected database object from the Corpus Navigator tree and moves it into the "Bin"
-      tab. In the Bin you can either restore it or permanently delete it by right-click. Note that
+   <u>Move to Trash</u></p>
+  <p>Deletes the selected database object from the Corpus Navigator tree and moves it into the "Trash"
+      tab. In the trash bin you can either restore it or permanently delete it by right-click. Note that
       you are only allowed to delete your own database objects, texts etc.</p>
   <p>NOTE: This only deletes the selected database object. All child elements (e.g. Subtexts,
    Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Orphans" and are still
@@ -76,12 +76,12 @@
   <p>
    <ul id="ul_xf1_h1y_bv">
     <li>Delete Permanently: Use this option to delete an item completely (it will not be moved to
-     the bin). Clicking on "Delete Permanently" will open a confirmation dialogue .</li>
+     the trash bin). Clicking on "Delete Permanently" will open a confirmation dialogue .</li>
    </ul>
   </p>
   <p>
    <ul id="ul_r1v_31y_bv">
-    <li>Restore: Click to restore an item from the bin.</li>
+    <li>Restore: Click to restore an item from the trash bin.</li>
    </ul>
   </p>
   <p>

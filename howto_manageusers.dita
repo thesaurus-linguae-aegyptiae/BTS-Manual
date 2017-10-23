@@ -11,7 +11,7 @@
       users and add users to project groups, which have a specific set of rights in the editing
       process.</p>
     <p>In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r"/> "Active
-      Users" the active user groups are displayed. In the tab "Bin" deleted user groups are shown.
+      Users" the active user groups are displayed. In the tab "Trash", deleted user groups are shown.
       In the brackets behind the group names the number of the assigned users is displayed. Clicking
       on a group name will open the list of assigned users. The last entry in the list "_Orphans"
       shows all available users. </p>
@@ -34,7 +34,7 @@
     <p><image href="Images/icons/full/obj16/delete.png" id="image_tml_hxk_4r"/>
       <u>Delete</u></p>
     <p>Deletes and moves the selected user into the tab <image
-        href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r"/> "Bin". </p>
+        href="Images/icons/full/icon16/bin.png" id="image_tlk_kxk_4r"/> "Trash". </p>
     <p><image href="Images/icons/full/icon16/undo.png" id="image_sjs_sxk_4r"/>
       <u>Undo</u></p>
     <p>Undo the last action.</p>

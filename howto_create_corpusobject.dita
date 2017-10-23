@@ -182,12 +182,12 @@
     <p>
       <ol id="ol_awf_h1x_3x">
         <li>To delete a database object (Text Corpus Objects or Texts) select it and then click on
-            <image href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Delete". It
-          will be moved to the bin (<image href="Images/icons/full/icon16/bin.png"
-            id="image_std_3cw_ns"/>"Bin" tab in the Corpus Navigator section), where you have the
+            <image href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Move to Trash". It
+          will be moved to the trash bin (<image href="Images/icons/full/icon16/bin.png"
+            id="image_std_3cw_ns"/>"Trash" tab in the Corpus Navigator section), where you have the
           opportunity to restore it (right click the object and choose "Restore" from the context
           menu) or to delete it permanently. All subordinate elements will be deleted as well. Upon
-          closing or restarting the BTS all the items in the bin will be deleted permanently.</li>
+          closing or restarting the BTS all the items in the trash bin will be deleted permanently.</li>
         <li>A database object is deleted permanently (without moving it to the bin first) by either
           right-clicking the respective item and selecting "Delete Permanently" or by selecting the
           item from the Navigator tree and then selecting "Delete Permanently" from the drop-down
