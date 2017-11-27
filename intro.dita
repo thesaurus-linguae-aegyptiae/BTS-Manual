@@ -6,12 +6,12 @@
   <p>Welcome to Berlin Text System V 3.0 - a new Java software with a Couch DB database and an
    Elastic search engine, specially designed for editing and annotating Ancient Egyptian texts. The
    program supports entering Egyptian texts into a <b>Text Editor</b> and annotating all texts and
-   all words in different layers. One of the main tasks is the lexical and grammatical annotation of
-   text words. Using an integrated lemmatizer all text words are connected to the appropriate
+   words in different layers. One of the main tasks is the lexical and grammatical annotation of
+   words in texts. Using an integrated lemmatizer all text words are connected to the appropriate
    entries in the <b>Lemma List</b>, which is constantly updated and contains all known words of the
-   Egyptian vocabulary. Furthermore all database objects are enriched with metadata, which are in
-   turn stored and organised by a controlled vocabulary of <b>Thesauri</b>. As an additional
-   structural element the layer of <b>Abstract Text</b> supports the mapping of different textual
+   Ancient Egyptian vocabulary. Furthermore all database objects are enriched with metadata, which
+   are in turn stored and organised by a controlled vocabulary of <b>Thesauri</b>. As an additional
+   structural element, the layer of <b>Abstract Text</b> supports the mapping of different textual
    witnesses of texts with a long textual tradition.</p>
   <p>The four major components - Text Editor, Lemma List, Thesaurus and Abstract Text - complement
    each other to guarantee the extensive word processing and analyzing Ancient Egyptian texts:</p>
