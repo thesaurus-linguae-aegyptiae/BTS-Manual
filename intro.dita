@@ -4,68 +4,62 @@
  <title>Introduction</title>
  <conbody>
   <p>Welcome to Berlin Text System V 3.0 - a new Java software with a Couch DB database and an
-   Elastic search engine, specially designed for editing and annotating Ancient Egyptian texts. The
-   program supports entering Egyptian texts into a <b>Text Editor</b> and annotating all texts and
-   words in different layers. One of the main tasks is the lexical and grammatical annotation of
-   words in texts. Using an integrated lemmatizer all text words are connected to the appropriate
-   entries in the <b>Lemma List</b>, which is constantly updated and contains all known words of the
-   Ancient Egyptian vocabulary. Furthermore all database objects are enriched with metadata, which
-   are in turn stored and organised by a controlled vocabulary of <b>Thesauri</b>. As an additional
-   structural element, the layer of <b>Abstract Text</b> supports the mapping of different textual
-   witnesses of texts with a long textual tradition.</p>
-  <p>The four major components - Text Editor, Lemma List, Thesaurus, and Abstract Text - complement
-   each other to allow  extensive word processing and analyzing of Ancient Egyptian texts:</p>
+   Elastic search engine, designed for editing and annotating Ancient Egyptian texts. Entering texts
+   into the <b>Text Editor</b> allows the texts to be annotated in different layers; one of the main
+   functions of the system is the lexical and grammatical annotation of words in texts. Using an
+   integrated lemmatizer, all words are connected to the appropriate entries in the <b>Lemma
+    List</b>, which is constantly updated and contains all known words of the Ancient Egyptian
+   vocabulary. Furthermore, all texts (here called 'database objects') can be enriched with
+   metadata, such as provenance, materiality, and date, which can be selected from a controlled
+   vocabulary of <b>Thesauri</b>. Additionally, in the <b>Abstract Text</b> function the different
+   textual witnesses of a text can be combined in one view, showing the text's development over
+   time.</p>
+  <p>The four major components - Text Editor, Lemma List, Thesaurus, and Abstract Text are briefly
+   described below:</p>
   <p>
    <ul id="ul_wqg_qyb_lx">
     <li>The <b>Text Editor</b> provides tools for transliteration, translation, lemmatization
      (assigning a lemma to a word), entering hieroglyphic transcriptions via a Hieroglyph Type
-     Writer and add annotations. Texts could be merged and arranged in a Text Corpus. The Text
-     Editor is the core of the BTS. </li>
+     Writer, and annotations. Texts can be merged and arranged in a Text Corpus. The Text Editor is
+     the core of the BTS. </li>
    </ul>
    <ul id="ul_g1g_ryb_lx">
-    <li>The <b>Lemma List</b> contains two up-to-date lists of Pre-Coptic lemmata. These lists are
-     accessible for any BTS user. Each lemma has passport data, transliteration and translation, as
-     well as annotations and comments attributed to it.<p>
-      <ul id="ul_zvt_1bc_lx">
-       <li>A list of lemmata, which occur in Demotic script.</li>
-      </ul>
-     </p><p>
-      <ul id="ul_e5c_bbc_lx">
-       <li>A list of lemmata, which occur in Hieroglyphic or Hieratic script.</li>
-      </ul>
-     </p></li>
+    <li>The <b>Lemma List</b> contains two up-to-date lists of Pre-Coptic lemmata separated into
+     words from Hieroglyphic and Hieratic scripts, and those in Demotic script. These lists are
+     accessible to any BTS user. Each lemma has passport data, transliteration, and translation, as
+     well as annotations and comments.</li>
    </ul>
    <ul id="ul_hsx_zyb_lx">
-    <li>The <b>Thesaurus</b> compiles a controlled vocabulary, which is used for the metadata of the
-     database objects like date, location, provenance, etc. A controlled vocabulary for metadata is
-     necessary to maintain data consistency and to allow effective and selective search functions.
-     All terms of a thesaurus reflect a semantic network of concepts including parent / child
-     relationships. Thesaurus entries are offered in the Passport Editor section either of the Text
-     Editor in the Text Corpus View or of the Lemma Editor in the Lemma view.</li>
+    <li>The <b>Thesaurus</b> contains vocabulary which is used for the metadata of the database
+     objects, such as date, location, provenance etc. A controlled vocabulary for metadata is
+     necessary to maintain data consistency and effective search functions. All terms in the
+     thesaurus reflect a semantic network of concepts including parent/child relationships.
+     Thesaurus entries are offered in the Passport Editor section of either the Text Editor in the
+     Text Corpus View or the Lemma Editor in the Lemma view.</li>
    </ul>
    <ul id="ul_yzc_tzb_lx">
-    <li>The <b>Abstract Text</b> provides a tool to connect all versions of a text with a long
-     textual tradition via the modern segmentation of witnesses into paragraphs.</li>
+    <li>The <b>Abstract Text</b> connects all versions of a text with a long textual tradition; this
+     function is currently unavailable.</li>
    </ul>
   </p>
   <p/>
-  <p>This User Manual offers an overview of the features now available in BTS. </p>
+  <p>This User Manual provides an overview of the features in BTS. </p>
   <p>
    <ul id="ul_lwg_xy1_pt">
-    <li>The <b>Introduction</b> chapter provides the description of the system requirements as well
-     as step-by-step instructions for BTS installation and initial configuration. It also includes
-     the description of the user roles. </li>
+    <li>The <b>Introduction</b> chapter provides a description of the system requirements as well as
+     step-by-step instructions for installing BTS and its initial configuration. It also includes a
+     description of the different user roles. </li>
    </ul>
   </p>
   <p>
    <ul id="ul_a1f_mz1_pt">
-    <li>The <b>General User Guide</b> allows a prompt and easy start into BTS and explains how to
-     edit an Egyptian text.</li>
+    <li>The <b>General User Guide</b> provides a basic introduction to BTS and explains how to edit
+     an Ancient Egyptian text.</li>
    </ul>
    <ul id="ul_ebg_l1c_lx">
-    <li>The <b>Guide for advanced and privileged users</b> informs users with the given rights to
-     edit the lemma list and the thesaurus entries and provides administrators and editors with
-     relevant introductions.</li>
+    <li>The <b>Guide for advanced and privileged users</b> shows users with the necessary editing
+     rights how to edit the lemma list and the thesaurus entries, and contains information for
+     administrators and editors.</li>
    </ul>
   </p>
   <p>
@@ -74,15 +68,16 @@
      the BTS user interface. This chapter serves as a reference to the "Guide" chapters.</li>
    </ul>
    <ul id="ul_eqy_l1c_lx">
-    <li>The <b>BTS Grammar Rules</b> chapter is a compilation of the essential rules BTS uses for
-     transliteration.</li>
+    <li>The <b>BTS Grammar Rules</b> chapter is a compilation of the essential rules for
+     transliteration in BTS.</li>
    </ul>
    <ul id="ul_i1f_zcc_lx">
-    <li>The <b>BTS troubleshooting</b> chapter offers a workaround for occurring problems.</li>
+    <li>The <b>BTS troubleshooting</b> chapter offers solutions for common questions. and
+     problems.</li>
    </ul>
    <ul id="ul_r53_cpd_lx">
-    <li>The <b>Glossary</b> gives on overview of the most important terms for the description of the
-     BTS user interface.</li>
+    <li>The <b>Glossary</b> gives an overview of the most important terms used in the BTS user
+     interface.</li>
    </ul>
   </p>
  </conbody>
