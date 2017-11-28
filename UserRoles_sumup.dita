@@ -3,8 +3,8 @@
 <topic id="topic_ysm_g4m_cv">
   <title>User roles sum-up</title>
   <body>
-    <p>The interplay of user roles, user statuses and visibility statuses is summarized in the table
-      below</p>
+    <p>The interplay of user roles, user statuses, and visibility statuses is summarized in the
+      table below.</p>
     <table id="table_o1v_vj2_2v">
       <tgroup cols="5">
         <colspec colnum="1" colname="col1" align="center" colsep="1" rowsep="1" colwidth="85.5pt"/>
@@ -31,9 +31,9 @@
           </row>
           <row>
             <entry><i>Public</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
             <entry morerows="4">
               <p> </p>
               <p> </p>
@@ -43,27 +43,27 @@
           </row>
           <row>
             <entry><i>Reader</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>Group</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>Project</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>All Authenticated</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry namest="col1" nameend="col5"><b>EDITOR</b></entry>
@@ -77,9 +77,9 @@
           </row>
           <row>
             <entry><i>Public</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
             <entry morerows="4">
               <p> </p>
               <p> </p>
@@ -90,26 +90,26 @@
           <row>
             <entry><i>Reader</i></entry>
             <entry>Cannot view</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>Group</i></entry>
             <entry>Cannot view</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>Project</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>All Authenticated</i></entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry namest="col1" nameend="col5"><b>RESEARCHER</b></entry>
@@ -125,7 +125,7 @@
             <entry><i>Public</i></entry>
             <entry>Can view, not edit</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
             <entry morerows="4">
               <p> </p>
               <p> </p>
@@ -138,25 +138,25 @@
             <entry><i>Reader</i></entry>
             <entry>Cannot view</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>Group</i></entry>
             <entry>Cannot view</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>Project</i></entry>
             <entry>Cannot view</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry><i>All Authenticated</i></entry>
             <entry>Can view, not edit</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can edit all</entry>
+            <entry>Can edit everything</entry>
           </row>
           <row>
             <entry namest="col1" nameend="col5"><b>TRANSCRIBER</b></entry>

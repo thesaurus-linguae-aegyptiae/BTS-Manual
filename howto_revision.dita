@@ -4,19 +4,20 @@
   <title>Revision History / Conflict Dialogue</title>
   <body>
     <p><b>Revision History</b></p>
-    <p>By right-click on a database object or by clicking Edit > Open Revision History <image
-        href="Images/icons/full/icon16/history.png" id="image_cck_fs4_kx"/> in the menu bar you can
+    <p>By right-clicking on a database object or by clicking Edit/Open Revision History <image
+        href="Images/icons/full/icon16/history.png" id="image_cck_fs4_kx"/> in the Menu bar, you can
       open the revision history of the selected database object in order to compare different
       versions and to restore a previous version.</p>
     <p>The Revision History window is divided into two parts. The left side displays the master
-      version, i.e. the current version. The right side shows the auto-saved versions ("Select
+      version, i.e. the current version. The right side shows the previous saved versions ("Select
       Compare Version").</p>
-    <p>In the lower part there are the respective tabs, e.g. Passport Editor and Egyptian Text
-      Editor for a text. Select a version by left-click and compare it to the current version. You
-      can navigate between the tabs to see the changes made in the respective versions.</p>
-    <p>NOTE: The topmost version on the right is the latest.</p>
-    <p>To remove a conflicting version, right-click it in the list and apply "Replace current with
-      Selected Revision".</p>
+    <p>In the lower part there are the usual tabs, e.g. Passport Editor and Egyptian Text Editor,
+      for the database object. Select a past version by left-clicking to compare it to the current
+      version. You can navigate between the tabs to see the changes made in the respective
+      versions.</p>
+    <p>NOTE: The topmost version on the right is the latest one.</p>
+    <p>To restore a previous version (which will overwrite the current version), right-click it in
+      the list and apply "Replace current with Selected Revision".</p>
     <p>Close the Revision History window by clicking "Close".</p>
     <p><b>Conflict Dialog</b></p>
     <p>If two users work simultaneously on one database object, it is possible, that they produce

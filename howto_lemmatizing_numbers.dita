@@ -4,9 +4,9 @@
   <title>Lemmatizing numbers</title>
   <body>
     <p>Numbers are transliterated as they appear in the original text, i.e. they are transliterated
-      phonetically, when they are written phonetically, and are written as numbers, when they appear
-      as numbers in the text. This paragraph helps you to lemmatize fractions and numbers that are
-      not written phonetically.</p>
+      phonetically if they are written phonetically, and are written as numbers if they appear as
+      numbers in the text. This paragraph helps you to lemmatize fractions and numbers that are not
+      written phonetically.</p>
     <p/>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_xwp_gng_fx">

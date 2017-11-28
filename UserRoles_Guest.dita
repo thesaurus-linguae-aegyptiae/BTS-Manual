@@ -3,13 +3,13 @@
 <topic id="topic_bvq_b4v_bt">
   <title>Guest</title>
   <body>
-    <p>Guests can read data but are not allowed to create new database objects, edit or delete
+    <p>Guests can read data but are not allowed to create new database objects, edit, or delete
       anything.</p>
-    <p>If given no status (Reader/Updater), a guest will not be able to see the database objects in
-      the corpus with a visibility status: Reader, Group, or Project.</p>
+    <p>If given no status (i.e. they are not a Reader/Updater), a guest will not be able to see the
+      database objects in a corpus with a visibility status of Reader, Group, or Project.</p>
     <p>Even if guests have not been given such status for a particular corpus, they will still be
       able to view its content.</p>
-    <p>Guests may view the lemma and the thesaurus views.
+    <p>Guests can see the lemma and the thesaurus views but will not be able to do anything in them.
       <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
     <?oxy_custom_end?>
   </body>
