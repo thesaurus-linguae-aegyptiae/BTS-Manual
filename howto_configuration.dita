@@ -3,7 +3,7 @@
 <concept id="concept_r4k_zqf_mr">
  <title>Configuration</title>
  <conbody>
-  <p>The BTS allows you to adjust various settings in a way that best suits your needs.</p>
+  <p>BTS allows you to adjust various settings to suits your needs.</p>
   <p>The features available for configuration are:</p>
   <p>
    <ul id="ul_ats_ntv_ps">
@@ -13,8 +13,8 @@
     <li>Setting personal preferences<p/></li>
    </ul>
   </p>
-  <p>NOTE: All changes in the configuration are valid on your local computer. They are not saved in
-   your user account, i.e. if you login on another computer you have to configure your settings
-   anew.</p>
+  <p>NOTE: All changes in the configuration are valid on your local computer only. They are not
+   saved to your user account, i.e. if you login on another computer, you will have to re-configure
+   your settings.</p>
  </conbody>
 </concept>

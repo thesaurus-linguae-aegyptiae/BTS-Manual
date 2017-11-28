@@ -4,7 +4,7 @@
   <title>Introduction to BTS User Interface</title>
   <body>
     <p>This chapter provides a brief introduction to the BTS User Interface (UI). For a detailed
-      description see the chapter <xref href="ui_bts.dita">BTS User Interface</xref> below.</p>
+      description see the chapter <xref href="ui_bts.dita">BTS User Interface</xref>.</p>
     <p>The BTS window is split into four major sections:</p>
     <p>
       <ul id="ul_yxf_j2z_4t">
@@ -16,9 +16,10 @@
       </ul>
     </p>
     <p>The Menu bar and the Toolbar are located at the top of the program window. At the bottom of
-      the program window the Status bar is displayed. The area between Toolbar and Status bar is
-      called Workspace. The contents of the Workspace change depending on the viewing mode. BTS has
-      four such modes, activated by clicking on the appropriate button in the Toolbar: </p>
+      the program window the Status bar is displayed. The area between the Toolbar and the Status
+      bar is called the Workspace. The contents of the Workspace change depending on the view you
+      are in. BTS has four such views, activated by clicking on the appropriate button in the
+      Toolbar: </p>
     <p><image href="Images/icons/full/icon16/corpora.png" id="image_fzs_xyx_qt"/>
       <u>Text Corpus view</u></p>
     <p><image href="Images/icons/full/icon16/lemmata.png" id="image_ffx_yyx_qt"/>
@@ -27,43 +28,43 @@
       <u>Thesaurus view</u></p>
     <p><image href="Images/icons/full/icon16/abstracttexts.png" id="image_zpz_1zx_qt"/>
       <u>Abstract Text view</u></p>
-    <p>Within each view there is a number of windows, which may include tabs and sub-tabs. Any tab
+    <p>Within each view there are a number of windows, which may include tabs and sub-tabs. Any tab
       and window of the workspace can be arranged according to the individual need of the user. You
-      can maximize / minimize them within the workspace or you can move them within the workspace or
-      you drag-&amp;-drop them outside the BTS program UI into a separate window. If you close the
-      separate window, you can restore the tab via the menu entry Window / Open [name of the tab] or
-      by restarting BTS. </p>
-    <p>The default arrangement of the tabs and windows is currently the following (see the
-      screen-shot below):</p>
+      can maximize/minimize or move them within the workspace, or drag-&amp;-drop them into a
+      separate window. If you close this separate window, you can restore the tab via the menu entry
+      Window/Open [name of the tab] or by restarting BTS. </p>
+    <p>The default arrangement of the tabs and windows is the following (see the screen-shot
+      below):</p>
     <p>
       <ul id="ul_eb5_z2z_4t">
         <li><b>"Navigator" window on the left</b><p>Depending on the view selected, it is named
-            Corpus-, Thesaurus- or Lemma Navigator. The tabs are the following: for the Corpus
-            Navigator: "Text Corpora" + "Bin"; for the Lemma Navigator: "WL" + "Bin"; for the
-            Thesaurus Navigator: "Thesauri" + "Bin"; and for the Abstract Text Navigator: "AT" +
-            "Bin". </p></li>
+            Corpus-, Thesaurus-, or Lemma Navigator. The tabs are the following: for the Corpus
+            Navigator they are "Text Corpora" + "Bin"; for the Lemma Navigator they are "WL" +
+            "Bin"; for the Thesaurus Navigator they are "Thesauri" + "Bin"; and for the Abstract
+            Text Navigator they are "AT" + "Bin". </p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_z2l_ggz_4t">
-        <li><b>"Annotation and Translation" window on the right</b><p>In Lemma, Thesaurus and
+        <li><b>"Annotation and Translation" window on the right</b><p>In Lemma, Thesaurus, and
             Abstract Text view the "Translation" tab is not displayed.</p></li>
-        <li><b>"Editor" window at the top center</b><p>In Text Corpus view this window contains
-            "Text Editor" tab with three sub-tabs: "Transliteration", "Sign Text Editor" and "JSesh
-            View". In Lemma view it is called "Lemma editor" with no sub-tabs. Abstract Text view
-            contains both "Text editor" and "Abstract text editor" tabs. </p></li>
+        <li><b>"Editor" window in the top center</b><p>In Text Corpus view this window contains the
+            "Text Editor" tab with three sub-tabs: "Transliteration", "Sign Text Editor", and "JSesh
+            View". In Lemma view this window is called "Lemma editor" and there are no sub-tabs.
+            Abstract Text view contains both the "Text editor" and the "Abstract text editor" tabs.
+          </p></li>
       </ul>
     </p>
     <ul id="ul_xjh_why_qt">
       <li>
-        <p><b>"Passport Data Editor", "Lemmatizer" and "Hieroglyph Type Writer (HTW)" as one window
-            at the bottom center</b>
+        <p><b>"Passport Data Editor", "Lemmatizer", and "Hieroglyph Type Writer (HTW)" in the bottom
+            center</b>
         </p>
-        <p>At the bottom three tabs are grouped together in one window. The Text Corpus and Lemma
-          views display all three. Thesaurus and Abstract Text views have only "Passport Data
+        <p>At the bottom, three tabs are grouped together in one window. The Text Corpus and Lemma
+          views display all three. Thesaurus and Abstract Text views have only the "Passport Data
           Editor" tab. </p>
         <p>NOTE: As soon as a database object is selected in the Navigator window, the titles of the
-          tabs "Text Editor", "Passport Data Editor", "Lemmatizer" and "Translation" adopt the
+          tabs "Text Editor", "Passport Data Editor", "Lemmatizer", and "Translation" adopt the
           selected database object name.</p>
       </li>
     </ul>
