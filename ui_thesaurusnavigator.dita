@@ -19,15 +19,15 @@
    Annotation: Adds an annotation to the selected thesaurus entry. </p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/> Add Comment:
    Adds an annotation to the selected thesaurus entry. </p>
-  <p><image href="Images/icons/full/obj16/delete.png" id="image_ffn_kxb_qr"/> Delete: This moves an
+  <p><image href="Images/icons/full/obj16/delete.png" id="image_ffn_kxb_qr"/> Move to Trash: This moves an
    entry from the Thesaurus to <image href="Images/icons/full/icon16/bin.png" id="image_dtn_nxb_qr"
-   /> Bin.</p>
+   /> Trash.</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_zkc_1yb_qr"/> Search: Search the
    Thesaurus for entries. </p>
-  <p><b>Bin</b></p>
+  <p><b>Trash</b></p>
   <p>Entries deleted in Thesaurus Navigator appear in <image href="Images/icons/full/icon16/bin.png"
-    id="image_bz5_ny4_zr"/> "Bin" tab. They are listed individually. Deleting an item here will
-   remove it permanently. Please note that generating the list of the objects in the Bin may take up
+    id="image_bz5_ny4_zr"/> "Trash" tab. They are listed individually. Deleting an item here will
+   remove it permanently. Please note that generating the list of the objects in the trash bin may take up
    to one minute the first time you click it after installing BTS. After this the preview works
    faster. </p>
   <p><b>Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png"

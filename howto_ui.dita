@@ -39,9 +39,9 @@
       <ul id="ul_eb5_z2z_4t">
         <li><b>"Navigator" window on the left</b><p>Depending on the view selected, it is named
             Corpus-, Thesaurus-, or Lemma Navigator. The tabs are the following: for the Corpus
-            Navigator they are "Text Corpora" + "Bin"; for the Lemma Navigator they are "WL" +
-            "Bin"; for the Thesaurus Navigator they are "Thesauri" + "Bin"; and for the Abstract
-            Text Navigator they are "AT" + "Bin". </p></li>
+            Navigator they are "Text Corpora" + "Trash"; for the Lemma Navigator they are "WL" +
+            "Trash"; for the Thesaurus Navigator they are "Thesauri" + "Trash"; and for the Abstract
+            Text Navigator they are "AT" + "Trash". </p></li>
       </ul>
     </p>
     <p>

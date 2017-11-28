@@ -175,12 +175,12 @@
       <ol id="ol_awf_h1x_3x">
         <li>To delete a database object (TCObjects or Texts) select it and then click on <image
             href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/> "Delete". It will be
-          moved to the bin (<image href="Images/icons/full/icon16/bin.png" id="image_std_3cw_ns"
-          />"Bin" tab in the Corpus Navigator), where you have the chance to restore it (right click
+          moved to the trash bin (<image href="Images/icons/full/icon16/bin.png" id="image_std_3cw_ns"
+          />"Trash" tab in the Corpus Navigator), where you have the chance to restore it (right click
           the object and choose "Restore" from the menu) or to delete it permanently. All
           subordinate elements will be deleted as well. Upon closing or restarting the BTS all the
-          items in the bin will be deleted permanently.</li>
-        <li>A database object can be deleted permanently (without moving it to the bin first) by
+          items in the trash bin will be deleted permanently.</li>
+        <li>A database object can be deleted permanently (without moving it to trash first) by
           either right-clicking the respective item and selecting "Delete Permanently" or by
           selecting the item from the Navigator Tree and then selecting "Delete Permanently" from
           the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png"

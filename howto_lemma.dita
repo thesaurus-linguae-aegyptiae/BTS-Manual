@@ -31,9 +31,9 @@
           Annotation" and <image href="Images/icons/full/icon16/comment-add.png"
             id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Lemma Navigator.</li>
         <li>To delete a lemma entry, use the <image href="Images/icons/full/obj16/delete.png"
-            id="image_xdl_2wm_wr"/> "Delete" button in the Lemma Navigator toolbar. It will move the
-          entry to the "Bin" tab, where you can manually delete it permanently. Closing or
-          restarting the BTS will also lead to the permanent deletion of an entry from the bin.</li>
+            id="image_xdl_2wm_wr"/> "Move to Trash" entry in the Lemma Navigator context menu. It will move the
+          entry to the "Trash" tab, where you can manually delete it permanently. Closing or
+          restarting the BTS will also lead to the permanent deletion of any entry in the trash bin.</li>
       </ol>
     </p>
     <p></p>
