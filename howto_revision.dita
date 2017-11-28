@@ -20,10 +20,10 @@
       the list and apply "Replace current with Selected Revision".</p>
     <p>Close the Revision History window by clicking "Close".</p>
     <p><b>Conflict Dialog</b></p>
-    <p>If two users work simultaneously on one database object, it is possible, that they produce
-      different versions at the same time. This is indicated by the icon <image
+    <p>If two users work simultaneously on one database object, it is possible that they each
+      produce different versions. This is indicated by the icon <image
         href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in the Navigator
-      tree. The conflict dialog solves the problem, which version is the preferable one.</p>
+      tree. The conflict dialogue solves which version is the prefered one.</p>
     <p>The window is divided into two parts (as for the Revision History). The left side displays
       the current version. The right side shows the conflicting versions.</p>
     <p>In the lower part there are the respective tabs, e.g. Passport Editor and Egyptian Text
