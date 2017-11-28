@@ -4,9 +4,9 @@
   <title>Lemmatizing idiomatic expressions and compound words</title>
   <body>
     <p><b>Idiomatic expressions and collocations</b></p>
-    <p>Some objects are collocated with a verb so that they form an idiomatic expression. This
+    <p>Some words are collocated with a verb so that they form an idiomatic expression. This
       collocation will be determined by setting the correct entry for the verb in the lemmatizer.
-      The object itself has to be lemmatized as it is.</p>
+      The word itself has to be lemmatized as it is.</p>
     <p>
       <table id="table_qz5_lkb_lt">
         <tgroup cols="2">
@@ -36,14 +36,14 @@
     <p/>
     <p><b>Compound words</b></p>
     <p>Compound words such as prepositions, nouns, proper names, titles etc. are connected by a
-      hyphen “-“ and are thus treated as one lemma, i.e. do not lemmatize <i>ḥm-nṯr</i> separately
-      as <i>ḥm</i> and <i>nṯr</i> (see: <xref href="grammar_structure_convention.dita"/>).</p>
+      hyphen “-“ and are treated as one lemma, i.e. do not lemmatize <i>ḥm-nṯr</i> separately as
+        <i>ḥm</i> and <i>nṯr</i> (see: <xref href="grammar_structure_convention.dita"/>).</p>
     <p/>
     <p><b>Compound words separated by suffix pronoun or personal names</b></p>
     <p>Sometimes titles, epithets, and other compound words might be split up by a suffix pronoun or
-      a personal name. In this case the separation has to be marked by "+", the suffix or personal
-      name is lemmatized normally. Of the compound word the first part is lemmatized with the
-      complete compound noun, the second part is left without lemmatization.</p>
+      a personal name. In this case, the separation has to be marked by "+", and the suffix or
+      personal name is lemmatized normally. The first part of the compound word is lemmatized with
+      the complete compound noun, the second part is left without lemmatization.</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_d1q_3ym_fx">
         <tgroup cols="2">

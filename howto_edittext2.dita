@@ -15,9 +15,10 @@
       translation(s), bibliographical references etc. Inflected forms of the lemma, as they appear
       in your text, can be added by assigning <xref
         href="grammar_inflection.dita#concept_zjw_dsx_nt">inflection codes</xref>.</p>
-    <p>Furthermore, during the editing process you can enter a translation (in either German,
-      English, French, Spanish, Italian, Arabic, or Russian) and hieroglyphic writings of each text
-      word. You are also able to mark rubra and to add comments to the transliteration.</p>
+    <p>Furthermore, during the editing process you can enter a translation (in either German [de],
+      English [en], French [fr], Spanish [es], Italian [it], Arabic [ar], or Russian [ru]) and
+      hieroglyphic writings of each text word. You are also able to mark rubra and to add comments
+      to the transliteration.</p>
     <p>NOTE: The following order is not compulsory, except you can only enter translation,
       lemmatization, annotations, and hieroglyphs once you have typed the transliteration.</p>
   </body>

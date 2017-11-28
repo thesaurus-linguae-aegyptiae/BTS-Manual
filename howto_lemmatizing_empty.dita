@@ -3,12 +3,12 @@
 <topic id="topic_cc1_g3h_px">
   <title>Lemmatizing empty cartouches</title>
   <body>
-    <p>Empty cartouches, as they occur in Ptolemaic and Roman texts, are transliterated with 3
-      underscores: "___" and are lemmatized with lemma ID (WCN) 550225.</p>
-    <p>NOTE: Do not use this for damages or erased cartouches, e.g. Akhenaten's cartouche being
-      erased.</p>
-    <p>Blank parts of a text that were intended for a later addition of a personal name and titles
-      (e.g. on a coffin), are marked as descriptive information between "#", see <xref
+    <p>Empty cartouches, e.g. in Ptolemaic and Roman texts, are transliterated with 3 underscores:
+      "___" and are lemmatized with lemma ID (WCN) 550225.</p>
+    <p>NOTE: Do not use this for damages or erased cartouches, e.g. an erased cartouche of
+      Akhenaten, these should be entered as destruction (see xxx).</p>
+    <p>Blank parts of a text that were intended for the later addition of a personal name and titles
+      (e.g. on a coffin), are noted as descriptive information between two "#", see <xref
         href="howto_transliteration.dita"/>.</p>
   </body>
 </topic>

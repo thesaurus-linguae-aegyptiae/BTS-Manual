@@ -5,66 +5,62 @@
   <body>
     <p>To enter or edit the hieroglyphs of your text, switch to the Sign Text Editor and then open
       the Hieroglyph Type Writer (HTW). HTW is based on JSesh application created by Serge
-      Rosmorduc.</p>
+      Rosmorduc. Make sure you have switched your keyboard back to normal, if you have just been
+      entering transliteration.</p>
     <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
     <p><?oxy_custom_end?><image href="Images/new%20screenshots/BTS%20Screenshots/HTW.png"
         id="image_x44_kfy_st"/></p>
     <p>
       <ol id="ol_wj3_4yy_qt">
         <li>Click on a transliterated lemma in the Sign Text Editor tab, the word will be
-          highlighted yellow. In the Hieroglyph Type Writer tab click into the "Type here" text
-          field - this is where the hieroglyph input takes place. There are two different ways to
-          enter the hieroglyphs. The first one is to enter the numbers of the Gardiner sign list
-          (e.g. F18). The second is to enter the transliteration according to the Manuel de Codage
-          rules. You are also allowed to combine both ways. Manuel de Codage will automatically be
+          highlighted yellow. In the Hieroglyph Type Writer tab click into the "Type here" field -
+          this is where the hieroglyphic input takes place. There are two different ways to enter
+          the hieroglyphs. The first one is to enter the numbers of the Gardiner sign list (e.g.
+          F18). The second is to enter the transliteration according to the Manuel de Codage rules.
+          You can use both methods within a single word, as Manuel de Codage will automatically be
           rendered into Gardiner codes.</li>
-        <li>When entering the first letters of a transliteration of a lemma, the programme will
-          present you a list of hieroglyphs to choose from. Every hieroglyph has a number in red
-          appearing next to it. To select a sign which does not appear on the first position on the
-          list, press CTRL button on your keyboard and the number corresponding to the red number of
-          the chosen sign. E.g. in the following screenshot there are four options presented for the
-          input of the letter 'n'. If you would like to select the N35B-sign you would have to press
-              CTRL+3.<p><image
+        <li>When entering the first letters of the transliteration of a lemma, the programme will
+          show you a list of hieroglyphs to choose from. Every hieroglyph has a number in red next
+          to it; the first sign (1) is selected by default unless you choose otherwise by pressing
+          CTRL and the number of your chosen sign. E.g. in the following screenshot there are four
+          options shown for the input 'n', if you wanted to select the N35B-sign you would have to
+          press CTRL+3.<p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Zeichenauswahl1.png"
               id="image_pnd_pfy_st"/></p>Afterwards, the corresponding Gardiner code will appear in
-          the "type here" field and you will be able to continue hieroglyph input normally. You can
-          also type "N35B" directly into the "type here" field. <p><image
+          the "type here" field and you will be able to continue inputing hieroglyphs normally. You
+          could also type "N35B" directly into the "type here" field. <p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Zeichenauswahl2.png"
-              id="image_vp5_qfy_st"/></p>Separate the hieroglyphs of a word either only by a hyphen
-          "-" between the hieroglyphs (then all signs will be written one behind the other) or group
-          them according to the "Manuel de Codage" rules with "-", "*" and ":". For more details see
-          the section <xref href="howto_grouping.dita"/>. <p>NOTE: Grouping with "&amp;" is not
-            allowed.</p><p>NOTE: Do not use the space bar to separate the signs, because BTS will
-            automatically replace space by a underscore (e.g. "M17 G53" will be rendered into
-            "M17_-G43").</p><p>NOTE: If you enter the transliteration according to the Manuel de
-            Codage rules, BTS will automatically render your transliteration into Gardiner codes
-            (e.g. "i-w" will be rendered into "M17-G43", "M17-w" will also be rendered into
-            "M17-G43").</p></li>
-        <li>In order to confirm the input of the signs and end the work on one word, either press
+              id="image_vp5_qfy_st"/></p>Separate the hieroglyphs of a word either by a hyphen "-"
+          between the hieroglyphs (meaning all the signs will be written one after another) or group
+          them according to the "Manuel de Codage" rules with "-", "*", and ":". For more details
+          see <xref href="howto_grouping.dita"/>. <p>NOTE: Grouping with "&amp;" is not
+            allowed.</p><p>NOTE: Do not use the space bar to separate the signs because BTS will
+            automatically replace spaces with a underscore (e.g. "M17 G53" will be rendered into
+            "M17_-G43").</p></li>
+        <li>In order to confirm the input of the signs and finish the work on one word, either press
           ENTER on your keyboard, or click the icon of the scribal tool in HTW (<image
-            href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_lvn_rxp_dx"/>). You can
-          also simply click on another word in the Text Editor if the word on which you would like
-          to work is not the next one. Additionally, you can navigate between the words with the
-          following icons in the HTW: ||&lt; and >|| will bring you to the first and last word of
-          the document respectively.|&lt; and >| will bring you to the word at the beginning and end
-          of the line respectively (the line as it appears in the Sign Text Editor, not the line of
-          the given text), &lt; and > will bring you to the previous and next word respectively.
-          Furthermore, a tool-tip will be displayed on mouse-over for each icon.</li>
-        <li>After the input and confirmation of the signs, upon returning to a transcribed word,
-          Gardiner numbers of the signs will be shown in the "type here" field, even if the signs
-          were initially entered as "Manuel de Codage" transliteration. In order to see the number
-          sequence, select an already processed word.<p><image
+            href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_lvn_rxp_dx"/>). To move
+          on to the next word, you can navigate using the following icons: ||&lt; and >|| will bring
+          you to the first and last word of the document respectively, while |&lt; and >| will bring
+          you to the word at the beginning and end of the line respectively (the line as it appears
+          in the Sign Text Editor, not the line of the given text), while &lt; and > will bring you
+          to the previous and next word respectively. A tool-tip will be displayed on mouse-over for
+          each icon. You can also simply click on a word in the Text Editor to move on to it, if
+          that word is not the next/last one in the document/line/sentence. </li>
+        <li>After the input and confirmation of the signs, if you go back to that word, Gardiner
+          numbers of the signs will be shown in the "type here" field, even if the signs were
+          initially entered as "Manuel de Codage" transliteration. In order to see the sequence of
+          numbers, select the already processed word.<p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/successful_hieros1.png"
               id="image_tdt_vfy_st"/></p></li>
         <li>If you need to correct an already confirmed word, you can return to it by clicking on it
           in the Sign-Text-Editor or by using the previously described navigation icons. Make the
-          alterations in the "Type here" input field and confirm it by pressing ENTER or clicking on
-            <image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_s5z_mvp_dx"/>. If
-          you need to delete the already entered hieroglyphs, you can simply use BACKSPACE or DELETE
-          button on your keyboard and confirm by pressing ENTER. You can also click on the <image
-            href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_ec2_4tg_wr"/> "Remove
-          Hieroglyph Data" in the toolbar in the upper right corner, after clicking the chosen
-          word.</li>
+          alterations in the "Type here" input field and confirm it by pressing ENTER or by clicking
+          on <image href="Images/icons/full/icon16/hieroglyphetw-ok.png" id="image_s5z_mvp_dx"/>. If
+          you need to delete the already entered hieroglyphs, you can simply use the BACKSPACE or
+          DELETE buttons on your keyboard and confirm by pressing ENTER. You can also click on the
+            <image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_ec2_4tg_wr"/>
+          "Remove Hieroglyph Data" in the toolbar in the top right corner.</li>
       </ol>
     </p>
   </body>

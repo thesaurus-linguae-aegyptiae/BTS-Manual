@@ -5,22 +5,23 @@
  <conbody>
   <p><b>Shading (a complete destruction of a hieroglyph)</b></p>
   <p>A complete destruction of the hieroglyphs (when the sign cannot be recognized anymore) is not
-   to be reconstructed in square brackets (as in the transliteration). Instead, shading is applied
-   to indicate that the destroyed sign cannot be read. The size of the destruction is not important,
-   the shading will always be same size (see screen-shot below). You can enter it by using "//".</p>
+      to be reconstructed in square brackets (as in the transliteration). Instead, shading is
+      applied to indicate that the destroyed sign cannot be read. The size of the destruction is not
+      important as the shading will always be same size (see screen-shot below). You can enter it by
+      using "//".</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Shading.png" id="image_h1k_sk2_1v"/></p>
   <p><b>Partial Destruction</b></p>
   <p>When a sign is only partially destroyed (part of it still visible and identifiable), it is
       rendered by half-square brackets. The half-square brackets are entered with [?-Hieroglyph-?]
-      (see screenshot below). Enter each partially destroyed sign separately (i.e. for each sign the
-      brackets have to be entered separately; only one sign is allowed in one set of brackets).</p>
+      (see screenshot below). Enter each partially destroyed sign separately (i.e. only one sign is
+      allowed in each set of brackets).</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Halbklammern.png"
     id="image_ljl_2l2_1v"/></p>
   <p><b>Missing Hieroglyphs</b></p>
-  <p>If a sign or a word is missing altogether (not destroyed) by omission of the scribe in
-   antiquity, it is not to be supplemented. Only what is present in the text is to be encoded. If
-   there is an empty space between two signs left in antiquity it is to be encoded with '..', as in
-   the example below:</p>
+  <p>If a sign or a word is missing due to an omission by the scribe in antiquity, it should not be
+      added to the hieroglyphic transcription. Only what is present in the text is to be encoded. If
+      there is an empty space between two signs left in antiquity, encode it with '..', as in the
+      example below:</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/L%C3%BCcke.png"
     id="image_byq_xdy_st"/>
    </p>

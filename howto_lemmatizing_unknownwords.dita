@@ -3,17 +3,17 @@
 <topic id="topic_w4g_4kg_fx">
   <title>Lemmatizing illegible words</title>
   <body>
-    <p>If you are able to determine the exact number of words missing in a lacuna or gap without
-      being able to designate them to a specific lemma, use the representative "[___]". If a word or
-      a sequence of words is illegible or only partly legible, use underscores, e.g. "_b_";
-      "n_[_],t"; "[_]_[_]"; [___].pl etc. In some cases it might be possible to determine word
-      class, number, and gender. To lemmatize the representatives there are entries in the lemma
-      list for each of these options. Therefore you have to search the WCN number via the magnifying
-      glass (see <xref href="howto_lemmatizing.dita"/>). The following list helps you to find the
-      relevant WCN number.</p>
-    <p>NOTE: To find the complete list in the lemma list, you may also open search via the
-      magnifying glass and search for "[Wort]" (full text search with both check boxes deactivated).
-      The results will appear at the end of the list.</p>
+    <p>If you are able to determine the exact number of words missing in a lacuna or gap but cannot
+      see enough to be able to lemmatize them, use "[___]" per word in your transliteration to
+      indicate the number of lost words. If a word or a sequence of words is illegible or only
+      partly legible, use underscores, e.g. "_b_"; "n_[_],t"; "[_]_[_]"; [___].pl etc. In some cases
+      it might be possible to determine a missing word's class, number, and gender, and so there are
+      entries in the lemma list for each of these options with which you can lemmatize the notes
+      above. To do this you have to search the WCN number via the search function (see <xref
+        href="howto_lemmatizing.dita"/>); the following list shows the relevant WCN numbers.</p>
+    <p>NOTE: You can find this list in the lemma list by searching for "[Wort]" in the search
+      function (full text search with both check boxes deactivated). The results will appear at the
+      bottom of the list.</p>
     <p> </p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_xss_2lf_fx">
