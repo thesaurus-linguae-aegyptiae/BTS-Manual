@@ -11,7 +11,10 @@
   <p>Make sure you have selected the right language in the drop-down menu on the right (<image
                 href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/>): German (de),
             English (en), French (fr), Spanish (es), Italian (it), Arabic (ar), or Russian (ru). The
-            default language can be set in the <xref href="ui_preferences.dita">Preferences</xref>. </p>
+            default language can be set in the <xref href="ui_preferences.dita">Preferences</xref>.
+            Language input currently runs either left to right, or right to left, but you cannot
+            have text containing both directions within the same translation (e.g. a translation in
+            Arabic cannot have a phrase running left to right within it).</p>
         <p>In the standard view only one line of text will be visible. You can extend the Text
             Editor window and scroll up/down if the sentence contains more than one line. The
             complete translation of the text will appear on the right of your BTS screen in the

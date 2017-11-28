@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_odn_nkz_1t">
-  <title>Guide for advanced and privileged users</title>
+  <title>Guide for advanced users</title>
   <body>
-    <p>The following instructions are for users with advanced privileges, in particular for Editors
-      and Administrators. They learn how to edit, modify and administrate the data in BTS. Some
-      topics also apply to users with Researcher status, e.g. creating new text corpus objects,
-      lemma entries or thesaurus entries. </p>
+    <p>The following instructions are for users with advanced rights, in particular for Editors and
+      Administrators. These users can learn how to edit, modify, and organise the data in BTS. Some
+      topics here also apply to users with Researcher status, e.g. creating new text corpus objects,
+      lemma entries, or thesaurus entries. </p>
   </body>
 </topic>

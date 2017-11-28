@@ -3,40 +3,40 @@
 <topic id="topic_sjw_lvx_st">
   <title>Creating a thesaurus entry</title>
   <body>
-    <p>This option is available to users with researcher privileges for the thesaurus. If you have a
-      new thesaurus entry, which is not yet present in the BTS thesaurus list, please send a
-      proposal to the BTS team via E-mail: aegypt1@bbaw.de.</p>
-    <p>The main function of the Thesaurus is to provide controlled vocabulary for the metadata of
-      texts, (physical) objects, lemma entries and thesaurus entries, e.g. dating, location or
-      material. For a detailed description of the individual elements of the Thesaurus view see
+    <p>This option is available to users with researcher rights for a thesaurus. If you have a
+      thesaurus entry which is not present in the BTS thesaurus list, please send a proposal to the
+      BTS team: aegypt1@bbaw.de.</p>
+    <p>The main function of the Thesaurus is to provide a controlled vocabulary for the metadata of
+      texts, (physical) objects, lemma entries, and thesaurus entries, e.g. dating, location, or
+      materiality. For a detailed description of the individual elements in the Thesaurus view see
         <xref href="ui_thesaurus.dita"/>.</p>
     <p>
       <ol id="ol_sb3_xvx_st">
-        <li>Open the Thesaurus view by clicking the <image href="Images/icons/full/icon16/thss.png"
+        <li>Open the Thesaurus View by clicking the <image href="Images/icons/full/icon16/thss.png"
             id="image_fck_tgj_cs"/> "Thesaurus" icon in the <xref
             href="ui_toolbar_e3.dita#topic_ejn_sdy_lr">Toolbar</xref>.</li>
         <li>In the Thesaurus Navigator on the left, click either <image
             href="Images/icons/full/icon16/thss_add.png" id="image_vbs_52k_qr"/> "Add Thesaurus Root
           Entry" or <image href="Images/icons/full/icon16/ths-add.png" id="image_v3d_w2k_qr"/> "Add
-          Thesaurus Child Entry" to create a new thesaurus entry. A root entry may stand on its own,
-          while a child entry is always dependent on the root entry. </li>
-        <li>Click on the newly created "Thesaurus" entry to edit its content. Its Passport Editor
+          Thesaurus Child Entry" to create a new thesaurus entry. A root entry can stand on its own,
+          while a child entry must always be dependent on a root entry. </li>
+        <li>Click on the newly created Thesaurus entry to edit its content. Its Passport Editor
             <image href="Images/icons/full/icon16/passport.png" id="image_ott_5fk_qr"/> will appear
-          in the middle.</li>
-        <li>In the Passport Editor you have to type a name (default name is either "Thesaurus Root"
-          or "Thesaurus Child"), define type and subtype via the drop-down menus and edit visibility
-          and review status. </li>
-        <li>Now fill in all available metadata into the Passport Editor. For a detailed description
-          of the individual tabs and elements of the passport editor of the Thesaurus View, see
-            <xref href="ui_thesaurus_passporteditor.dita"/>.</li>
+          in the middle of the screen.</li>
+        <li>In the Passport Editor you can give the entry a name (the default name is either
+          "Thesaurus Root" or "Thesaurus Child"), define its type and subtype via the drop-down
+          menus, and edit its visibility and review status. </li>
+        <li>Next you can fill in all available metadata into the Passport Editor. For a detailed
+          description of the individual tabs and elements of the Passport Editor of the Thesaurus
+          View, see <xref href="ui_thesaurus_passporteditor.dita"/>.</li>
         <li>To add an annotation or a comment to a Thesaurus entry, click <image
             href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add
-          Annotation" and <image href="Images/icons/full/icon16/comment-add.png"
-            id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Thesaurus Navigator.</li>
-        <li>To delete a thesaurus entry, use the <image href="Images/icons/full/obj16/delete.png"
-            id="image_xdl_2wm_wr"/> "Delete" button in the Thesaurus Navigator toolbar. It will move
+          Annotation" or <image href="Images/icons/full/icon16/comment-add.png"
+            id="image_st5_vvm_wr"/> "Add Comment" in the Toolbar of the Thesaurus Navigator.</li>
+        <li>To delete a Thesaurus entry, use the <image href="Images/icons/full/obj16/delete.png"
+            id="image_xdl_2wm_wr"/> "Delete" button in the Thesaurus Navigator Toolbar. It will move
           the entry to the "Bin" tab, where you can manually delete it permanently. Closing or
-          restarting the BTS will also lead to the permanent deletion of an entry from the Bin.</li>
+          restarting BTS will also permanently delete any entries in the Bin.</li>
       </ol>
     </p>
 
