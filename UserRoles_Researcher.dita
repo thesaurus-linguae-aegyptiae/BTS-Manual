@@ -3,30 +3,28 @@
 <topic id="topic_atn_xnv_bt">
   <title>Researcher</title>
   <body>
-    <p>Researcher may create new objects within a corpus. Researchers can also edit or delete their
-      own database objects, or objects for which they were granted editing rights (Updater
+    <p>Researchers may create new objects within a corpus, and can also edit or delete their own
+      database objects, or objects for which they were granted editing rights (i.e. the Updater
       status).</p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_v25_l4v_bt">
         <li>Can add database objects within a corpus.</li>
-        <li>Can edit database objects within a corpus, when given an Updater status for these
-          database objects.</li>
-        <li>Can assign reader/updater status for other users, but only if the researcher has Updater
-          status.</li>
-        <li>Researchers can change their own status from an Updater to a Reader for a database
-          object and thus lose their editing rights. They will not be able to upgrade the status
-          again, i.e. to change back to the Updater.</li>
+        <li>Can edit database objects for which they were given the Updater status.</li>
+        <li>Can assign the Reader/Updater status for other users, but only if they themself have the
+          Updater status.</li>
+        <li>Can change their own status from an Updater to a Reader for a database object and thus
+          lose their editing rights, meaning they will not be able to change back to Updater.</li>
       </ul>
     </p>
     <p><b>Limitations</b></p>
     <p>
       <ul id="ul_lwp_n4v_bt">
-        <li>Cannot edit the already existing database objects within a corpus (created by other
-          users) when a Reader or no status is assigned to him/her.</li>
-        <li>If a database object within a corpus has a visibility status <i>Reader</i>, <i>Group</i>
-          or <i>Project</i>, the Researcher will not be able to see it unless obtaining an
-          Updater/Reader user status</li>
+        <li>Cannot edit the database objects of other users within a corpus when they are a Reader
+          or no status is assigned to them.</li>
+        <li>If a database object within a corpus has a visibility status <i>Reader</i>,
+          <i>Group</i>, or <i>Project</i>, the Researcher will not be able to see it unless they
+          have the Updater/Reader user status.</li>
       </ul>
     </p>
   </body>

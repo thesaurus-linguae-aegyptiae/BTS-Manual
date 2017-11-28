@@ -4,6 +4,9 @@
   <title>Keyboard layout </title>
   <body>
     <p>BTS uses the following AAeW keyboard layout. </p>
+    <p>NOTE: Each of the keys highlighted in blue with a number (1 to 4) have two "deadkey" options,
+      which can be accessed in the same way as for normal keys: the upper characters by pressing
+        <b>Shift + Key</b>, and the lower characters by pressing <b>Ctrl + Alt + Key</b>. </p>
     <p><image href="Images/Keyboard/keyboard.png" id="image_jps_fqj_lx"/></p>
   </body>
 </topic>

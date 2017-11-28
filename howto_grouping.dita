@@ -3,32 +3,32 @@
 <concept id="concept_u45_b1d_cs">
  <title>Grouping hieroglyphs</title>
  <conbody>
-  <p>Grouping hieroglyphs is a preferable, but not an essential task of the text editing process.
-      Encoding the grouping enables analyses on the strategies and use of grouping. However, whether
-      or not you encode the grouping, it is essential that you are aware of the sequence of
-      hieroglyphs, because this is crucial (1) for all further analyses of the data and (2) to
-      search for words by the order of hieroglyphic signs (e.g. if you find a sequence of two
-      hieroglyphs in a damaged text and want to look for words that would fit the lacuna). For
+  <p>Grouping hieroglyphs is a useful, but not an essential, task of the text editing process.
+      Encoding the grouping enables analyses on the strategies and use of grouping in texts.
+      However, whether you encode the grouping or not, it is essential that you enter the
+      hieroglyphs in the right sequence because this is crucial for all further analyses of the data
+      and for searches for words by the order of hieroglyphic signs (e.g. if you find a sequence of
+      two hieroglyphs in a damaged text and want to look for words that could fit the lacuna). For
       details on the encoding of hieroglyphs and hieroglyphic groups see <xref
         href="guidelines_hieroglyphs.dita"/>.</p>
-  <p><b>1. If you decide not to group hieroglyphs</b>, use a hyphen between the single hieroglyphs.
-      Encode the signs according to their sequence. For the BTS standards of defining the sequence
+  <p><b>1. If you decide not to group hieroglyphs</b>, use a hyphen between the single hieroglyphs
+      and encode the signs according to their sequence in the text. For the BTS sequence conventions
       see chapter 2.1 <xref href="Hieroglypheneingabe_Richtlinien.pdf" format="pdf"><image
           href="Images/icons/Adobe_PDF_file_icon_24x24.png" id="image_bxp_nzk_sx"/> Guidelines for
         the encoding of hieroglyphs</xref>.</p>
-  <p><b>2. If you group hieroglyphs</b>, use ":" and "*". Grouping with "&amp;" is not allowed,
-   because this has affection on the sequence of hieroglyphs, e.g. "d&amp;D" would indeed produce
-   the correct appearance of the hieroglyphic group, but it would imply the sequence "d-D" for
-   analyses in the database. Further, it is crucial that you work with the photos or facsimile of
-   the original text. Publications containing hand- or computer-written hieroglyphs may present the
-   hieroglyphs in a different order than the original text. If neither photo nor facsimile of your
-   text is available, please refrain from grouping the hieroglyphs. </p>
-  <p>For any details on the encoding of hieroglyphs and hieroglyphic groups see <xref
-    href="guidelines_hieroglyphs.dita"/>.</p>
+  <p><b>2. If you group hieroglyphs</b>, you can also use ":" and "*". Grouping with "&amp;" is not
+      allowed, because this alters the sequence of hieroglyphs, e.g. "d&amp;D" would produce the
+      correct appearance of the hieroglyphic group but it would imply the sequence "d-D" for
+      analyses in the database. Furthermore, it is crucial that you work with the photos or a
+      facsimile of the original text. Publications containing hand- or computer-written hieroglyphs
+      may show the hieroglyphs in a different order than the original text. If neither a photo nor a
+      facsimile of your text is available, please refrain from grouping the hieroglyphs. </p>
+  <p>For further details on encoding hieroglyphs and hieroglyphic groups see <xref
+        href="guidelines_hieroglyphs.dita"/>.</p>
   <p> Example: </p>
   <p>H-t:p = <image href="Images/grouphieroglyphs1.png" id="image_kyr_32y_qr"/></p>
   <p>Q3*X1:N1 = <image href="Images/grouphieroglyphs2.png" id="image_g4q_p2y_qr"/></p>
   <p/>
-  <p>NOTE: Due to technical reasons, columns have to be transcribed into lines.</p>
+  <p>NOTE: Due to technical reasons columns must be transcribed into lines.</p>
  </conbody>
 </concept>

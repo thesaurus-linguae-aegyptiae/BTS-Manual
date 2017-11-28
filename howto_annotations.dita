@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_w4c_cxf_mr">
- <title>Annotations, Rubra, Glosses and Comments</title>
+ <title>Annotations, Rubra, Glosses, and Comments</title>
  <conbody>
-    <p>BTS text editing tools include annotations, rubra, glosses and comments, which can be applied
-      to a word or a sequence of words, a sentence or several sentences. </p>
+    <p>BTS text editing tools include annotations, rubra, glosses, and comments which can be applied
+      to a word or a sequence of words, and/or a sentence or several sentences. </p>
     <p>NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun
         <i>jn</i> the <i>n</i> was omitted and later added in red: <i>j((n))</i>, this <i>n</i>
-      cannot be marked as being written in red)"</p>
-    <p><b>What is the difference between an annotation, a gloss, a rubrum or a comment?</b></p>
+      cannot be individually annotated.</p>
+    <p><b>What is the difference between an annotation, a gloss, a rubrum, or a comment?</b></p>
     <p>
       <ul id="ul_kk3_3lj_lx">
-        <li><b>Annotation</b> is intended to provide the extra-textual information for parts of the
-          text, which may include bibliographical references and other metadata. Annotations are not
-          limited to one fragment, they can be connected with more than one section of a text. You
-          can use annotation, for example, to divide your text into chapters (e.g. to define and
-          separate the remedies of a medical text or the maximes of Ptahhotep ) and other forms of
-          alignment. Annotations can be used for syntactic, stylistic, prosopographic information.
-          Therefore, there are different types and subtypes of annotations so that one can
-          distinguish these types of information. If you need further types and subtypes, please
-          contact the BTS team in Berlin.<p>NOTE: To separate specific parts of a text, annotations
-            are only used, if their sequence is evident. To mark sections of a text in a case when
-            the sequence of the chapters is not clear or ambiguous (e.g. first part being a
-            biography and the next an offering scene or a Ptolemaic temple scene with a text and
-            various Beischriften.), <b>Subtext</b> is used.</p></li>
+        <li><b>Annotation</b> provides the extra-textual information for parts of a text, which may
+          include bibliographical references and other metadata. Annotations are not limited to one
+          fragment, and can be connected to more than one section of a text. You can use
+          annotations, for example, to divide your text into chapters (e.g. to define/separate the
+          remedies of a medical text or the maximes of Ptahhotep) and other forms of alignment.
+          Annotations can be used for syntactic, stylistic, and prosopographic information. As a
+          result, there are different types and subtypes of annotations so that one can distinguish
+          between these types of information. If you need further types and subtypes, please contact
+          the BTS team in Berlin.<p>NOTE: Annotations can only be used to separate specific parts of
+            a text if the sequence of these parts is clear. To mark sections of a text where the
+            sequence of the chapters is not clear or ambiguous (e.g. a Ptolemaic temple scene with a
+            main text and various smaller texts describing specific parts of the scene), then you
+            should enter these texts separately as <b>Subtext</b>s.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_f1y_jlj_lx">
         <li><b>Gloss</b> is a semantic or phonetic explanation of a passage in a text made by an
-          ancient scribe (not a modern comment!), written above the word or in the margin.</li>
+          ancient scribe (not a modern comment!), which can be written above the word or in the
+          margin.</li>
       </ul>
     </p>
     <p>
@@ -39,68 +40,67 @@
     </p>
     <p>
       <ul id="ul_k1s_klj_lx">
-        <li><b>Comment</b> is an information to a text which can discuss problems of a phrase or a
-          word (unlike annotations, comments cannot have metadata such as e.g. bibliographical
-          information). </li>
+        <li><b>Comment</b> is additional information on a text which can discuss problems with
+          translating a phrase or a word (unlike annotations, comments cannot have metadata such as
+          e.g. bibliographical information). </li>
       </ul>
     </p>
     <p><b>Annotating a text</b></p>
-    <p>To annotate a text, use the buttons above the "Text Editor" tab. Mark the sequence you want
-      to annotate: for only one word just place the cursor within the word; if the word comprises a
-      single character only, place the cursor directly behind the character. You can create more
-      than one annotation for the same token, and vice versa, the same annotation can be created for
-      different tokens. </p>
-    <p>NOTE: If buttons are deactivated, click somewhere outside of your text and then again in
+    <p>To annotate a text, use the buttons above the "Text Editor" tab. Highlight the sequence you
+      want to annotate with your mouse: for a single word just place the cursor within the word; if
+      the word only contains a single character, place the cursor directly behind that character. A
+      single token can have multiple annotations, and one annotation can refer to multiple different
+      tokens. </p>
+    <p>NOTE: If the buttons are deactivated, click somewhere outside of your text and then back into
       it.</p>
     <p>
       <ul id="ul_vgj_mlj_lx">
         <li><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
           <b>Add Annotation</b>: Adds an <xref href="howto_annotations.dita">Annotation</xref> to
           the selected part of your text. A grey bar appears in the "Annotation" tab to the right,
-          with a thin like marking which part of the text the annotation refers to. It is possible
-          to enter Passport Data, as you may want to provide metadata (extra-textual information).
-        </li>
+          with a thin line marking which part of the text the annotation refers to. You can then
+          enter Passport Data for this annotation (i.e. extra-textual information). </li>
       </ul>
     </p>
     <p>
       <ul id="ul_q24_mlj_lx">
         <li><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
           <b>Add Rubrum</b>: Converts the selected part of the text into a rubrum, which is
-          indicated by red color of the text and a red bar on the right. </li>
+          indicated by a red font colour in the text and a red bar on the right. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_qfs_mlj_lx">
         <li><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
-          <b>Add Glosse</b>: Clicking on a button will add a "child"-element of your text in the
-          corpora tree. The gloss can be edited like a regular text. Once it is created, it is first
-          labelled "BTS Text". You have to rename it and enter passport data etc.</li>
+          <b>Add Glosses</b>: Clicking on this button will add a "child"-element to your text in the
+          corpora tree. The gloss can be edited like a regular text and can have passport data etc.
+          Once it is created, it is labelled "BTS Text" until you rename it.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_vvv_mlj_lx">
         <li><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
-          <b>Add Comment</b>: Adds a comment to the selected part of the transliteration. This will
-          be underlined yellow.</li>
+          <b>Add Comment</b>: Adds a comment to the selected part of the text. This will be
+          underlined in yellow.</li>
       </ul>
     </p>
-    <p>You can also use these functions via the drop-down menu that appears when you click on the
+    <p>You can also access these functions via the drop-down menu that appears when you click on the
       triangle to the right of the annotation symbols.</p>
-    <p>The existing annotations are displayed in the <xref
-        href="ui_annotations.dita">Annotation tab</xref> on the right. A new
-      annotation will appear at the bottom of this list. With the arrow on the right you can expand
-      the annotation and see more information as well as further editing options. </p>
-    <p>NOTE: All annotations to the transliterated tokens (including lemmatization) are anchored to
-      the first and the last element of the token or the series of tokens, respectively. That means,
-      if you make changes to the first and the last element, the annotations loose their link to the
-      token. If you need to make changes to an already lemmatized and/or annotated token, switch to
-      the Sign Text Editor and make the changes in the field "Selected Word" (see also <xref
+    <p>The existing annotations are displayed in the <xref href="ui_annotations.dita">Annotation
+        tab</xref> on the right. New annotations appear at the bottom of this list. Use the arrow on
+      the right of each annotation to expand it and see more information about it as well as further
+      editing options. </p>
+    <p>NOTE: All annotations on the transliterated tokens (including lemmatization) are anchored to
+      the first and the last element of the token or the series of tokens. This means if you make
+      changes to the first and the last element of the token(s), the annotations loose their link.
+      If you need to make changes to an already lemmatized and/or annotated token, switch to the
+      Sign Text Editor and make the changes in the field "Selected Word" (see also <xref
         href="howto_lemmatizing.dita"/>).</p>
     <p><b>Using transliteration signs in comments</b></p>
-    <p>You are enabled to use transliteration signs in comments. This might for instance be
-      necessary if you discuss a word. In this case, write the transliteration between two "$"
-      signs, so that the transliteration will later on be transformed into cursive in the
-      representation in the TLA, e.g.: $sḏm$.</p>
+    <p>You can use transliteration signs in comments. This might be necessary, for example, if you
+      want to discuss a particular word(s) in a sentence. In this case, write the transliteration
+      between two "$" signs, so that the system knows to transform that text into cursive in the
+      TLA, e.g.: $sḏm$.</p>
     <p><b>Deleting annotations</b></p>
     <p>You can delete the annotation by selecting it and clicking <image
         href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/> "Delete" in the upper
@@ -108,8 +108,8 @@
       confirm or "Cancel" if you have changed your mind.</p>
     <p>NOTE: You cannot delete any annotation via the "Undo" button.</p>
     <p><b>Editing annotations</b></p>
-    <p>Once you have created an annotation, rubrum, gloss, or comment, you are enabled to edit it by
-      selecting it from the Annotation tab: </p>
+    <p>Once you have created an annotation, rubrum, gloss, or comment you can edit it by selecting
+      it in the Annotation tab: </p>
     <p>
       <ul id="ul_gvl_xjj_lx">
         <li>Click <image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/> to edit
@@ -117,23 +117,23 @@
       </ul>
       <ul id="ul_nsk_kkj_lx">
         <li>Use <image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/> to add
-          a text selection to the annotation. You may add more than one text selection to each
-          annotation.</li>
+          another part of the text to the annotation. One annotation can refer to multiple parts of
+          a text.</li>
       </ul>
       <ul id="ul_dvm_kkj_lx">
         <li>Use <image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/> to
-          remove a current reference. This only removes the link between the annotation and the
-          text. It does not delete the annotation.</li>
+          remove a current reference. This only removes the link between the annotation and the part
+          of the text; it does not delete the annotation.</li>
       </ul>
     </p>
    <p><b>Using filters</b></p>
-    <p>You can use filters to hide or display specific types or subtypes of annotation, e.g. you can
-      hide all rubra from the list or display only comments. Select the filter by clicking <image
-        href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/> in the
-      Annotation tab.   </p>
-    <p>NOTE: When your text is loaded, BTS loads all annotations, filters them according to you
-      filter settings and then displays the first 40 annotations. Annotations that are not displayed
-      will appear in the list as soon as you click on the annotated token in the Transliteration
+    <p>You can use filters to hide or display specific types or subtypes of annotations, e.g. you
+      can hide all rubra from the list or display only comments. Select the filter by clicking
+        <image href="Images/icons/extra%20icons/options_dreieck.png" id="image_bqy_twx_gx"/> in the
+      Annotation tab. </p>
+    <p>NOTE: When your text is loaded, BTS loads all annotations and filters them according to your
+      filter settings, displaying the first 40 annotations. Annotations that are not displayed will
+      appear in the list as soon as you click on the relevant annotated token in the Transliteration
       Editor.</p>
   </conbody>
 </concept>

@@ -3,15 +3,15 @@
 <topic id="topic_il5_4dt_kr">
   <title>Changing font size</title>
   <body>
-    <p>Changing font size of the BTS is quite simple. Select Window entry from the Menu bar. The
-      first option in the drop-down menu will be "Switch Font Size/CSS Theme". Click on it in order
-      to enlarge the font. There is no list of font sizes to choose from. The font size will be
-      enlarged or reduced upon clicking on the entry. Clicking on the entry the second time will
-      bring back the original size and change the look of the BTS a little. Next two clicks will
-      keep enlarging the font with the new coloring. The next clicks shrink it again and bring back
-      the original coloring. Test it out in order to establish which look is the best for you. The
-      example below demonstrates the look after three clicks on the "Switch Font Size/CSS Theme"
-      entry.</p>
+    <p>Changing the font size of BTS is quite simple. Select Window from the Menu bar. The first
+      option in the drop-down menu will be "Switch Font Size/CSS Theme"; click on it to enlarge the
+      font. There is not a list of font sizes to choose from; the font size will be enlarged/reduced
+      by clicking on "Switch Font Size/CSS Theme". E.g. clicking on this option a second time will
+      return the font to its original size and change the look of BTS, while the next two clicks
+      will keep enlarging the font with the new coloring; the next clicks shrink it again and bring
+      back the original coloring. Test it out in order to establish which look is the best for you.
+      The example below demonstrates the look after three clicks on "Switch Font Size/CSS
+      Theme".</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Font_size_3ckicks.png"
         id="image_z4n_d52_1v"/></p>
   </body>
