@@ -23,7 +23,8 @@
     <p>If two users work simultaneously on one database object, it is possible that they each
       produce different versions of the same database object at the same time. This is indicated by
       the icon <image href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in
-      the Navigator tree. The conflict dialogue solves which version is the prefered one.</p>
+      the Navigator tree. The conflict dialogue solves the problem of which version is the preferred
+      one.</p>
     <p>NOTE: the addition of a padlock symbol to a database object's icon in the Navigator Tree
       shows which texts other users are currently working on, please try not to work on texts which
       are already in use.</p>

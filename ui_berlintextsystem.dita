@@ -3,75 +3,78 @@
 <topic id="topic_v4v_ttn_y5">
   <title>Berlin Text System General</title>
   <body>
-    <p>Expanding the "Berlin Text System General" will present the following options: </p>
+    <p>Expanding the "Berlin Text System General" will show the following: </p>
     <p><b>Abstract Text Settings</b></p>
     <p>Abstract Texts are currently not available. Once they are implemented, you can set your
-      configuration here.</p>
+      personal settings here.</p>
     <p><b>Configuration</b></p>
-    <p>Currently the only available option is "Altägyptisches Wörterbuch (AAEW) (10)". Click "Apply"
-      to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
+    <p>The only option currently available is "Altägyptisches Wörterbuch (AAEW) (10)". Click "Apply"
+      to use this configuration or "Restore Default" to go back to the default configuration; in
+      each case the choice is the same. </p>
     <p><b>Corpus Settings</b></p>
-    <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
+    <p>Here you can choose the corpora you are going to be working with. Every corpus that does not
       appear in the active corpora list on the right will not be accessed by BTS (this includes
-      display in the Navigator tree and search queries). To activate a corpus select it in the list
-      on the left and then click "Add". To remove the corpus from your working list, select it and
-      click "Remove". "Add all" / "Remove all" will add or remove all available corpora to or from
-      the active corpora list. </p>
+      displaying it in the Navigator Tree and including it in search queries). To activate a corpus,
+      select it in the list on the left and click "Add"; to remove the corpus from your working
+      list, select it and click "Remove". "Add all"/"Remove all" will add or remove all available
+      corpora to or from your active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
-      activated all new database objects created in the "Corpus Navigator" window will be physically
-      saved in the selected corpus. For example in the Corpus Navigator you have selected Corpus 2,
-      but your main working corpus is Corpus 1. The new database object will be <i>physically</i>
-      saved in Corpus 1, although in the Corpus Navigator it is displayed as a part of Corpus 2. </p>
+      activated, all new database objects created in the "Corpus Navigator" window will be
+      physically saved in the selected corpus. For example, in the Corpus Navigator you have
+      selected Corpus 2, but your main working corpus is Corpus 1. The new database object will be
+        <i>physically</i> saved in Corpus 1, even though in the Corpus Navigator it is displayed as
+      a part of Corpus 2. This is because the Navigator Tree shows the relationships between
+      database objects, which is separate from their physical save location.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">
         <li>Check box "Corpus Navigator sort by sort key". By default, all objects on the same level
           have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey in the
-          Passport data of the object will change its position regarding other objects, "0" being on
-          top. See Passport Editor, chapter <xref href="ui_maintab.dita"/>.</li>
+          Passport data of the object will change its position in relation to other objects, with
+          "0" at the top. See Passport Editor, chapter <xref href="ui_maintab.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_egq_wl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a corpus will have by default after its creation.</li>
+          Visibility Status a corpus will receive by default when it is created. See also chapter
+            <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fdd_xl2_vt">
-        <li>"Default Review State" applies to all newly created database objects. Like the "Default
-          Visibility" above, this defines a review state which a corpus will have directly after its
-          creation.</li>
+        <li>"Default Review State" applies to all newly created database objects. As with "Default
+          Visibility", this defines the Review State a corpus will receive when it is created.</li>
       </ul>
     </p>
     <p><b>Lemma List Settings </b>
     </p>
-    <p>Here you can choose a project with a main working lemma list. All new lemmata will be saved
-      in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW" and
+    <p>Here you can choose your main working lemma list (from a project); all new lemmata will be
+      saved in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW" and
       "Demotic". If you select both, the combined lemma list will be displayed in "Lemma Navigator".
-      If you work with texts in Demotic script, please select "Demotic" as main working lemma list.
-      Otherwise, select "Altägyptisches Wörterbuch BBAW".</p>
+      If you work with texts in Demotic script, please select "Demotic" as your main working lemma
+      list; otherwise, select "Altägyptisches Wörterbuch BBAW".</p>
     <p><b>Lemma Navigator Settings</b></p>
     <p>
       <ul id="ul_gvc_vl2_vt">
-        <li>Check box "Lemma Navigator sort by sort key". Per default all objects on the same level
+        <li>Check box "Lemma Navigator sort by sort key". By default all objects on the same level
           have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
-          Passport data of the object will change its position relevant to other objects, "0" being
-          on top. </li>
+          Passport data of the object will change its position in relation to other objects, with
+          "0" at the top. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_uy3_vl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a lemma will have by default after its creation. See also chapter <xref
+          Visibility Status a lemma will have by default when it is created. See also chapter <xref
             href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ylp_vl2_vt">
-        <li>"Default Review State" applies to all newly created database objects. Like the "Default
-          Visibility" above, this defines a review state which a lemma will have directly after its
-          creation.</li>
+        <li>"Default Review State" applies to all newly created database objects. As with "Default
+          Visibility", this defines the Review State which a lemma will receive when it is
+          created.</li>
       </ul>
     </p>
     <p>NOTE: "Default Visibility" and "Default Review State" apply to all newly created database

@@ -3,21 +3,20 @@
 <concept id="concept_rjs_nw2_yr">
  <title>Open User Manager</title>
  <conbody>
-  <p>This function is available to users with administrator privileges only.</p>
-  <p>Clicking "Open User Manager" opens the user Management. The window is divided into two
+  <p>This function is available to users with administrator rights only.</p>
+  <p>Clicking "Open User Manager" opens the user management window, which is divided into two
    tabs:</p>
   <p>
    <ul id="ul_cx4_s5t_4x">
-    <li>The tab <b>Manage Users and User Groups </b>offers the opportunity to create new accounts
-     for users and add users to project groups, which have a specific set of rights in the editing
-     process.</li>
+    <li>The tab <b>Manage Users and User Groups</b> allows you to create new accounts for users and
+     add users to project groups.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_xjx_s5t_4x">
-    <li>The tab <b>Administrate User Roles and Rights</b> allows the administrator to assign user
-     roles to selected corpora and to assign users to the respective roles (i.e. Project -> Corpus
-     -> User Role -> User Name).</li>
+    <li>The tab <b>Administrate User Roles and Rights</b> allows you to assign user roles to
+     selected corpora and then users to these respective roles (i.e. Project -> Corpus -> User Role
+     -> User Name).</li>
    </ul>
   </p>
  </conbody>

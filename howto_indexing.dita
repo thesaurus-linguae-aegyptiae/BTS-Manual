@@ -24,7 +24,8 @@
     <p>Databases that are not indexed successfully are marked either in yellow or red. If indexing
       was not successful for some corpora then you need to re-index them (see below options). This
       process may take a while, and the more databases you have to re-index the longer it will take.
-      During this process you will not be able to use BTS.</p>
+      Sometimes re-indexing a database can take a few attempts, keep re-indexing until the colour
+      changes to green. During this process you will not be able to use BTS.</p>
     <p>Re-indexing has three options: </p>
     <p>- Re-index all</p>
     <p>- Re-index all non-OK (only re-indexes those collections with errors)</p>

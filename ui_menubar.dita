@@ -4,7 +4,7 @@
   <title>Menu bar</title>
   <body>
     <p>The <b>Menu bar</b> is located at the top of the BTS program window. </p>
-    <p>There are five menu entries, each one displaying a drop-down menu on click.</p>
+    <p>There are five menu entries, each one displays a drop-down menu upon clicking.</p>
     <p><image
         href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Menu%20bar.png"
         id="image_bv3_hcp_5t"/></p>
