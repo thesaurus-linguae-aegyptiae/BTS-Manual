@@ -3,21 +3,20 @@
 <concept id="concept_kw2_xwf_yr">
  <title>Object</title>
  <conbody>
-    <p>This tab allows you to define the selected database object. This tab only applies to Text
-      Corpus Objects.</p>
-    <p>This tab is divided into three parts: "Description of Object", "Technical Details",
-      "Archaeological and Cultural Context of Object". Each of these parts has a "Comment" field,
-      where explanatory information can be entered (ex. in case the type of an object is
-      undefined).</p>
+    <p>This tab allows you to define the type of your artefact; this only applies to Text Corpus
+      Objects (TCObjects).</p>
+    <p>This tab is divided into three parts: "Description of Object", "Technical Details", and
+      "Archaeological and Cultural Context of Object". Each of these parts has a "Comment" field
+      where explanatory information can be entered.</p>
     <p/>
     <p><b>Description of Object</b></p>
     <p>
       <ul id="ul_pln_fx2_cv">
-        <li><b>Type of Object:</b> Displays the name of the selected thesaurus entry. This is no
-          input field.<p>
+        <li><b>Type of Object:</b> Displays the name of the selected thesaurus entry (i.e. type)
+          which can be chosen using the search function below.<p>
             <ul id="ul_f3z_3wl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
-                <b>Search Object:</b> Select the type of your object from the Thesaurus (e.g.
+                <b>Search Object:</b> Select the type of your artefact from the Thesaurus (e.g.
                 "Schriftrolle" for a scroll).</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
@@ -28,12 +27,12 @@
     </p>
     <p>
       <ul id="ul_yhm_3x2_cv">
-        <li><b>Object is component:</b> Displays the name of the selected thesaurus entry. This is
-          no input field.<p>
+        <li><b>Object is component:</b> Displays the name of the selected thesaurus entry (i.e. the
+          composite artefact) which can be chosen using the search function below.<p>
             <ul id="ul_lrd_lwl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_frj_hwl_hx"/>
-                <b>Search Object:</b> Use this option if your object is a part of another object.
-                E.g. if you have a "lid" which is a component of a "coffin".</li>
+                <b>Search Object:</b> Use this option if your artefact is a part of another
+                artefact. E.g. if you have a "lid" which is a component of a "coffin".</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_vnw_gwl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
@@ -43,12 +42,13 @@
     </p>
     <p>
       <ul id="ul_qlb_jx2_cv">
-        <li><b>Owner:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+        <li><b>Owner:</b> Displays the name of the selected thesaurus entry (i.e. owner) which can
+          be chosen using the search function below.<p>
             <ul id="ul_vcp_qwl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_lrd_rwl_hx"/>
-                <b>Search Object:</b> Select the "owner" from the thesaurus. The owner is - in
-                sociological terminology - the agent of a social action, e.g. if you have a private
-                tomb, select "Privatmann" for owner.</li>
+                <b>Search Object:</b> Select the "owner" from the thesaurus; the owner is the agent
+                of a social action (in sociological terms) and is organised here into social groups,
+                e.g. if you have a private tomb, select "Privatmann" for its owner.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_vxk_rwl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
@@ -63,11 +63,11 @@
     </p>
     <p>
       <ul id="ul_k3g_kx2_cv">
-        <li><b>Comment:</b> Allows you to write your own comment on the object.</li>
+        <li><b>Comment:</b> Allows you to write a comment on the object.</li>
       </ul>
     </p>
-    <p>There are also <b>four check boxes</b> available. Select if any of them applys to your
-      object: </p>
+    <p>There are also <b>four check boxes</b> available. Select all those that apply to your
+      artefact: </p>
     <p>
       <ul id="ul_x3j_qxl_hx">
         <li><b>Model</b></li>
@@ -81,17 +81,18 @@
     <p><b>Technical Details</b></p>
     <p>
       <ul id="ul_v4g_mx2_cv">
-        <li><b>Material:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+        <li><b>Material:</b> Displays the name of the selected thesaurus entry (i.e. material) which
+          can be chosen using the search function below.<p>
             <ul id="ul_sy3_fyl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_s1m_jyl_hx"/>
-                <b>Search Object:</b> Select the material of your object from the Thesaurus.</li>
+                <b>Search Object:</b> Select the material of your artefact from the Thesaurus.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_icx_kyl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
               <li><image href="Images/icons/full/icon16/widget-reference-add.png"
                   id="image_wgk_5rl_hx"/>
-                <b>Add widget:</b> Add another entry field, if your object consists of different
-                materials.</li>
+                <b>Add widget:</b> Add another entry field, if your artefact is made out of
+                different materials.</li>
               <li><image href="Images/icons/full/icon16/widget-reference-delete.png"
                   id="image_h42_vrl_hx"/>
                 <b>Remove widget:</b> Removes the entry.</li>
@@ -101,17 +102,18 @@
     </p>
     <p>
       <ul id="ul_l3x_mx2_cv">
-        <li><b>Dimensions:</b> Enter the size of your object (hight, width and length) into the
-          input fields. Use cm as measurement unit. Divide the decimals with a dot and not with a
-          comma.</li>
+        <li><b>Dimensions:</b> Enter the size of your artefact (height, width, and length) in cm,
+          dividing the decimals with a dot (not with a comma). If your artefact is 3-Dimensional,
+          enter measurements from the frontal perspective.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_vrg_px2_cv">
-        <li><b>Condition:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+        <li><b>Condition:</b> Displays the name of the selected thesaurus entry (i.e. condition)
+          which can be chosen using the search function below.<p>
             <ul id="ul_c1r_lyl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_sj3_4yl_hx"/>
-                <b>Search Object:</b> Select the condition of your object from the Thesaurus.</li>
+                <b>Search Object:</b> Select the condition of your artefact from the Thesaurus.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_xyw_lyl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
@@ -121,17 +123,19 @@
     </p>
     <p>
       <ul id="ul_v2m_qx2_cv">
-        <li><b>Technique:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+        <li><b>Technique:</b> Displays the name of the selected thesaurus entry (i.e. manufacturing
+          technique) which can be chosen using the search function below.<p>
             <ul id="ul_iwg_myl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_c4t_4yl_hx"/>
-                <b>Search Object:</b> Select the technique of your object from the Thesaurus.</li>
+                <b>Search Object:</b> Select the manufacturing technique of your artefact from the
+                Thesaurus.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_sfr_myl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
               <li><image href="Images/icons/full/icon16/widget-reference-add.png"
                   id="image_nx4_ryl_hx"/>
                 <b>Add widget:</b> Add another entry field, if different techniques were used to
-                produce your object.</li>
+                produce your artefact.</li>
               <li><image href="Images/icons/full/icon16/widget-reference-delete.png"
                   id="image_s4f_syl_hx"/>
                 <b>Remove widget:</b> Removes the entry.</li>
@@ -141,18 +145,19 @@
     </p>
     <p>
       <ul id="ul_qyq_rx2_cv">
-        <li><b>Comment:</b> Add a comment of your object's technical details.</li>
+        <li><b>Comment:</b> Add a comment on your artefact's technical details.</li>
       </ul>
     </p>
     <p/>
     <p><b>Archaeological and Cultural Context of Object</b></p>
     <p>
       <ul id="ul_grb_tx2_cv">
-        <li><b>Grouping:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+        <li><b>Grouping:</b> Displays the name of the selected thesaurus entry (i.e. archaeological
+          context) which can be chosen using the search function below.<p>
             <ul id="ul_s25_zyl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_ln4_fzl_hx"/>
-                <b>Search Object:</b> Select the grouping of your object from the Thesaurus, e.g. if
-                your object is grouped together with other objects in an archive.</li>
+                <b>Search Object:</b> Select the grouping of your artefact from the Thesaurus, e.g.
+                if your artefact is grouped together with other artefacts in an archive.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_qh2_fzl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
@@ -162,19 +167,19 @@
     </p>
     <p>
       <ul id="ul_lvt_tx2_cv">
-        <li><b>Cultural Context:</b> Displays the name of the selected thesaurus entry. This is no
-          input field.<p>
+        <li><b>Cultural Context:</b> Displays the name of the selected thesaurus entry (i.e.
+          cultural context) which can be chosen using the search function below.<p>
             <ul id="ul_nsj_1zl_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_qtc_gzl_hx"/>
-                <b>Search Object:</b> Select the cultural context of your object from the
+                <b>Search Object:</b> Select the cultural context of your artefact from the
                 Thesaurus.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_a5c_fzl_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
               <li><image href="Images/icons/full/icon16/widget-reference-add.png"
                   id="image_acg_dzl_hx"/>
-                <b>Add widget:</b> Add another entry field, if your object belongs to more than one
-                cultural context., e.g. if your object is used in a ritual context, choose
+                <b>Add widget:</b> Add another entry field, if your artefact belongs to more than
+                one cultural context., e.g. if your artefact was used in a ritual context, choose
                 "Ritual".</li>
               <li><image href="Images/icons/full/icon16/widget-reference-delete.png"
                   id="image_lt4_czl_hx"/>
@@ -185,7 +190,7 @@
     </p>
     <p>
       <ul id="ul_lwz_vx2_cv">
-        <li><b>Comment:</b> Add a comment on the cultural context of your object.</li>
+        <li><b>Comment:</b> Add a comment on the cultural context of your artefact.</li>
       </ul>
     </p>
  </conbody>

@@ -57,9 +57,9 @@
             </ul>
             <ul id="ul_egh_xwp_3x">
               <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
-                <b>TCObject:</b> A Text Corpus Object is the physical ancient Egyptian artefact that
-                bears your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose IV).
-                Use this option if none of the other types are applicable.</li>
+                <b>TCObject:</b> A Text Corpus Object is the physical ancient Egyptian artefact
+                which bears your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose
+                IV). Use this option if none of the other types are applicable.</li>
             </ul>
             <ul id="ul_obj_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png"
@@ -92,11 +92,12 @@
           Types are as follows:<p>
             <ul id="ul_hp1_jgp_3x">
               <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
-                <b>Text:</b> A Text is defined as a coherent entity. Your physical object might
+                <b>Text:</b> A Text is defined as a coherent entity. Your physical aretefact might
                 contain several texts, e.g. Papyrus Harris 500 contains "The Doomed Prince", "The
-                Taking of Joppe" etc. Each of these tales and poems receives its own database object
+                Taking of Joppe" etc. Each of these tales/poems receives its own database object
                 "Text" subordinated to the TCObject "Papyrus Harris 500"; the order of these Texts
-                in the physical object can be shown by using the SortKey (see Preferences).</li>
+                in the physical artefact can be indicated by changing their SortKeys (see
+                Preferences).</li>
             </ul>
             <ul id="ul_pwm_rwp_3x">
               <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
@@ -150,7 +151,7 @@
         <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"
           /> awaiting update</li>
         <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/>
-          reviewed / published</li>
+          reviewed/published</li>
       </ul>
     </p>
     <p>NOTE: Like with visibility, the default review state applies to all newly created database
@@ -163,9 +164,11 @@
       name) from one project or corpus to another, right click the chosen item and select "Move
       among projects" from the menu. A window opens displaying the current physical location. Alter
       the entries (upper field for the project and middle field for a corpus in the project) as you
-      see fit by clicking the checkbox in the lower field (see image below). Changing the physical
-      location does not affect the position of the database object in the Navigator Tree. To change
-      the database object's position in the Tree, you have to change its relationships in the <xref
+      see fit by clicking the checkbox in the lower field (see image below). This can also be done
+      in the "Main" tab of the database object's Passport Editor by clicking the preferences icons
+      next to the database object's corpus/project. Changing the physical location does not affect
+      the position of the database object in the Navigator Tree. To change the database object's
+      position in the Tree, you have to change its relationships in the <xref
         href="ui_relationstab.dita">"Relations" tab</xref> of the Passport Data Editor. </p>
     <p>NOTE: If you have accidentally created a database object in the wrong position and you do not
       have the rights to move it, please contact the administrator in Berlin: aegypt1@bbaw.de.</p>

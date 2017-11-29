@@ -7,7 +7,8 @@
   <p/>
   <p>
    <ul id="ul_rqj_zpl_hx">
-    <li><b>Date:</b> Displays the name of the selected thesaurus entry. This is no input field.</li>
+    <li><b>Date:</b> Displays the name of the selected thesaurus entry (i.e. date) which can be
+     chosen using the search function below.</li>
    </ul>
   </p>
   <p>
@@ -26,11 +27,9 @@
   <p>
    <ul id="ul_wqy_dql_hx">
     <li><image href="Images/icons/full/icon16/widget-reference-add.png" id="image_wgk_5rl_hx"/>
-     <b>Add widget:</b> Add another date of the same object in the selected location. This feature
-     is available to make "from-to"-dating possible (e.g. if your object dates Dynasty 5-6). Click
-     to add another date text input field if the object or text can only be dated between a terminus
-     post quem and a terminus ante quem. Use the first date field for the earlier date and the
-     second date field for the later date. </li>
+     <b>Add widget:</b> Add another date to the artefact. This feature makes "from-to" dating
+     possible (e.g. if your artefact dates to Dynasties 5-6); use the first date field for the
+     earlier date and the second date field for the later date. </li>
    </ul>
    <ul id="ul_mmx_yxl_hx">
     <li><image href="Images/icons/full/icon16/widget-reference-delete.png" id="image_h42_vrl_hx"/>
@@ -39,21 +38,21 @@
   </p>
   <p>
    <ul id="ul_vdd_w5b_55">
-    <li><b>Comment:</b> Add a comment to the date.</li>
+    <li><b>Comment:</b> Add a comment on the date.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_od4_rmy_bv">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
-     <b>Add Entry Group:</b> Add another "date" section to enter a previous date. This feature is
-     applicable to "either-or"-dating (e.g. if your object dates either to the Old Kingdom or to the
-     Late Period). Use the first date section for the earlier date and the second date section for
-     the later date. </li>
+     <b>Add Entry Group:</b> Add another full "date" section. This feature shows "either-or" dating
+     (e.g. if your object dates either to the Old Kingdom or to the Late Period); use the first date
+     section for the earlier date and the second date section for the later date. </li>
    </ul>
    <ul id="ul_xdm_yxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the set of information or clears the entry fields if it is
-     the only entry group.</li>
+     <b>Remove Entry Group:</b> Removes the entry group or clears the entry fields if there is the
+     only entry group.<p/><p>NOTE: Both types of dating systems can be used simultaneously, through
+      combinations of Widgets and/or Entry Groups.</p></li>
    </ul>
   </p>
  </conbody>

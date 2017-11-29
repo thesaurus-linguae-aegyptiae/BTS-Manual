@@ -3,13 +3,22 @@
 <concept id="concept_xt1_ryf_yr">
  <title>Findspot</title>
  <conbody>
-  <p>This tab allows you to put in data concerning the findspot of the Egyptian object, that bears
-   the text you want to edit.</p>
-  <p>This tab is divided into two sections: "Place" and "Former Place".</p>
+  <p>This tab allows you to enter data concerning the findspot of the ancient Egyptian artefact
+   which bears your text.</p>
+  <p>This tab is divided into two sections: "Place" which denotes the last findspot of your
+   artefact, and "Former Place" which denotes any past findspots of that artefact. </p>
+  <p>For example, a royal mummy from the Valley of the Kings cache would have this location as its
+   "Place" and its original tomb as its "Former Place".</p>
+  <p>For example, the Pantheon obelisk (PM VII, 409) found in 1374 under Santa Maria sopra Minerva,
+   re-erected in 1711 opposite the Pantheon. Therefore select, the following entries: Place:
+   Pantheon; Certainty: Certain; Former_Place: Santa Maria sopra Minerva; Certainty: Certain;
+   another Former_Place: Heliopolis; Is_Origin: Check box selected; Certainty: Probable.</p>
+  <p/>
   <p><b>Place</b></p>
   <p>
    <ul id="ul_glz_xpl_hx">
-    <li><b>Place:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+    <li><b>Place:</b> Displays the name of the selected thesaurus entry (i.e. findspot) which you
+     can choose using the search function below.<p>
       <ul id="ul_ocv_wcm_hx">
        <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
         <b>Search Object:</b> Select the findspot from the Thesaurus.</li>
@@ -22,37 +31,27 @@
   </p>
   <p>
    <ul id="ul_vdd_w5b_55">
-    <li><b>Comment:</b> Add a comment to the findspot.</li>
+    <li><b>Comment:</b> Add a comment on the findspot.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_hzd_qmy_bv">
-    <li><b>is_origin:</b> Select this check box if the selected findspot is the original site where
-     the object originally came from.</li>
+    <li><b>is_origin:</b> Select this check box if this findspot is the original, ancient location
+     of the artefact.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_od4_rmy_bv">
-    <li><b>Certainty:</b> Choose between "Certain", "Probable" and "Uncertain".</li>
-   </ul>
-   <ul id="ul_mwk_wxl_hx">
-    <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
-     <b>Add Entry Group:</b> Add another set of information, including "Place" and "Former place".
-     Use this option, if your objects consists of more than one fragment which were found at
-     different places.</li>
-   </ul>
-   <ul id="ul_xdx_xxl_hx">
-    <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the set of information or clears the entry fields if it is
-     the only entry group.</li>
+    <li><b>Certainty:</b> Choose between "Certain", "Probable", and "Uncertain". Clarify your
+     decision in the comment field.</li>
    </ul>
   </p>
   <p/>
   <p><b>Former place</b></p>
   <p>
    <ul id="ul_tzb_5my_bv">
-    <li><b>former_place:</b> Displays the name of the selected thesaurus entry. This is no input
-     field. <p>
+    <li><b>former_place:</b> Displays the name of the selected thesaurus entry which you can choose
+     using the search function below.<p>
       <ul id="ul_tj4_ycm_hx">
        <li><image href="Images/icons/full/icon16/search.png" id="image_jh2_jvf_hx"/>
         <b>Search Object:</b> Select the former place from the Thesaurus.</li>
@@ -65,35 +64,42 @@
   </p>
   <p>
    <ul id="ul_skx_5my_bv">
-    <li><b>Comment:</b> Add any comment to the findspot.</li>
+    <li><b>Comment:</b> Add a comment on the findspot.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_hmq_vmy_bv">
-    <li><b>is_origin:</b> Select this check box if the selected findspot is the original site where
-     the object originally came from.</li>
+    <li><b>is_origin:</b> Select this check box if the selected findspot is the original, ancient
+     location of the artefact.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_pb2_wmy_bv">
-    <li><b>Certainty:</b> Choose between "Certain", "Probable" and "Uncertain".</li>
+    <li><b>Certainty:</b> Choose between "Certain", "Probable", and "Uncertain". Clarify your
+     decision in the comment field.</li>
    </ul>
+   <ul id="ul_er2_y4p_1cb"/>
+  </p>
+  <p>Both the "Place" and "Former Place" sections have "Add"/"Remove Entry Group" buttons which do
+   different things depending on whether they appear to the right of a "Place" section or a "Former
+   Place" section;</p>
+  <p>
    <ul id="ul_xy3_xxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_kct_p1g_hx"/>
-     <b>Add Entry Group:</b> Add another set of information for "Former place" (without "Place").
-     Use this option, if more than one former location of your object is known.</li>
+     <b>Add Entry Group:</b> In the "Place" section, this button will add another full findspot
+     entry (i.e. with a "Place" and "Former Place" section; use this if your artefact is made up of
+     mutliple fragments, each with their own different findspots. In the "Former Place" section,
+     this button will only add another "Former Place", which allows you to enter multiple past
+     locations if your artefact has changed location during its life. Thus you can enter the
+     findspot information for fragmentary artefacts with complex findspot histories.</li>
    </ul>
    <ul id="ul_c44_xxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_psz_p1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the entry group "Former place" or clears the entry fields if
-     it is the only entry group.</li>
+     <b>Remove Entry Group:</b> In the "Place" section, this button will remove the full findspot
+     entry (i.e. both its "Place" and "Former Place" sections), but in the "Former Place" section,
+     this button will only remove that specific "Former Place".</li>
    </ul>
   </p>
-  <p/>
-  <p>Example: The Pantheon obelisk (PM VII, 409) found in 1374 under Santa Maria sopra Minerva,
-   re-erected in 1711 opposite the Pantheon. Therefore select, the following entries: Place:
-   Pantheon; Certainty: Certain; Former_Place: Santa Maria sopra Minerva; Certainty: Certain;
-   another Former_Place: Heliopolis; Is_Origin: Check box selected; Certainty: Probable.</p>
   <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
  </conbody>
  <?oxy_custom_end?>

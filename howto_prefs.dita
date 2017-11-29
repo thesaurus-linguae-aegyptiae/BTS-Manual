@@ -40,13 +40,15 @@
     <p>
       <ul id="ul_egq_wl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a corpus will receive by default when it is created.</li>
+          visibility status a corpus will receive by default when it is created. See also chapter
+            <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fdd_xl2_vt">
         <li>"Default Review State" applies to all newly created database objects. Like "Default
-          Visibility", this defines the review state a corpus will receive when it is created.</li>
+          Visibility", this defines the review state a corpus will receive by defaultwhen it is
+          created.</li>
       </ul>
     </p>
     <p><b>Lemma List Settings </b>
@@ -75,7 +77,8 @@
     <p>
       <ul id="ul_ylp_vl2_vt">
         <li>"Default Review State" applies to all newly created database objects. Like "Default
-          Visibility", this defines the review state a lemma will receive when it is created.</li>
+          Visibility", this defines the review state a lemma will receive by default when it is
+          created.</li>
       </ul>
     </p>
     <p>NOTE: "Default Visibility" and "Default Review State" apply to all newly created database
@@ -87,19 +90,19 @@
     <p><b>Lemmatizer</b>
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the program's default inflection is
-      "3") and activate the check box "Automatically select first lemma proposal". The latter
+      "3") and activate the check box "Automatically select first lemma proposal"; the latter
       feature allows you to navigate through the proposed lemmata via the arrow keys of your
       keyboard. For more on grammatical rules see <xref href="grammar_rules.dita"/>.</p>
     <p><b>Project settings</b>
     </p>
     <p>Here you can choose your main working project from the drop-down menu. The field below gives
       you an option to select further projects from which you want to load and read data. In the box
-      on the left is a list of available projects. Clicking on one will give you an option to add it
-      to the "Projects to be downloaded" on the right. Clicking on "Apply" below will download the
+      on the left is a list of available projects; clicking on one will give you an option to add it
+      to the "Projects to be downloaded" on the right; clicking on "Apply" below will download the
       project. Between the two fields you also have an option to remove the project from the right
       field, to "Add All" from available to "Projects to be downloaded", and "Remove All" from
       "Projects to be downloaded" to "Available Projects". Next to the "Apply" button there is also
-      a button that will restore default settings "Restore Default".</p>
+      a button that will restore default settings, called "Restore Default".</p>
     <p><b>Remember me</b></p>
     <p>Select the check box "Remember my login credentials on startup" to be logged in automatically
       when starting BTS. To deactivate this function unselect the check box.</p>
@@ -125,8 +128,8 @@
     <p><b>Thesaurus Settings</b>
     </p>
     <p>Here you can choose a main working thesaurus (from a project). All new thesaurus entries will
-      be saved there. Currently only one working thesaurus is available: "Altägyptisches Wörterbuch
-      BBAW".</p>
+      be saved there. There is currently only one working thesaurus available: "Altägyptisches
+      Wörterbuch BBAW".</p>
     <p><b>Thesaurus Navigator Settings</b></p>
     <p>
       <ul id="ul_dn2_bm2_vt">
@@ -139,14 +142,14 @@
     <p>
       <ul id="ul_ojn_bm2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a thesaurus entry will receive by default when it is created.</li>
+          Visibility Status a thesaurus entry will receive by default when it is created.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_mfc_cm2_vt">
         <li>"Default Review State" applies to all newly created database objects. Like "Default
-          Visibility", this defines the review state a thesaurus entry will receive when it is
-          created.</li>
+          Visibility", this defines the Review State a thesaurus entry will receive by default when
+          it is created.</li>
       </ul>
     </p>
     <p/>

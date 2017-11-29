@@ -5,17 +5,18 @@
  <conbody>
     <image href="Images/help2.png" id="image_pjm_134_pt"/>
     <p><b>Open Manual (PDF)</b></p>
-    <p>Clicking on this menu entry will open the PDF version of the user manual.</p>
+    <p>Clicking on this will open a PDF version of the user manual.</p>
     <p><b>Open Webhelp</b></p>
-    <p>Clicking on this menu entry will open the HTML version of the user manual. </p>
+    <p>Clicking on this will open a HTML version of the user manual. </p>
     <p><b>Update Application</b></p>
     <p>Searches for available software updates.</p>
     <p><b>Install New Software-Components</b></p>
     <p>Select software to add to your BTS.</p>
     <p><b>Uninstall Software-Components</b></p>
-    <p>Select to see which parts of the software are installed. Select a specific path. Click
-      "Uninstall" at the bottom of this window to uninstall selected parts of the program.</p>
-    <p>NOTE: This does not uninstall BTS. To uninstall BTS you have to delete all files from the
+    <p>Click on this to see which parts of the software are currently installed. Select a specific
+      path and click "Uninstall" at the bottom of this window to uninstall those parts of the
+      program.</p>
+    <p>NOTE: This does not uninstall BTS. To do this you have to delete all files from the
       installation path manually (see <xref href="intro_uninstall_update.dita"/>).</p>
   </conbody>
 </concept>
