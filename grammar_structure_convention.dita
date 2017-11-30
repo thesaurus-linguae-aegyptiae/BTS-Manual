@@ -3,8 +3,8 @@
 <topic id="topic_a1h_qjb_lt">
   <title>Structural signs and conventions</title>
   <body>
-    <p>Structural signs are used to mark up morphological properties of a lexical entry and changes
-      caused by inflections of words in the texts.</p>
+    <p>Structural signs are used to denote the morphological properties of a lexical entry and
+      changes caused by the inflection of words in the text.</p>
     <p><b>Structural Signs</b></p>
     <p>
       <table id="table_zl2_wjb_lt">
@@ -18,7 +18,7 @@
             </row>
             <row>
               <entry>space</entry>
-              <entry>All word, including suffix pronouns, are separated by space.</entry>
+              <entry>All words, including suffix pronouns, are separated by space.</entry>
             </row>
             <row>
               <entry>:</entry>
@@ -70,7 +70,7 @@
     </p><p/>
     <p><b>Prefixes</b></p>
     <p>Only morphological prefixes are allowed to be marked by the structure sign (“:”). Do not mark
-      any prefix of word formation.</p>
+      any prefix that is inherent to that word's formation.</p>
     <p>
       <table id="table_vjs_zjb_lt">
         <tgroup cols="2">
@@ -103,8 +103,8 @@
     </p><p/>
     <p><b>Suffixes</b></p>
     <p>Suffixes are to be marked consistently by “=”. Note the space between a word and “=”.
-      Lexically bound suffixes are also to be marked by “=” to declare the suffix as included in the
-      word (e.g. personal names), but are used without space.</p>
+      Lexically bound suffixes are also to be marked by “=”, but to show that the suffix is included
+      in the word (e.g. in personal names), do not enter a space before the "=".</p>
     <p>
       <table id="table_lfm_bkb_lt">
         <tgroup cols="2">
@@ -134,13 +134,13 @@
       </table>
     </p><p/>
     <p><b>Endings</b></p>
-    <p>Morphological endings are to be marked by a dot “.” (e.g. numerus endings, inflective
-      infix/affix), endings of word formations by a comma “,” (e.g. feminine ending). Endings of
-      proper names have to be written at the end of the full name, no matter if a name consists of
-      compound words and/or suffixes. </p>
-    <p>NOTE: The feminine ending <i>.t</i> is marked by a comma (","), if the word is noun. The
-      ending of adjectives is treated as morphological endings and thus marked by a dot ("."), e.g.
-        <i>nb,t nfr.t</i>.</p>
+    <p>Morphological endings are marked by a dot “.” (e.g. numerus endings, inflective infix/affix),
+      and the endings of word formations by a comma “,” (e.g. feminine ending). The endings of
+      proper names have to be written at the end of the full name, regardless of whether a name
+      consists of compound words and/or suffixes. </p>
+    <p>NOTE: The feminine ending <i>.t</i> is marked by a comma (",") if the word is noun. The
+      endings of adjectives are treated as morphological endings and are thus marked by a dot ("."),
+      e.g. <i>nb,t nfr.t</i>.</p>
     <table id="table_lkz_dkb_lt">
       <tgroup cols="2">
         <colspec colnum="1" colname="col1"/>
@@ -186,13 +186,13 @@
     </table>
     <p/>
     <p><b>Notation of Plural and Dual</b></p>
-    <p>Plural and dual endings are morphological endings and thus marked by a dot (".").
-      Phonetically written endings are transliterated as "<i>.w</i>", "<i>.wj</i>", "<i>.wt</i>" and
-        "<i>.tj</i>" respectively. Strokes and other ideographic writings of number are represented
-      by either ".pl" or ".du". In case there is a phonetic and ideographic writing, both are
-      represented in the transliteration, e.g. ".w.pl." or ".tj.du".</p>
-    <p>Dots and commas are combined if both morphological and inflectional endings appear in one
-      word,e.g.:</p>
+    <p>Plural and dual endings are morphological endings and are thus marked by a dot (".").
+      Phonetically written plural endings are transliterated as "<i>.w</i>", "<i>.wj</i>",
+        "<i>.wt</i>", and "<i>.tj</i>". Strokes and other ideographic writings of number are
+      represented by either ".pl" or ".du". Both types can be used together, e.g. ".w.pl." or
+      ".tj.du".</p>
+    <p>Dots and commas can be combined if both morphological and inflectional endings appear in one
+      word, e.g.:</p>
     <p>
       <ul id="ul_d5t_mvt_mx">
         <li><i>nh,t</i> - "sycamore" (sg.)</li>
@@ -203,9 +203,9 @@
         <li><i>jm,j<b>.pl</b>-rʾ-ḥm,pl-nṯr</i> (title, pl.)</li>
       </ul>
     </p>
-    <p>Strokes and other ideographic writing are only represented by .pl and .du, respectively, if
-      they mark "real" plurals or duals. If written in collectives, they are treated as
-      determinatives and are thus not transliterated, e.g.:</p>
+    <p>Strokes and other ideographic writing are only represented by .pl and .du, if they mark
+      "real" plurals or duals. Pluralisation written in collectives are treated as determinatives
+      and are thus not transliterated, e.g.:</p>
     <p>
       <ul id="ul_sg5_pwt_mx">
         <li><i>mnmn,t</i> - "cattle"</li>
@@ -265,8 +265,8 @@
     </p>
     <p></p>
     <p><b>Proper Names</b></p>
-    <p>Proper names are written with an initial capital, also when they appear within a compound
-      word.</p>
+    <p>Proper names are written with an initial capital letter, which includes when they appear
+      within a compound word.</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_nh2_l2n_fx">
         <tgroup cols="2">
@@ -304,13 +304,13 @@
     </p>
     <p/>
     <p><b>Cartouches, Serekhs etc.</b></p>
-    <p>Cartouches "𓍹 ... 𓍺", Serekhs "𓉘 ... 𓊂" and enclosures of places names "𓊆 ... 𓊇" etc.
-      are treated as determinative and are thus not represented in the transliteration. </p>
+    <p>Cartouches "𓍹 ... 𓍺", Serekhs "𓉘 ... 𓊂", and enclosures of places names "𓊆 ... 𓊇" etc.
+      are treated as determinatives and are thus not represented in the transliteration. </p>
     <p/>
     <p><b>Verse Points</b></p>
-    <p>Verse points are represented in the transliteration via the appropriate signs (see <xref
-        href="intro_keyboard.dita"/>). There has to be a space before and after the verse point.
-      Verse points are not represented in the hieroglyphical encoding.</p>
+    <p>Verse points are represented in the transliteration (not hieroglyphic encoding) with the
+      appropriate signs (see <xref href="intro_keyboard.dita"/>). There has to be a space before and
+      after the verse point. </p>
     <p>
       <ul id="ul_zfv_sy5_mx">
         <li>󰂀 - preserved verse point</li>

@@ -3,15 +3,15 @@
 <topic id="topic_ib1_s5j_sx">
   <title>Adjectives</title>
   <body>
-    <p>Owner 71000</p>
-    <p>The endings of adjectives according to agreement in gender and number are encoded when the
-      adjective is used attributive. To enable the search for attributive adjectives, also forms are
-      encoded that are unaltered to the BWL (i.e. sg. m.). Adjectives in status constructus (e.g.
-        <i>nj-sw</i>) are transliterated with a hyphen and encoded with the endings of the pronouns
-      (see: <xref href="inflection_pronouns.dita"/>). Code 3 (unaltered to BWL) is only used for
-      independent pronouns, because they always appear uninflected (e.g.
-      <i>nfr-sw-</i>construction).</p>
-    <p>Last digit: suffixes and dependent pronouns (see: <xref href="inflection_pronouns.dita"
+    <p>(71000)</p>
+    <p>The endings of adjectives showing agreement in gender and number are encoded when the
+      adjective is used attributively. To allow searches for attributive adjectives, the forms which
+      are the same as those in BWL  (i.e. sg. m.) are encoded as well. Adjectives in status
+      constructus (e.g. <i>nj-sw</i>) are transliterated with a hyphen and encoded with the endings
+      of the pronouns (see: <xref href="inflection_pronouns.dita"/>). Code 3 (i.e. form is no
+      different to BWL) is used for independent pronouns because they always appear uninflected
+      (e.g. <i>nfr-sw-</i>construction).</p>
+    <p>Last digit = suffix and dependent pronoun codes (see: <xref href="inflection_pronouns.dita"
       />).</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_x1t_55j_sx">

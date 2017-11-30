@@ -3,11 +3,11 @@
 <topic id="topic_t32_2bt_2x">
   <title>Abstract Text View</title>
   <body>
-    <p>The Abstract Text View provides a tool to connect all versions of a text with a long textual
-      tradition. It will compile the witnesses of a single text (e.g. Sinuhe) and deliver a generic
-      structure, ex. display the concordance of paragraphs. The metadata concerning the "abstract
-      text" can be entered here, e.g. the bibliography.</p>
+    <p>The Abstract Text View connects all of the witnesses of a text which has a long textual
+      tradition. It will compile the witnesses of a single text (e.g. Sinuhe) and display e.g. the
+      concordance of paragraphs. The metadata concerning the "Abstract Text" can be entered here,
+      e.g. the bibliographical references for each text witness.</p>
     <p/>
-    <p>NOTE: This feature is not complete yet and is currently not available. </p>
+    <p>NOTE: This feature is currently unavailable. </p>
   </body>
 </topic>

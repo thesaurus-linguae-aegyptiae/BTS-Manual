@@ -20,7 +20,8 @@
       the indexing process.</p>
     <p><b>Re-Indexing</b></p>
     <p>BTS indexes the databases itself automatically when it receives new data from the server, but
-      sometimes this process produces errors and requires manual re-indexing.</p>
+      sometimes this process produces errors and requires manual re-indexing, causing the "Database
+      Manager" to open.</p>
     <p>Databases that are not indexed successfully are marked either in yellow or red. If indexing
       was not successful for some corpora then you need to re-index them (see below options). This
       process may take a while, and the more databases you have to re-index the longer it will take.
@@ -39,5 +40,8 @@
       especially the databases, word lists, and theasauri you will be working with.</p>
     <p>NOTE: The items "_recplicator" and "_uses" cannot be indexed and are always marked in red.
       You do not have to re-index these items.</p>
+    <p>NOTE: Indexing and re-indexing is specific to the BTS on your computer, and not to your
+      account, meaning that if someone already indexed the database before you, when you login the
+      "Database Manager" is unlikely to open automatically with an error.</p>
   </body>
 </topic>

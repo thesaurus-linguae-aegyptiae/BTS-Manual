@@ -20,10 +20,10 @@
   <p>
    <ul id="ul_e1f_2my_bv">
     <li><b>Description:</b> Use this field to provide a more thorough definition of the (physical)
-     object/text in cases where the name of the database object is not sufficient. Usually this
-     field remains blank.<p>NOTE: Please still make sure that the name of the database object is
-      sufficient to identify it and that its passport data is filled out as completely and
-      accurately as possible; this tab should not act as a substitute for this.</p></li>
+     object/text, for cases where its name is not sufficient. Usually this field remains
+      blank.<p>NOTE: Please still make sure that the name of the database object is sufficient to
+      identify it and that its passport data is filled out as completely and accurately as
+      possible.</p></li>
    </ul>
   </p>
   <p>

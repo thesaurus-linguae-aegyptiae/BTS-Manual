@@ -4,7 +4,7 @@
  <title>Glossary</title>
  <conbody>
       <p/>
-      <p>This manual uses the following terms for the description of the user interface:</p>
+      <p>This manual uses the following terms for the description of the User Interface:</p>
       <p><ul id="ul_udd_vkp_ps">
             <li>Menu bar</li>
             <li>Drop-down menu</li>
@@ -16,37 +16,34 @@
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Toolbar.png"
                      id="image_flf_4yw_st"/></p></li>
             <li>Icon</li>
-            <li>ToolTip (only activated by mouseover)<p><image
+            <li>ToolTip (only activated upon mouseover)<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png"
                      id="image_ptv_pyw_st"/></p></li>
-            <li>Workspace: main working field between Toolbar and Statusbar in which the user can
-               switch in one of for different views / workspace modes.</li>
-            <li> View / Workspace mode: the Text corpus view, the Lemma view (Lemma list), the
-               Thesaurus view (Management of Metadata) and the special level Abstract text view.
-               These four Views differ according to the different contents and each shows own
-               windows. The default setting of the Workspace is the Text Corpus view to edit and
-               annotate texts. </li>
-            <li>Viewing mode</li>
+            <li>Workspace: the main working field between the Toolbar and Statusbar.</li>
+            <li> View (Workspace modes): the Text Corpus View, the Lemma View (i.e. Lemma list), the
+               Thesaurus View (i.e. management of metadata), and the Abstract Text View. These four
+               Views differ with respect to their content. The default setting of the Workspace is
+               the Text Corpus View for editing and annotating texts. </li>
          </ul><image
             href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Workspace.png"
             id="image_qp5_syw_st"/><ul id="ul_j4y_5vm_y5">
-            <li>Navigator tree </li>
-            <li>Node (= Branch) - entry in a navigation tree, which can be further expanded, ex.
-               text corpus, text corpus object or a text<p><image
+            <li>Navigator Tree </li>
+            <li>Node (= Branch): an entry in the Navigator Tree, which can be further expanded;
+               types include Corpus, Text Corpus Object, or a Text<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
-                     id="image_vgm_5yw_st"/></p><p/><p>Moreover the following terms are
-               used:</p></li>
-            <li>Database object: any element (item) of the database</li>
-            <li>Text Corpus Object: an item of the corpus database, which is not a text, mainly
-               referring to a physical object. Texts and Text Corpus Objects are in child-parent
-               relation, i.e. text is always attributed to the object.</li>
-            <li>Child-parent relation: the relation of subordination between two items of the
-               database</li>
-            <li>Lemma: the canonical form (dictionary form) of a set of words</li>
-            <li>Token: the representation of a lemma in the text (word form)</li>
-            <li>Local and remote databases: local databases are running on user's PCs, remote
-               databases are located on BTS central server in Berlin</li>
-            <li>WCN: word corpus number, i.e. the ID of the lemma</li>
+                     id="image_vgm_5yw_st"/></p><p/><p>The following terms are used throughout the
+                  manual and defined here:</p></li>
+            <li>Database object: any record of the database.</li>
+            <li>Text Corpus Object: a record of the corpus database, which is not a text but is main
+               used to refer to a physical artefact. Texts and Text Corpus Objects are in
+               child-parent relationships; TCObjects always contain Texts.</li>
+            <li>Child-parent relationship: the relation of subordination between two records of the
+               database.</li>
+            <li>Lemma: the canonical (dictionary) form of a word</li>
+            <li>Token: the representation of a lemma in the text (i.e. a word)</li>
+            <li>Local and remote databases: local databases run on your PC, remote databases are
+               located on the BTS central server in Berlin.</li>
+            <li>WCN: Word Corpus Number, i.e. the ID of the lemma in the TLA</li>
          </ul></p>
    </conbody>
 </concept>

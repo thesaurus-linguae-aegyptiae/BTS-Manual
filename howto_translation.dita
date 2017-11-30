@@ -28,6 +28,9 @@
             choice of language is not intended for multilingual translations of a single text.</p>
         <p>We recommend entering a readable and understandable translation in the modern language,
             while still maintaining the meaning of the ancient text.</p>
+        <p>NOTE: As the translation is entered sentence-by-sentence, changing the boundaries of a
+            sentence after translating can result in the loss of that translation; please make sure
+            before you start translating that you are happy with your text's segementation.</p>
         <p><b>Using transliteration signs in the translation</b></p>
         <p>You can use transliteration signs in your translation. This might be necessary if there
             are only traces of a word preserved or if there is no translation available, e.g.

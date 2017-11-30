@@ -42,20 +42,19 @@
       in this field between the "§" signs (so that the "§" marks the beginning and the end of the
       lemma), otherwise the lemma will not be valid. </p>
     <p><b>Compound-word-lemmata:</b> If you want to enter a lemma that consists of multiple words
-      (e.g. as in <i>m-ẖnw</i>), use "-" between each element. If you want to split these words into
-      multiple elements (but still have it as one lemma entry) then just use "space" between each
-      word. Do not enclose each word individually with "§", but the whole word instead (so §<i>m
-        ẖnw</i>§, not §<i>m</i>§ §<i>ẖnw</i>§). </p>
-    <p>The reason behind splitting the compound into multiple elements, is that when you search for
-      a part of the compound (e.g. "<i>ḥm</i>" in the case of <i>ḥm-nṯr</i>), the whole compound
-      word will appear in the results. It also means you can sub-lemmatize the compound word (see
-      section below).</p>
-    <p>Example: typing §<i>m-ẖnw</i>§ marks one element, while §<i>m ẖnw</i>§ marks two elements:
-        <i>m</i> and <i>ẖnw</i>.</p>
+      (e.g. as in the title <i>ḥm-nṯr Imn</i>), use "space" between each word and a hyphen "-"
+      between each compound of a compound word. You can then split these words into multiple tokens
+      (but still have it as one lemma entry). Do not enclose each word individually with "§", but
+      the whole word instead (so §<i>ḥm-nṯr Imn</i>§, not §<i>ḥm-nṯr</i>§ §<i>Imn</i>§). </p>
+    <p>The reason behind splitting the lemma into multiple tokens, is that when you search for a
+      part of the lemma, the whole lemma will appear in the results. It also means you can
+      sub-lemmatize the tokens within the lemma word.</p>
+    <p>Example: typing §<i>ḥm-nṯr Imn</i>§ means you can sub-lemmatize the lemma into <i>ḥm-nṯr</i>
+      and <i>Imn</i>, and also <i>ḥm-nṯr</i> into <i>ḥm</i> and <i>nṯr</i>.</p>
     <p><b>Sign-Text</b></p>
-    <p>In the Sign-Text section every lemma appears as a single entity, no matter if it is part of a
-      compound word or on its own. This means that you can sub-lemmatize every part of a compound in
-      addition to the compound itself (which would be lemmatized as one entry).</p>
+    <p>In the Sign-Text section every lemma appears as a single entity, no matter if it has multiple
+      words or not. This allows you to sub-lemmatize each part of that lemma, in addition to the
+      whole lemma itself.</p>
     <p><b>Translation</b></p>
     <p>Enter the translation for the complete lemma into this field. Select the language by
       left-clicking the drop-down menu marked by <image href="Images/icons/full/icon16/locale.png"

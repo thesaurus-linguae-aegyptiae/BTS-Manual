@@ -3,12 +3,13 @@
 <topic id="topic_vfh_sz3_sx">
   <title>Auxiliaries</title>
   <body>
-    <p>Owner 96000</p>
-    <p>The notation of combined verbal forms is encoded at the respective verb (see above <xref
+    <p>(96000)</p>
+    <p>Combined verbal forms are encoded in the respective verb (see above <xref
         href="inflection_suffixconjugation.dita"/>, <xref href="inflection_pseudoparticiple.dita"/>,
         <xref href="inflection_infinitive.dita"/>).</p>
-    <p>Auxiliaries are distinguished between status absolutus (= code 3, unaltered to BWL) and
-      auxiliaries in status pronominalis. If the suffix is lost, use 0 as last digit.</p>
+    <p>Auxiliaries are distinguished from status absolutus (= code 3, i.e. it is no different to
+      BWL) and auxiliaries in status pronominalis. If the suffix is lost, use 0 as the last digit of
+      the code.</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_fbh_f1j_sx">
         <tgroup cols="3">
@@ -92,7 +93,7 @@
         </tgroup>
       </table>
     </p>
-    <p>NOTE: Auxiliaries in other verbal forms are currently not taken into account.</p>
+    <p>NOTE: Auxiliaries in other verbal forms are not currently taken into account.</p>
     <p/>
     <p>Example: <i>ꜥḥꜥ.n=f sḏm.n=f</i>: 96354 + 10384 + <i>=f</i>)</p>
   </body>

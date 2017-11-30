@@ -3,31 +3,32 @@
 <concept id="concept_o2k_jpd_4r">
  <title>Annotations</title>
  <conbody>
-  <p>The annotations and text translation window is placed on the right side of the default BTS user
-   interface in each view.</p>
-  <p>For each entry either an "Annotation" <image href="Images/icons/full/icon16/annotation.png"
-    id="image_p3k_pz3_sr"/> or a "Comment" <image href="Images/icons/full/icon16/comment.png"
+  <p>The Annotation and Text Translation window is placed on the righthand side of the default BTS
+   User Interface.</p>
+  <p>For each lemma entry an "Annotation" <image href="Images/icons/full/icon16/annotation.png"
+    id="image_p3k_pz3_sr"/> and/or a "Comment" <image href="Images/icons/full/icon16/comment.png"
     id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are placed in the toolbar of the
-   Lemma Navigator (at the left side of the workspace). Each annotation or comment offers
-   additionally the following functions:</p>
+   Lemma Navigator (on the lefthand side of the workspace). Each annotation or comment offers the
+   following additional functions:</p>
   <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
    <b>Add Current Text Selection as Reference</b>: The selected part is referenced to the current
-   annotation or comment. This feature provides an opportunity, for example, to reference multiple
-   parts to a single annotation.</p>
+   annotation or comment. This feature allows you to reference multiple parts of a lemma to a single
+   annotation.</p>
   <p><image href="Images/icons/full/icon16/chain-delete.png" id="image_zjx_hv3_sr"/>
    <b>Remove Current Reference</b>: The selected part is removed from the current annotation or
-   comment. This removes only the link. It does not delete the annotation.</p>
+   comment. This only removes the link and does not delete the annotation.</p>
   <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
-   <b>Edit Comment or Edit Annotation</b>: This opens a window to edit the content of annotations
-   and comments.</p>
+   <b>Edit Comment or Edit Annotation</b>: This opens a window where you can edit the content of the
+   annotation or comment.</p>
   <p>Clicking on "Edit Annotation" will display the passport editor for annotations. Each annotation
-   will have its own ID and its relation to the selected lemma will be shown in the "Relations" tab. </p>
-  <p>By clicking the "Edit Comment" button, a "Comment Editor" a window will appear. You can enter
-   or edit a title for your comment in the upper input field and the content of your comment in the
-   lower input field. Below there is also a section where you can see or edit a relation of the
-   comment to the lemma, using the ID.</p>
+   will have its own ID and its relationship with the selected lemma will be shown in the
+   "Relations" tab. </p>
+  <p>By clicking the "Edit Comment" button, a "Comment Editor" window will appear. Here you can
+   enter or edit the title of your comment in the upper field and the content of your comment in the
+   lower field. Below there is also a section where you can see and edit the relationship of the
+   comment with the lemma.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
-   <b>Delete</b>: Will delete the currently selected element.</p>
+   <b>Delete</b>: Will delete the selected annotation or comment.</p>
   <p>To learn more about annotations see <xref href="howto_annotations.dita"/>.</p>
  </conbody>
 </concept>

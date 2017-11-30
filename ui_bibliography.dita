@@ -6,10 +6,11 @@
   <p>Enter bibliographical information here; the tab contains: </p>
   <p>
    <ul id="ul_o4n_dy2_cv">
-    <li><b>Bibliographical text field:</b> You can manually enter the bibliographical data here. We
-          recommend using this field only as the below feature is currently unavailable. Divide your
-          bibliographic items with ENTER, and at the end of each item, provide the following
-          information separated with commas and surrounded in square brackets:<ul id="ul_b44_xgm_hx">
+    <li><b>Bibliographical text field:</b> You can manually enter the bibliographical data here.
+          Please only use this field to enter your bibliographical information as the below feature
+          is currently unavailable. Divide your bibliographical items with ENTER, and at the end of
+          each item, provide the following information separated with commas and surrounded in
+          square brackets:<ul id="ul_b44_xgm_hx">
             <li>A for squeeze ("<b>A</b>bklatsch")</li>
             <li>B for bibliography ("<b>B</b>ibliography")</li>
             <li>F for facsimile ("<b>F</b>aksimile")</li>
@@ -45,13 +46,12 @@
           </p><p>
             <ul id="ul_fcs_vqm_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
-                <b>Search Object:</b> You can select the bibliographical item from the Thesaurus.
-                This feature is currently unavailable.</li>
+                <b>Search Object:</b> You can select the bibliographical item from the Thesaurus. </li>
             </ul>
             <ul id="ul_vgm_drm_hx">
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
-                thesaurus entry. This feature is currently unavailable.</li>
+                thesaurus entry. </li>
             </ul>
             <ul id="ul_gc3_grm_hx">
               <li><b>Pages/plates:</b> Enter the pages/plate numbers for the bibliographical item
@@ -72,7 +72,7 @@
    </ul>
   </p>
   <p/>
-  <p>NOTE: The bibliographical thesaurus does not exist yet. We recommend using the "Bibliographical
-      text field" instead.</p>
+  <p>NOTE: The bibliographical thesaurus does not exist yet. Please use the "Bibliographical text
+      field" instead.</p>
  </conbody>
 </concept>

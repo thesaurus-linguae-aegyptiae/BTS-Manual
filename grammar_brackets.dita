@@ -3,21 +3,21 @@
 <concept id="concept_ywn_ghb_lt">
  <title>Brackets</title>
  <conbody>
-  <p>Only consonants of words or full words that are lost or partially damaged are allowed to be put
-   into brackets (“[ ]” / “⸢ ⸣“), if signs representing the consonants are intrinsically part of the
-   writing. This means that the consonants that are complements of fully existing ideograms should
-   not be surrounded by brackets. If a word is partially destroyed but is still fully readable (that
-   happens if a determinative or a complement is lost, but the word is clearly written) then there
-   is no need for a bracket, unless there is no ambiguity possible, e.g. because of homography.</p>
+  <p>Only consonants of words or full words that are lost or partially damaged are to be put into
+   the brackets (“[ ]”/“⸢ ⸣“),  and only if those signs are an intrinsic part of the writing. This
+   means that the consonants which act as complements of fully existing ideograms should not be
+   surrounded by brackets. If a word is partially destroyed but is still fully readable (e.g. if a
+   determinative or a complement is lost, but the word is clearly written) then there is no need for
+   a bracket, as long as there is no ambiguity, e.g. due to homography.</p>
   <p>
    <ul id="ul_qzy_g2g_cv">
-    <li>Example 1: <i>nfr</i> written: <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
+    <li>Example 1: <i>nfr</i> written <image href="Images/new%20screenshots/Hieroglyphs/nfr.jpg"
       id="image_ghr_yy5_wt"/> has to be transliterated as “<i>nfr</i>”, not “<i>nf[r]</i>”.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_q2n_h2g_cv">
-    <li>Example 2: <i>nfr</i> written: <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
+    <li>Example 2: <i>nfr</i> written <image href="Images/new%20screenshots/Hieroglyphs/nfr2.jpg"
       id="image_rmm_nz5_wt"/> has to be transliterated as "<i>⸢nfr⸣</i>".</li>
    </ul>
   </p>
@@ -31,29 +31,30 @@
      <tbody>
       <row>
        <entry>(...)</entry>
-       <entry>Correctly unwritten consonants / words or abbreviation expanded by the editor</entry>
+       <entry>Correctly unwritten consonants/words or an abbreviation which has been expanded by the
+        editor</entry>
       </row>
       <row>
        <entry>⸢...⸣</entry>
-       <entry>Partly damaged or otherwise unclear consonants / words</entry>
+       <entry>Partly damaged or otherwise unclear consonants/words</entry>
       </row>
       <row>
        <entry>〈...〉</entry>
-       <entry>Consonants / words erroneously omitted by the ancient scribe, restored or corrected by
-        the editor</entry>
+       <entry>Consonants/words erroneously omitted by the ancient scribe, and restored or corrected
+        by the editor</entry>
       </row>
       <row>
        <entry>{...}</entry>
-       <entry>Consonants / words considered erroneous and superfluous by the editor</entry>
+       <entry>Consonants/words considered erroneous and superfluous by the editor</entry>
       </row>
       <row>
        <entry>[...]</entry>
-       <entry>Consonants / words missing from the original text due to lacuna, restored by the
+       <entry>Consonants/words missing from the original text due to lacuna, and restored by the
         editor</entry>
       </row>
       <row>
        <entry>⸮...?</entry>
-       <entry>Consonants / words with doubtful reading</entry>
+       <entry>Consonants/words with doubtful reading</entry>
       </row>
       <row>
        <entry>〈〈...〉〉 </entry>
@@ -75,31 +76,31 @@
     </tgroup>
    </table>
   </p>
-  <p>NOTE: For 〈...〉 use the font BBAWLibertine, do not use &lt;...>, as the latter are not valid in
-   BTS.</p>
-  <p>NOTE: ((...)) is not to be used for glosses.</p>
+  <p>NOTE: For 〈...〉 use the font BBAWLibertine, do not use &lt;...> from your normal keyboard as
+   these will not be valid.</p>
+  <p>NOTE: ((...)) is not to be used for glosses, please use the Gloss function.</p>
   <p/>
-  <p><b>General rules for the use of brackets</b></p>
+  <p><b>General rules for using brackets</b></p>
   <p>
    <ul id="ul_jr1_fmy_2x">
-    <li>Brackets always come in pairs. You have to close each bracket you have opened. Usually the
-     system will do this automatically, but for 〈...〉 and 〈〈...〉〉 this does not work. Pressing
-     "CTRL+Spacebar" will show the markers that are allowed at the position of the cursor. For
-     recurring elements you also can define a template in the <xref
+    <li>Brackets must always come in pairs. You have to close each bracket which you have opened.
+     Usually the system will do this automatically, but for 〈...〉 and 〈〈...〉〉 it does not work.
+     Pressing "CTRL+Spacebar" will show the characters which are allowed in the position of the
+     cursor. For recurring elements, you can define a template in the <xref
       href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
    </ul>
   </p>
   <ul id="ul_omg_fmy_2x">
    <li>
-    <p>Brackets have to be closed with each token (word), e.g. <i>[jw] [nfr]</i> (not: <i>[jw
-      nfr]</i>).</p>
+    <p>Brackets have to be surround each token (word), e.g. <i>[jw] [nfr]</i> (not: <i>[jw
+     nfr]</i>).</p>
    </li>
-   <li>Brackets can be combined, as long as the bracket opened last is closed first, e.g.
-     <i>[ḫp(r)]</i>, <i>⸢ḫp(r)⸣</i>, <i>⸮[ḫ]p(r)?</i> etc. Interlacing different kinds is not valid,
-    e.g. <i>⸮[ḫ?]pr</i>.<p>NOTE: Some combinations of round brackets and double round brackets
-     result in errors, although they should be valid. For example <i>((n(,j)))</i> is not valid in
-     the BTS grammar. In such a case use the dummy sign "⁝⁝" (i.e. double "⁝"; see <xref
-      href="intro_keyboard.dita"/>): <i>((n(,j)⁝⁝))</i>.</p></li>
+   <li>Brackets can be combined as long as the bracket opened last is the next one to be closed,
+    e.g. <i>[ḫp(r)]</i>, <i>⸢ḫp(r)⸣</i>, <i>⸮[ḫ]p(r)?</i> etc. Interlacing different kinds of
+    brackets is not valid, e.g. <i>⸮[ḫ?]pr</i>.<p>NOTE: Some combinations of round and double round
+     brackets result in errors, even if they are valid. For example <i>((n(,j)))</i> is not valid in
+     the BTS grammar. In such cases, use the dummy sign "⁝⁝" (i.e. two "⁝"; see <xref
+      href="intro_keyboard.dita"/>), e.g. <i>((n(,j)⁝⁝))</i>.</p></li>
   </ul>
  </conbody>
 </concept>

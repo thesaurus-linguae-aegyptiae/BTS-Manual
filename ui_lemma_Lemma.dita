@@ -3,23 +3,23 @@
 <topic id="topic_hzq_trd_vt">
   <title>Lemma</title>
   <body>
-    <p>Lemma tab provides information about different properties of the lemma. These are the
-      following:</p>
+    <p>The Lemma tab provides information about different properties of the lemma:</p>
     <p>
       <ul id="ul_jly_r4f_cv">
-        <li><b>Comment:</b> Any comment to the Lemma which did not fit in any other subsection.</li>
+        <li><b>Comment:</b> Add any further comments on the Lemma which did not fit into any of the
+          other subsections.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_dkx_s4f_cv">
-        <li><b>Comment (English translation):</b> Any comment to the English translation of the
+        <li><b>Comment (English translation):</b> Add any comments on the English translation of the
           Lemma.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_edk_54f_cv">
         <li><b>Lsort, arb_vermerk, simplify, wclassnum, woart, word_class:</b> These are information
-          tags inherited from the previous BTS version. They are not used for newly created
+          tags inherited from the previous BTS version. Please do not use them for newly created
           lemmata.</li>
       </ul>
     </p>

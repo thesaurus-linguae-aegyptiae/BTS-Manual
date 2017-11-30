@@ -10,15 +10,15 @@
     <p>If you are working on a child-element and want it to have the same metadata as the
       parent-element, click <image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr"
       /> "Inherit Passport Data" in the top right corner of the Passport Editor. Note that the
-      parent data will only be copied into empty field; if the fields were already filled out, their
-      content will remain unchanged. </p>
+      parent data will only be copied into empty fields of the child-element; if the fields were
+      already filled out, their content will not be changed. </p>
     <p>The option "Inherit Overwrite Passport Data", available via the drop-down menu "<image
         href="Images/icons/extra%20icons/options_dreieck.png" id="image_umy_spv_ps"/>", allows you
-      to overwrite already existing metadata in the child-element with the metadata of the
+      to overwrite the already existing metadata of the child-element with the metadata of the
       parent-element.</p>
     <p>NOTE: Both inheritance procedures apply to all tabs at once, not just the active one. </p>
-    <p>NOTE: Make sure that all entered metadata is correct, as you might then inherit errors into
-      the child-element.</p>
+    <p>NOTE: Make sure that all entered metadata is correct, otherwise you might inherit errors in
+      the child-elements.</p>
     <p>NOTE: The inheritance functions cannot be undone.</p>
     <p/>
     <p><image

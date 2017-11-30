@@ -3,37 +3,39 @@
 <concept id="concept_fwh_hhb_lt">
  <title>Gaps, lacunas, and damaged parts</title>
  <conbody>
-  <p>The editor of a text should himself decide whether to reconstruct a word / phrase or not. If
-   you are able to reconstruct the missing parts, e.g. from parallel texts or from recurring
-   phrases, use <xref href="grammar_brackets.dita">Brackets</xref>. If only a word class can be
-   reconstructed, a "representative" should be used instead (see below).</p>
+  <p>It is up to the editor to decide whether to reconstruct a word/phrase or not. If you are able
+   to reconstruct the missing part(s), e.g. from parallel texts or recurring phrases, use <xref
+    href="grammar_brackets.dita">Brackets</xref>. If you can reconstruct the lacuna's word class,
+   then use a "representative" (see below).</p>
   <p/>
   <p><b>General representation of gaps and lacunas</b></p>
-  <p>If words or even the number of missing words cannot be reconstructed, the lacuna has to be
-   represented by the following notations. The marker "--...--" with two hyphens is reserved for
-   damaged parts and will be interpreted by BTS in this way. The marker cannot be lemmatized.</p>
+  <p>If words or even the number of missing words cannot be reconstructed, represent the lacuna with
+   the following notations:</p>
   <ul id="ul_ovk_zgf_fx">
+   <li>The marker "--...--" with two hyphens is reserved for damaged parts and cannot be
+    lemmatized.</li>
    <li>
-    <p>“--nQ--“ with “n” as count of the number of destroyed quadrats (see examples below). </p>
+    <p>“--nQ--“ with “n” as the number of destroyed quadrats (see examples below).</p>
    </li>
   </ul>
   <p>
    <ul id="ul_ejp_zgf_fx">
-    <li>Complete destruction at the end of a line/column: “--Rest der Zeile/Kolumne zerstört--"</li>
+    <li>Complete destruction at the end of a line/column: “--Rest der Zeile/Kolumne
+     zerstört--".</li>
    </ul>
   </p>
   <p>
    <ul id="ul_ow5_zgf_fx">
     <li>Complete destruction at the beginning of a line/column: “--Anfang der Zeile/Kolumne
-     zerstört--"</li>
+     zerstört--"-</li>
    </ul>
   </p>
   <p>
    <ul id="ul_jsd_1hf_fx">
-    <li>Complete destruction of the rest of the text: “--Rest des Textes zerstört--"</li>
+    <li>Complete destruction of the rest of the text: “--Rest des Textes zerstört--".</li>
+    <li>If there are traces of signs that cannot be identified, use: "--Zeichenreste--".</li>
    </ul>
   </p>
-  <p>If there are traces of signs that cannot be identified, use: "--Zeichenreste--"</p>
   <p/>
   <p>
    <table id="table_ejz_rnb_lt">
@@ -61,20 +63,19 @@
     </tgroup>
    </table>
   </p>
-  <p>NOTE: Between "--" no hyphens ("-") are allowed, thus write "--4 bis 5Q--", not "--4-5Q--".</p>
+  <p>NOTE: Between two "--" you cannot write any further hyphens ("-"): write "--4 bis 5Q--", and
+   not "--4-5Q--".</p>
   <p/>
   <p><b>Representatives</b></p>
   <p>If the number of words missing can precisely be determined (e.g. if the words are completely
-   lost, but with the determinatives preserved), use three underscores in brackets "[___]". E.g.:
+   lost, but their the determinatives preserved), use three underscores in brackets "[___]". E.g.:
    "[___] [___]" for 2 missing words. These representations are treated as words by BTS and can be
    lemmatized. </p>
-  <p>In some cases it might even be possible to determine word class, number, and gender. To
-   lemmatize the representatives there are entries in the lemma list for each of these options.
-   Therefore you have to search the WCN number via the magnifying glass (see <xref
-    href="howto_lemmatizing.dita"/>). For a list that helps you to find the relevant WCN number, see
-    <xref href="howto_lemmatizing_unknownwords.dita"/>.</p>
-  <p>NOTE: To find the complete list in the lemma list, you may also open search via the magnifying
-   glass and search for "[Wort]" (full text search with both check boxes deactivated). The results
-   will appear at the end of the list.</p>
+  <p>In some cases, the missing word's word class, number, and gender can be determined. There are
+   entries in the lemma list for each of these options; you have to search the WCN number via the
+   magnifying glass (see <xref href="howto_lemmatizing.dita"/>). For a list of the relevant WCN
+   numbers, see <xref href="howto_lemmatizing_unknownwords.dita"/>, or alternatively you can search
+   for "[Wort]" (full text search with both check boxes deactivated) and the list will appear at the
+   bottom of the results.</p>
  </conbody>
 </concept>

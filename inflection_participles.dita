@@ -3,12 +3,12 @@
 <topic id="topic_udf_xnj_sx">
   <title>Participle</title>
   <body>
-    <p>Owner 30000</p>
-    <p>Among the participles are only distinguished by genus and by their ungeminated, geminated and
-      prefixed form according to the written forms. Tense and aspect are not encoded. If an ending
-        <i>.y</i> is written, passive forms are encoded with pronominal subject (suffix). For others
-      see <xref href="inflection_relativeforms.dita"/>. Combine the following codes with the codes
-      in the table:</p>
+    <p>(30000)</p>
+    <p>The participles are only distinguished by genus and by their ungeminated, geminated, and
+      prefixed written forms; tense and aspect are not encoded. If an ending <i>.y</i> is written,
+      then the passive forms are encoded with a pronominal subject (suffix). For others see <xref
+        href="inflection_relativeforms.dita"/>. Combine the following codes with the codes in the
+      table:</p>
     <p>30000 -> "partz.norm (=not gem.)"</p>
     <p>31000 -> "partz.gem"</p>
     <p>32000 -> "partz.pref"</p>

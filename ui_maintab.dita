@@ -62,15 +62,15 @@
     </p>
     <p>
       <ul id="ul_ixf_zjy_bv">
-        <li><b>Project and Corpus:</b> This field displays the name of the project or corpus
-          respectively. By clicking on <image href="Images/icons/full/icon16/preferences.png"
-            id="image_ohg_55x_ls"/> you can move the database object to another project/corpus. You
-          can only move the corpora or projects for which you have the necessary rights. Note that
-          only the physical save location of an object will change (shown in the Navigator tree in
-          square brackets after the database object's name), and not its position in the
-          hierarchical tree. (If you want to change the position of an item in the hierarchical tree
-          then you have to change the relationships of that database object. See <xref
-            href="ui_relationstab.dita"/> below.)</li>
+        <li><b>Project and Corpus:</b> This field displays the name of the project or corpus in
+          which your database object is saved. By clicking on <image
+            href="Images/icons/full/icon16/preferences.png" id="image_ohg_55x_ls"/> you can move the
+          database object to another project/corpus. You can only move the corpora or projects for
+          which you have the necessary rights. Note that only the physical save location of an
+          object will change (shown in the Navigator tree in square brackets after the database
+          object's name), and not its position in the hierarchical tree. (If you want to change the
+          position of an item in the hierarchical tree then you have to change the relationships of
+          that database object. See <xref href="ui_relationstab.dita"/> below.)</li>
       </ul>
     </p>
     <p>

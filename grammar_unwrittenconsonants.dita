@@ -5,10 +5,10 @@
   <body>
     <p><b>Conventions</b></p>
     <p>The transliteration in BTS represents the written forms as they appear in the text.
-      Nevertheless, we recommend to determine unwritten grammatical or phonetic elements and
-      (correctly) unwritten - but not weak - consonants by the use of the round brackets: “(...)”.
-      This helps the reader to understand your translation and makes it easier for you to lemmatize
-      your text, as the lemmatizer finds the respective entries automatically.</p>
+      Nevertheless, we recommend determining any unwritten grammatical or phonetic elements, and
+      (correctly) unwritten - but not weak - consonants by using round brackets “(...)”. This helps
+      the reader to understand your translation and makes it easier for you to lemmatize your text,
+      as the lemmatizer will find the respective entries automatically.</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_ecq_lk4_fx">
         <tgroup cols="1">
@@ -42,8 +42,8 @@
     <p>NOTE: Dots and commas have to be written within the round brackets: <i>...(.w)</i>,
         <i>...(,j)</i>.</p>
     <p/>
-    <p>This means: whenever an unwritten but strong radical is expected, it has to appear in the
-      transliteration. There are a few exceptions which will be listed below.</p>
+    <p>This means that whenever a strong radical is (incorrectly) unwritten, it has to appear in the
+      transliteration. There are a few exceptions which are listed below.</p>
     <p/>
     <p><b>Rules for the reflection of unwritten consonants</b></p>
     <p>
@@ -110,7 +110,8 @@
     </p>
     <p/>
     <p><b>Numerus</b></p>
-    <p>Ideographic writings of numerus are not to be represented phonetically but designated through
-      “.pl” and “.du”. For details see chapter <xref href="grammar_structure_convention.dita"/>.</p>
+    <p>Ideographic writings of numerical data should not be represented phonetically but designated
+      through “.pl” and “.du”. For details see chapter <xref
+        href="grammar_structure_convention.dita"/>.</p>
   </body>
 </topic>

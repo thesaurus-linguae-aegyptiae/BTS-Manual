@@ -4,26 +4,25 @@
  <title>Thesaurus: Date</title>
  <conbody>
   <p>This tab allows you to define the dating of the selected database object. This tab only applies
-   to the date thesaurus ("Datierungen"). Enter the dating of your thesaurus entry in absolute
-   numbers, as these dates are used by the system to arrange the results of search queries in a
-   chronological order.</p>
+   to the date thesaurus ("Datierungen"). Enter the date of your thesaurus entry in absolute
+   numbers, as the system arranges the results of search queries in chronological order.</p>
   <p>
    <ul id="ul_qny_gym_hx">
-    <li><b>Beginning:</b> Enter the start date of the period. Use negative numbers for periods
+    <li><b>Beginning:</b> Enter the start date of the period, using negative numbers for periods
      before Common Era.</li>
    </ul>
    <ul id="ul_l2n_mym_hx">
-    <li><b>End:</b> Enter the end date of the period. Use negative numbers for periods before Common
-     Era.</li>
+    <li><b>End:</b> Enter the end date of the period, using negative numbers for periods before
+     Common Era.</li>
    </ul>
    <ul id="ul_bgl_mym_hx">
-    <li><b>Reference:</b> Enter a reference for the dating.</li>
+    <li><b>Reference:</b> Enter a reference for the date.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_qc2_mym_hx">
     <li><image href="Images/icons/full/obj16/widget-group-add.png" id="image_adl_4xf_yr"/>
-     <b>Add entry group:</b> Add a new section, if you want to add a chronology referring to another
+     <b>Add entry group:</b> Add a new section, if you want to add a chronology from another
      authority.</li>
    </ul>
   </p>

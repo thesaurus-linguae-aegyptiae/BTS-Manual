@@ -5,9 +5,10 @@
   <body>
     <p>To set and edit the <xref href="user_roles.dita#topic_yqt_fpq_zs">User Status</xref> for the
       currently selected database object (corpus, text, lemma, thesaurus entry etc.) select "Edit"
-      in the menu bar and click "Edit Updaters/Readers". To use this feature, your own user role
-      within the selected corpus must be at least "Researcher" and your user status for the specific
-      database object you want to edit must be "Updater".</p>
+      in the menu bar and click "Edit Updaters/Readers"; you can also right-click on the database
+      object in the Navigator Tree. To use this feature, your own user role within the selected
+      corpus must be at least "Researcher" and your user status for the specific database object you
+      want to edit must be "Updater".</p>
     <p>On the lefthand side of the "Edit Updaters/Readers" window the Readers and Updaters of the
       current database object are shown. Click on and expand "Reader" or "Updater" to display them;
       clicking on the name of a user will display details on the righthand side.</p>

@@ -3,10 +3,10 @@
 <topic id="topic_t2f_pqj_sx">
   <title>Imperative</title>
   <body>
-    <p>Owner 50000</p>
-    <p>The imperative of verbs is encoded in its prefixed as well as in its form with or without
-      ending. Lexicalized imperatives are not encoded. Combine the following codes with the codes in
-      the table:</p>
+    <p>(50000)</p>
+    <p>The imperative of verbs is encoded in its prefixed, as well as when it appears with/out an
+      ending, but lexicalized imperatives are not encoded. Combine the following codes with the
+      codes in the table:</p>
     <p>50000 -> "imp"</p>
     <p>51000 -> "imp.pref"</p>
     <p>52000 -> "imp.gem"</p>
