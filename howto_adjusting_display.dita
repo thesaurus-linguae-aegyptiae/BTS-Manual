@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_pxz_dzt_kr">
-  <title>Adjusting display</title>
+  <title>Adjusting the display</title>
   <body>
     <p>The location and display of individual tabs within BTS is flexible, but such changes in the
       display and arrangement of tabs cannot be saved, as every restart of BTS restores the default

@@ -23,8 +23,7 @@
       activated all new database objects created in the "Corpus Navigator" window will be physically
       saved in that corpus. E.g. in the Corpus Navigator you have selected Corpus 2, but your main
       working corpus is Corpus 1. The new database object will be <i>physically</i> saved in Corpus
-      1, although in the Corpus Navigator it is displayed as a part of Corpus 2. See section on
-      "Creating and modifying a database object".</p>
+      1, although in the Corpus Navigator it is displayed as a part of Corpus 2. </p>
     <p>NOTE: You can only select a corpus as your "main working corpus" if you have the necessary
       rights to work in that corpus.</p>
     <p><b>Corpus Navigator Settings </b></p>

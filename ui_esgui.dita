@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ipd_22f_yr">
- <title>Open ES Graphic User Interface</title>
+ <title>Opening ES Graphic User Interface</title>
  <conbody>
         <p>This menu item is only available to users with administrator rights.</p>
   <p>It opens the "Elastic Search" Graphic User Interface (GUI) with your standard internet browser,

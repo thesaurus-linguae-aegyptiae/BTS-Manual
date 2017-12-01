@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_rjs_nw2_yr">
- <title>Open User Manager</title>
+ <title>Opening the User Manager</title>
  <conbody>
   <p>This function is available to users with administrator rights only.</p>
   <p>Clicking "Open User Manager" opens the user management window, which is divided into two

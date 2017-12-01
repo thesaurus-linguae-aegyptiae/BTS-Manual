@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_vfb_sw2_yr">
- <title>Open Database Manager</title>
+ <title>Opening the Database Manager</title>
  <conbody>
   <p>The "Database Manager" window displays all available database collections in a table; the
    number of documents per collection is shown in the column "DB Doc Count". </p>

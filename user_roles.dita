@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_yqt_fpq_zs">
-  <title>User roles description</title>
+  <title>Description of User roles</title>
   <body>
     <p>User roles control which users can modify which database objects. These access rights are
       defined by an interplay of the following factors: </p>

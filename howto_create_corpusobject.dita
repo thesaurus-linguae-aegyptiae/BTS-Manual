@@ -96,8 +96,7 @@
                 contain several texts, e.g. Papyrus Harris 500 contains "The Doomed Prince", "The
                 Taking of Joppe" etc. Each of these tales/poems receives its own database object
                 "Text" subordinated to the TCObject "Papyrus Harris 500"; the order of these Texts
-                in the physical artefact can be indicated by changing their SortKeys (see
-                Preferences).</li>
+                in the physical artefact can be indicated by changing their SortKeys.</li>
             </ul>
             <ul id="ul_pwm_rwp_3x">
               <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
