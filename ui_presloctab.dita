@@ -5,7 +5,8 @@
  <conbody>
   <p>This tab allows you to enter the current location of the ancient Egyptian artefact which bears
    your text (i.e. is it currently in a museum or collection). This differs from the "Findspot"
-   which is where the artefact was first discovered or located in antiquity.</p>
+   which is where the artefact was first discovered or located in antiquity, unless the artefact
+   remains in situ (see below).</p>
   <p/>
   <p>
    <ul id="ul_rqj_zpl_hx">

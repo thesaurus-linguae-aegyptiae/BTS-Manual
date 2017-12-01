@@ -10,9 +10,12 @@
   <p>For example, a royal mummy from the Valley of the Kings cache would have this location as its
    "Place" and its original tomb as its "Former Place".</p>
   <p>For example, the Pantheon obelisk (PM VII, 409) found in 1374 under Santa Maria sopra Minerva,
-   re-erected in 1711 opposite the Pantheon. Therefore select, the following entries: Place:
-   Pantheon; Certainty: Certain; Former_Place: Santa Maria sopra Minerva; Certainty: Certain;
-   another Former_Place: Heliopolis; Is_Origin: Check box selected; Certainty: Probable.</p>
+   re-erected in 1711 opposite the Pantheon. Therefore select, the following entries: the Place is
+   Pantheon with a Certainty of "certain"; the Former Place is Santa Maria sopra Minerva with a
+   Certainty of "certain"; and a second "Former Place" is Heliopolis, and as this is the objects
+   original location you select the check box Is_Origin with a "probable" for the Certainty.</p>
+  <p>NOTE: If the artefact is in situ, then its Findspot (or at least one of the Findspots if the
+   artefact moved around in antiquity) will be the same as its Present Location.</p>
   <p/>
   <p><b>Place</b></p>
   <p>
