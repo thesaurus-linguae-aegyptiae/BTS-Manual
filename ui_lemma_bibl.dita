@@ -6,51 +6,50 @@
     <p>Enter bibliographical information here. The tab contains: </p>
     <p>
       <ul id="ul_o4n_dy2_cv">
-        <li><b>Bibliographical text field:</b> A field to enter the bibliographical data manually.
-          Currently it is recommended to use this field only. Divide your bibliographic items with
-          Semicolon ";".<p>Example: Wb 1, 25; EAG § 159; Schenkel, Einf., 105; ENG §§ 59-64; JWSpG §
-            216</p></li>
+        <li><b>Bibliographical text field:</b> Here you can enter the bibliographical data manually.
+          You can only use this field for time being as the function below is unavailable. Divide
+          your bibliographical items with a semi-colon ";".<p>Example: Wb 1, 25; EAG § 159;
+            Schenkel, Einf., 105; ENG §§ 59-64; JWSpG § 216</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_pn1_jy2_cv">
-        <li><b>Bibliographical entry:</b> This feature is currently not available.<p>
+        <li><b>Bibliographical entry:</b> This feature is currently unavailable.<p>
             <ul id="ul_ajh_drm_hx">
-              <li><b>Bib. Item:</b> Displays the name of the selected thesaurus entry. This is no
-                input field.</li>
+              <li><b>Bib. Item:</b> Displays the name of the selected thesaurus entry (i.e. the
+                bibliographic entry) which you can choose with the search function below.</li>
             </ul>
           </p><p>
             <ul id="ul_fcs_vqm_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
-                <b>Search Object:</b> You may select the language from the Thesaurus. This feature
-                is currently not available.</li>
+                <b>Search Object:</b> You can select the bibliographical item from the Thesaurus.
+              </li>
             </ul>
             <ul id="ul_vgm_drm_hx">
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
                 <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
-                thesaurus entry. This feature is currently not available.</li>
+                thesaurus entry. </li>
             </ul>
             <ul id="ul_gc3_grm_hx">
-              <li><b>Pages/plates:</b> Enter the pages / plate number complementing the
-                bibliographical item selected from the thesaurus and select the check boxes. For the
-                meaning of the abbreviations see above.</li>
-              <li><b>Comment:</b> Use this input field to comment your reference.</li>
+              <li><b>Pages/plates:</b> Enter the pages/plate number for the bibliographical item and
+                select the relevant check boxes.</li>
+              <li><b>Comment:</b> Use this field to comment on your reference.</li>
             </ul>
             <ul id="ul_qt3_jrm_hx">
               <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png"
                   id="image_pwj_g1g_hx"/>
-                <b>Add Entry Group:</b> Add an additional bibliography section.</li>
+                <b>Add Entry Group:</b> Add an additional bibliographical section.</li>
             </ul>
             <ul id="ul_l4k_jrm_hx">
               <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png"
                   id="image_krd_h1g_hx"/>
-                <b>Remove Entry Group:</b> Delete a bibliography section.</li>
+                <b>Remove Entry Group:</b> Delete a bibliographical section.</li>
             </ul>
           </p></li>
       </ul>
     </p>
     <p/>
-    <p>NOTE: The bibliographical thesaurus does not exist yet. We recommend to use "Bibliographical
-      text field" instead until it is available.</p>
+    <p>NOTE: The bibliographical thesaurus does not exist yet. Please use the "Bibliographical text
+      field" instead.</p>
   </body>
 </topic>

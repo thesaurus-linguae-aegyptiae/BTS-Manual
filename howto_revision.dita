@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ijb_wr4_kx">
-  <title>Revision History / Conflict Dialogue</title>
+  <title>Revision History/Conflict Dialogue</title>
   <body>
     <p><b>Revision History</b></p>
     <p>By right-clicking on a database object or by clicking Edit/Open Revision History <image
@@ -16,22 +16,27 @@
       version. You can navigate between the tabs to see the changes made in the respective
       versions.</p>
     <p>NOTE: The topmost version on the right is the latest one.</p>
-    <p>To restore a previous version (which will overwrite the current version), right-click it in
-      the list and apply "Replace current with Selected Revision".</p>
+    <p>To restore a previous version right-click it in the list and apply "Replace current with
+      Selected Revision".</p>
     <p>Close the Revision History window by clicking "Close".</p>
-    <p><b>Conflict Dialog</b></p>
-    <p>If two users work simultaneously on one database object, it is possible, that they produce
-      different versions at the same time. This is indicated by the icon <image
-        href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in the Navigator
-      tree. The conflict dialog solves the problem, which version is the preferable one.</p>
-    <p>The window is divided into two parts (as for the Revision History). The left side displays
-      the current version. The right side shows the conflicting versions.</p>
-    <p>In the lower part there are the respective tabs, e.g. Passport Editor and Egyptian Text
-      Editor for a text. Select a conflicting version by left-click and compare it to the current
-      version. You can navigate between the tabs to see the changes made in the respective versions. </p>
-    <p>To remove a conflicting version, right-click it in the list and apply "Remove Conflicting
+    <p><b>Conflict Dialogue</b></p>
+    <p>If two users work simultaneously on one database object, it is possible that they each
+      produce different versions of the same database object at the same time. This is indicated by
+      the icon <image href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in
+      the Navigator tree. The conflict dialogue solves the problem of which version is the preferred
+      one.</p>
+    <p>NOTE: the addition of a padlock symbol to a database object's icon in the Navigator Tree
+      shows which texts other users are currently working on, please try not to work on texts which
+      are already in use.</p>
+    <p>The window is divided into two parts (as for the Revision History): the left side displays
+      the current version; the right side shows the conflicting versions.</p>
+    <p>In the lower part there are the usual tabs, e.g. Passport Editor and Egyptian Text Editor,
+      for a database object. Select a conflicting version by left-clicking to compare it to the
+      current version. You can navigate between the tabs to see the changes made in the respective
+      versions. </p>
+    <p>To remove a conflicting version, right-click it in the list and click "Remove Conflicting
       Revision".</p>
-    <p>NOTE: Due to technical reasons it might take several attempts to get to the "Remove
+    <p>NOTE: Due to technical reasons it might take several attempts to access the "Remove
       Conflicting Revision" button.</p>
     <p>Apply your changes by clicking "Save and Close" or reject them by clicking "Cancel".</p>
   </body>

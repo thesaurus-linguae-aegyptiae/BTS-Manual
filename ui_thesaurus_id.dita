@@ -3,37 +3,38 @@
 <concept id="concept_at4_qwf_yr">
  <title>IDs</title>
  <conbody>
-  <p>This tab provides the option to enter external IDs of your thesaurus entry to establish links
-   to other projects and databases. By default a <image href="Images/icons/full/obj16/add.png"
-    id="image_hjw_n3w_zs"/> button will be displayed. Click it to add an external ID.</p>
+  <p>This tab provides the option to enter External IDs of your thesaurus entry to establish links
+   to other external projects and databases. By default a <image
+    href="Images/icons/full/obj16/add.png" id="image_hjw_n3w_zs"/> button will be displayed. Click
+   it to add an External ID.</p>
   <p>
    <ul id="ul_itg_xzf_cv">
-    <li><b>Provider:</b> Select the provider (an external project) from the drop-down menu.<p>If a
-      provider you need is missing, please send a proposal to the BTS team in Berlin via E-mail:
-      aegypt1@bbaw.de.</p></li>
+    <li><b>Provider:</b> Select the provider (the external project) from the drop-down menu.<p>If a
+      provider you need is missing, please send a proposal to the BTS team:
+     aegypt1@bbaw.de.</p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_igj_yzf_cv">
-    <li><b>Type:</b> Enter the type of the external ID.</li>
+    <li><b>Type:</b> Enter the type of the External ID, if appropriate.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_iy2_zzf_cv">
-    <li><b>External ID:</b> Enter the external ID here.<p>Example: The town Armant is mentioned in
-      the Trismegistos project: http://www.trismegistos.org/place/812. Select trsimegistos as
-      provider, enter geoID as type, and enter 812 as external ID.</p></li>
+    <li><b>External ID:</b> Enter the External ID here.<p>Example: The town Armant is mentioned in
+      the Trismegistos project: http://www.trismegistos.org/place/812. Select trsimegistos as the
+      Provider, geoID as the Type, and 812 as the External ID.</p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_ytg_11g_cv">
     <li><image href="Images/icons/full/obj16/add.png" id="image_p4t_4r2_hx"/>
-     <b>Add Identifier:</b> Add another set of information, including "Provider", "Type" and
+     <b>Add Identifier:</b> Add another set of information, including "Provider", "Type", and
      "External ID".</li>
    </ul>
    <ul id="ul_t2c_331_px">
     <li><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
-     <b>Remove Widget:</b> This removes the external ID from the lemma.</li>
+     <b>Remove Widget:</b> This removes the External ID from the thesaurus entry.</li>
    </ul>
   </p>
  </conbody>

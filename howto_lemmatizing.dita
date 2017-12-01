@@ -28,11 +28,15 @@
           Editor". In the example above <i>wbn</i> has already been lemmatized, so the other fields
           are filled out. If you find out that you have made an error in the transliteration, you
           should modify it in the "Selected Word" field; the change will be updated in the
-          Sign-Text-Editor and the Transliteration tab automatically.<p>NOTE: If you make changes to
-            an already lemmatized token in the text editor, the token might loose its lemmatization,
-            especially if you add a character to the beginning or the end of the word.</p></li>
-        <li>The Lemma field shows the lemma number (WCN) from the word list (WL). Next to it, the
-          selected transliteration of the lemma is displayed. To lemmatize a lemma, select the
+          Sign-Text-Editor and the Transliteration tab automatically. Note that the lemmatizer will
+          search for lemma according to your transliterated token, ignoring any text after a full
+          stop ".", which means you may have to manually search for tokens that contain this
+          character (e.g. ḥm.t-nṯr).<p>NOTE: If you make changes to an already lemmatized token in
+            the text editor, the token might loose its lemmatization, especially if you add a
+            character to the beginning or the end of the word.</p></li>
+        <li>The Lemma field shows the results of the system's search based on your transliterated
+          token; it shows the lemma number (WCN) from the word list (WL) and the transliteration of
+          the lemma which has been selected in the below list. To lemmatize a token, select the
           appropriate suggestion from the list below. The default setting in
           Preferences/Preferences/Lemmatizer allows you to activate the function "automatically
           select the first lemma proposal". This feature enables you to navigate through the

@@ -3,16 +3,16 @@
 <topic id="topic_xf1_fcj_sx">
   <title>Suffix conjugation</title>
   <body>
-    <p>The forms of the suffix conjugation can be either unmarked. geminated or a special form. The
-      encoding distinguishes only between written forms, i.e. form that can be distinguished by
-      their external appearance (<i>-.n-</i>, <i>-.w-</i>, <i>-.t-</i>, <i>-.tw-</i>, <i>-.jn-</i>,
-        <i>-.ḫr-</i>, <i>-.kꜣ-</i> and combinations). Syntactical and semantic implications are not
-      taken into account. Suffix pronouns are encoded as last digit of the codes listed below.
-      Nominal subjects and lost subjects are encoded with 0 as last digit. </p>
-    <p>Prefixed forms of the suffix conjugation are encoded with 1 as second digit in combination
-      with the codes listed below, e.g. 11021 = pref. SK.akt.kzl.1sg. For the encoding of complex
-      verbal forms and negated forms of the suffix conjugation see tables below.</p>
-    <p><b>Suffix conjugation</b> Owner 10000</p>
+    <p>The forms of the suffix conjugation can be either unmarked, geminated, or a special form. The
+      codes below only distinguish between written forms, i.e. forms that can be determined by their
+      external appearance (<i>-.n-</i>, <i>-.w-</i>, <i>-.t-</i>, <i>-.tw-</i>, <i>-.jn-</i>,
+        <i>-.ḫr-</i>, <i>-.kꜣ-</i>, and combinations). Syntactical and semantic implications are not
+      taken into account. Suffix pronouns are encoded as the last digit of the codes listed in the
+      below sections; nominal subjects and lost subjects are encoded with a 0 as the last digit. </p>
+    <p>Prefixed forms of the suffix conjugation are encoded with 1 as the second digit of the codes
+      listed below, e.g. 11021 = pref. SK.akt.kzl.1sg. For the encoding of complex verbal forms and
+      negated forms of the suffix conjugation see the below tables.</p>
+    <p><b>Suffix conjugation</b> (10000)</p>
     <p>10000 -> suffix conjugation (SK)</p>
     <p>11000 -> prefixed suffix conjugation</p>
     <p/>
@@ -310,8 +310,8 @@
     <p><i>mrr=sn</i>: 10109 + <i>=sn</i></p>
     <p><i>sḏm.jn.tw=k</i>: 10562 + <i>=k</i></p>
     <p/>
-    <p><b>Suffix conjugation in complex verbal forms (in combination with codes above)</b> Owner
-      10000</p>
+    <p><b>Suffix conjugation in complex verbal forms (in combination with codes above)</b>
+      (10000)</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_vzr_vfj_sx">
         <tgroup cols="3">
@@ -360,7 +360,7 @@
     </p>
     <p>Example: <i>ꜥḥꜥ.n sḏm.n=sn</i>: <i>ꜥḥꜥ.n</i> + 14389 + <i>=sn</i></p>
     <p/>
-    <p><b>Negated suffix conjugation</b> Owner 100000</p>
+    <p><b>Negated suffix conjugation</b> (100000)</p>
     <p>Negation words are encoded seperately; the negation is encoded at the verbal form notiert:
       place the digits 1-9 infront of the above mentioned codes.</p>
     <p>Negated forms with <i>tm</i>: SK <i>tm=f </i>+ neg. complement (see <xref

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ipd_22f_yr">
- <title>Open ES GUI</title>
+ <title>Opening ES Graphic User Interface</title>
  <conbody>
-        <p>This menu item is only available to users with administrator privileges.</p>
-  <p>Opens the "Elastic Search" graphic user interface with the standard internet browser. Allows to
-            see the "backdoor" of the queries done in the BTS. </p>
+        <p>This menu item is only available to users with administrator rights.</p>
+  <p>It opens the "Elastic Search" Graphic User Interface (GUI) with your standard internet browser,
+                  allowing you to see the "backdoor" of the queries done in BTS. </p>
+            <p>For details see: https://github.com/jettro/elasticsearch-gui</p>
  </conbody>
 </concept>

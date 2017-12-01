@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_tck_1mn_y5">
-  <title>Administrate user roles and rights</title>
+  <title>Organizing user roles and rights</title>
   <body>
-    <p>This function is available to the user with administrator privileges only. </p>
-    <p>To open the user role administration select "Open User Manager" from the drop-down menu
-      "Preferences" of the menu bar. Clicking on this menu entry opens the window "User Management".
-      Select the tab: "Administrate User Roles and Rights".</p>
+    <p>This function is available to users with administrator rights only. </p>
+    <p>To open user role administration select "Open User Manager" from the drop-down menu
+      "Preferences" of the Menu bar, which opens the window "User Management". Select the tab:
+      "Administrate User Roles and Rights".</p>
     <p>The user role administration in BTS follows a certain procedure: first roles are assigned to
       a corpus and then users are assigned to existing roles (i.e. Project -> Corpus -> User Role ->
       User Name).</p>
     <p><b>1st Level: Projects</b></p>
-    <p>A List of projects is displayed in the field on the left side. Upon clicking on a selected
-      project, its data will appear in the field on the right. The data include: Project ID, Project
-      Name, Project Prefix, Description, Connection Type, Server URL and DB Path. You can also click
-      on the blue link below "Add Database Collection" and in the pop-up window give the name of the
-      collection and check boxes "Synchronize Collection" and "Index Collection for Full Text
+    <p>A list of projects is displayed in the field on the left side. Clicking on a project, will
+      show its data in the field on the right. The data include: Project ID, Project Name, Project
+      Prefix, Description, Connection Type, Server URL, and DB Path. You can also click on the blue
+      link below "Add Database Collection", and in the pop-up window give the name of the
+      collection, and check boxes "Synchronize Collection" and "Index Collection for Full Text
       Search" if needed. Clicking "OK" will add the collection to the selected project and it will
       appear at the bottom after opening the project tree.</p>
     <p><b>2nd Level: DB Collections</b></p>
     <p>For each collection the data will also be displayed on the right. "DB Collection Name" is
-      shown, but cannot be edited. Two check boxes can be selected: "Synchronize with Server" and
-      "Index Collection". Below is a drop-down menu "Create New Roles Description" where you can
-      choose between admins, editors, researchers, transcribers or guest roles for the users. After
+      shown but cannot be edited. Two check boxes can be selected: "Synchronize with Server" and
+      "Index Collection". Below is a drop-down menu "Create New Roles Description", where you can
+      choose between admins, editors, researchers, transcribers, or guest roles for the users. After
       selecting one option from the drop-down menu, click on the blue link "Add New User Roles
       Description" to add the role.</p>
     <p><b>3rd Level: User Roles</b></p>
-    <p>In the tree on the left, the added roles will appear after expanding the collection. On the
-      right, "Role Name" and "User Role Definition" (a description of tasks and rights) will appear,
-      which cannot be changed. In the two fields below you can assign a user or a group to each
-      role. At the bottom there is a blue link "Remove this Role and its members form DB
-      collection". Clicking it will remove the selected role from the collection on the left.</p>
+    <p>In the tree on the left, the added roles will appear when you expand the collection. On the
+      right, "Role Name" and "User Role Definition" (a description of tasks and rights) will appear
+      and cannot be changed. In the two fields below you can assign a user or a group to each role.
+      At the bottom there is a blue link "Remove this Role and its members form DB collection",
+      which can be used to remove the selected role from the collection on the left.</p>
     <p><b>4th Level: Users</b></p>
-    <p>Expanding (clicking on) a role, users with the assigned roles will be displayed. Clicking on
-      individual users will make their first name and surname to appear on the right, in the case
-      where an entire group has a specific role, the name of the group will appear. You can remove
-      users and groups from specific roles by clicking the blue link on the bottom "Remove Role from
-      User" or "Remove Group from Role".</p>
+    <p>Expanding (clicking on) a role will display the users who have been assigned this role.
+      Clicking on individual users will make their first name and surname appear on the right; where
+      an entire group has a specific role, the name of the group will appear. You can remove users
+      and groups from specific roles by clicking the blue link on the bottom "Remove Role from User"
+      or "Remove Group from Role".</p>
     <p>Functions of the buttons in this tab:</p>
     <p><image href="Images/icons/full/icon16/project-add.png" id="image_fqt_vqg_ks"/>
       <u>New Project </u></p>
-    <p>Adds new project.</p>
+    <p>Adds a new project.</p>
     <p><image href="Images/icons/full/obj16/delete.png" id="image_ftt_vqg_ks"/>
       <u>Delete</u>
     </p>
@@ -54,7 +54,7 @@
     <p>Redo last undone action. </p>
     <p><image href="Images/icons/full/icon16/userrole-edit.png" id="image_q25_vqg_ks"/>
       <u>Edit updaters of selected database object</u></p>
-    <p>Opens the window, where you can assign either "Reader" or "Updater" role to a user in
-      relation to the user group.</p>
+    <p>Opens a window where you can assign either the "Reader" or "Updater" role to a user in
+      relation to a user group.</p>
   </body>
 </topic>

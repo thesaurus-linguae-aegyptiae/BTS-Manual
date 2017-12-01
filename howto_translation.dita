@@ -11,7 +11,10 @@
   <p>Make sure you have selected the right language in the drop-down menu on the right (<image
                 href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/>): German (de),
             English (en), French (fr), Spanish (es), Italian (it), Arabic (ar), or Russian (ru). The
-            default language can be set in the <xref href="ui_preferences.dita">Preferences</xref>. </p>
+            default language can be set in the <xref href="ui_preferences.dita">Preferences</xref>.
+            Language input currently runs either left to right, or right to left, but you cannot
+            have text containing both directions within the same translation (e.g. a translation in
+            Arabic cannot have a phrase running left to right within it).</p>
         <p>In the standard view only one line of text will be visible. You can extend the Text
             Editor window and scroll up/down if the sentence contains more than one line. The
             complete translation of the text will appear on the right of your BTS screen in the
@@ -25,6 +28,9 @@
             choice of language is not intended for multilingual translations of a single text.</p>
         <p>We recommend entering a readable and understandable translation in the modern language,
             while still maintaining the meaning of the ancient text.</p>
+        <p>NOTE: As the translation is entered sentence-by-sentence, changing the boundaries of a
+            sentence after translating can result in the loss of that translation; please make sure
+            before you start translating that you are happy with your text's segementation.</p>
         <p><b>Using transliteration signs in the translation</b></p>
         <p>You can use transliteration signs in your translation. This might be necessary if there
             are only traces of a word preserved or if there is no translation available, e.g.

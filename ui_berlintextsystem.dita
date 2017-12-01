@@ -3,153 +3,154 @@
 <topic id="topic_v4v_ttn_y5">
   <title>Berlin Text System General</title>
   <body>
-    <p>Expanding the "Berlin Text System General" will present the following options: </p>
+    <p>Expanding the "Berlin Text System General" will show the following: </p>
     <p><b>Abstract Text Settings</b></p>
     <p>Abstract Texts are currently not available. Once they are implemented, you can set your
-      configuration here.</p>
+      personal settings here.</p>
     <p><b>Configuration</b></p>
-    <p>Currently the only available option is "Altägyptisches Wörterbuch (AAEW) (10)". Click "Apply"
-      to use this configuration. Click "Restore Default" to go back to the default configuration. </p>
+    <p>The only option currently available is "Altägyptisches Wörterbuch (AAEW) (10)". Click "Apply"
+      to use this configuration or "Restore Default" to go back to the default configuration; in
+      each case the choice is the same. </p>
     <p><b>Corpus Settings</b></p>
-    <p>Here you can choose a set of corpora you are going to work with. Every corpus that does not
+    <p>Here you can choose the corpora you are going to be working with. Every corpus that does not
       appear in the active corpora list on the right will not be accessed by BTS (this includes
-      display in the Navigator tree and search queries). To activate a corpus select it in the list
-      on the left and then click "Add". To remove the corpus from your working list, select it and
-      click "Remove". "Add all" / "Remove all" will add or remove all available corpora to or from
-      the active corpora list. </p>
+      displaying it in the Navigator Tree and including it in search queries). To activate a corpus,
+      select it in the list on the left and click "Add"; to remove the corpus from your working
+      list, select it and click "Remove". "Add all"/"Remove all" will add or remove all available
+      corpora to or from your active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
-      activated all new database objects created in the "Corpus Navigator" window will be physically
-      saved in the selected corpus. For example in the Corpus Navigator you have selected Corpus 2,
-      but your main working corpus is Corpus 1. The new database object will be <i>physically</i>
-      saved in Corpus 1, although in the Corpus Navigator it is displayed as a part of Corpus 2. </p>
+      activated, all new database objects created in the "Corpus Navigator" window will be
+      physically saved in the selected corpus. For example, in the Corpus Navigator you have
+      selected Corpus 2, but your main working corpus is Corpus 1. The new database object will be
+        <i>physically</i> saved in Corpus 1, even though in the Corpus Navigator it is displayed as
+      a part of Corpus 2. This is because the Navigator Tree shows the relationships between
+      database objects, which is separate from their physical save location.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">
         <li>Check box "Corpus Navigator sort by sort key". By default, all objects on the same level
           have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey in the
-          Passport data of the object will change its position regarding other objects, "0" being on
-          top. See Passport Editor, chapter <xref href="ui_maintab.dita"/>.</li>
+          Passport data of the object will change its position in relation to other objects, with
+          "0" at the top. See Passport Editor, chapter <xref href="ui_maintab.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_egq_wl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a corpus will have by default after its creation.</li>
+          Visibility Status a corpus will receive by default when it is created. See also chapter
+            <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fdd_xl2_vt">
-        <li>"Default Review State" applies to all newly created database objects. Like the "Default
-          Visibility" above, this defines a review state which a corpus will have directly after its
-          creation.</li>
+        <li>"Default Review State" applies to all newly created database objects. As with "Default
+          Visibility", this defines the Review State a corpus will receive by default when it is
+          created.</li>
       </ul>
     </p>
     <p><b>Lemma List Settings </b>
     </p>
-    <p>Here you can choose a project with a main working lemma list. All new lemmata will be saved
-      in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW" and
+    <p>Here you can choose your main working lemma list (from a project); all new lemmata will be
+      saved in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW" and
       "Demotic". If you select both, the combined lemma list will be displayed in "Lemma Navigator".
-      If you work with texts in Demotic script, please select "Demotic" as main working lemma list.
-      Otherwise, select "Altägyptisches Wörterbuch BBAW".</p>
+      If you work with texts in Demotic script, please select "Demotic" as your main working lemma
+      list; otherwise, select "Altägyptisches Wörterbuch BBAW".</p>
     <p><b>Lemma Navigator Settings</b></p>
     <p>
       <ul id="ul_gvc_vl2_vt">
-        <li>Check box "Lemma Navigator sort by sort key". Per default all objects on the same level
+        <li>Check box "Lemma Navigator sort by sort key". By default all objects on the same level
           have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in the
-          Passport data of the object will change its position relevant to other objects, "0" being
-          on top. </li>
+          Passport data of the object will change its position in relation to other objects, with
+          "0" at the top. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_uy3_vl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a lemma will have by default after its creation. See also chapter <xref
-            href="user_roles.dita"/>.</li>
+          Visibility Status a lemma will receive by default when it is created. See also chapter
+            <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ylp_vl2_vt">
-        <li>"Default Review State" applies to all newly created database objects. Like the "Default
-          Visibility" above, this defines a review state which a lemma will have directly after its
-          creation.</li>
+        <li>"Default Review State" applies to all newly created database objects. As with "Default
+          Visibility", this defines the Review State a lemma will receive by default when it is
+          created.</li>
       </ul>
     </p>
     <p>NOTE: "Default Visibility" and "Default Review State" apply to all newly created database
-      objects, also including annotations, rubra, comments etc. Currently there is no feature
-      available to apply changes in the visibility and review state to child elements. That means,
-      if e.g. your default visibility is "reader", you have to change all TCObjects, Texts,
-      annotations, rubra etc. to "public" manually once you want to publish your text in the
-      TLA.</p>
+      objects, including annotations, rubra, comments etc. A change to a parent-element will not
+      transfer to any of its children, which means if e.g. your Default Visibility is "reader", you
+      have to manually change all TCObjects, Texts, annotations, rubra etc. to "public" once you
+      want to publish your text in the TLA.</p>
     <p><b>Lemmatizer</b>
     </p>
-    <p>The Lemmatizer allows you to set a default inflection (the programmes default inflection is
-      "3") and activate the check box "Automatically select first lemma proposal". The latter
-      feature enables you to navigate through the proposed lemmata via the arrow keys of you
-      keyboard. More on grammatical rules see <xref href="grammar_rules.dita"/>.</p>
+    <p>The Lemmatizer allows you to set a default inflection (the program's default inflection is
+      "3") and activate the check box "Automatically select first lemma proposal"; the latter
+      feature allows you to navigate through the proposed lemmata via the arrow keys of your
+      keyboard. For more information on grammatical rules see <xref href="grammar_rules.dita"/>.</p>
     <p><b>Project settings</b>
     </p>
     <p>Here you can choose your main working project from the drop-down menu. The field below gives
       you an option to select further projects from which you want to load and read data. In the box
-      on the left is a list of available projects. Clicking on one will give you an option to add it
-      to the "Projects to be downloaded" on the right. Clicking on "Apply" below will download the
+      on the left is a list of available projects; clicking on one will give you an option to add it
+      to the "Projects to be downloaded" on the right; clicking on "Apply" below will download the
       project. Between the two fields you also have an option to remove the project from the right
-      field and to "Add All" from available to "Projects to be downloaded" and "Remove All" from
+      field, to "Add All" from available to "Projects to be downloaded", and "Remove All" from
       "Projects to be downloaded" to "Available Projects". Next to the "Apply" button there is also
-      one that will restore default settings "Restore Default".</p>
+      a button that will restore the default settings, called "Restore Default".</p>
     <p><b>Remember me</b></p>
-    <p>Select the check box "Remember my login credentials on startup" to be logged in
-      automatically, when starting BTS. To deactivate this function unselect the check box.</p>
+    <p>Select the check box "Remember my login credentials on startup" to be logged in automatically
+      when starting BTS. To deactivate this function unselect the check box.</p>
     <p><b>Text Editor</b></p>
     <p>
       <ul id="ul_nwm_zl2_vt">
-        <li>Activate mouse-over pop-up with information on lemmata. Activating this option will
-          display the lemmatization information about the selected lemma in the Text editor
-          (currently unavailable).</li>
+        <li>"Activate mouse-over pop-ups with information on lemmata" will display the lemmatization
+          information about the selected lemma in the Text editor upon mouse-over.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ewz_zl2_vt">
-        <li>Show line number ruler on left side. This check box activates the line numbering (of the
-          window) in the <xref href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text editor</xref>.
-        </li>
+        <li>"Show line number ruler on left side". This check box activates the line numbering
+          (according to the BTS window) in the <xref
+            href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text editor</xref>. </li>
       </ul>
     </p>
     <p><b>Sign Text Editor </b></p>
-    <p>Defines the elements displayed in the lemma-boxes while editing tokens inside the Sign Text
+    <p>Allows you to choose which elements are displayed in the lemma-boxes inside the Sign Text
       Editor. Additionally, the line width can be adjusted by changing the number in the "Line width
-      in pixel" input field.</p>
-    <p>The applied changes will be visible upon refreshing the view of the "Sign Text Editor" tab. </p>
-    <p>NOTE: The function "Line width in pixel" does not work in the current version.</p>
+      in pixel" field (this function is currently unavailable).</p>
+    <p>The applied changes will be visible once the "Sign Text Editor" tab has been refreshed. </p>
     <p><b>Thesaurus Settings</b>
     </p>
-    <p>Here you can choose a project with a main working thesaurus. All new thesaurus entries will
-      be saved there. Currently only one working thesaurus is available: "Altägyptisches Wörterbuch
-      BBAW".</p>
+    <p>Here you can choose your main working thesaurus (from a project). All new thesaurus entries
+      will be saved there. There is currently only one working thesaurus available: "Altägyptisches
+      Wörterbuch BBAW".</p>
     <p><b>Thesaurus Navigator Settings</b></p>
     <p>
       <ul id="ul_dn2_bm2_vt">
         <li>Check box "Ths Navigator sort by sort key". By default all database objects on the same
           level have "0" as a sort key and are thus sorted alphabetically. Defining a "SortKey" in
-          the passport data of the database object will change its position relevant to other
-          database objects, "0" being on top.  </li>
+          the passport data of the database object will change its position in relation to other
+          database objects, with "0" at the top. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_ojn_bm2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a thesaurus entry will have by default after its creation.</li>
+          Visibility Status a thesaurus entry will receive by default when it is created.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_mfc_cm2_vt">
-        <li>"Default Review State" applies to all newly created database objects. Like the "Default
-          Visibility" above, this defines a review state which a thesaurus entry will have directly
-          after its creation.</li>
+        <li>"Default Review State" applies to all newly created database objects. Like "Default
+          Visibility", this defines the Review State which a thesaurus entry will receive when it is
+          created.</li>
       </ul>
     </p>
     <p/>
     <p><b>Restore Default</b></p>
-    <p>Click this button to restore default settings.</p>
+    <p>Click this button to restore the default settings.</p>
     <p><b>Apply</b></p>
     <p>Click here to confirm your changes.</p>
     <p><b>OK</b></p>

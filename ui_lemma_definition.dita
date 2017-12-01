@@ -3,19 +3,18 @@
 <topic id="topic_vjt_crd_vt">
   <title>Description</title>
   <body>
-    <p>This tab is used for recording the working process. The provided input fields are the
-      following:</p>
+    <p>This tab is used for recording your work, including:</p>
     <p>
       <ul id="ul_e1f_2my_bv">
-        <li><b>Description:</b> This input field offers the opportunity to provide a more thorough
-          definition in case the name of the database object is not sufficient for identification.
-          Usually this field remains blank.<p>NOTE: This does not replace conscientious naming of
-            the database and proper filling of the passport data.</p></li>
+        <li><b>Description:</b> You can provide a more thorough definition of your lemma, for cases
+          where its name is not sufficient for identification. Usually this field remains
+            blank.<p>NOTE: Please make sure that you name your database objects suitably and enter
+            their passport data correctly.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_aw4_fmy_bv">
-        <li><b>Comment:</b> Write any additional comments you may have to your work.</li>
+        <li><b>Comment:</b> Write any additional comments you may have on your work.</li>
       </ul>
     </p>
   </body>

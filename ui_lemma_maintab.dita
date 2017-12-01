@@ -17,27 +17,31 @@
     </p>
     <p>
       <ul id="ul_mwv_clf_cv">
-        <li><b>SortKey:</b> By default, all lemmata on the same level have "0" as a sort key and are
+        <li><b>SortKey:</b> By default all lemmata on the same level have "0" as a sort key and are
           thus sorted alphabetically. Defining a "SortKey" in the Passport data of the database
-          object will change its position regarding other database objects, "0" being on
+          object will change its position in relation to other database objects, with "0" at the
             top.<p>NOTE: If your database object is in a polyhierarchical position, changes in the
-            sortkey apply to all relations.</p></li>
+            sortkey apply to all of its relationships.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_rjx_dlf_cv">
-        <li><b>ID:</b> Displays the ID of the lemma, which is generated automatically by BTS. It
-          cannot be changed.</li>
+        <li><b>ID:</b> Displays the ID of the lemma, which is generated automatically by BTS and
+          cannot be changed. For hieroglyphic and hieratic lemma, this ID will match that lemma's ID
+          in the TLA, for demotic lemma, this ID will be that lemma's TLA ID with the addition of a
+          "d" at the front, followed by an "m" if the TLA ID is a negative number, e.g. dm12345 or
+          d12345.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_sjn_2lf_cv">
-        <li><b>Author:</b> Displays the author (= creator) of the of a lemma. </li>
+        <li><b>Author:</b> Displays the author (i.e. creator) of the lemma; this assigned
+          automatically. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_kyw_flf_cv">
-        <li><b>Date:</b> Display the date of creation of the lemma. </li>
+        <li><b>Date:</b> Display the date of creation of the lemma; this assigned automatically. </li>
       </ul>
     </p>
     <p>
@@ -48,33 +52,32 @@
     </p>
     <p>
       <ul id="ul_ffg_klf_cv">
-        <li><b>Review State:</b> Enter or edit the review state of the lemma (published, reviewed,
-          awaiting-update, awaiting-review, new, transformed awaiting update). Use only four review
-          states: published, published-awaiting-review, published-obsolete, obsolete. Published
-          means the lemma is certain and confirmed. Published-awaiting-review means the lemma is not
-          yet confirmed. Obsolete means the lemma is obsolete and will not be displayed in
-          publication. Published-obsolete means the lemma is obsolete and will be displayed in
-          publication.</li>
+        <li><b>Review State:</b> Enter or edit the Review State of the lemma; please only use these
+          four options: published (lemma is certain and confirmed), published-awaiting-review (lemma
+          is not yet confirmed), published-obsolete (is obsolete and will be displayed in
+          publication), and obsolete (obsolete and will not be displayed in publication).<p>NOTE:
+            Obsolete lemmata are viewable in the Lemma Navigator but are not available during
+            lemmatization.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_qf5_llf_cv">
-        <li><b>Project and Corpus:</b> The field displays the name of the project or corpus,
-          respectively. Clicking on <image href="Images/icons/full/icon16/preferences.png"
-            id="image_ohg_55x_ls"/> you can move the database object to another project / corpus.
-          You can only move the corpora or projects for which you have rights. Note that only the
-          physical position of an object will change (displayed in the Navigator tree in square
-          brackets), not its position in the hierarchical tree. (If you want to change the position
-          of an item in the hierarchical tree then you have to change the relation of your lemma.
-          See <xref href="ui_lemma_relationstab.dita"/>). </li>
+        <li><b>Project and Corpus:</b> The field displays the name of the project or corpus in which
+          your lemma entry is saved. By clicking on <image
+            href="Images/icons/full/icon16/preferences.png" id="image_ohg_55x_ls"/> you can move the
+          lemma to another project/corpus. You can only move the corpora or projects for which you
+          have the necessary rights. Note that only the physical save location of a database object
+          will change (which is shown in the Navigator tree in square brackets after its name), and
+          not its position in the hierarchical tree which is determined by its relationships. (See
+            <xref href="ui_lemma_relationstab.dita"/>). </li>
       </ul>
     </p>
     <p>
       <ul id="ul_afw_nlf_cv">
-        <li><b>History:</b> Click to see all changes of the selected lemma. Information includes the
-          username of the editor and the date. To close the history information, change to another
-          lemma and then back. To restore a previous version, use the Open Revision History dialogue
-          (see <xref href="howto_revision.dita"/>).</li>
+        <li><b>History:</b> Click to see all historic changes of the selected lemma. Information
+          includes the username of the editor and the date of the change. To close this, click to
+          another lemma. To restore a previous version of a database object, use the Open Revision
+          History dialogue (see <xref href="howto_revision.dita"/>).</li>
       </ul>
     </p>
   </body>

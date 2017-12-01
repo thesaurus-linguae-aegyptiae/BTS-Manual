@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_okf_4sh_nt">
-  <title>Search Function</title>
+  <title>Performing Searches</title>
   <body>
     <p>The search function is available in the Navigator tab of each view (Text Corpus, Lemma,
       Thesaurus). </p>
@@ -17,6 +17,9 @@
       the program will look for "Papyrus" and "Westcar" separately, and present you with results
       that contain Papyrus and/or Westcar. If you want to search for whole phrases you will have to
       put it between quotation marks "...", e.g. "Papyrus Westcar".</p>
+    <p>Your search results will be organised alphabetically; if there are a lot of results, these
+      will be collected into groups. The order of the results does not reflect the order of database
+      objects in the Navigator Tree.</p>
     <p>When you want to locate a specific database object within a project there are two
       options:</p>
     <p>

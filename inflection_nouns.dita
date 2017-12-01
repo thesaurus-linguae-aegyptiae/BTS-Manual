@@ -3,12 +3,13 @@
 <topic id="topic_s3p_b5j_sx">
   <title>Nouns</title>
   <body>
-    <p>Owner 70000</p>
-    <p>The inflected forms of nouns are encoded as well. Plural and dual forms are transliterated in
-      their written forms and assigned to the respective inflection code. If they appear in status
-      pronominalis, the suffix is encoded as last digit of the code. Status constructus (i.e. direct
-      genitive) is encoded at the regens; the rectum is assigned code 3, i.e. unaltered to BWL.</p>
-    <p>Last digit: suffixes (see: <xref href="inflection_pronouns.dita"/>).</p>
+    <p>(70000)</p>
+    <p>The inflected forms of nouns are encoded. Plural and dual forms are transliterated in their
+      written forms and assigned the relevant inflection code. If they appear in status
+      pronominalis, then the suffix is encoded as the last digit of the code. Status constructus
+      (i.e. direct genitive) is encoded at the regens; the rectum is assigned code 3, i.e. form is
+      no different to BWL.</p>
+    <p>Last digit = suffix code (see: <xref href="inflection_pronouns.dita"/>).</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_hps_h5j_sx">
         <tgroup cols="3">

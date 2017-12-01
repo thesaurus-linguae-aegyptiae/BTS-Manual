@@ -3,20 +3,20 @@
 <concept id="concept_u43_vqd_4r">
  <title>Window</title>
  <conbody>
-  <p>Drop-down menu "Window" contains the following entries: </p>
+  <p>The drop-down menu "Window" contains the following: </p>
   <p><b>Switch Font Size/CSS Theme</b>
   </p>
-  <p>There are two colours (blue and gray) and three font sizes available. Clicking on "Switch Font
-   Size/CSS Theme" will consequently switch between themes and fonts sizes. If it is not yet to your
-   liking, click again on Switch Font Size, until you have tested all six options and made your
-   decision. BTS will remember your personal adjustments at the startup. </p>
+  <p>There are two colours (blue and grey) and three font sizes available. Clicking on "Switch Font
+   Size/CSS Theme" will switch between six combinations of these themes and fonts sizes. BTS will
+   remember your personal settings for future sessions, but please note that these settings will be
+   saved to the computer and not to your personal BTS account (i.e. if you switch computers, your
+   individual settings and preferences will not transfer over). </p>
   <p><b>Open Perspective</b></p>
-  <p>The window "Open Perspective" comes up with the entries Lemma, Text Corpus, Thesaurus and
-   Abstract Text. Select the entry and click "OK" to switch to the relevant BTS view  (Lemma,
-   Corpora, Thesaurus, Abstract Text). The first time you select a different entry, it may take a
-   while until the relevant view appears.</p>
-  <p>Further options allow you to open particular sections of each view. The following windows will
-   be opened depending on the view: </p>
+  <p>The window "Open Perspective" contains the options Lemma, Text Corpus, Thesaurus, and Abstract
+   Text; select an option and click "OK" to switch to the relevant BTS View. The first time you
+   select an option, it may take a while for the relevant View to appear.</p>
+  <p>Further options allow you to open particular sections of each View. The following windows can
+   be opened: </p>
   <p><b>Text corpus view </b></p>
   <p><image href="Images/icons/full/icon16/texts.png" id="image_vcr_sj3_2s"/> Open Text Editor</p>
   <p><image href="Images/icons/full/icon16/lemmatizer.png" id="image_cts_v5s_js"/> Open

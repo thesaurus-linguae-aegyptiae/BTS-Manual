@@ -3,11 +3,11 @@
 <concept id="concept_trz_tw2_yr">
  <title>Preferences</title>
  <conbody>
-  <p>To get to the "Preferences" window, click either button <image
-        href="Images/icons/full/icon16/preferences.png" id="image_ilm_dg1_nr"/> in the left part of
-      the toolbar menu or on the drop-down entry "<image
+  <p>To get to the "Preferences" window, click either the button <image
+        href="Images/icons/full/icon16/preferences.png" id="image_ilm_dg1_nr"/> in the lefthand side
+      of the Toolbar menu or on the drop-down entry "<image
         href="Images/icons/full/icon16/preferences.png" id="image_svd_hg1_nr"/> Preferences..." in
-      the menu bar > "Preferences".</p>
+      the  "Preferences" part of the Menu bar.</p>
   <p>There are two options available: "Berlin Text System General" and "EgyDsl".</p>
  </conbody>
 </concept>

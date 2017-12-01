@@ -26,13 +26,13 @@
         <li>Once you have selected your corpus/TCObject, click "Add Text Corpus Object". The newly
           created TCObject has the relation "PartOf" to the chosen corpus/TCObject. </li>
         <li>Name your Text Corpus Object in the <xref href="ui_maintab.dita#concept_isp_k5f_yr">Main
-            Tab </xref> of the Passport Editor (The "Name" input field will appear red). You can do
-          this later if you prefer, but until it is named the object will appear in the Navigator
-          Tree with the default name "BTSTC Object".</li>
-        <li>Define the Type of the TCObject (there are no Subtypes, this field should not be used).
-          Overall try to provide as much information as possible about the object by filling out the
-          different tabs of the <xref href="ui_passporteditor.dita">Passport Data Editor</xref>. The
-          different Types are as follows:<p>
+            Tab </xref> of the Passport Editor (the "Name" input field will appear red). You can do
+          this later if you prefer, but until it is named the database object will appear in the
+          Navigator Tree with the default name "BTSTC Object".</li>
+        <li>Define the Type of the TCObject (there are no Subtypes so this field should not be
+          used). Overall try to provide as much information as possible about the object by filling
+          out the different tabs of the <xref href="ui_passporteditor.dita">Passport Data
+            Editor</xref>. The different Types are as follows:<p>
             <ul id="ul_c1c_qgp_3x">
               <li><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x"/>
                 <b>Caption:</b> The Caption is used to group physical objects under one heading for
@@ -42,7 +42,7 @@
               <li><image href="Images/Icons_updated/full/icon16/group.png" id="image_o42_c3p_3x"/>
                 <b>Group:</b> A Group defines a number of physical objects which belong together for
                 geographic reasons (e.g. the tombs of a specific cemetery like the Eastern Cemetery
-                at Giza or a papyrus archive like the Abusir Papyri).</li>
+                at Giza, or a papyrus archive like the Abusir Papyri).</li>
             </ul>
             <ul id="ul_gqd_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/arrangement.png"
@@ -52,21 +52,21 @@
             </ul>
             <ul id="ul_q3f_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/scene.png" id="image_hjy_t5p_3x"/>
-                <b>Scene:</b> This is an obsolete entry that was used for data imported from the
+                <b>Scene:</b> This is an obsolete entry which was used for data imported from the
                 previous system. Do not use it.</li>
             </ul>
             <ul id="ul_egh_xwp_3x">
               <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
-                <b>TCObject:</b> A Text Corpus Object is the physical ancient Egyptian object that
-                is covered with your text (e.g. the Papyrus Harris 500 or the sphinx stele of
-                Thutmose IV). Use this option if none of the other types are applicable.</li>
+                <b>TCObject:</b> A Text Corpus Object is the physical ancient Egyptian artefact
+                which bears your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose
+                IV). Use this option if none of the other types are applicable.</li>
             </ul>
             <ul id="ul_obj_xwp_3x">
               <li><image href="Images/Icons_updated/full/icon16/tcobjectpart.png"
                   id="image_tpj_b3p_3x"/>
                 <b>ObjectPart:</b> An ObjectPart is hierarchically subordinated to another TCObject.
                 Use this option when the carrier of your text consists of more than one physical
-                object (e.g. a statue and its base, or several parts of a building).</li>
+                artefact (e.g. a statue and its base, or several parts of a building).</li>
             </ul>
           </p></li>
       </ol>
@@ -77,33 +77,35 @@
     <p>
       <ol id="ol_z4r_kty_qt">
         <li>Select <xref href="intro_ui_glossary.dita"> a node</xref> in the Corpus Navigator where
-          you'd like to place your Text. You can either add a Text to a TCObject or to an already
-          existing Text. </li>
+          you would like to place your Text. You can either add a Text to a TCObject or to an
+          already existing Text. </li>
         <li>Click <image href="Images/icons/full/icon16/text-add.png" id="image_eyb_bty_qt"/> "Add
-          Text" in the Corpus Navigator toolbar. A "child"-element will be added to the selected
+          Text" in the Corpus Navigator toolbar. A child-element will be added to the selected
           database object with the default title "BTS Text" (in order to see it you might have to
-          open the parent element, i.e. the TCObject or Text you chose in step 1).</li>
+          open the parent-element, i.e. the TCObject or Text you chose in step 1).</li>
         <li>Name your text in the <xref href="ui_maintab.dita#concept_isp_k5f_yr">Main Tab</xref> of
-          the Passport Editor (the "Name" input field will appear red until it is filled out). Until
-          you do this the default name will be "BTS Text".</li>
-        <li>Like with the Text Corpus Object define the Type and, if applicable, also the Subtype of
-          the database object. Provide as much information as possible by filling out the different
-          tabs of the <xref href="ui_passporteditor.dita">Passport Data Editor</xref>. The different
+          the Passport Editor (the "Name" input field will appear red until it is filled out, and
+          the default name of the database object will be "BTS Text").</li>
+        <li>Like with the TCObject, define the Type and, if applicable, also the Subtype of the
+          database object. Provide as much information as possible by filling out the different tabs
+          of the <xref href="ui_passporteditor.dita">Passport Data Editor</xref>. The different
           Types are as follows:<p>
             <ul id="ul_hp1_jgp_3x">
               <li><image href="Images/icons/full/icon16/text.png" id="image_hdk_ngp_3x"/>
-                <b>Text:</b> A Text is defined as a coherent entity. Your physical object might
+                <b>Text:</b> A Text is defined as a coherent entity. Your physical aretefact might
                 contain several texts, e.g. Papyrus Harris 500 contains "The Doomed Prince", "The
-                Taking of Joppe" etc. Each of these tales and poems receives its own database object
-                "Text" subordinated to the TCObject "Papyrus Harris 500.</li>
+                Taking of Joppe" etc. Each of these tales/poems receives its own database object
+                "Text" subordinated to the TCObject "Papyrus Harris 500"; the order of these Texts
+                in the physical artefact can be indicated by changing their SortKeys.</li>
             </ul>
             <ul id="ul_pwm_rwp_3x">
               <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>
                 <b>Subtext:</b> Subtexts are parts of the same text that are related to each other
                 but lack a defined order of reading (e.g. different figures and their respective
-                inscriptions on a relief).<p>NOTE: Do not treat chapters or captions of a continuous
-                  text (e.g. the medical remedies in Papyrus Ebers) as subtexts. These have to be
-                  segmented by annotations (see <xref href="howto_annotations.dita"/>).</p></li>
+                inscriptions on a relief; the relief would be the TCObject, and the inscriptions its
+                  Subtexts).<p>NOTE: Do not enter chapters or captions of a continuous text (e.g.
+                  the medical remedies in Papyrus Ebers) as Subtexts; these have to be segmented by
+                  annotations (see <xref href="howto_annotations.dita"/>).</p></li>
             </ul>
           </p></li>
       </ol>
@@ -112,7 +114,7 @@
     <p>Creating a suitable name for each database object, in particular for the TCObject and the
       Text, is essential if you want to be able to quickly locate a specific text in the database.
       Select a concise name that is short and significant. If your text is known under different
-      names only use one of them to name it, as you can enter synonyms in the Synonym tab of the
+      names only use one of them to name it; you can enter synonyms in the Synonym tab of the
       Passport Data Editor (see <xref href="ui_synonyms.dita"/>), e.g. for the Text "Admonitions"
       you could also enter "Mahnworte des Ipuwer", "Klagen des Ipuwer", "The Dialogue of Ipuwer and
       the Lord of All" etc. as synonyms.</p>
@@ -136,8 +138,8 @@
       visibility is "reader", you have to manually change all TCObjects, Texts, annotations, rubra
       etc. to "public" once you want to publish your text in the TLA.</p>
     <p><b>Defining the review state</b></p>
-    <p>The display icon of your Text Corpus Objects and Texts differs according to the review state
-      you selected in the main tab of the <xref href="howto_passport.dita">passport editor</xref>. A
+    <p>The display icon of your TCObjects and Texts differs according to the review state you
+      selected in the main tab of the <xref href="howto_passport.dita">passport editor</xref>. A
       default review state can be defined in the <xref href="ui_berlintextsystem.dita"
         >Preferences</xref>. The icons shown above will get one of the following additions:</p>
     <p>
@@ -148,7 +150,7 @@
         <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"
           /> awaiting update</li>
         <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/>
-          reviewed / published</li>
+          reviewed/published</li>
       </ul>
     </p>
     <p>NOTE: Like with visibility, the default review state applies to all newly created database
@@ -160,11 +162,13 @@
     <p>To change the physical location of a database object (marked in square brackets next to the
       name) from one project or corpus to another, right click the chosen item and select "Move
       among projects" from the menu. A window opens displaying the current physical location. Alter
-      the entries as you wish (upper field to change the project and middle field for a corpus in
-      the project) by clicking the checkbox in the lower field (see image below). Changing the
-      physical location does not affect the position of the database object in the Navigator Tree.
-      To change the database object's position in the Tree, you have to change its relationships in
-      the <xref href="ui_relationstab.dita">"Relations" tab</xref> of the Passport Data Editor. </p>
+      the entries (upper field for the project and middle field for a corpus in the project) as you
+      see fit by clicking the checkbox in the lower field (see image below). This can also be done
+      in the "Main" tab of the database object's Passport Editor by clicking the preferences icons
+      next to the database object's corpus/project. Changing the physical location does not affect
+      the position of the database object in the Navigator Tree. To change the database object's
+      position in the Tree, you have to change its relationships in the <xref
+        href="ui_relationstab.dita">"Relations" tab</xref> of the Passport Data Editor. </p>
     <p>NOTE: If you have accidentally created a database object in the wrong position and you do not
       have the rights to move it, please contact the administrator in Berlin: aegypt1@bbaw.de.</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/moving_objects.png"
@@ -178,10 +182,10 @@
           moved to the bin (<image href="Images/icons/full/icon16/bin.png" id="image_std_3cw_ns"
           />"Bin" tab in the Corpus Navigator), where you have the chance to restore it (right click
           the object and choose "Restore" from the menu) or to delete it permanently. All
-          subordinate elements will be deleted as well. Upon closing or restarting the BTS all the
+          subordinate elements will be deleted as well. Upon closing or restarting BTS, all the
           items in the bin will be deleted permanently.</li>
         <li>A database object can be deleted permanently (without moving it to the bin first) by
-          either right-clicking the respective item and selecting "Delete Permanently" or by
+          either right-clicking the respective item and selecting "Delete Permanently", or by
           selecting the item from the Navigator Tree and then selecting "Delete Permanently" from
           the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png"
             id="image_zj3_d2g_ys"/>. Clicking on "Delete Permanently" will open a confirmation box

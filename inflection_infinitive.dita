@@ -3,15 +3,15 @@
 <topic id="topic_zgt_3rj_sx">
   <title>Infinitive</title>
   <body>
-    <p>Owner 60700</p>
-    <p>Infinitives are encoded according to whether they are geminated or show an ending <i>.t</i>
-      or not. As for the suffix conjugations, the written forms are encoded, not the expected form,
-      that means, if an ending <i>.t</i> is expected, but not written, an infinitive without
-        <i>.t</i> is encoded. Therefore unwritten endings can be found and analyzed easily, because
-      the paradigm of infinitives depends on the verbal classes that are noted in the BWL. </p>
+    <p>(60700)</p>
+    <p>Infinitives are encoded according to whether they are geminated or show an ending <i>.t</i>.
+      Like with the suffix conjugations, the written forms are encoded and not the expected form,
+      meaning that if an ending <i>.t</i> is expected but not written, then an infinitive without
+        <i>.t</i> is encoded. As a result, unwritten endings can be found and analyzed easily
+      because the paradigm of infinitives depends on the verbal classes that are noted in the BWL. </p>
     <p>Infinitives of combined verbal forms, i.e. the analytical forms in Late Egyptian, are encoded
       as well. Auxiliaries are encoded separately according to st. abs. and st. pr. (see: <xref
-        href="inflection_auxiliaries.dita"/>); the complete form is encoded at the infinitive, e.g.
+        href="inflection_auxiliaries.dita"/>); the complete form is encoded in the infinitive, e.g.
       infinitive after aux. <i>wn.ḫr</i> = 61090.</p>
     <p>Last digit: 0 = nominal object; 1-9 = pronominal object (see: <xref
         href="inflection_pronouns.dita"/>)</p>
@@ -397,7 +397,7 @@
       </table>
     </p>
     <p/>
-    <p><b>Infinitive st. pr. = combination with codes of suffixes</b> (see: <xref
+    <p><b>Infinitive st. pr. = combine with suffix codes</b> (see: <xref
         href="inflection_pronouns.dita"/>)</p>
     <p>Example: <i>pri̯.t=j</i> "mein Herauskommen": 61301 Inf.Endg.t st.pr. 1Sg </p>
     <p/>

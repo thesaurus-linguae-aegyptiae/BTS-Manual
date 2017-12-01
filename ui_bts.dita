@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_uwr_vvl_mr">
- <title>BTS User Interface </title>
+ <title>Overview of the BTS User Interface </title>
  <conbody>
-    <p>This section provides a detailed description of the UI elements of the application. It is
-      intended as a reference for the user guides. </p>
+    <p>This section provides a detailed description of the User Interface (UI) elements of the
+      application. It can be used as a reference for the user guides. </p>
     <p>The <b>Menu bar</b> and the <b>Toolbar</b> are located at the top of the program window. At
-      the bottom of the program window the <b>Status bar </b>is displayed. The area between toolbar
-      and status bar is the <b>Workspace</b>. </p>
+      the bottom of the program window is the <b>Status bar </b>. The area between the Toolbar and
+      Status bar is called the <b>Workspace</b>. </p>
     <p>
       <ul id="ul_esg_5qc_lx">
-        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allows to file and edit new projects,
-          to get access to different windows and to the preferences (with all settings of user and
-          databases).</li>
+        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allows you to file and edit new
+          projects, to get access to different windows and to the preferences.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_eys_5qc_lx">
-        <li>The <xref href="ui_toolbar_e3.dita">Toolbar</xref> offers a quick access via icons to
-          all functions like opening a context menu, save and undo function, displaying the name of
-          the current project and in the right margin opening one of the four different views to
-          work with.</li>
+        <li>The <xref href="ui_toolbar_e3.dita">Toolbar</xref> offers quick access via icons to all
+          functions, such as opening a context menu, saving and undoing work, displaying the name of
+          the current project, and, via the right margin, opening one of the four different views to
+          work in.</li>
       </ul>
       <ul id="ul_tyk_vqc_lx">
-        <li>The <xref href="ui_workspace.dita">Workspace</xref> is a part of the BTS user interface
-          where all database records are entered and processed. Different contents are edited within
-          the workspace, according to your mode of work, i.e. whether you edit texts, edit the lemma
-          list, work on the thesauri or create abstract texts. The Text Corpus View, the Lemma View,
-          the Thesaurus View and the Abstract Text View can be accessed via the toolbar. The
+        <li>The <xref href="ui_workspace.dita">Workspace</xref> is the part of the BTS UI where all
+          database records are entered and processed. The workspace contains different views
+          according to what you want to do, i.e. whether you wish to edit texts (Text Corpus View),
+          edit the lemma list (Lemma View), work on the thesauri (Thesaurus View), or create
+          abstract texts (Abstract Text View); these Views can be accessed via the Toolbar. The
           workspace of each view is subdivided into four windows: the Navigator window
-          (left/yellow), the Editor window (middle above/blue) and the Passport Editor window
-          (middle below/green) and the Annotation window (right/red).</li>
+          (left/yellow), the Editor window (middle above/blue), the Passport Editor window (middle
+          below/green), and the Annotation window (right/red).</li>
       </ul>
     </p>
     <p>
       <ul id="ul_zyy_vqc_lx">
         <li>The <xref href="ui_statusbar.dita">Status bar</xref> at the bottom shows the path to the
-          data base object the user are currently working on.</li>
+          database object which you are currently working on.</li>
       </ul>
     </p>
    <p/>

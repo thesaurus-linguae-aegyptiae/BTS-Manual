@@ -3,12 +3,15 @@
 <concept id="concept_otk_ywf_yr">
  <title>Present Location</title>
  <conbody>
-  <p>This tab allows you to put in data concerning the present location (i.e. a museum or
-   collection) of the Egyptian object, that bears the text you want to edit.</p>
+  <p>This tab allows you to enter the current location of the ancient Egyptian artefact which bears
+   your text (i.e. is it currently in a museum or collection). This differs from the "Findspot"
+   which is where the artefact was first discovered or located in antiquity, unless the artefact
+   remains in situ (see below).</p>
   <p/>
   <p>
    <ul id="ul_rqj_zpl_hx">
-    <li><b>Location:</b> Displays the name of the selected thesaurus entry. This is no input field.<p>
+    <li><b>Location:</b> Displays the name of the selected thesaurus entry (i.e. location) which you
+     can choose using the search function below.<p>
       <ul id="ul_nsl_rcm_hx">
        <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
         <b>Search Object:</b> Select the location from the Thesaurus.</li>
@@ -21,13 +24,13 @@
   </p>
   <p>
    <ul id="ul_b4z_zpl_hx">
-    <li><b>Inventory Number:</b> Enter the number of your object if provided. The field may contain
-     only one inventory number. If an object consists of several fragments with separate inventory
-     numbers or has several names, you can add another widget within the same entry group, using the
+    <li><b>Inventory Number:</b> Enter the museum/collection number of your artefact if known. This
+     field can only contain one inventory number. If an artefact consists of several fragments with
+     separate inventory numbers, you can add another field to the same entry group by using the
      following buttons:<p>
       <ul id="ul_typ_tcm_hx">
        <li><image href="Images/icons/full/icon16/widget-text-add.png" id="image_wxb_3pl_hx"/>
-        <b>Add widget:</b> Add another inventory number of the same object in the selected
+        <b>Add widget:</b> Add another inventory number of the same artefact in the selected
         location.</li>
        <li><image href="Images/icons/full/icon16/widget-text-delete.png" id="image_g2b_jpl_hx"/>
         <b>Remove widget:</b> Removes the inventory number.</li>
@@ -37,29 +40,30 @@
   </p>
   <p>
    <ul id="ul_vdd_w5b_55">
-    <li><b>Comment:</b> Add a comment to the location.</li>
+    <li><b>Comment:</b> Add a comment on the location.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_hzd_qmy_bv">
-    <li><b>in_situ:</b> Select this checkbox, if the object still remains at its position at an
-     archaeological site.</li>
+    <li><b>in_situ:</b> Select this checkbox if the artefact is located in its original position in
+     an archaeological site (in this case the "Present Location" and "Findspot" of an artefact would
+     be the same).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_od4_rmy_bv">
-    <li><b>is_present_location:</b> Select this checkbox, if the selected location is the museum or
-     collection where the object is stored at present.</li>
+    <li><b>is_present_location:</b> Select this checkbox if the selected location is the
+     museum/collection where the artefact is currently stored.</li>
    </ul>
    <ul id="ul_ctx_4md_jx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-add.png" id="image_pwj_g1g_hx"/>
-     <b>Add Entry Group:</b> Add another "location" section to enter a previous location, e.g. if
-     the object was formerly stored in another museum.</li>
+     <b>Add Entry Group:</b> Add another full "Location" section. Use this if the artefact was
+     formerly stored in another museum/collection.</li>
    </ul>
    <ul id="ul_h1s_vxl_hx">
     <li><image href="Images/Icons_updated/full/obj16/widget-group-delete.png" id="image_krd_h1g_hx"/>
-     <b>Remove Entry Group:</b> Removes the set of information or clears the entry fields if it is
-     the only entry group.</li>
+     <b>Remove Entry Group:</b> Removes the entry group or clears the entry fields if there is only
+     one entry group.</li>
    </ul>
   </p>
  </conbody>

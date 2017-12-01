@@ -3,7 +3,7 @@
 <topic id="topic_vdr_h3k_sx">
   <title>Relatives</title>
   <body>
-    <p>Owner 82000</p>
+    <p>(82000)</p>
     <p>Relatives (including negated relatives) are encoded in combinations with pronouns and are
       encoded according to agreement in number and gender. Independent relatives are nouns and are
       not encoded here.</p>
@@ -33,8 +33,9 @@
         </tgroup>
       </table>
     </p>
-    <p>Status pronominalis in combination with codes above; last digits: suffixes and dependent
-      pronouns (see: <xref href="inflection_pronouns.dita"/>).</p>
+    <p>For status pronominalis in combination with the forms above, use the relevant suffix and
+      dependent pronoun code for the last digit of the relative form code (see: <xref
+        href="inflection_pronouns.dita"/>).</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_prq_p3k_sx">
         <tgroup cols="2">

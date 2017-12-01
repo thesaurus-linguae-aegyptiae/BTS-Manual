@@ -3,61 +3,61 @@
 <topic id="topic_p53_bnw_ns">
   <title>Creating a lemma entry</title>
   <body>
-    <p>This option is only available to users with researcher privileges for the lemma-list. If you
-      have a new lemma, which is not yet present in the BTS lemma list, please send a proposal to
-      the BTS team via E-mail: aegypt1@bbaw.de.</p>
+    <p>This option is only available to users with Researcher rights for a lemma-list. If you have a
+      lemma which is not yet present in BTS, please send a proposal to the BTS team:
+      aegypt1@bbaw.de.</p>
     <p>
       <ol id="ol_v31_3nw_ns">
-        <li>To create a new lemma, open the <xref href="ui_lemmanaview.dita">Lemma
-            View</xref>. On the left you will see the <xref
-            href="ui_lemmanavigator.dita#concept_pgn_j4d_4r">Lemma Navigator</xref>: a
-          list of available lemmata, grouped alphabetically.</li>
+        <li>To create a new lemma, open the <xref href="ui_lemmanaview.dita">Lemma View</xref>. On
+          the left you will see the <xref href="ui_lemmanavigator.dita#concept_pgn_j4d_4r">Lemma
+            Navigator</xref> which shows a list of available lemmata, grouped alphabetically.</li>
         <li>Click on <image href="Images/icons/full/icon16/lemmata.png" id="image_n2f_2zw_dx"/> in
-          the Lemma Navigator toolbar.</li>
+          the Lemma Navigator Toolbar.</li>
         <li>In the <xref href="ui_lemma_lemmaeditor.dita#concept_atc_z4d_4r">Lemma Editor</xref> add
           a transliteration for your lemma (see below). </li>
-        <li>In the text-input field below you may also add hieroglyphs. In order to do that, open
-          the <xref href="ui_htw.dita#concept_qmv_p2b_sr">Hieroglyph Type Writer
-            (HTW)</xref> and follow the instructions on how to enter hieroglyphs for a text.</li>
-        <li>In the text-input field below, enter a translation for your lemma (choosing the language
-          of your translation beforehand).</li>
-        <li>Add information on transliteration, part of speech, review state in the main tab of the
-          Passport Editor.</li>
+        <li>You can add hieroglyphs by opening the <xref href="ui_htw.dita#concept_qmv_p2b_sr"
+            >Hieroglyph Type Writer (HTW)</xref> and following the instructions on how to enter
+          hieroglyphs for a text.</li>
+        <li>You can enter a translation for your lemma in the field below (make sure to choose the
+          language of your translation beforehand).</li>
+        <li>Add information on transliteration, part of speech, and review state in the main tab of
+          the Passport Editor.</li>
         <li>Add a bibliographical reference in the <xref
             href="ui_lemma_passporteditor.dita#concept_ws4_2pd_4r">Passport
           Editor</xref>.</li>
         <li>To add an annotation or a comment to a lemma, click <image
             href="Images/icons/full/icon16/annotation-add.png" id="image_yky_5vm_wr"/> "Add
-          Annotation" and <image href="Images/icons/full/icon16/comment-add.png"
-            id="image_st5_vvm_wr"/> "Add Comment" in the toolbar of the Lemma Navigator.</li>
+          Annotation" or <image href="Images/icons/full/icon16/comment-add.png"
+            id="image_st5_vvm_wr"/> "Add Comment" in the Toolbar of the Lemma Navigator.</li>
         <li>To delete a lemma entry, use the <image href="Images/icons/full/obj16/delete.png"
-            id="image_xdl_2wm_wr"/> "Delete" button in the Lemma Navigator toolbar. It will move the
+            id="image_xdl_2wm_wr"/> "Delete" button in the Lemma Navigator Toolbar. It will move the
           entry to the "Bin" tab, where you can manually delete it permanently. Closing or
-          restarting the BTS will also lead to the permanent deletion of an entry from the bin.</li>
+          restarting BTS will also permanently delete any entries in the bin.</li>
       </ol>
     </p>
     <p></p>
     <p><b>Transliteration</b></p>
     <p>The lemma transliteration section is identical to <xref
         href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>. Transliterate the lemma
-      in this field within the "§" signs ("§" marks the beginning and the end of the lemma). If the
-      transliteration is not enclosed with "§", it will not be valid. </p>
+      in this field between the "§" signs (so that the "§" marks the beginning and the end of the
+      lemma), otherwise the lemma will not be valid. </p>
     <p><b>Compound-word-lemmata:</b> If you want to enter a lemma that consists of multiple words
-      (e.g. as in <i>m-ẖnw</i>), use "-" between each element. If you want to split them into
-      multiple elements (but have it as one entry) then just use "space" between each word. Do not
-      enclose each word individually with "§". </p>
-    <p>The consequence of splitting the compounds into multiple elements is that in the case of
-      searching for a part of the compound (e.g. "<i>ḥm</i>" in the case of <i>ḥm-nṯr</i>) the
-      evidence of the token lemmatized as compound will appear.</p>
-    <p>Example: "<i>m-ẖnw</i>": Typing §<i>m-ẖnw</i>§ marks one element while §<i>m ẖnw</i>§ marks
-      two elements: <i>m</i> and <i>ẖnw</i> (wrong: §<i>m</i>§ §<i>ẖnw</i>§).</p>
+      (e.g. as in the title <i>ḥm-nṯr Imn</i>), use "space" between each word and a hyphen "-"
+      between each compound of a compound word. You can then split these words into multiple tokens
+      (but still have it as one lemma entry). Do not enclose each word individually with "§", but
+      the whole word instead (so §<i>ḥm-nṯr Imn</i>§, not §<i>ḥm-nṯr</i>§ §<i>Imn</i>§). </p>
+    <p>The reason behind splitting the lemma into multiple tokens, is that when you search for a
+      part of the lemma, the whole lemma will appear in the results. It also means you can
+      sub-lemmatize the tokens within the lemma word.</p>
+    <p>Example: typing §<i>ḥm-nṯr Imn</i>§ means you can sub-lemmatize the lemma into <i>ḥm-nṯr</i>
+      and <i>Imn</i>, and also <i>ḥm-nṯr</i> into <i>ḥm</i> and <i>nṯr</i>.</p>
     <p><b>Sign-Text</b></p>
-    <p>In the Sign-Text section every lemma appears as a single element, no matter if the element is
-      part of a compound word or not. This means that you can sub-lemmatize every part of a compound
-      in addition to the compound itself (which would be lemmatized as one lemma only).</p>
+    <p>In the Sign-Text section every lemma appears as a single entity, no matter if it has multiple
+      words or not. This allows you to sub-lemmatize each part of that lemma, in addition to the
+      whole lemma itself.</p>
     <p><b>Translation</b></p>
-    <p>Enter the translation for the complete lemma into this field. Select the language of your
-      choice by left-clicking the drop-down menu marked by <image
-        href="Images/icons/full/icon16/locale.png" id="image_jwn_h5c_qr"/>. </p>
+    <p>Enter the translation for the complete lemma into this field. Select the language by
+      left-clicking the drop-down menu marked by <image href="Images/icons/full/icon16/locale.png"
+        id="image_jwn_h5c_qr"/>. </p>
   </body>
 </topic>

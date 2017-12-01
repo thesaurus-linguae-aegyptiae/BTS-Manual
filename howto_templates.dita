@@ -28,7 +28,7 @@
       mandatory. The template's name and description will be displayed in the Content Assist. In the
       field "Pattern" enter the text which will be entered into the transliteration. The button
       "Insert Variable..." allows you to choose from some pre-set patterns which you can use for
-      your template. The example below demonstrates how a template works: </p>
+      your template, e.g. brackets etc. The example below demonstrates how a template works: </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template2.png" id="image_gjh_wq2_1v"
       /></p>
     <p>When you are finished, click OK and the template will appear in the list and is ready to be

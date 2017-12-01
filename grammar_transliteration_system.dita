@@ -3,24 +3,28 @@
 <concept id="concept_cfp_2hb_lt">
  <title>System of Transliteration</title>
  <conbody>
-  <p>The transliteration alphabet used in BTS is the following:</p>
+  <p>BTS uses the following transliteration characters:</p>
   <p>ʾ, ꜣ, j, y, i̯, ı͗, ï, i, ꜥ, w, u, u̯, a, e, b, p, f, m, n, r, l, h, ḥ, ḫ, ẖ, h̭, z, s, š, q,
    k, g, t, ṯ, d, ḏ</p>
   <p>ꜣ, J, Y, I͗, I, ꜥ, W, U, A, B, P, F, M, N, R, L, H, Ḥ, Ḫ, ẖ, H̭, Z, S, Š, Q, K, G, T, Ṯ, D,
    Ḏ</p>
   <p/>
-  <p>The following signs are not allowed in the transliteration and may only be used in comments,
-   bibliography etc.:</p>
+  <p>The following signs are not allowed in the transliteration but can used in comments,
+                        bibliography etc.:</p>
   <p>ś, Ś, ḳ, Ḳ, ṭ, Ṭ, č, Č, č̣, Č̣</p>
   <p/>
   <p><b>Written forms</b></p>
-  <p>The transliteration in BTS represents the written forms as they appear in the text. Consonants
-   that usually are unwritten, should be added in round brackets: "(...)", e.g. <i>r(m)ṯ</i>.</p>
+  <p>The transliteration in BTS represents the written forms as they appear in the text. Please
+                        note: </p>
   <p>
    <ul id="ul_xlb_hn4_fx">
-    <li>If phonetic complements indicate a consonant shift, like <i>ḏ</i> > <i>d</i>, <i>ṯ</i> >
-            <i>t</i> etc., this has to be determined in the transliteration, e.g. <i>bṯn,w</i> >
-            <i>btn,w</i>; <i>jṯi̯</i> > <i>jti̯</i>; <i>msḏi̯</i> > <i>msdi̯</i>.</li>
+                                <li>Consonants that are usually unwritten should be added in round
+                                        brackets: "(...)", e.g. <i>r(m)ṯ</i>.</li>
+    <li>If phonetic complements indicate a consonant shift, like <i>ḏ</i> > <i>d</i>, or <i>ṯ</i> >
+                                                <i>t</i> etc., this has to be shown in the
+                                        transliteration, e.g. <i>bṯn,w</i> > <i>btn,w</i>;
+                                                <i>jṯi̯</i> > <i>jti̯</i>; <i>msḏi̯</i> >
+                                                <i>msdi̯</i>.</li>
     <li>Historic writings are transliterated as they appear in the text, e.g. <i>swrj</i> instead of
             <i>zwr</i> for <image href="Images/new%20screenshots/Hieroglyphs/swrj001.png"
             id="image_i2j_trl_4x"/>.</li>

@@ -3,40 +3,39 @@
 <concept id="concept_art_dqd_4r">
  <title>Thesaurus Navigator</title>
  <conbody>
-  <p>The window of the Thesaurus Navigator is located on the left of your workspace in the Thesaurus
-   view. The Thesaurus list comprises a controlled vocabulary of unique concepts for describing the
-   properties of database objects. Such metadata enable search queries on a global or local level of
-   the database. They are attributed to the database objects in the Passport Editor.</p>
+  <p>The Thesaurus Navigator is located on the lefthand side of the Workspace in the Thesaurus view.
+   The Thesaurus list contains a set vocabulary of unique concepts for describing database objects.
+   Such metadata enables search queries on a global or local level of the database, and are
+   attributed to the database objects in the Passport Editor.</p>
   <p> </p>
   <p><b>Toolbar</b></p>
-  <p>The toolbar of the Thesaurus navigator contains the following entries: </p>
+  <p>The toolbar of the Thesaurus navigator contains the following: </p>
   <p><image href="Images/icons/full/icon16/thss_add.png" id="image_jgp_qwb_qr"/> Add Thesaurus Root
    Entry: This adds a new "Thesaurus Root" which will appear at the bottom of the Thesaurus
    tree.</p>
   <p><image href="Images/icons/full/icon16/ths-add.png" id="image_vmg_hwb_qr"/> Add Thesaurus Child
-   Entry: This adds a new child entry to a selected root entry or child entry.</p>
+   Entry: This adds a new child entry to the selected root or another child entry.</p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/> Add
    Annotation: Adds an annotation to the selected thesaurus entry. </p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/> Add Comment:
-   Adds an annotation to the selected thesaurus entry. </p>
+   Adds a comment to the selected thesaurus entry. </p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_ffn_kxb_qr"/> Delete: This moves an
-   entry from the Thesaurus to <image href="Images/icons/full/icon16/bin.png" id="image_dtn_nxb_qr"
-   /> Bin.</p>
+   entry from the Thesaurus tree to the <image href="Images/icons/full/icon16/bin.png"
+    id="image_dtn_nxb_qr"/> Bin.</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_zkc_1yb_qr"/> Search: Search the
-   Thesaurus for entries. </p>
+   Thesaurus for specific entries. </p>
   <p><b>Bin</b></p>
-  <p>Entries deleted in Thesaurus Navigator appear in <image href="Images/icons/full/icon16/bin.png"
-    id="image_bz5_ny4_zr"/> "Bin" tab. They are listed individually. Deleting an item here will
-   remove it permanently. Please note that generating the list of the objects in the Bin may take up
-   to one minute the first time you click it after installing BTS. After this the preview works
-   faster. </p>
+  <p>Entries deleted from the Thesaurus Navigator tree appear in the <image
+    href="Images/icons/full/icon16/bin.png" id="image_bz5_ny4_zr"/> "Bin" tab, where they are listed
+   individually. Deleting an item from the Bin will permanently it. Please note that the Bin may
+   take a minute to open after you install BTS, but afterwards it should work much faster. </p>
   <p><b>Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png"
     id="image_umy_spv_ps"/>"</p>
-  <p>Offers all the options available in the Toolbar (see above) plus the following:</p>
+  <p>Offers all the options available in the Toolbar above, plus the following:</p>
   <p>
    <ul id="ul_gkz_svf_cv">
-    <li>Delete Permanently: Delete selected entry completely. Clicking on "Delete Permanently" will
-     open a confirmation dialogue.</li>
+    <li>Delete Permanently: Delete the selected entry permanently. Clicking on this will open a
+     confirmation dialogue.</li>
    </ul>
   </p>
   <p>
@@ -49,26 +48,22 @@
   <p>
    <ul id="ul_qqf_vvf_cv">
     <li><image href="Images/icons/full/icon16/history.png" id="image_gq4_1bc_qr"/> Open Revision
-     History: Opens the history of the changes made for the selected thesaurus entry (see <xref
+     History: Opens the historic changes to the selected thesaurus entry (see <xref
       href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_g5j_wvf_cv">
     <li>Open Conflict Dialogue: If two users work simultaneously on a database object, it is
-     possible, that they produce different versions at the same time. The conflict dialog solves the
-     problem, which version is the preferable one (see <xref href="ui_edit.dita"/>).</li>
+     possible that they produce different versions of that database object at the same time. The
+     conflict dialogue solves the problem of which version is the preferred one (see <xref
+      href="ui_edit.dita"/>).</li>
    </ul>
   </p>
   <p>
    <ul id="ul_lhl_xvf_cv">
-    <li>Filter: Filters the corpora according to the listed criteria. <p>
-      <ul id="ul_ybc_myp_gx">
-       <li>Filter by Project / Creator / Updaters / Review Status / Visibility / Types opens a
-        dialogue to select your filter criteria by clicking the relevant check boxes. To undo the
-        filter, unselect the checkboxes. </li>
-      </ul>
-     </p></li>
+    <li>Filter: Filter the corpora by Project/Creator/Updaters/Review Status/Visibility/Types by
+     clicking the relevant check boxes. To undo the filter, unselect the check boxes. </li>
    </ul>
   </p>
  </conbody>

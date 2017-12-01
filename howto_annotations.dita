@@ -42,7 +42,10 @@
       <ul id="ul_k1s_klj_lx">
         <li><b>Comment</b> is additional information on a text which can discuss problems with
           translating a phrase or a word (unlike annotations, comments cannot have metadata such as
-          e.g. bibliographical information). </li>
+          e.g. bibliographical information). <p>The distinction between Annotations and Comments may
+            seem arbitrary but is to allow a varied visibility and save locations of such additions.
+            It also means that you can annotate database objects in a corpus in which you are a
+            guest, without altering the original database object for other users.</p></li>
       </ul>
     </p>
     <p><b>Annotating a text</b></p>
