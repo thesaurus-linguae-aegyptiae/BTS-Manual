@@ -3,9 +3,9 @@
 <concept id="concept_otk_ywf_yr">
  <title>Present Location</title>
  <conbody>
-  <p>This tab allows you to enter the current location of the ancient Egyptian artefact which bears
-   your text (i.e. is it currently in a museum or collection). This differs from the "Findspot"
-   which is where the artefact was first discovered or located in antiquity, unless the artefact
+  <p>This tab allows you to enter the current location (e.g. museum or collection) of the ancient
+   Egyptian artefact which bears your text . This differs from the "Findspot" which defines the
+   place where the artefact was first discovered or located in antiquity, unless the artefact
    remains in situ (see below).</p>
   <p/>
   <p>

@@ -8,13 +8,13 @@
       with <i>t</i> before <i>f</i>.</p>
   <p><i>When the inverted words do not form a single lemma</i>, e.g. an inverted writing of <i>mj
         Rꜥw</i>, encode each word with the signs that belong to it. The inverted sign-sequence
-      cannot be reproduced/depicted with the hieroglyphs, but use the option "Select Single Glyph"
+      cannot be reproduced / depicted with the hieroglyphs, but use the option "Select Single Glyph"
       to mark such inversions (see below).</p>
   <p><i>When the inversion occurs while the word boundaries are broken</i>, e.g. <image
         href="Images/Hypszer/Handbuch-Screenschots/Hieros.jpg" id="image_hdj_gzt_mr"/> ,the signs
       have to be assigned to the words they belong to (in this case V30+G7 and I9 separately). The
-      inverted sign-sequence cannot be reproduced/depicted with the hieroglyphs, but use the option
-      "Select Single Glyph" to mark such inversions (see below).</p>
+      inverted sign-sequence cannot be reproduced / depicted with the hieroglyphs, but use the
+      option "Select Single Glyph" to mark such inversions (see below).</p>
     <p><b>Select Single Glyphs</b></p>
   <p>This function is available for the last two types of inversions. To mark the correct position
       of G7's determinative, select it using the buttons |&lt;, &lt;, >, and >|. The selected sign

@@ -19,11 +19,10 @@
    transcription of the token selected in the Sign Text Editor above. The field immediately below
    the "Type here" field will present various options to select from based on your input in "Type
    here".</p>
-  <p>Select and confirm each sign by pressing "CTRL" + the number (marked in red next to the
-   respective sign) or, if the first option is the right one, then simply finish entering the number
-   manually and continue after a hyphen with the next hieroglyph (the first option is selected by
-   default). The second field at the bottom displays the hieroglyphic writing of the token. After
-   confirming, this writing will appear within the selected token box in the "Sign Text Editor". </p>
+  <p>Select and confirm each sign by pressing "CTRL" + the number marked in red next to the
+   respective sign option (the first option is selected by default). The second field at the bottom
+   displays the hieroglyphic writing of the token. After confirming, this writing will appear within
+   the selected token box in the "Sign Text Editor". </p>
   <p><b>Select Single Glyphs</b></p>
   <p>If you have an inverted writing of a token, use this feature to mark a single hieroglyph and
    assign a different position to it in the sentence.</p>
@@ -58,7 +57,7 @@
   </p>
   <p>
    <ul id="ul_ksn_mbf_cv">
-    <li>Ignore Glyph: Use this check box for e.g. a haplography to signal that the sign does not
+    <li>Ignore Glyph: Use this check box for e.g. haplography to signal that the sign does not
      originally appear in the original manuscript.</li>
    </ul>
   </p>

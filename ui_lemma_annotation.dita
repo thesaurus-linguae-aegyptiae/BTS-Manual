@@ -3,12 +3,12 @@
 <concept id="concept_o2k_jpd_4r">
  <title>Annotations</title>
  <conbody>
-  <p>The Annotation and Text Translation window is placed on the righthand side of the default BTS
-   User Interface.</p>
+  <p>The Annotation and Text Translation window is placed on the right-hand side of the default BTS
+   Lemma View.</p>
   <p>For each lemma entry an "Annotation" <image href="Images/icons/full/icon16/annotation.png"
     id="image_p3k_pz3_sr"/> and/or a "Comment" <image href="Images/icons/full/icon16/comment.png"
     id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are placed in the toolbar of the
-   Lemma Navigator (on the lefthand side of the workspace). Each annotation or comment offers the
+   Lemma Navigator (on the left-hand side of the workspace). Each annotation or comment offers the
    following additional functions:</p>
   <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
    <b>Add Current Text Selection as Reference</b>: The selected part is referenced to the current

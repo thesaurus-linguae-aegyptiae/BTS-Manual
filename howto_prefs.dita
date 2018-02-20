@@ -3,60 +3,60 @@
 <topic id="topic_wzx_fgd_lx">
   <title>Preferences</title>
   <body>
-    <p>To get to the "Preferences" window, click either the button <image
+    <p>To get to the "Preferences" window, either click the button <image
         href="Images/icons/full/icon16/preferences.png" id="image_ilm_dg1_nr"/> in the left part of
-      the Toolbar menu or on the drop-down entry "<image
+      the Toolbar menu or select the drop-down entry "<image
         href="Images/icons/full/icon16/preferences.png" id="image_svd_hg1_nr"/> Preferences..." in
-      the Menu bar/Preferences. For more details see BTS User Interface, chapter <xref
-        href="ui_preferences2.dita"/>.</p>
+      the Menu bar.  In this chapter only settings relevant  to editing a text will be described.
+      For detailed description see chapter <xref href="ui_preferences2.dita"/> of the BTS User
+      Interface.</p>
     <p/>
-    <p>Expanding <b>"Berlin Text System General"</b> will present several options; those applicable
-      to editing a text are the following:</p>
+    <p>Expanding <b>"Berlin Text System General"</b> will present several options:</p>
     <p><b>Corpus Settings</b></p>
     <p>Here you can choose the set of corpora you are going to work with. Every corpus that does not
-      appear in the active corpora list on the right will not be accessed by BTS (this includes
-      displaying them in the Navigator Tree and using them search queries). To activate a corpus
-      select it in the list on the left and then click "Add". To remove the corpus from your working
-      list, select it and click "Remove". "Add all"/"Remove all" will add or remove all available
-      corpora to/from the active corpora list. </p>
+      appear in the active corpora list on the right will not be accessed by BTS ( i.e. not
+      activated in the Corpus Navigator Tree and included in the search queries). To activate a
+      corpus select it in the list on the left and then click "Add". To remove the corpus from your
+      working list, select it and click "Remove". "Add all"/"Remove all" will add or remove all
+      available corpora to/from the active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
       activated all new database objects created in the "Corpus Navigator" window will be physically
       saved in that corpus. E.g. in the Corpus Navigator you have selected Corpus 2, but your main
       working corpus is Corpus 1. The new database object will be <i>physically</i> saved in Corpus
-      1, although in the Corpus Navigator it is displayed as a part of Corpus 2. </p>
+      1, although in the Corpus Navigator it is displayed as a branch of Corpus 2. </p>
     <p>NOTE: You can only select a corpus as your "main working corpus" if you have the necessary
       rights to work in that corpus.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">
-        <li>Check box "Corpus Navigator sort by sort key". By default, all database objects on the
-          same level have "0" as a sort key and are thus sorted alphabetically. Changing the SortKey
-          in the passport data of the database object will change its position in relation to other
-          database objects, with "0" at the top. See Passport Editor, chapter <xref
-            href="ui_maintab.dita"/>.</li>
+        <li>Check box "Corpus Navigator sort by sort key". By default, all database objects
+          belonging to the same brunch have "0" as a sort key and are thus sorted alphabetically.
+          Changing the SortKey in the passport data of the database object will change its position
+          in relation to other database objects, with "0" at the top. For details see Passport
+          Editor, chapter <xref href="ui_maintab.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_egq_wl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a corpus will receive by default when it is created. See also chapter
-            <xref href="user_roles.dita"/>.</li>
+          visibility status a corpus will receive by default when it is created. For details see
+          chapter <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_fdd_xl2_vt">
         <li>"Default Review State" applies to all newly created database objects. Like "Default
-          Visibility", this defines the review state a corpus will receive by defaultwhen it is
+          Visibility", it defines the review state a corpus will receive by default when it is
           created.</li>
       </ul>
     </p>
     <p><b>Lemma List Settings </b>
     </p>
-    <p>Here you can choose a lemma list (from a project) as your main one. All new lemmata will be
-      saved in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW" and
-      "Demotic". If you select both, the two lemma lists will be combined in the "Lemma Navigator".
-      If you work with texts in Demotic script, please select "Demotic" as your main working lemma
-      list, otherwise select "Altägyptisches Wörterbuch BBAW".</p>
+    <p>Here you can choose a (project-related ) lemma list  as your main one. All new lemmata will
+      be saved in this project. You can currently choose between "Altägyptisches Wörterbuch BBAW"
+      (default) and "Demotic". If you select both, the two lemma lists will be combined in the
+      "Lemma Navigator". If you work with texts in Demotic script, please select "Demotic" as your
+      main working lemma list.</p>
     <p><b>Lemma Navigator Settings</b></p>
     <p>
       <ul id="ul_gvc_vl2_vt">
@@ -69,42 +69,35 @@
     <p>
       <ul id="ul_uy3_vl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
-          visibility status a lemma will receive by default when it is created. See also chapter
-            <xref href="user_roles.dita"/>.</li>
+          visibility status a lemma will receive by default when it is created. For details see
+          chapter <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_ylp_vl2_vt">
         <li>"Default Review State" applies to all newly created database objects. Like "Default
-          Visibility", this defines the review state a lemma will receive by default when it is
+          Visibility", it defines the review state a lemma will receive by default when it is
           created.</li>
       </ul>
     </p>
     <p>NOTE: "Default Visibility" and "Default Review State" apply to all newly created database
-      objects, including annotations, rubra, comments etc. There is not currently a way of
-      transferring a change in a parent element's Visibility or Review State to its child elements.
-      This means that if your Default Visibility is "reader", you have to manually change all
-      TCObjects, Texts, annotations, rubra etc. to "public" once you want to publish your text in
-      the TLA.</p>
+      objects, including annotations, rubra, comments etc. However, a change in an existing
+      element's Visibility or Review State IS NOT automatically transferred to its child elements. </p>
     <p><b>Lemmatizer</b>
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the program's default inflection is
       "3") and activate the check box "Automatically select first lemma proposal"; the latter
       feature allows you to navigate through the proposed lemmata via the arrow keys of your
-      keyboard. For more on grammatical rules see <xref href="grammar_rules.dita"/>.</p>
+      keyboard. </p>
     <p><b>Project settings</b>
     </p>
-    <p>Here you can choose your main working project from the drop-down menu. The field below gives
-      you an option to select further projects from which you want to load and read data. In the box
-      on the left is a list of available projects; clicking on one will give you an option to add it
-      to the "Projects to be downloaded" on the right; clicking on "Apply" below will download the
-      project. Between the two fields you also have an option to remove the project from the right
-      field, to "Add All" from available to "Projects to be downloaded", and "Remove All" from
-      "Projects to be downloaded" to "Available Projects". Next to the "Apply" button there is also
-      a button that will restore default settings, called "Restore Default".</p>
+    <p>Here you can select your main working project from the drop-down menu. The field below the
+      drop-down gives you an opportunity to choose and add further projects from which you want to
+      load and read data. Clicking on button "Apply" will download the added projects.  Clicking on
+      "Restore Default" will restore the default settings. </p>
     <p><b>Remember me</b></p>
-    <p>Select the check box "Remember my login credentials on startup" to be logged in automatically
-      when starting BTS. To deactivate this function unselect the check box.</p>
+    <p>Select the check box "Remember my login credentials on start up" to be logged in
+      automatically when starting BTS. </p>
     <p><b>Text Editor</b></p>
     <p>
       <ul id="ul_nwm_zl2_vt">
@@ -114,15 +107,13 @@
     </p>
     <p>
       <ul id="ul_ewz_zl2_vt">
-        <li>"Show line number ruler on left side". This check box activates the line numbering
-          (according to the BTS window) in the <xref
-            href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text editor</xref>. </li>
+        <li>"Show line number ruler on left side". This check box activates the line numbering in
+          the <xref href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text editor</xref> window.</li>
+        <li> Sign Text Editor: allows you to choose which elements are displayed in the lemma-boxes
+          inside the Sign Text Editor. Additionally, the line width can be adjusted by changing the
+          number in the "Line width in pixel" field (this function is currently unavailable).</li>
       </ul>
     </p>
-    <p><b>Sign Text Editor </b></p>
-    <p>Allows you to choose which elements are displayed in the lemma-boxes inside the Sign Text
-      Editor. Additionally, the line width can be adjusted by changing the number in the "Line width
-      in pixel" field (this function is currently unavailable).</p>
     <p>The applied changes will be visible once the "Sign Text Editor" tab has been refreshed. </p>
     <p><b>Thesaurus Settings</b>
     </p>

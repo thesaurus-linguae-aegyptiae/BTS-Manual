@@ -8,52 +8,46 @@
       view.</p>
   <p/>
     <p><b>1. Segmentation of a text</b></p>
-    <p>The text has to be split into sentences according to ancient Egyptian syntax. Start and end
-      each sentence with the sentence marker "§". There is no "space" between "§" and the
-      following/preceding word.</p>
-    <p>Rules for the segmentation of sentences:</p>
+    <p>The text has to be split into sentences. Start and end each sentence with the sentence marker
+      "§". There is no "space" between "§" and the following / preceding word. </p>
+    <p>The following are treated as one sentence: </p>
     <p>
       <ul id="ul_yp5_2sz_2x">
-        <li>Main and subclauses belong together as one sentence.</li>
-        <li>The emphatic construction is one sentence (e.g. <i>pr.n =j m pr =j hꜣ.n =j m spꜣ.t =j
-            jrj.n =j mꜣꜥ.t tp tꜣ</i>).</li>
-        <li>Protasis and apodosis of a conditional clause are one sentence (e.g. <i>jr ḏd=f nj ꜥnḫ=f
-            pw</i>).</li>
-        <li>Relative clauses (<i>n.tj</i>, <i>jw.tj</i>) belong to the superordinate clause.</li>
-        <li>Subjunctive clauses and clauses with <i>wn.t</i>, <i>n.tjt</i>, or <i>jw.tjt</i> belong
-          to the superordinate clause.</li>
-        <li>Prepositional subclauses belong to the superordinate clause (e.g. <i>ḫr m-ḫt hrw.w 3
-            swꜣw ḥr nn</i> + main clause + <i>r rdj.t</i> ...).</li>
-        <li>Adverbial clauses belong to the superordinate clause, if the subordination is
-          clear.</li>
-        <li>Continuative forms (e.g. <i>mtw=</i>) are segmented into separate sentences.</li>
-        <li>Direct speech forms a separate sentence.</li>
+        <li>Main and subordinate clauses (e.g. relative clause  with <i>n.tj</i>, <i>jw.tj</i>) </li>
+        <li>The emphatic (2nd tense) construction and its (adverbial) extension.</li>
+        <li>Protasis and apodosis of a conditional clause (e.g. <i>jr ḏd=f nj ꜥnḫ=f pw</i>).</li>
+        <li>Subjunctive clauses and clauses introduced by <i>wn.t</i>, <i>n.tjt</i>, or
+            <i>jw.tjt</i> together with the main clause.</li>
+        <li>Prepositional clauses and the main clause (e.g. <i>ḫr m-ḫt hrw.w 3 swꜣw ḥr nn</i> + main
+          clause + <i>r rdj.t</i> ...).</li>
       </ul>
     </p>
-    <p>Logical phrases and formulas are treated as sentences:</p>
-    <p>
-      <ul id="ul_szy_lrz_2x">
-        <li>Headings, labels, and notes are one sentence.</li>
-        <li>Tables are segmented according to headings, lines, and columns. We recommended repeating
-          headings and repeatedly read signs in 〈〈...〉〉. </li>
-        <li>Offering formulas and (short) prayers are treated as one sentence.</li>
+   <p>The following are treated as separate sentences: </p>
+    <p><ul id="ul_szy_lrz_2x">
+
+        <li>Clauses with continuative forms (e.g. <i>mtw=</i>)</li>
+        <li>Direct speech</li>
+        <li>Headings, labels, and notes </li>
+         <li>Tables are segmented according to headings, lines, and columns. We recommend repeating
+          headings and repeatedly read signs in corner brackets〈...〉〉. </li>
+        <li>Offering formulas and (short) prayers.</li>     
       </ul>
     </p>
+ 
     <p>NOTE: Sentence boundaries can be modified later, but the translation of the modified
       sentences will be lost as a result.</p>
     <p/>
     <p><b>2. Transliteration</b>
     </p>
     <p>Transliteration follows the BTS conventions (see <xref
-        href="grammar_transliteration_system.dita"/>). Do not use the transliteration system
-      established by Wolfgang Schenkel. These characters are not valid in the BTS text editor, but
-      you can use them in e.g. Comments. You may also use Coptic, Greek, Hebrew etc. in Comments as
-      long as the characters are available in unicode and are supported by the BBAWLibertine font.
-      Coptic script (unicode) is allowed in the BTS text editor, e.g. for Glosses, but since there
-      is no Coptic lemma list you cannot lemmatize Coptic glosses yet.</p>
-    <p>To enter transliteration signs, you need to switch the keyboard layout by pressing "CRTL" +
-      "Shift" (Win XP, Win 7) or "Windows key" + "Space bar" (Win 8, Win 10). For the keyboard
-      layout see chapter <xref href="intro_keyboard.dita"/>.</p>
+        href="grammar_transliteration_system.dita"/>). The transliteration characters introduced by
+      Wolfgang Schenkel (ś, Ś, ḳ, Ḳ, ṭ, Ṭ, č, Č, č̣, Č̣) are not valid in the BTS Text Editor, but
+      can be used in e.g. Comments. You may also use Coptic, Greek, Hebrew characters etc. in
+      Comments as long as they are supported by the BBAWLibertine font. </p>
+    <p>To enter transliteration, you need to start "Keyman Desktop" and select the "AAeW" keyboard
+      (you can also switch the keyboard layout by pressing "CRTL" + "Shift" (Win XP, Win 7) or
+      "Windows key" + "Space bar" (Win 8, Win 10)). See chapter <xref href="intro_keyboard.dita"/>
+      for the of characters on the keyboard.</p>
     <p/>
     <p>Transliteration in BTS represents the <b>written forms</b> as they appear in the text, not as
       they would appear in the dictionary, e.g. <image
@@ -63,10 +57,9 @@
     <p/>
     <p><b>3. Structural signs</b>
     </p>
-    <p>Structural signs are used to note morphological properties of a lexical entry and changes
-      caused by inflections of words in the texts (see <xref
-        href="grammar_structure_convention.dita"/>). Structural signs for lexical and inflectional
-      morphology show:</p>
+    <p>Structural signs are used to note morphological properties of a lexical entry (lemma) and
+      word (token) inflections (see <xref href="grammar_structure_convention.dita"/>). Structural
+      signs for lexical and inflectional morphology distinguish:</p>
     <p>
       <ul id="ul_y51_rfh_px">
         <li>prefixes</li>
@@ -79,8 +72,15 @@
     <p>The <b>dual and plural endings</b> are transliterated with ".w" or ".wj/.tj" if written
       phonetically. When marked graphically, they are transliterated with ".pl" or ".du". When the
       plural and dual endings are written both phonetically and graphically they are transliterated
-      with both options: ".w.pl" or ".wj/.tj.du". For further details see chapter <xref
-        href="grammar_structure_convention.dita"/>.</p>
+      with both options: ".w.pl" or ".wj/.tj.du". </p>
+    <p><b>Suffixes</b> are to be marked consistently by “=” , e.g. <i>sḏm =f</i>. Note the space
+      between a word and “=”. </p>
+    <p/>
+    <p><b>The feminine ending</b>
+      <i>.t</i> is marked by a comma (",") if the word is noun. The endings of adjectives are
+      treated as morphological endings and are thus marked by a dot ("."), e.g. <i>nb,t
+      nfr.t</i>.</p>
+    <p>For further details see chapter <xref href="grammar_structure_convention.dita"/>.</p>
     <p/>
     <p><b>4. Sigla for textual criticism</b></p>
     <p>Some sigla are used to indicate the condition of a text, and editorial corrections and
@@ -89,10 +89,18 @@
       corrections of the texts.</p>
     <p>
       <ul id="ul_kjf_hgh_px">
-        <li><b>Text-critical signs and brackets</b> follow BTS conventions (see chapter <xref
-            href="grammar_brackets.dita"/>).</li>
+        <li><b>Text-critical signs and brackets</b> follow established conventions, the most common
+          of which are: </li>
       </ul>
     </p>
+   
+   <p>{...} - removes characters which the editor considers to be erroneous</p>
+    <p>〈...〉  -  adds characters which were erroneously omitted by the author</p>
+    <p>(...) - adds characters which were omitted by the author  (not an error)</p>
+    <p>[...] - adds characters lost through damage (lacula) </p>
+    <p>See chapter <xref href="grammar_brackets.dita"/> for further details.</p>   
+   
+   
     <p>
       <ul id="ul_fbk_hgh_px">
         <li><b>Damaged parts</b> (see chapter <xref href="grammar_destructions.dita"/>).<ul
@@ -115,8 +123,8 @@
                   href="howto_lemmatizing_unknownwords.dita"/>).</li>
             </ul>
             <ul id="ul_umv_kgh_px">
-              <li>Empty cartouches are transliterated with 3 underscores "___" and are lemmatized
-                with lemma ID (WCN) 550225 (see <xref href="howto_lemmatizing_empty.dita"/>).</li>
+              <li>Empty cartouches are transliterated with 3 underscores "___" and lemmatized with
+                lemma ID (WCN) 550225 (see <xref href="howto_lemmatizing_empty.dita"/>).</li>
             </ul>
             <ul id="ul_afy_kgh_px">
               <li>Parts of a text that were left blank for the later addition of a personal name and
@@ -132,8 +140,8 @@
     <p>
       <ul id="ul_qtp_xgh_px">
         <li><b>Sentence marker</b><p>Each sentence needs to be defined by sentence markers "§", e.g.
-              §<i>jw =f sḏm</i>§</p><p>NOTE: When you enter your transliteration, BTS will show each
-            sentence as one long line. To produce this line break click <image
+              §<i>jw =f sḏm</i>§</p><p>NOTE: When you enter your transliteration, BTS will display
+            each sentence in a single line. To make a line break click <image
               href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/> (Load Text
             Lemmata) or switch between the Sign Text Editor and the Transliteration Editor
           tabs.</p></li>
@@ -142,13 +150,14 @@
     <p>
       <ul id="ul_vr4_tgh_px">
         <li><b>Line Count</b><ul id="ul_ugx_ryw_ns">
-            <li>Line counts following those in the physical object are created by #lc: ...<b>#</b>.
-              The numbers (usually arabic numerals) are written in square brackets, e.g.: Line 1 =
-              #lc: [1]#. <p>Only use the line count of a modern edition if it follows the line count
-                of the physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc: [12.4]#.</p><p>For
-                  <b>columns</b> use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line break in the
-                original text occurs within a word, the line count is placed after that
-              word.</p></li>
+            <li>Line counts of the physical object are notated by #lc: ...<b>#</b>, followed by
+              transliteration. The numbers (usually Arabic numerals) are written in square brackets,
+              e.g.: §#lc: [1]# <i>transliteration</i> #lc: [2]# <i>transliteration</i>§. <p>It is
+                recommended to use the line count of a modern edition only if it follows the line
+                count of the physical object, e.g. #lc: [A.2]#; #lc: [VI, 3]#; #lc:
+                [12.4]#.</p><p>For <b>columns</b> use "Kol.", eg.: #lc: [Kol. 1]#.</p><p>If the line
+                break in the original text occurs within a word, the line count is placed after that
+                word.</p></li>
           </ul><ul id="ul_bvp_4w5_mx">
             <li>For line counts in synoptic editions, which are used to align multiple versions of a
               text, use #para: ...#. E.g.: CT VI 106a = #para: CT VI 106a#. Line counts represent
@@ -156,25 +165,15 @@
               separation of the text.</li>
           </ul><p>NOTE: You cannot use a colon between "#" more than once, e.g. #lc: [1:4]# is not
             valid.</p><p>NOTE: You cannot use a colon directly after or directly before
-            "#".</p><p>NOTE: The line count provided by BTS at the left edge of the Text Editor is
-            only temporary and refers to lines in BTS (not the original text). It changes at each
-            line break.</p></li>
+            "#".</p><p>NOTE: The line count provided by BTS in the Text Editor is only temporary and
+            refers to lines in BTS (not the original text). It changes at each line break.</p></li>
       </ul>
     </p>
    <p>
       <ul id="ul_qn3_fhh_px">
-        <li><b>Descriptive Information</b><p>Descriptive information is placed between "#", e.g.
-            iconography which the inscriptions refer to. </p><p>
-            <ul id="ul_v5h_hhh_px">
-              <li>For such iconography, use "#descr: #", e.g. #descr: Amun, thronend#</li>
-            </ul>
-          </p><p>
-            <ul id="ul_gm4_hhh_px">
-              <li>Other descriptions can be added freely between two "#", e.g. #3Q sind leer
-                gelassen# or #3Q left empty#. See also above for spaces which were intentionally
-                left blank.</li>
-            </ul>
-          </p></li>
+        <li><b>Descriptive Information</b><p>Descriptive information is placed in between "#...#",
+            e.g. iconography of the inscriptions (#descr: Amun, thronend#). Other descriptions can
+            be added freely, e.g. #3Q sind leer gelassen# (#3Q left empty#). </p></li>
       </ul>
     </p>
     <p/>
@@ -199,34 +198,33 @@
       cases as you need. Be careful not to type a space in front of the vertical stroke. </p>
     <p>E.g. %case 1: rd.du| case 2: wꜥr,t.du%; %case 1: sḏm.n =f| case 2: sḏm n =f%</p>
     <p>NOTE: Sentence separators, extra-textual information, and destruction markers, e.g. "§", line
-      counts (#lc: ...#), and --2Q--, are not allowed within ambiguities.</p>
+      counts (#lc: ...#), and --2Q--, are not allowed within ambiguity markers.</p>
     <p/>
     <p><b>7. Using Templates</b></p>
-    <p>It is possible to use templates to speed up the transliteration process. You can create your
-      own templates by right-clicking in Text Editor and selecting "Content Assist" or by pressing
-      "CRTL+Spacebar". The position of the cursor when you click or press (i.e. is it within a
-      sentence/word or outside a sentence marked by §§) determines what set of templates you can
-      select from. You can alter these positions by changing the "Context" of your templates (for
-      more details see chapter <xref href="howto_templates.dita"/>).</p>
+    <p>It is possible to use templates to speed up the transliteration process. A list of templates
+      is offered once you right mouse-click in text input field of the Text Editor and select
+      "Content Assist", or when you press "CRTL+Spacebar". The position of the cursor (i.e. is it
+      within a sentence / word or outside a sentence marked by §§) determines what set of templates
+      you can select from. You can alter these positions by changing the "Context" of your templates
+      (for more details see chapter <xref href="howto_templates.dita"/>).</p>
     <p/>
     <p><b>8. Copy&amp;Paste functions</b></p>
-    <p>BTS supports copy&amp;paste within the same text as well as between different texts.</p>
+    <p>BTS supports copy&amp;paste function within the same or different texts.</p>
     <p>
       <ul id="ul_jgl_mby_2x">
-        <li>You can enter the complete transliteration of a text out of an external source (e.g. a
-          MS Word document) by copy&amp;paste as long as it follows the rules of BTS grammar. The
-          transliteration used in MS Word should be in the unicodefont BBAWLibertine.</li>
-      </ul>
-      <ul id="ul_k3v_yr3_5x">
+        <li>You can type in the complete text transliteration in any text editor program (e.g. MS
+          Word) using the BBAWLibertine font and copy&amp;paste it into BTS. It is important that
+          text follows the BTS grammar rules. </li>
         <li>You can copy your transliteration, parts of it, or extra-textual information and paste
           it anywhere in the same or another text. This will not include any of the text's
           lemmatization.</li>
       </ul>
       <ul id="ul_wbz_yr3_5x">
-        <li>If you want to <b>copy&amp;paste your transliteration as lemmatized tokens</b>, use the
-          features "Copy with Lemmata" and "Paste with Lemmata". This feature copies and pastes the
-          transliteration including lemma information, inflection codes, hieroglyphs, and
-          translation. It does not copy any annotations, comments, or rubra.<p>
+        <li>If you want to <b>copy&amp;paste your transliteration as lemmatized tokens</b>, select
+          the entry "Copy with Lemmata" from the list, which appears upon right mouse-click on the
+          selected text passage. This feature copies the transliteration including lemma
+          information, inflection codes, hieroglyphs, and translation. It does not copy any
+          annotations, comments, or rubra.<p>
             <ul id="ul_k51_jcy_2x">
               <li>This feature works for single words and phrases as well as for whole sentences or
                 groups of sentences. Select the token, the sentence, or the set of sentences you
@@ -236,7 +234,7 @@
               <li>Proceed to the text where you want to insert the selected elements. Right-click on
                 the position and select "Paste with Lemmata": <p>
                   <ul id="ul_axm_js3_5x">
-                    <li>To <b>insert a sentence or a set of sentences</b> after an existing
+                    <li> To <b>insert a sentence or a set of sentences</b> after an existing
                       sentence, place the cursor behind the "§" sign and select "Paste with
                       Lemmata".</li>
                     <li>If you paste the sentence(s) in front of the "§" sign, the selected
@@ -247,15 +245,16 @@
                       "Paste with Lemmata". If you want to insert a word/phrase at the end of a
                       sentence, be sure to place the cursor in front of the "§" sign.<p>NOTE:
                         Copying a word or phrase with Lemmata and pasting it behind a "§" sign will
-                        paste the complete sentence, from which that word/phrase was copied, after
-                        the selected sentence.</p><p>NOTE: It is not currently possible to "paste
-                        with Lemmata" at the beginning of a sentence directly after the "§" sign. If
-                        you want to insert a word/phrase at the beginning of a sentence, enter a
-                        dummy word first, paste the word/phrase after the dummy, and delete the
-                        dummy word afterwards.</p></li>
-                    <li>"Copy &amp; Paste with Lemmata" of words and phrases is not restricted to
-                      sentences. You can copy the last part of one sentence and the beginning of the
-                      following sentence, and paste both into another sentence.</li>
+                        paste the complete sentence, from which that word/phrase was
+                        copied.</p><p>NOTE: It is not currently possible to "paste with Lemmata" at
+                        the beginning of a sentence directly after the "§" sign. If you want to
+                        insert a word/phrase at the beginning of a sentence, enter a dummy word
+                        first, paste the word/phrase after the dummy, and delete the dummy word
+                        afterwards.</p></li>
+                    <li>"Copy &amp; Paste with Lemmata" of words and phrases is not bound by
+                      sentence borders . You can copy the last part of one sentence and the
+                      beginning of the following sentence, and paste both into another
+                      sentence.</li>
                   </ul>
                 </p></li>
               <li>Summary: <p>
@@ -275,9 +274,9 @@
       enter a dummy text and press "Load Text Lemmata" or switch to the Sign Text Editor and back.
       After pasting your text you can then delete the dummy.</p>
     <p>NOTE: The sentence you want to copy, in addition to the sentence in, before, or after which
-      you want to paste the copied sentence must all be active. Activation is shown by the sign
-        <image href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> directly to the
-      left of the sentence. It might take some time or a switch between database objects, before the
+      you want to paste the copied sentence must be active. Activation is shown by the sign <image
+        href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> directly to the left of
+      the sentence. It might take some time or a switch between database objects, before the
       sentence is activated (compare note on <xref href="howto_translation.dita">translation</xref>
       below).</p>
     <p/>

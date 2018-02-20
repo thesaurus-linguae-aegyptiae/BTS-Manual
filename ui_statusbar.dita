@@ -3,15 +3,15 @@
 <topic id="topic_azx_hrl_mr">
   <title>Status bar </title>
   <body>
-    <p>The status bar is located at the bottom of the BTS program. </p>
+    <p>The status bar is located at the bottom of the BTS program window. </p>
     <p><image href="Images/icons/full/icon32/parent-node32.png" id="image_v4r_rm3_2s"/> The position
       of the currently selected database object in the Navigator tree is displayed to the right of
       this icon. </p>
-    <p><image href="Images/icons/full/icon32/Information.png" id="image_ltl_fn3_2s"/> To the right
-      of this icon, is a status message detailing, e.g. the position of your cursor in a selected
-      text (line number, column (= position in line), unicode) or the number of database objects
-      which have been suppressed because you do not have the necessary rights to see them. Clicking
-      on the icon will display a window with the last 25 status messages. </p>
+    <p><image href="Images/icons/full/icon32/Information.png" id="image_ltl_fn3_2s"/> Introduces a
+      status message detailing the position of your cursor in a selected text (line number, column
+      (= position within line), character Unicode number) or the number of database objects which
+      have been suppressed (because you do not have the rights to see them). Clicking on the icon
+      will display a window with the last 25 status messages. </p>
     <?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?>
   </body>
 </topic>

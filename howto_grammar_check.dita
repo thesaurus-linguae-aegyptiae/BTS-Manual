@@ -7,9 +7,10 @@
       rules. This does not mean that it can recognize incorrectly selected lemmata or correct the
       errors for you. The grammar check follows an internal logic according to which specific signs
       can only occur in specific combinations; it detects disagreements with this logic and marks
-      them like this:</p>
+      them.  In the example below a square bracket was opened but the second one is missing: </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Ansicht_mit_Fehlern.png"
         id="image_ug2_v5c_xt"/></p>
+    <p> If you insert the required symbol the error message will disappear.</p>
     <p>Errors are marked by:</p>
     <p>1) either the <image href="Images/new%20screenshots/BTS%20Screenshots/Fehler.png"
         id="image_z4w_2vc_xt"/> sign or a red square on the left margin of the text (depending on
@@ -19,16 +20,15 @@
       currently displayed in your window; click on the rectangle to jump to the relevant text
       passage.</p>
     <p>3) a red wavy underscore under the relevant passage.</p>
-    <p>NOTE: Do not mix up the red rectangle in the right margin with the light red rectangles which
-      show rubrum. Upon mouse-over on the rectangle, the tool-tip will be displayed explaining the
-      cause of the error; if there are annotations, rubra, or comments linked to the same sentence,
-      the mouse-over also provides you with this information. If you only mouse-over the underscored
-      passage then the tool-tip will only show the error information.</p>
+    <p>NOTE: The error rectangles in the right margin can be confused with the light red rectangles
+      which show rubra. The mouse-over / mouse-click on the rectangle will display the error
+      information, but also  annotations, rubra, or comments , in case there are any linked to the
+      same sentence. The mouse-over on the underscored passage will only show the error
+      information.</p>
     <p>NOTE: Some combinations of round brackets and double round brackets result in errors. For
       example ((n(,j))) is not valid in the BTS grammar. In these cases use the dummy sign "⁝⁝":
       ((n(,j)⁝⁝)).</p>
-    <p>In the example above (see screen shot) a square bracket was opened but the second one is
-      missing. If you insert the required symbol the error message will disappear.</p>
+    <p/>
     <p>All grammar errors in the transliteration should be corrected before saving or switching to
       the Sign Text Editor, otherwise you might lose your data.</p>
   </body>

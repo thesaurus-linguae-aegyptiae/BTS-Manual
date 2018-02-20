@@ -7,8 +7,8 @@
       database object. </p>
   <p>
       <ul id="ul_bjg_l3y_bv">
-        <li><b>Name:</b> Enter or change the name of your TCObject or Text. Anything between &lt;
-          and > will not appear in the pathfinder.</li>
+        <li><b>Name:</b> Enter or change the name of your TCObject or Text. Values between angle
+          brackets (&lt; >) will not appear in the pathfinder.</li>
       </ul>
     </p>
     <p>
@@ -25,8 +25,8 @@
         <li><b>SortKey:</b> By default, all database objects on the same level have "0" as a sort
           key and are thus sorted alphabetically. Defining a "SortKey" in the Passport data of a
           database object will change its position in relation to other database objects, with "0"
-          at the top. <p>NOTE: If your database object is in a polyhierarchical position, changes in
-            the Sortkey apply to all of its relationships.</p></li>
+          at the top. <p>NOTE: If your database object is in a poly-hierarchical position, changes
+            in the Sortkey apply to all of its relationships.</p></li>
       </ul>
     </p>
     <p>
@@ -49,15 +49,14 @@
     </p>
     <p>
       <ul id="ul_izm_sjy_bv">
-        <li><b>Visibility:</b> Define or change who can see the database object (public, project,
-          group, reader, or all_authenticated). See also <xref href="user_roles.dita"/>.</li>
+        <li><b>Visibility:</b> Defines who can see the database object (public, project, group,
+          reader, or all_authenticated). See the <xref href="user_roles.dita"/> for details.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_n3f_5jy_bv">
-        <li><b>Review State:</b> Define or change the Review State of the database object
-          (published, reviewed, awaiting-update, awaiting-review, new, or transformed awaiting
-          update).</li>
+        <li><b>Review State:</b> Defines the Review State of the database object (published,
+          reviewed, awaiting-update, awaiting-review, new, or transformed awaiting update). </li>
       </ul>
     </p>
     <p>

@@ -41,13 +41,13 @@
           Preferences/Preferences/Lemmatizer allows you to activate the function "automatically
           select the first lemma proposal". This feature enables you to navigate through the
           proposals via the arrow keys on your keyboard.</li>
-        <li>In the field "Flexion" you can show the grammatical form of this word in this text by
-          entering the appropraite code (see <xref href="grammar_inflection.dita"/>).</li>
+        <li>In the field "Flexion" you can record the grammatical form of this word by entering the
+          appropriate code (see <xref href="grammar_inflection.dita"/>).</li>
         <li>In the field "Translation" you can choose one or several translations from the lower
-          field (in the example above there is only one option); to choose several left-click and
-          hold CTRL at the same time. If none of the options seems suitable, you can enter your own
-          translation instead. Make sure you have selected the right language in the drop-down menu
-          on the right; the only choices currently available are German and English. </li>
+          field; to choose several left-click and hold CTRL at the same time. If none of the options
+          seems suitable, you can enter your own translation instead. Make sure you have selected
+          the right language in the drop-down menu on the right; the only choices currently
+          available are German and English. </li>
       </ol>
     </p>
     <p><b>Organization of the lemma list</b></p>
@@ -59,17 +59,17 @@
       entries in which your search term occurs in the first position; entries in which your search
       term occurs in another position (e.g. composita) are shown in the latter part of the list.</p>
     <p>NOTE: The list of results is limited to 500 items. If you cannot find your lemma in the list,
-      specify or alter your search parameters; if you really cannot find it then use the TLA to find
-      the word's lemma ID, which you can use in the section below. </p>
+      specify or alter your search parameters; you can use the TLA to find the word's lemma ID,
+      which you can type in the section below. </p>
     <p>There are two kinds of icons in the list:</p>
     <p>
       <ul id="ul_cbf_syf_fx">
         <li><image href="Images/Icons_updated/full/icon16/lemma_checked.png" id="image_mhb_jmm_fx"/>
           This lemma has been revised and can be used for lemmatization.</li>
         <li><image href="Images/icons/full/icon16/lemma-uncertain.png" id="image_ckk_1zf_fx"/> This
-          lemma has not been revised yet. This applies in particular to personal names from Ranke,
-          Personennamen. If you would like to use this lemma, please contact the BTS team in Berlin
-          (aegypt1@bbaw.de).</li>
+          lemma has not been revised yet. This applies in particular to personal names from Ranke's
+          "Personennamen". If you would like to use this lemma, please contact the BTS team in
+          Berlin (aegypt1@bbaw.de).</li>
       </ul>
     </p>
     <p><b>Finding the correct lemma</b></p>
@@ -78,19 +78,18 @@
         href="Images/icons/full/icon16/search.png" id="image_zyn_pqp_nt"/> and search for it in the
       lemma list by entering the WCN (i.e. the ID), the transliteration, or the translation of the
       lemma. You can also filter the search results by using "Search for IDs" or "Search for Names
-      only". Additionally, you can add wild cards/quotation marks by clicking the provided buttons
+      only". Additionally, you can add wild cards / quotation marks by clicking the provided buttons
       in the search pop-up. For more details on the search function see <xref
         href="howto_searching.dita"/>. </p>
     <p><i>Search for ID (WCN number)</i></p>
-    <p>To filter for a specific WCN you have to activate the filter "Search for ID", otherwise your
-      search will fail because the (default) full text search does not search the "ID" field. (Those
-      lemmata which have been imported from the previous BTS version will show up a full text search
-      result, because in these cases the WCN appears as an external ID. This does not apply to
-      lemmata created in this BTS version.)</p>
+    <p>To filter for a specific WCN you have to activate the check-box "Search for ID", as the
+      (default) "Full text search" does not search for IDs. (This does not apply to the lemmata
+      imported from the previous BTS version, which have the WCN set an external ID and which will
+      thus show up in a "Full text search result").   </p>
     <p><i>Search for transliteration</i></p>
     <p>If you use the filter "Search for Names only", BTS does not execute a full text search, but
       only a search in the names of the database objects. This does not mean names as in "Personal
-      Names", but it is the standard description for what a database object is called when created,
+      Names", but is the standard description for what a database object is called when created,
       i.e. in this case it means the transliteration of the lemma (dictionary form). This box is
       activated by default, because otherwise BTS will make a full text search in the lemma list
       which would yield too many results. </p>
@@ -127,8 +126,7 @@
     <p>In addition to the "Wörterbuch der ägyptischen Sprache", the BTS lemma list contains words
       from other sources. If you have a new lemma, which is not yet present in the BTS lemma list,
       please contact the BTS team in Berlin: aegypt1@bbaw.de. </p>
-    <p>Before you send your proposal, please make sure that the lemma does not exist by
-      checking:</p>
+    <p>Before you send your proposal, please make sure that the lemma does not exist:</p>
     <p>
       <ul id="ul_vyl_yks_2x">
         <li>The transliteration of the lemma in the BTS might be different from your own (e.g.

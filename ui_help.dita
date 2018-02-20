@@ -16,7 +16,7 @@
     <p>Click on this to see which parts of the software are currently installed. Select a specific
       path and click "Uninstall" at the bottom of this window to uninstall those parts of the
       program.</p>
-    <p>NOTE: This does not uninstall BTS. To do this you have to delete all files from the
-      installation path manually (see <xref href="intro_uninstall_update.dita"/>).</p>
+    <p>NOTE: This does not uninstall BTS. Uninstalling BTS requires the removal of all files from
+      the installation path manually (see <xref href="intro_uninstall_update.dita"/>).</p>
   </conbody>
 </concept>

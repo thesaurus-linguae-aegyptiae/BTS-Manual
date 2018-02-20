@@ -3,7 +3,7 @@
 <concept id="concept_axv_vfm_mr">
  <title>Corpus Navigator </title>
  <conbody>
-  <p>The Corpus Navigator tab is located on the lefthand side of the Text Corpus View. Here you can
+  <p>The Corpus Navigator tab is located on the left-hand side of the Text Corpus View. Here you can
    see the position of the text in the Corpus Navigator tree, which is arranged hierarchically. You
    can navigate through the Tree by clicking on the database objects or via the "up" and "down"
    arrow keys on your keyboard, using the "right" and "left" arrows to expand/close an entry in the
@@ -12,10 +12,10 @@
     href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Corpus_Navigator.png"
     id="image_exj_k4p_5t"/></p>
   <p>Next to its name, the physical save location of the database object is displayed in square
-   brackets. The number of elements it contains is shown afterwards in round brackets. </p>
-  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/> (brown) notes any
+   brackets. The number of elements it contains is shown in round brackets. </p>
+  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/>:  this icon notes any
    active corpus in the Tree, for which you have the Updater or Reader status. </p>
-  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/> (black)
+  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/>:  this icon
    notes any other corpus which the user has the user right to see (but not edit etc.).</p>
   <p>There is the option to filter the Navigator Tree to e.g. only show active corpora, for further
    details see below. For activating and deactivating corpora use the Corpus Settings, see <xref
@@ -25,8 +25,7 @@
     id="image_vqw_pjs_4r"/> "Bin". When you open a search dialogue, a third tab will appear with the
    results of that search. The tab "Text Corpora" is activated by default. In the "Bin" tab you can
    find your deleted Texts and TCObjects. Please note that opening the "Bin" tab can take up to a
-   minute to load when you first click on it after installing BTS; afterwards it should work much
-   faster. </p>
+   minute to load the first time after installing BTS. </p>
   <p>At the top of the Corpus Navigator there are several buttons. Two of them, <image
     href="Images/icons/extra%20icons/minimize.png" id="image_j4m_cbb_qr"/> and <image
     href="Images/icons/extra%20icons/maximize.png" id="image_jyp_2bb_qr"/>, are also available in
@@ -62,9 +61,10 @@
    selecting the appropriate option. Note that you are only allowed to delete your own database
    objects, texts etc.</p>
   <p>NOTE: This only deletes the selected database object. All child-elements (e.g. Subtexts,
-   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Orphans" and are still
-   accessible via the Search Dialogue. If you want to delete both a parent node and its children,
-   you have to delete all child-elements before deleting the respective parent database object.</p>
+   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Orphans" at the bottom of
+   the Navigator tree and are still accessible via the Search Dialogue. If you want to delete both a
+   parent node and its children, you have to delete all child-elements before deleting the
+   respective parent database object.</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>
    <u>Open Simple Search Dialogue</u></p>
   <p>Opens a search dialogue, which allows you to search for specific database objects, phrases.
@@ -115,9 +115,9 @@
    <ul id="ul_al5_s1y_bv">
     <li>Filter: Allows you to filter the corpora in the Navigator Tree: <p>
       <ul id="ul_ybc_myp_gx">
-       <li>Filter by Project/Creator/Updaters/Review Status/Visibility/Types by clicking the
-        relevant check boxes; to undo the filter, unselect the checkboxes. </li>
-       <li>Only active text corpora: Displays only active corpora, marked by <image
+       <li>Filter by Project / Creator / Updaters / Review Status / Visibility / Types by clicking
+        the relevant check boxes; to undo the filter, unselect the checkboxes. </li>
+       <li>Only active text corpora: Displays only active corpora, marked by the icon <image
          href="Images/icons/full/icon16/corpus.png" id="image_tff_typ_gx"/>.</li>
        <li>Filter only invalid texts: Displays all texts that do not comply with the formal system
         grammar.</li>
@@ -130,8 +130,7 @@
   </p>
   <p><b>Icons in the Corpus Navigator tree</b></p>
   <p>There are several icons that represent different types of database object in the Corpus
-   Navigator Tree. These are combined with smaller ones to define the Review State or to provide a
-   warning:</p>
+   Navigator Tree. </p>
   <p>
    <ul id="ul_c1c_qgp_3x">
     <li><image href="Images/Icons_updated/full/icon16/caption.png" id="image_d3w_d3p_3x"/>
@@ -182,41 +181,42 @@
      the relief would be the TCObject, and the inscriptions its Subtexts).</li>
    </ul>
   </p>
-  <p> The review state is displayed as follows, these icons are combined with the icons above:</p>
+  <p>The icons that display different types of database objects are combined with others defining
+   the Review State or providing a warning. These are as follows: </p>
   <p>
    <ul id="ul_vf3_3cx_3x">
-    <li><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x"/> new</li>
+    <li><image href="Images/Icons_updated/full/ovr16/new.png" id="image_bg2_phq_3x"/>: marks a new
+     database object</li>
    </ul>
    <ul id="ul_pql_3cx_3x">
-    <li><image href="Images/Icons_updated/full/ovr16/awaiting-review.png" id="image_bjh_qhq_3x"/>
-     awaiting review</li>
+    <li><image href="Images/Icons_updated/full/ovr16/awaiting-review.png" id="image_bjh_qhq_3x"/>:
+     marks an object awaiting review</li>
    </ul>
    <ul id="ul_psn_3cx_3x">
-    <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"/>
-     awaiting update</li>
+    <li><image href="Images/Icons_updated/full/ovr16/awaiting-update.png" id="image_cmr_qhq_3x"/>:
+     marks an object awaiting update</li>
    </ul>
    <ul id="ul_alp_3cx_3x">
-    <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/>
-     reviewed/published</li>
+    <li><image href="Images/Icons_updated/full/ovr16/reviewed.png" id="image_ywm_rhq_3x"/>: marks an
+     object reviewed/published</li>
    </ul>
   </p>
-  <p>These icons mark warnings in combination with the icons above:</p>
   <p>
    <ul id="ul_anl_4cx_3x">
-    <li><image href="Images/icons/full/ovr16/conflicts-small.png" id="image_vzg_qcx_3x"/>: This
-     marks a conflict between versions.</li>
+    <li><image href="Images/icons/full/ovr16/conflicts-small.png" id="image_vzg_qcx_3x"/>: marks a
+     conflict between versions.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_qmq_4cx_3x">
-    <li><image href="Images/icons/full/ovr16/lock-small.png" id="image_ayb_rcx_3x"/>: This marks
-     that another user is currently working on this database object. Please try not to work on a
-     database object that is already in use.</li>
+    <li><image href="Images/icons/full/ovr16/lock-small.png" id="image_ayb_rcx_3x"/>: warns that
+     another user is currently working on this database object. Please try not to work on a database
+     object that is already in use.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_vpv_4cx_3x">
-    <li><image href="Images/icons/full/ovr16/pen_small.png" id="image_v5d_scx_3x"/>The pen marks the
+    <li><image href="Images/icons/full/ovr16/pen_small.png" id="image_v5d_scx_3x"/>: marks the
      database object which you are currently working on.</li>
    </ul>
   </p>

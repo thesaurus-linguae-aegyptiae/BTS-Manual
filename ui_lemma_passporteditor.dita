@@ -18,8 +18,6 @@
       you to overwrite the already existing metadata in the child-element with that of the
       parent-element.</p>
     <p>NOTE: Both inheritance procedures apply to all tabs at once, not just the active one. </p>
-    <p>NOTE: Make sure that all of the metadata is correct, as otherwise you might inherit errors in
-      the child-elements.</p>
     <p>NOTE: The inheritance functions cannot be undone.</p>
     <p/>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/passport_lemma.png"

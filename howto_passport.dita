@@ -7,11 +7,11 @@
       that you enter the metadata of your TCObjects, Texts, Subtexts, and Glosses correctly, since
       only complete and accurate metadata will allow effective search queries and statistical
       evaluation of the data.</p>
-    <p>Most entries in the passport data are controlled by thesaurus lists. These lists are composed
-      of controlled vocabulary, such as dates, locations, provenances, etc. </p>
-    <p>Only select entries from the thesauri if you are certain that they are correct. If a fact is
-      uncertain select "unbekannt" or "unbestimmt". You can always discuss questionable facts, e.g.
-      the findspot of an ancient Egyptian object or the date of a text, in the Comment fields.</p>
+    <p>Most entries in the passport data are controlled by thesaurus lists, containing dates,
+      locations, provenances, etc. These "controlled vocabulary" lists also include such entries as
+      "unbekannt" ("not known") or "unbestimmt" ("not defined"). You can always discuss questionable
+      facts, e.g. the findspot of an ancient Egyptian object or the date of a text, in the Comment
+      fields.</p>
     <p>The thesauri are not complete yet. In case a Thesaurus entry you need is missing, please send
       a proposal to the BTS team in Berlin: aegypt1@bbaw.de.</p>
     <p/>

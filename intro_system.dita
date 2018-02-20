@@ -30,6 +30,6 @@
   <p>BTS can be used online and offline, i.e. you do not need permanent internet access. You only
    need stable internet access to download the word list and other data during the installation
    process, and to synchronize your local data with the server each time you open BTS. If you do not
-   have internet access when opening BTS, it will not be able to synchronize with the server.</p>
+   have internet access when starting BTS, it will not be able to synchronize with the server.</p>
  </conbody>
 </concept>

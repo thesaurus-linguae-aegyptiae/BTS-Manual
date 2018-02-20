@@ -9,13 +9,15 @@
         href="user_roles.dita#topic_yqt_fpq_zs">user roles</xref>. </p>
     <p>In the Lemma View, authorized users can add and edit lemma entries, including their
       transliteration, hieroglyphic spellings, and metadata.</p>
-    <p>NOTE: This chapter provides a general description of the Workspace with its windows and tabs
-      in the Lemma View. For step-by-step instructions of how to enter or edit a new lemma, please
-      refer to (<xref href="howto_lemma.dita"/>).</p>
+    <p>NOTE: This chapter provides a general description of the Workspace with its windows and tabs.
+      For step-by-step instructions of how to enter or edit a new lemma, please see the chapter
+        <xref href="howto_lemma.dita"/>.</p>
     <p>If a lemma entry you need is missing, please send a proposal to the BTS team:
       aegypt1@bbaw.de. </p>
-    <p>In the Lemma View there are four windows: Lemma Navigator, Lemma Editor, Passport Editor
-      (including Lemmatizer and Hieroglyphic Type Writer), and Annotation. </p>
+    <p>The Lemma View contains four sections: Lemma Navigator on the left (marked yellow on the
+      screen-shot), Lemma Editor (top center, marked blue), Passport Editor, which includes
+      Lemmatizer and Hieroglyphic Type Writer (center bottom, marked green) and Annotation (on the
+      right, marked red). </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Lemma-view_new.png"
         id="image_dtq_jjy_gx"/></p>
     <p/>

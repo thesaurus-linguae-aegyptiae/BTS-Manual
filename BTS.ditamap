@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Berlin Text System 3.1 User Manual (V 2.0) </title>
+ <title>Berlin Text System 3.1 User Manual (V 3.0) </title>
  <topicref href="intro.dita">
   <topicref href="intro_system.dita"/>
   <topicref href="intro_install.dita"/>
@@ -20,6 +20,7 @@
    <topicref href="UserRoles_Guest.dita"/>
    <topicref href="UserRoles_sumup.dita"/>
   </topicref>
+  <topicref href="intro_ui_glossary.dita"/>
  </topicref>
  <topicref href="howto_general.dita">
   <topicref href="howto_ui.dita"/>
@@ -182,5 +183,4 @@
  </topicref>
  <topicref href="guidelines_hieroglyphs.dita"/>
  <topicref href="troubleshooting.dita"/>
- <topicref href="intro_ui_glossary.dita"/>
 </map>

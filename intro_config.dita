@@ -7,23 +7,24 @@
             by clicking on the triangle symbol on the left.</p>
     <p>
       <ol id="ol_jjj_r5j_2s">
-        <li><b>Active Corpora</b><p>Choose the "Corpus Settings" option from the expanded menu and
-                        add the corpora you are going to be working with to the "Active Corpora"
-                        list. </p></li>
-        <li><b>Sort by sort key</b><p>Expand "Corpus Settings". Click "Corpus Navigator Settings"
-                        and activate the check box "Corpus Navigator sort by sort key" if it is not
-                        already activated. Press "Apply" to save the change. Repeat the same for
-                        "Lemma Navigator Settings" and "Thesaurus Navigator Settings". </p><p>NOTE:
-                        By default all database objects have "0" as sort key and, as a result, are
-                        organized in alphabetical order on the same level. </p></li>
-        <li><b>Remember Me</b><p>By selecting this check box you can save your login credentials, so
-                        that BTS logs you in automatically upon startup.</p></li>
+        <li><b>Add "Active Corpora"</b><p>Choose the "Corpus Settings" option from the expanded menu
+            and add the corpora you are going to be working with to the "Active Corpora" list. Press
+            "Apply" to save the changes.</p></li>
+        <li><b>Activate "Sort by sort key" option</b><p>Expand "Corpus Settings". Click "Corpus
+            Navigator Settings" and activate the check box "Corpus Navigator sort by sort key" if it
+            is not already activated. Press "Apply" to save the changes. Repeat the same for "Lemma
+            Navigator Settings" and "Thesaurus Navigator Settings" located in "Lemma List Settings"
+            and "Thesaurus Settings" respectively. </p><p>NOTE: By default all database objects have
+            "0" as sort key and, as a result, are organized in alphabetical order on the same level.
+          </p></li>
+        <li><b>Activate "Remember Me" option</b><p>By selecting the check box "Remember my login
+            credentials on start-up" you can save your login credentials, so that BTS logs you in
+            automatically each time the programm starts.</p></li>
         <li><b>Text Editor settings</b><p>Expand "Text Editor" and select "Sign Text Editor".
-                        Activating "Show Hieroglyphs", "Show Lemma ID", "Show Flexion"
-                        (=Inflection), and "Show Translation" is recommended but can be changed any
-                        time. </p></li>
-        <li><b>Applying the changes</b><p>Press "Apply" after each change to save it and close the
-                        "Preferences" window by clicking "OK".</p></li>
+            Activating "Show Hieroglyphs", "Show Lemma ID", "Show Flexion" (=Inflection), and "Show
+            Translation" is optional but is recommended. </p></li>
+        <li><b>Applying the changes</b><p>Press "Apply" after each change to save it. Close the
+            "Preferences" window by clicking "OK".</p></li>
       </ol>
     </p>
     <p>For more details on BTS configuration see chapter <xref href="howto_configuration.dita"

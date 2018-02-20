@@ -3,13 +3,13 @@
 <concept id="concept_wpd_hqd_4r">
  <title>Passport Editor</title>
  <conbody>
-    <p>The Passport Editor section is located in the bottom centre of the Text Corpus View. It
-      contains the metadata of the selected database object, divided into different subsections
-      (tabs). These categories vary depending on the type of the database object, e.g. the tabs
-      "Thesaurus: Date" and "Thesaurus: Coordinates" only apply to specific types of thesauri. </p>
+    <p>The Passport Editor section is located in the centre of the Thesaurus View. It contains the
+      metadata of the selected thesaurus entry, divided into different subsections (tabs). These
+      categories vary depending on the type of the database object, e.g. the tabs "Thesaurus: Date"
+      and "Thesaurus: Coordinates" only apply to specific types of thesauri. </p>
     <p>If you are working on a child-element and want it to have the same metadata as its
       parent-element, you can click <image href="Images/icons/full/icon16/inherit.png"
-        id="image_fdk_2rt_mr"/> "Inherit Passport Data" in the top righthand corner of the Passport
+        id="image_fdk_2rt_mr"/> "Inherit Passport Data" in the top right corner of the Passport
       Editor. Note that the parent-element's data will be only be copied into empty fields of the
       child-element. If the child element's fields have already been filled out, then their content
       will not be changed. </p>
@@ -18,8 +18,6 @@
       to overwrite already existing metadata in the child-element with that of the
       parent-element.</p>
     <p>NOTE: Both inheritance procedures apply to all tabs at once, not just the active one. </p>
-    <p>NOTE: Be sure that all of the metadata is correct, otherwise you will inherit errors in the
-      child-elements.</p>
     <p>NOTE: The inheritance functions cannot be undone.</p>
     <p/>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/passport_thesaurus.png"

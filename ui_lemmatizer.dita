@@ -37,17 +37,18 @@
    <ul id="ul_tdj_bqx_gx">
     <li><b>Lemma</b><p>The section Lemma in the bottom left is composed of three fields. The
       Lemma-list is automatically generated based on the entry in the "Selected Word" field.
-      Selecting a lemma from the list will display its ID "Word Corpus Number" in the Lemma field.
-      The standard transliteration of the lemma is displayed in the field to the right of the
-      ID.</p><p><image href="Images/icons/full/icon16/search.png" id="image_bmh_c32_ms"/> Search
-      Object: Opens a search dialogue where you can look for lemmata manually.</p><p><image
-       href="Images/icons/full/icon16/lemmata.png" id="image_bsh_c32_ms"/> Open Lemma Navigator:
-      Opens a complete list of available lemmata ("Lemma View") in a separate window. </p></li>
+      Selecting a lemma from the list will display its ID (called WCN - "word corpus number") in the
+      "Lemma" field. The standard transliteration of the lemma is displayed in the field to the
+      right of the "Lemma".</p><p><image href="Images/icons/full/icon16/search.png"
+       id="image_bmh_c32_ms"/> Search Object: Opens a search dialogue where you can look for lemmata
+      manually.</p><p><image href="Images/icons/full/icon16/lemmata.png" id="image_bsh_c32_ms"/>
+      Open Lemma Navigator: Opens a complete list of available lemmata ("Lemma View") in a separate
+      window. </p></li>
    </ul>
   </p>
   <p>
    <ul id="ul_tkx_fqx_gx">
-    <li><b>Flexicon and Translation</b><p>The section <b>Flexicon</b> (bottom middle) and
+    <li><b>Flexion and Translation</b><p>The section <b>Flexion</b> (bottom center) and
        <b>Translation</b> (bottom right) show the default inflection number "3" and translation
       options for the selected lemma. The inflection number and translation can either be selected
       from the available ones (lower text box; note this feature is not yet available for

@@ -3,7 +3,7 @@
 <concept id="concept_cpy_xss_mr">
  <title>Annotation and text translation</title>
  <conbody>
-  <p>The annotation and text translation window is located on the righthand side of the default BTS
+  <p>The annotation and text translation window is located on the right-hand side of the default BTS
    UI in each of the four main Views. </p>
   <p><image
     href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Annotations.png"
@@ -38,11 +38,11 @@
     href="Images/icons/full/icon16/subtext.png" id="image_mb4_q1j_sr"/> "Glosses".</p>
   <ul id="ul_k1y_2cv_1cb">
    <li>
-    <p>Clicking on "Edit Annotation" will display the Passport Editor for annotations and rubra;
+    <p>Clicking on "Open Annotation" will display the Passport Editor for annotations and rubra;
      each annotation has its own ID and its relationship with the chosen text is shown in the
      "Relations" tab. </p>
    </li>
-   <li>By clicking the "Edit Comment" button, a "Comment Editor" window will appear. You can enter
+   <li>By clicking the "Open Comment" button, a "Comment Editor" window will appear. You can enter
     or edit the title of your comment in the upper field and the content of your comment in the
     lower field. Below there is a section where you can see or edit the relationship of the comment
     to the text.</li>
@@ -53,13 +53,13 @@
    <b>Filter</b>: Here you can filter the display, e.g. you can hide all rubra from the list or only
    show comments.</p>
   <p>NOTE: When your text is loaded, BTS will load all annotations, filter them according to your
-   filter settings, and then displays the first 40 annotations. Annotations that are not displayed
+   filter settings, and then display the first 40 annotations. Annotations that are not displayed
    will appear in the list as soon as you click on the relevant token in the Transliteration
    Editor.</p>
   <p>To learn more about annotations see <xref href="howto_annotations.dita"/>.</p>
   <p><b>Text translation</b></p>
   <p>The "Text translation" section shows a full sentence-by-sentence translation of your text. If
-   your translation does not appear, make sure you have selected the correct language <image
+   your translation does not appear, make sure you have selected the correct language with <image
     href="Images/icons/full/icon16/locale.png" id="image_w1q_vm3_ns"/>. Sentences which have not
    been translated yet are marked as "## no trans: de ##§" / "## no trans: en ##§" etc. Clicking on
    a sentence will highlight it in the "Sign text editor", the "Transliteration" tabs, and the

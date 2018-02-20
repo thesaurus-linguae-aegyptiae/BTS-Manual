@@ -5,10 +5,10 @@
   <body>
     <p>This function is available to users with global administrator rights only. </p>
     <p>To open the user management function select "Open User Manager" from the drop-down menu
-      "Preferences" of the Menu bar, which opens the window "User Management". Select the tab:
-      "Manage Users and User Groups".</p>
-    <p>The tab "Manage Users and User Groups" allows you to create new accounts for users and add
-      users, who can have a specific set of rights in the editing process, to project groups, .</p>
+      "Preferences" of the Menu bar. In the  window "User Management" select the tab: "Manage Users
+      and User Groups".</p>
+    <p>The tab "Manage Users and User Groups" allows you to create new user accounts and assign the
+      existing accounts of users with specific set of rights to project groups.</p>
     <p>In the tab <image href="Images/icons/full/icon16/users.png" id="image_m5r_q5k_4r"/> "Active
       Users", the active user groups are displayed. In the tab "Bin" deleted user groups are shown.
       In the brackets behind the group names, the number of the assigned users is displayed.

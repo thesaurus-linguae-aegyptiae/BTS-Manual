@@ -3,9 +3,9 @@
 <concept id="concept_art_dqd_4r">
  <title>Thesaurus Navigator</title>
  <conbody>
-  <p>The Thesaurus Navigator is located on the lefthand side of the Workspace in the Thesaurus view.
-   The Thesaurus list contains a set vocabulary of unique concepts for describing database objects.
-   Such metadata enables search queries on a global or local level of the database, and are
+  <p>The Thesaurus Navigator is located on the left-hand side of the Workspace in the Thesaurus
+   view. The Thesaurus list contains a set vocabulary of unique concepts for describing database
+   objects. Such metadata enables search queries on a global or local level of the database, and are
    attributed to the database objects in the Passport Editor.</p>
   <p> </p>
   <p><b>Toolbar</b></p>
@@ -27,8 +27,8 @@
   <p><b>Bin</b></p>
   <p>Entries deleted from the Thesaurus Navigator tree appear in the <image
     href="Images/icons/full/icon16/bin.png" id="image_bz5_ny4_zr"/> "Bin" tab, where they are listed
-   individually. Deleting an item from the Bin will permanently it. Please note that the Bin may
-   take a minute to open after you install BTS, but afterwards it should work much faster. </p>
+   individually. Deleting an item from the Bin will permanently remove it. Please note that the Bin
+   may take a minute to open after you install BTS, but afterwards it should work much faster. </p>
   <p><b>Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png"
     id="image_umy_spv_ps"/>"</p>
   <p>Offers all the options available in the Toolbar above, plus the following:</p>

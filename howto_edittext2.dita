@@ -3,23 +3,21 @@
 <topic id="topic_k3c_35y_qt">
   <title>Editing a text</title>
   <body>
-    <p>The process of editing a text begins with entering the transliteration in the Text Editor
-      Transliteration field. Make sure you have the right keyboard and font (see <xref
-        href="intro_install_keyboard.dita">install and configure the keyboard</xref>) provided by
-      the BBAW. </p>
-    <p>Once you have transliterated your text, you can then start lemmatizing each word of your
-      transliterated text, which is one of the most important functions of BTS. Lemmatization is a
-      lexical annotation of each word (regardless of its inflected forms). In a semi-automatic
-      process each word is linked with a lemma entry in the integrated lemma list and therefore
-      receives all of the lexical properties of that lemma entry, e.g. POS-label, base
-      translation(s), bibliographical references etc. Inflected forms of the lemma, as they appear
-      in your text, can be added by assigning <xref
-        href="grammar_inflection.dita#concept_zjw_dsx_nt">inflection codes</xref>.</p>
-    <p>Furthermore, during the editing process you can enter a translation (in either German [de],
-      English [en], French [fr], Spanish [es], Italian [it], Arabic [ar], or Russian [ru]) and
-      hieroglyphic writings of each text word. You are also able to mark rubra and to add comments
-      to the transliteration.</p>
-    <p>NOTE: The following order is not compulsory, except you can only enter translation,
-      lemmatization, annotations, and hieroglyphs once you have typed the transliteration.</p>
+    <p>The process of editing a text begins with entering the transliteration in the Transliteration
+      field of the Text Editor. Make sure you have the right keyboard and font (see section <xref
+        href="intro_install_keyboard.dita">Installing and configuring the keyboard</xref>), provided
+      by the BBAW. Transliteration is followed by lemmatization, i.e. lecical annotation, of each
+      text word ("token"). In a semi-automatic process each word is linked with a lemma entry in the
+      integrated Lemma List and therefore receives all of the lexical properties of that lemma
+      entry:  "part-of-speech" label, base translation(s), bibliographical references etc. Inflected
+      forms of the lemma, as they appear in your text, can be added by assigning <xref
+        href="grammar_inflection.dita#concept_zjw_dsx_nt">inflection codes</xref>. Furthermore,
+      during the editing process you can enter a translation (in either German [de], English [en],
+      French [fr], Spanish [es], Italian [it], Arabic [ar], or Russian [ru]) and hieroglyphic
+      writings of each text word. You are also able to mark rubra and to add comments to the
+      transliteration.</p>
+    <p>NOTE: The editing order suggested below is not compulsory, except you can only enter
+      translation, lemmatization, annotations, and hieroglyphs once you have typed the
+      transliteration.</p>
   </body>
 </topic>

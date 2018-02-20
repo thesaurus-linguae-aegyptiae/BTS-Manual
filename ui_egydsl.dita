@@ -15,8 +15,7 @@
     <p>This window allows you to create templates to make the input of transliteration easier. For
       example, you can define short cuts for line counts etc. While transliterating, right-click a
       word and select "Content assist"; your template will be displayed at the end of the list.
-      Double click the template and it will be automatically inserted into the text. For a detailed
-      description see the chapter <xref href="howto_templates.dita"/>.</p>
+      Double click the template and it will be automatically inserted into the text.</p>
     <p><b>New...</b>
     </p>
     <p>Displays a pop-up window with the following options:</p>
@@ -70,13 +69,12 @@
     <p>Currently unavailable.</p>
     <p><b>Import</b>
     </p>
-    <p>If you have a previously made template (.xml) file, click this button to locate it in your
-      browser, click the file and press "open" to import the template into BTS.</p>
+    <p>Imports an existing template (.xml file) to BTS.</p>
     <p><b>Export</b>
     </p>
     <p>Select the template you want to export from the template list and press this button to export
-      it. Browse your explorer to find the location where you want to save your exported file. Enter
-      a name for the file inside the pop-up-window and press "save".</p>
+      it. Browse the explorer to the location where you want to save your file. Enter a name for the
+      file inside the pop-up-window and press "save".</p>
     <p/>
     <p><b>Restore Default</b></p>
     <p>Click this button to delete all templates from the list.</p>

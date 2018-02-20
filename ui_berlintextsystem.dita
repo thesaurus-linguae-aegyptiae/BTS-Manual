@@ -68,21 +68,16 @@
       <ul id="ul_uy3_vl2_vt">
         <li>"Default Visibility" applies to all newly created database objects. It defines the
           Visibility Status a lemma will receive by default when it is created. See also chapter
-            <xref href="user_roles.dita"/>.</li>
+            <xref href="user_roles.dita"/>. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_ylp_vl2_vt">
         <li>"Default Review State" applies to all newly created database objects. As with "Default
           Visibility", this defines the Review State a lemma will receive by default when it is
-          created.</li>
+          created. </li>
       </ul>
     </p>
-    <p>NOTE: "Default Visibility" and "Default Review State" apply to all newly created database
-      objects, including annotations, rubra, comments etc. A change to a parent-element will not
-      transfer to any of its children, which means if e.g. your Default Visibility is "reader", you
-      have to manually change all TCObjects, Texts, annotations, rubra etc. to "public" once you
-      want to publish your text in the TLA.</p>
     <p><b>Lemmatizer</b>
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the program's default inflection is

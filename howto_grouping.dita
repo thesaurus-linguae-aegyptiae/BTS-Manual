@@ -4,13 +4,12 @@
  <title>Grouping hieroglyphs</title>
  <conbody>
   <p>Grouping hieroglyphs is a useful, but not an essential, task of the text editing process.
-      Encoding the grouping enables analyses on the strategies and use of grouping in texts.
-      However, whether you encode the grouping or not, it is essential that you enter the
-      hieroglyphs in the right sequence because this is crucial for all further analyses of the data
-      and for searches for words by the order of hieroglyphic signs (e.g. if you find a sequence of
-      two hieroglyphs in a damaged text and want to look for words that could fit the lacuna). For
-      details on the encoding of hieroglyphs and hieroglyphic groups see <xref
-        href="guidelines_hieroglyphs.dita"/>.</p>
+            Encoding the grouping enables analyses on the strategies and use of grouping in texts.
+            However, whether you encode the grouping or not, it is essential that you enter the
+            hieroglyphs in the right sequence because this is crucial for data analyses and for
+            hieroglyphic word searches (e.g. if you find a sequence of two hieroglyphs in a damaged
+            text and want to look for words that fit the lacuna). For details on the encoding of
+            hieroglyphs and hieroglyphic groups see <xref href="guidelines_hieroglyphs.dita"/>.</p>
   <p><b>1. If you decide not to group hieroglyphs</b>, use a hyphen between the single hieroglyphs
       and encode the signs according to their sequence in the text. For the BTS sequence conventions
       see chapter 2.1 <xref href="Hieroglypheneingabe_Richtlinien.pdf" format="pdf"><image

@@ -5,7 +5,7 @@
  <conbody>
   <p>The Relations tab shows the relationships of your thesaurus entry. The default setting is the
    relationship between the selected database object and its parent database object ("Part of"). BTS
-   supports polyhierarchies, meaning that database objects can have more than one
+   supports poly-hierarchies, meaning that database objects can have more than one
    parent-element.</p>
   <p><b>Relation</b></p>
   <p>Choose between two options in the drop-down menu:</p>

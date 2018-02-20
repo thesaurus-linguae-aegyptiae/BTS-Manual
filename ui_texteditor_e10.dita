@@ -3,83 +3,83 @@
 <concept id="concept_f4v_hqm_mr">
  <title>Text Editor</title>
  <conbody>
-  <p>The Text Editor window is located in the top middle of the Text Corpus View. It allows you to
-   create digital editions of Texts and Subtexts in BTS format. The Text editor is only active after
-   you have selected a Text/Subtext in the Text Corpus Navigator. In the Text Editor you can
-   transliterate your Text/Subtext (via the Transliteration tab), translate it sentence by sentence
-   (in the Translation field), and enrich your transliteration with hieroglyphs (via the HTW tab).
-   The Sign Text Editor displays a detailed view of every token (word) in your transliteration and
-   is used with the Lemmatizer during lemmatization.</p>
+  <p>The Text Editor window is located at the top center of the Text Corpus View. It allows you to
+   create digital editions in BTS format. The Text editor is only active after you have selected a
+   Text/Subtext in the Text Corpus Navigator. In the Text Editor you can transliterate your
+   Text/Subtext (in the Transliteration tab), translate it sentence by sentence (in the Translation
+   field), and enrich your transliteration with hieroglyphs (in the HTW tab). The Sign Text Editor
+   displays a detailed view of every token (word) in your transliteration and is used with the
+   Lemmatizer during lemmatization.</p>
   <p>This chapter provides a general description of the window. For step-by-step instructions of how
    to enter a new Text see <xref href="howto_edittext2.dita"/>.</p>
   <p>The Text Editor contains two fields. The upper one displays either the "Transliteration", the
-   "Sign Text Editor", or the "JSesh View" depending on which tab is selected. The lower input field
+   "Sign Text Editor", or the "JSesh View" depending on the tab selected. The lower input field
    displays the translation of the sentence which has been selected with the cursor in the upper
    field. </p>
   <p><image
     href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Text_Editor.png"
     id="image_ort_qqp_5t"/></p>
   <p><b>Transliteration</b></p>
-  <p>Here you can enter or modify the transliteration of the text. Please be aware of the <xref
+  <p>Here you can enter or modify the transliteration of the text, paying attention to the <xref
     href="grammar_rules.dita#topic_f5w_3z5_kr">BTS Grammar Rules</xref>; incorrectly entered text
-   will trigger an error, underlined in red and marked by a red square on the righthand margin. </p>
+   will trigger an error, underlined in red and marked by a red square on the right-hand margin. </p>
   <p><b>Sign Text Editor </b></p>
-  <p>The "Sign-Text-Editor" provides the tokenized presentation of the text, with each token in a
-   separate box. Initially only the transliteration is displayed there; the Lemma ID, inflection
-   code, Lemma Translation, and hieroglyphs of each token can be made visible by changing your
-   preferences via the Menu bar: "Preferences"/"Preferences"/"Berlin Text System General"/"Text
-   Editor"/"Sign Text Editor". </p>
+  <p>The "Sign-Text-Editor" provides the tokenized view of the text, with each token in a separate
+   box. Initially only the transliteration is displayed there; the Lemma ID, inflection code, Lemma
+   Translation, and hieroglyphs of each token can be made visible by changing the preferences (Menu
+   bar: Preferences/Preferences/Berlin Text System General/Text Editor/Sign Text Editor). </p>
+  <p><b>Hieroglyph Type Writer</b></p>
   <p>Hieroglyphs can be added in the <image href="Images/icons/full/icon16/hieroglyphetw.png"
     id="image_ok5_nlw_nr"/> "Hieroglyph Type Writer" tab. The hieroglyphic values entered here are
    automatically added to their respective tokens in the "Sign-Text-Editor" sub-tab. The same
    addition occurs when you ascribe a lemma number and inflection code to each token after
    successful lemmatization.</p>
   <p><b>JSesh View</b></p>
-  <p>Displays a the complete hieroglyphic version of your text (similar to the full "Text
-   Translation" tab in the "Annotation and Translation" window). A "dot" marks the end of the
-   sentences, as separated in the "Transliteration" and "Sign Text Editor" tabs with "§" signs. Due
-   to technical reasons, longer texts cannot be properly displayed yet.</p>
+  <p>Displays the complete hieroglyphic version of your text (similar to the full "Text Translation"
+   tab in the "Annotation and Translation" window). A "dot" marks the end of the sentences, as
+   separated in the "Transliteration" and "Sign Text Editor" tabs with "§" signs. Due to technical
+   reasons, longer texts cannot be properly displayed yet.</p>
   <p><b>Toolbar of the Text Editor</b></p>
-  <p>There are several buttons in the Toolbar above the "Text-Editor" window, which can be used in
-   all three of the tabs ("Transliteration", "Sign Text Editor", and "JSesh View"). We recommend
-   only using these buttons in the "Transliteration" tab, as we cannot guarantee that they will work
-   properly in the other tabs.</p>
+  <p>There are several buttons in the Toolbar above the "Text-Editor" window, which are active in
+   all three tabs ("Transliteration", "Sign Text Editor", and "JSesh View"). We recommend only using
+   these buttons in the "Transliteration" tab, as we cannot guarantee that they will work properly
+   in the other tabs.</p>
   <p><image href="Images/icons/full/icon16/lemma-load.png" id="image_sws_dns_mr"/>
    <b>Load Text Lemmata</b></p>
   <p>Click this button once you have finished transliterating your text; it will tokenize your words
    and apply the sentence borders so that you can add a translation, lemmatize the words, and
    transcribe the hieroglyphs in the next steps. </p>
-  <p>NOTE: This does not save your transliteration.</p>
+  <p>NOTE: Click on "Load Text Lemmata" does not save the text transliteration. To save the current
+   transliteration click on "Save" icon on the toolbar. </p>
   <p><image href="Images/icons/full/icon16/chcecklemmata.png" id="image_glp_wld_vt"/><b>Check Text
     Lemmata, Flexcodes...</b>
   </p>
   <p>Checks how complete a text's lemmatization, translation, and hieroglyphic transcription is. </p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_ixh_g4s_mr"/>
    <b>Add Annotation</b></p>
-  <p>Adds an <xref href="howto_annotations.dita">Annotation</xref> to the part of your text
-   currently highlighted by your mouse. This part will then be underlined with a grey dotted line. </p>
+  <p>Adds an <xref href="howto_annotations.dita">Annotation</xref> to the part of the text you
+   selected. The annotated text part is then underlined with a grey dotted line. </p>
   <p><image href="Images/icons/full/icon16/rubrum-add.png" id="image_gwm_dqs_mr"/>
    <b>Add Rubrum</b></p>
-  <p>The active token(s) is marked as a rubrum and will appear red in the text.</p>
+  <p>Adds a Rubrum to the part of the text you selected. The respective tokens will be marked as a
+   rubrum and will appear red in the text.</p>
   <p><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
    <b>Add Glosses</b></p>
-  <p>Adds a gloss as a child-element of your text, which you can then edit separately.</p>
+  <p>Adds a gloss as a child-element of the text, which you can then edit separately.</p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_d5g_krs_mr"/>
    <b>Add Comment</b></p>
-  <p>Adds a comment to the part of your text currently highlighted by your mouse. This part will
-   then be underlined in yellow.</p>
+  <p>Adds a comment to the part of the text you selected. This part will then be underlined in
+   yellow.</p>
   <p>You can also access these functions via the drop-down menu which appears when you click on the
-   arrow on the righthand side of the window. </p>
-  <p>Additionally, when an annotation, rubrum, and comment is created, a small rectangle will appear
-   on the right margin of the Text-Editor with the corresponding colour (grey/red/yellow). Clicking
-   on the rectangle will bring you to the relevant part of the text. </p>
+   arrow on the right-hand side of the window. </p>
+  <p>Additionally, when an annotation, rubrum or comment is created, a small rectangle will appear
+   on the right margin of the Text-Editor window in the corresponding colour (grey/red/yellow).
+   Clicking on the rectangle will bring you to the relevant part of the text. </p>
   <p><b>Sentence translation</b></p>
   <p>At the bottom of the Text Editor there is a field where you can enter a translation of each
-   sentence. This is deactivated until you either select a lemma in the Text Editor or click
-   somewhere in a sentence, and until you press "Load Text Lemmata". Remember to switch the keyboard
-   layout from "AAeW" back to standard when you enter your translation.</p>
-  <p>The translation can be entered and modified in all three tabs "Transliteration", "Sign Text
-   Editor", and "JSesh View". </p>
+   sentence. The filed is activated only after the text lemmata have been loaded (button "Load Text
+   Lemmata"). Remember to switch the keyboard layout from "AAeW" back to standard when you enter
+   your translation.</p>
   <p>The <image href="Images/icons/full/icon16/locale.png" id="image_plt_3yt_mr"/> "Languages" icon
    offers a drop-down menu with a number of languages (English, German, French, Spanish, Italian,
    Arabic, Russian) to choose from. Choose the language of your translation; please only select

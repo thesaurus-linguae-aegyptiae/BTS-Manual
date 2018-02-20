@@ -11,11 +11,11 @@
             the Menu bar.</p>
         <p>The Workspace normally has the same subtabs in all four Views:</p>
         <p><ul id="ul_lpc_l1t_2x">
-                <li>Left: Navigator (yellow)</li>
-                <li>Top Middle: Editor (blue) - not available in Thesaurus View</li>
-                <li>Top Middle: Passport Data Editor (green)</li>
-                <li>Right: Annotation and Translation (red) - Translation only available in Text
-                    Corpus View<p/></li>
+                <li>Left: Navigator (marked yellow below)</li>
+                <li>Top center: Editor (marked blue below) - not available in Thesaurus View</li>
+                <li>Top bottom: Passport Data Editor (marked green below)</li>
+                <li>Right: Annotation and Translation (marked red below). Translation tab is only
+                    available in Text Corpus View<p/></li>
             </ul>
             <image href="Images/workspace.png" id="image_wd4_w1t_2x"/></p>
  </conbody>

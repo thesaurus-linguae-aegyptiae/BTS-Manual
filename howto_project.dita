@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_h3p_xtn_kx">
-  <title>Creating/Editing a project</title>
+  <title>Creating / Editing a project</title>
   <body>
     <p>This function is only available to users with global administrator rights.</p>
     <p><b>Creating Project</b></p>
@@ -11,16 +11,15 @@
       be saved in the database; Description is optional.</p>
     <p>NOTE: Do not use special characters, spaces, or capital letters in the Project Prefix. If you
       have entered invalid characters, the input field will turn red and the buttons "Next" and
-      "Finish" will be inactive. </p>
-    <p>NOTE: We do not recommended clicking  the "Finish" button until you have completed all of the
-      below steps.</p>
+      "Finish" will be inactive. Do not click on "Finish" button until you have completed all the
+      steps below.</p>
     <p>The button "Next >" leads to the "Project Connection Settings" window. Here you can enter
       "Connection Type", "Server URL", and "Database Path". The standard connection type used by BTS
       is "couchdb"; the server URL includes the URL and port number, and currently is
       "http://aaew64.bbaw.de:9589/"; Database path should be left empty. </p>
     <p>Clicking on the "Next >" button again will display a "Project Feature" window, where you can
-      select the features "Corpus Data", "Thesaurus Data", "Wordlist Data", and "Abstract Texts
-      Data". We recommend selecting all the check-boxes. </p>
+      select the features "Corpus Data", "Thesaurus Data", "Word list Data", and "Abstract Texts
+      Data". We recommend selecting all check-boxes. </p>
     <p>A further click on "Next >" leads to the "Project Database Collection" window, in which the
       newly created databases can be added or the existing ones edited. Editing includes changing
       the database name or activating/deactivating the synchronizing and indexing check-boxes. </p>
@@ -28,8 +27,8 @@
       information in the previous windows you can always click "&lt; Back". Cancel the creation of
       the new project with "Cancel". </p>
     <p><b>Editing a project</b></p>
-    <p>The project properties can always be modified at a later date via "Edit"/"Edit New Project" in
-      the menu bar. If you click on the "Edit current Project", a window appears, where you can edit
-      the current project's properties with the same process as above.</p>
+    <p>The project properties can always be modified at a later date via "Edit" / "Edit New Project"
+      in the menu bar. If you click on the "Edit current Project", a window appears, where you can
+      edit the current project's properties with the same process as above.</p>
   </body>
 </topic>

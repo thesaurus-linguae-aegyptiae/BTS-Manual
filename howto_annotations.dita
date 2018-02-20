@@ -49,11 +49,11 @@
       </ul>
     </p>
     <p><b>Annotating a text</b></p>
-    <p>To annotate a text, use the buttons above the "Text Editor" tab. Highlight the sequence you
-      want to annotate with your mouse: for a single word just place the cursor within the word; if
-      the word only contains a single character, place the cursor directly behind that character. A
-      single token can have multiple annotations, and one annotation can refer to multiple different
-      tokens. </p>
+    <p>To annotate a text, use the icons menu above the "Text Editor" tab. Highlight the sequence
+      you want to annotate with your mouse: for a single word just place the cursor within the word;
+      if the word only contains a single character, place the cursor directly behind that character.
+      A single token can have multiple annotations, and one annotation can refer to multiple
+      different tokens. </p>
     <p>NOTE: If the buttons are deactivated, click somewhere outside of your text and then back into
       it.</p>
     <p>
@@ -77,7 +77,7 @@
         <li><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
           <b>Add Glosses</b>: Clicking on this button will add a "child"-element to your text in the
           corpora tree. The gloss can be edited like a regular text and can have passport data etc.
-          Once it is created, it is labelled "BTS Text" until you rename it.</li>
+          Once created, it is labelled "BTS Text" until you rename it.</li>
       </ul>
     </p>
     <p>

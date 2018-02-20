@@ -3,7 +3,7 @@
 <concept id="concept_isp_k5f_yr">
  <title>Main</title>
  <conbody>
-        <p>The fields and drop-down menus give you several options for entering the technical
+        <p>The fields and drop-down menus provide several options for entering the technical
                   information of your thesaurus entry.</p>
   <p>
                   <ul id="ul_s4m_wyf_cv">
@@ -48,15 +48,15 @@
             </p>
   <p>
                   <ul id="ul_rk1_2zf_cv">
-                        <li><b>Visibility:</b> Define who can see the thesaurus entry (public,
+                        <li><b>Visibility:</b> Defines who can see the thesaurus entry (public,
                               project, group, reader, all_authenticated). See also <xref
                                     href="user_roles.dita"/>.</li>
                   </ul>
             </p>
   <p>
                   <ul id="ul_m2c_fzf_cv">
-                        <li><b>Review State:</b> Enter or edit the Review State of the thesaurus
-                              entry (published, reviewed, awaiting-update, awaiting-review, new,
+                        <li><b>Review State:</b> Shows the Review State of the thesaurus entry
+                              (published, reviewed, awaiting-update, awaiting-review, new,
                               transformed awaiting update).</li>
                   </ul>
             </p>

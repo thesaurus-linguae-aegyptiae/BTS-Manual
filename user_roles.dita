@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_yqt_fpq_zs">
-  <title>Description of User roles</title>
+  <title>Description of User rights</title>
   <body>
-    <p>User roles control which users can modify which database objects. These access rights are
-      defined by an interplay of the following factors: </p>
+    <p>Access rights, which different users have to database objects, are conditioned by the
+      following criteria: </p>
     <ul id="ul_qvj_vd2_jx">
       <li>
         <p><i>user role</i> with respect to particular corpora</p>
@@ -17,7 +17,7 @@
     </p>
     <p>
       <ul id="ul_qtw_vd2_jx">
-        <li><i>visibility status</i> of particular database objects</li>
+        <li><i>visibility type</i> of particular database objects</li>
       </ul>
     </p>
     <p/>
@@ -25,9 +25,8 @@
     <p>
       <ul id="ul_lzg_jpm_ft">
         <li>Access all entries in the drop-down menu "Window".</li>
-        <li>Access "Preferences/Database Manager".</li>
-        <li>Adjust individual preferences (see <xref href="howto_prefs.dita"/> for more
-          detail).</li>
+        <li>Access "Preferences / Database Manager".</li>
+        <li>Adjust individual settings in "Preferences / Preferences".</li>
         <li>Access all options in the drop-down menu "Help".</li>
       </ul>
     </p>
@@ -40,33 +39,38 @@
         href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>. One user can have different user
       roles in different corpora (but just one user role per corpus). E.g. a user can be an <xref
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus "bbawamarna", but
-      only a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> in the
-      corpus "bbawbriefe". </p>
+      a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> in the corpus
+      "bbawbriefe". </p>
     <p>NOTE: Unless specifically set by a BTS administrator, the default user role is <xref
         href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
     <p><b>User status</b></p>
     <p>The status of <i>Reader</i> or <i>Updater</i> can be assigned to an user with respect to
-      specific database objects. To do this right-click on an item and select "Edit Updaters /
-      Readers".</p>
-    <p>E.g. a researcher with the status of Updater can edit all items in a given corpus. If their
-      status is changed to Reader, the user will only be able to view the items. The Updater and
-      Reader status with reagrd to specific database objects in a corpus can be assigned to a user
-      by an <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt">Admin</xref>, <xref
-        href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref>, or <xref
+      specific database objects. E.g. a researcher with the status of Updater can edit all items in
+      a given corpus. If his / her status is changed to Reader, the user will only be able to view
+      the items. The Updater and Reader status with regard to specific database objects in a corpus
+      can be assigned to a user by an <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt"
+        >Admin</xref>, <xref href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref>, or <xref
         href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> (the latter needs to
       have the Updater status) of a given corpus. This is done by right-clicking on a database
-      object, selecting "Edit Updaters/Readers", and assigning a user to a user status through the
+      object, selecting "Edit Updaters / Readers", and assigning a user to a user status through the
       menu on the right.</p>
-    <p>NOTE: Obtaining the Reader/Updater status for an entire corpus does not extend to individual
-      items within that corpus; such a status has to be assigned for every database object which the
-      user is allowed to edit.</p>
-    <p><b>Visibility status</b></p>
-    <p>Another factor restricting user rights is the <i>Visibility status</i> of a database object,
-      which can be set in the Main Tab of the Passport Editor. The visibility status options are:
-      Public, Reader, Group, Project, and All Authenticated. Depending on the visibility status of
-      an database object, it may only be available for viewing or editing to those users with the
-      necessary rights. More on the visibility status of database objects will be outlined in the
-      descriptions below.</p>
+    <p>NOTE: Obtaining the Reader / Updater status for an entire corpus does not extend to
+      individual items within that corpus; such a status has to be assigned for every database
+      object which the user is allowed to edit.</p>
+    <p><b>Visibility type</b></p>
+    <p>Another factor restricting user rights is the <i>Visibility type</i> of a database object,
+      which can be set in the Main tab of the <xref href="ui_passporteditor.dita">Passport
+        Editor</xref>. The visibility options are: Public, Reader, Group, Project, and All
+      Authenticated. Depending on the visibility type of a database object, it may only be available
+      for viewing or editing to the users with the necessary rights. </p>
     <p/>
+    <p>Default visibility type is "public", unless another setting has been made in "Preferences /
+      Corpus Navigator Settings" (see chapter  <xref href="ui_berlintextsystem.dita"
+        >Preferences</xref>). The default visibility applies to all newly created database objects,
+      which also includes annotations, rubra, comments etc. A change in the visibility status of a
+      parent database object does not affect the status of any of its children. </p>
+    <p>NOTE: If default visibility type of your  database items is "reader", you have to manually
+      change all TC Objects, Texts, annotations, rubra etc. to "public" once you want to publish
+      your text in the TLA.</p>
   </body>
 </topic>

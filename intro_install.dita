@@ -10,8 +10,8 @@
       <ul id="ul_uxc_4nc_lx">
         <li>The BTS-folder, containing system data, including the installer (bts.exe) and the manual
           (.pdf file)</li>
-        <li>Keyman Keyboard (aaew.kmx)</li>
-        <li>BBAW Libertine Font (BBAWLibertine_ah.ttf) </li>
+        <li>Keyman keyboard layout file (aaew.kmx)</li>
+        <li>BBAW Libertine font (BBAWLibertine_ah.ttf) </li>
       </ul>
     </p>
     <p> NOTE: We recommend creating and using the "standard" directory on "C" drive: "c:\bts". </p>
@@ -49,7 +49,7 @@
               <li><i>Your User Name</i>: Enter the user name you received from the BTS team. </li>
               <li><i>Your Password for Authentication</i>: Enter the password you received from the
                 BTS team.<p>After entering the information required, click "Connect to server". In
-                  the upper part of a window saying "The connection you have entered is OK" will
+                  the upper part, of a window message "The connection you have entered is OK" will
                   appear. Note that the button "Finish" is only activated if the connection was
                   successful. </p></li>
             </ul>
@@ -76,9 +76,9 @@
             automatic login does not work after the installation and restart. As the result "No user
             logged in" and "No role" will be initially displayed in the BTS toolbar. In this case,
             start the program again. A small window will appear, where you have to login with your
-            user name and password. You can activate "Remember me" so that in the future BTS will
-            automatically log you in. You can change and deactivate this function in the <xref
-              href="ui_berlintextsystem.dita">preferences</xref>.</p></li>
+            user name and password. You can activate "Remember me" option so that in the future BTS
+            will automatically log you in. You can change and deactivate this function in the <xref
+              href="ui_berlintextsystem.dita">Preferences</xref>.</p></li>
         <li><b>Index data</b><p>Last but not least, all data imported from the server must be
             indexed. Indexing enables the search function, as the query is not done in the database
             (which would take time) but in the document indexes instead.</p>In the upper left corner
@@ -86,7 +86,7 @@
           and may take up to 20 minutes. If indexing has been completed correctly, the corpus color
           will change from red to green. Databases that are not indexed successfully are marked
           either in yellow or red. If indexing was not successful for some corpora re-index them by
-          clicking on the button "Re-index all non-OK". <p>NOTE: To work with BTS all databases
+          clicking on the button "Re-index all non-OK". <p>NOTE: To work with BTS the databases
             should be indexed correctly. Therefore, always re-index those databases which are marked
             either yellow or red.</p><p>NOTE: The items "_recplicator" and "_uses" cannot be indexed
             and always are marked in red. You do not have to re-index these items.</p></li>

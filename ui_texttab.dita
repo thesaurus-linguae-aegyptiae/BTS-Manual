@@ -48,7 +48,7 @@
     <p>
       <ul id="ul_q2q_zx2_cv">
         <li><b>Texttype:</b> Displays the name of the selected thesaurus entry (i.e. text type)
-          which can chosen using the search function below.<p>
+          which can be chosen using the search function below.<p>
             <ul id="ul_xn4_lbm_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_s3n_4bm_hx"/>
                 <b>Search Object:</b> Select the text type from the Thesaurus.<p>NOTE: A thesaurus

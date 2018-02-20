@@ -12,35 +12,37 @@
   <p>The content, structure, and functions of the four windows are as follows: </p>
   <p>
    <ul id="ul_blm_m5p_gx">
-    <li>"Corpus Navigator" window (<b>yellow</b>) on the left: Use this to navigate in the Corpus
-     Navigator Tree and organize database objects.</li>
+    <li>"Corpus Navigator" window on the left (framed <b>yellow</b> on the screen-shot below).  Use
+     this to navigate in the Corpus Navigator Tree and organize database objects.</li>
    </ul>
    <ul id="ul_r5s_m5p_gx">
-    <li>"Text Editor" window (<b>blue</b>) in the top center: There are three subtabs: (1)
-     Transliteration (with a field for language selection), (2) Sign Text Editor, and (3) JSesh
-     View.</li>
+    <li>"Text Editor" window in the top center (framed <b>blue</b> on the screen-shot below). It has
+     three sub-tabs: (1) Transliteration (with a field for language selection), (2) Sign Text
+     Editor, and (3) JSesh View.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_gvn_n5p_gx">
-    <li>"Passport Data Editor", "Lemmatizer", and "Hieroglyphic Type Writer" (<b>green</b>) tabs are
-     grouped in one window in the bottom center; each tab has its own sub-tabs.</li>
+    <li>"Passport Data Editor", "Lemmatizer", and "Hieroglyphic Type Writer"  tabs are grouped in
+     one window in the bottom center (framed <b>green</b> on the screen-shot below); each tab has
+     its own sub-tabs.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_gnx_n5p_gx">
-    <li>"Annotation and Translation" window (<b>red</b>) on the right: Use this to annotate words or
-     parts of the texts, noting different linguistic and metalinguistical properties and comments.
-     You can also show a whole "Text Translation" in this window. </li>
+    <li>"Annotation and Translation" window on the right (framed <b>red</b> on the screens-shot
+     below). Use this to annotate words or parts of the texts, noting different linguistic and
+     metalinguistic properties and comments. You can also show a whole "Text Translation" in this
+     window. </li>
    </ul>
   </p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Workspace_1.png" id="image_bmv_x5p_gx"
    /></p>
   <p/>
-  <p>NOTE: In the default view, even though some of the tabs, e.g. "Passport Data Editor",
-   "Lemmatizer", and "HTW", are grouped together into one window, they can be rearranged and moved
-   independently. As soon as you select a TCObject or a Text in the Corpus Navigator, the titles of
-   these tabs as well as those of the "Text editor", "Annotation", and "Text Translation" tabs will
-   change to the name of that database object. </p>
+  <p>NOTE: In the default view tabs can be rearranged and moved independently, even though some of
+   them, e.g. "Passport Data Editor", "Lemmatizer", and "HTW", are grouped together into one window.
+   As soon as you select a TCObject or a Text in the Corpus Navigator, the titles of these tabs as
+   well as those of the "Text editor", "Annotation", and "Text Translation" tabs will change to the
+   name of that database object. </p>
  </conbody>
 </concept>

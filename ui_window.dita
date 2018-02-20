@@ -9,8 +9,8 @@
   <p>There are two colours (blue and grey) and three font sizes available. Clicking on "Switch Font
    Size/CSS Theme" will switch between six combinations of these themes and fonts sizes. BTS will
    remember your personal settings for future sessions, but please note that these settings will be
-   saved to the computer and not to your personal BTS account (i.e. if you switch computers, your
-   individual settings and preferences will not transfer over). </p>
+   saved to the computer and not to your personal BTS account (i.e. if you switch computers, the
+   individual settings and preferences will not be transferred). </p>
   <p><b>Open Perspective</b></p>
   <p>The window "Open Perspective" contains the options Lemma, Text Corpus, Thesaurus, and Abstract
    Text; select an option and click "OK" to switch to the relevant BTS View. The first time you

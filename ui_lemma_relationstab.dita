@@ -5,24 +5,23 @@
   <body>
     <p>The Relations tab shows the relationships between the lemmata. The default setting is the
       relationship between the selected database object and its parent database object ("Part of").
-      BTS supports polyhierarchies, meaning that a database objects can have more than one parent
+      BTS supports poly-hierarchies, in which a database objects obtain more than one parent
       element.</p>
     <p><b>Relation</b></p>
     <p>Choose between different types of relationships from the drop-down menu:</p>
     <p>
       <ul id="ul_jl4_5lf_cv">
-        <li>PartOf: The lemma is hierarchically lower than another lemma, it is a sublemma of that
-          lemma.</li>
+        <li>PartOf: The lemma is hierarchically subordinate to another lemma</li>
       </ul>
       <ul id="ul_e2b_pf1_px">
-        <li>Contains: The lemma is hierarchically higher than another lemma.</li>
+        <li>Contains: The lemma is hierarchically superordinate to another lemma.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_e3g_vlf_cv">
         <li>Is composed of: The relationship between a compound word and its components. Please do
-          not use this relation, but instead divide the compound word into its components in the
-          Text Editor and sublemmatize them.</li>
+          not use this relation type, but instead divide the compound word into its components in
+          the Text Editor and sub-lemmatize them.</li>
       </ul>
       <ul id="ul_omh_pf1_px">
         <li>Is cross-reference to: This references your lemma to another lemma.</li>
@@ -66,13 +65,11 @@
     <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
       <b>Remove Relation:</b> This removes the relationship from the lemma.</p>
     <p>NOTE: If the last relationship is removed, the lemma will remain in the database as an
-      "Orphan" and is still accessible via the Search Dialog.</p>
+      "Orphan" and will still be accessible via the Search Dialog.</p>
     <p>NOTE: If a database object has more than one relation, it is displayed in each respective
       position in the Navigator Tree (along with its children). This does not mean that the database
       object has been duplicated. To delete one of these relationships, use the "Remove Widget"
       button in the Relation tab. Do not delete the database object itself, unless you want to
       permanently remove it from display in the Navigator tree. </p>
-    <p>NOTE: When viewing lemmata and their relationships in the Navigator Tree, it is possible to
-      display an infinite loop of relationships, so avoid excessively clicking the database objects. </p>
   </body>
 </topic>

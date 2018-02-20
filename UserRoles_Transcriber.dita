@@ -4,7 +4,7 @@
   <title>Transcriber</title>
   <body>
     <p>Transcribers are allowed to add hieroglyphic encodings to texts for which they are granted
-      the "Updater" status. They may not create new database objects or change any of the existing
+      the "Updater" status. They can not create new database objects or change any of the existing
       data of the database objects.</p>
     <p><b>Rights</b></p>
     <p>
@@ -18,9 +18,8 @@
       <ul id="ul_lwp_n4v_bt">
         <li>Cannot edit transliteration, lemma, or passport data of the corpus or database
           objects.</li>
-        <li>Without a Reader status in a given corpus, database object, or text, the Transcriber can
-          only view these items, but is not allowed to edit them in any way, which includes adding
-          hieroglyphs.</li>
+        <li>Without a Reader status for a given database object, the Transcriber can only view the
+          item, but is not allowed to edit it in any way.</li>
         <li>Database objects with a visibility status <i>Reader</i>, <i>Group</i>, or <i>Project</i>
           will not be visible if no status is assigned to the Transcriber.</li>
       </ul>

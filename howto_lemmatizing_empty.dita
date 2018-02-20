@@ -6,7 +6,8 @@
     <p>Empty cartouches, e.g. in Ptolemaic and Roman texts, are transliterated with 3 underscores:
       "___" and are lemmatized with lemma ID (WCN) 550225.</p>
     <p>NOTE: Do not use this for damages or erased cartouches, e.g. an erased cartouche of
-      Akhenaten, these should be entered as destruction (see xxx).</p>
+      Akhenaten; these should be entered as destruction, indicated by two hyphens <b>--...--</b>.
+      E.g.: --rest of line destroyed--, --3Q-- (destruction of 3 scriptorial squares).</p>
     <p>Blank parts of a text that were intended for the later addition of a personal name and titles
       (e.g. on a coffin), are noted as descriptive information between two "#", see <xref
         href="howto_transliteration.dita"/>.</p>

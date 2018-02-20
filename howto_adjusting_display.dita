@@ -12,12 +12,12 @@
         href="Images/icons/extra%20icons/maximize.png" id="image_bns_by2_1v"/>, respectively. When
       you have maximized/minimized one or several tabs of the Workspace (Corpus Navigator, Text
       Editor etc.), their respective icons will appear on the right or left side of the program
-      window (see image below). For explanations of the icons see <xref href="ui_window.dita"/>. To
-      restore minimized tabs, click on the <image href="Images/icons/extra%20icons/restore.png"
-        id="image_eyc_dff_1v"/> icon; clicking on "Open Text Editor" etc. in "Window" in the Menu
-      bar is another way of restoring these tabs. Clicking on the tab's icons while the tab is
-      minimized will open a small window for that tab, which can then be closed by clicking on the
-      icon again. </p>
+      window (see image below). For explanations of the icons see chapter <xref
+        href="ui_window.dita"/>. To restore minimized tabs, click on the <image
+        href="Images/icons/extra%20icons/restore.png" id="image_eyc_dff_1v"/> icon.  Clicking on the
+      entry "Open Text Editor" etc. in the "Window" drop-down in the Menu bar is another way of
+      restoring these tabs. Clicking on the tab's icons while the tab is minimized will open a small
+      window for that tab, which can then be closed by clicking on the icon again. </p>
     <p>This example shows the maximized Text Editor; other tabs are minimized and their icons
       displayed on the right and left (marked by a red rectangle). </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Quick%20view.png"
@@ -29,18 +29,17 @@
       all closed tabs.</p>
     <p><b>Moving tabs</b></p>
     <p>If you do not like the default arrangement of the BTS tabs, most of them can be moved (some
-      have to stay together, like all the sub-tabs of the Text Editor [Transliteration, Sign Text
-      Editor, and JSesh View], all the sub-tabs of the Passport Editor, and the sub-tabs of the
-      Corpus Navigator [Text Corpora and Bin]). You can grab a tab and pull it to a different
-      location within the Workspace. Below is an example of rearranged sections; Annotations have
-      been moved next to the Corpus Navigator, Translation is placed below it, and Text Editor is no
-      longer central. </p>
+      have to stay together, like the sub-tabs of the Text Editor [Transliteration, Sign Text
+      Editor, and JSesh View], the sub-tabs of the Passport Editor and the sub-tabs of the Corpus
+      Navigator [Text Corpora and Bin]). You can grab a tab and pull it to a different location
+      within the Workspace. Below is an example of rearranged sections; Annotations have been moved
+      next to the Corpus Navigator, Translation is placed below it, and Text Editor is no longer in
+      the center. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Workspace_rearranged.png"
         id="image_xxg_pgf_1v"/></p>
-    <p>It is also possible to pull an entire tab completely out of the program window. See
-      screenshot below for an example. Tabs that have been removed from the program and now have
-      individual windows cannot be put back into the main program window; to do this you have to
-      restart BTS.</p>
+    <p>It is also possible to pull a tab entirely out of the program window (see the screenshot
+      below). Tabs that have been removed from the program and now have individual windows cannot be
+      put back into the main program window; to do this you have to restart BTS.</p>
     <p>NOTE: When you remove the last window from the program window, all windows will disappear. You
       need to restart BTS to restore the display.</p>
     <p/>

@@ -12,8 +12,7 @@
           different database object.</li>
         <li>Save manually by clicking the buttons <image
             href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/> or <image
-            href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r"/> in the toolbar. See
-            <xref href="ui_toolbar_e3.dita"/> for more information.<p>
+            href="Images/icons/full/icon16/save.png" id="image_vgj_tmr_4r"/> in the toolbar:<p>
             <ul id="ul_vxg_zdw_kx">
               <li><image href="Images/icons/full/icon16/save-all.png" id="image_glm_zdw_kx"/> saves
                 the changes in the currently selected window or tab.</li>
@@ -28,7 +27,7 @@
     <p/>
     <p>NOTE: We recommend saving your work at regular intervals. If your operation system or BTS
       software glitches, you may lose your data. </p>
-    <p>NOTE: Saving might take quite a while and you might not be able to work during this time or a
+    <p>NOTE: Saving might take a while and you might not be able to work during this time or a
       message "BTS is not responding" can pop up. This does not necessarily mean that the software
       has crashed.</p>
     <p>NOTE: Newly created database objects will be automatically saved, but changing any of its

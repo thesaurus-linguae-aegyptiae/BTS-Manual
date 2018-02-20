@@ -5,8 +5,8 @@
  <conbody>
         <p>The Thesaurus View can be activated by clicking on the <image
                 href="Images/icons/full/icon16/thss.png" id="image_sfb_34b_qr"/> "Thesaurus" icon in
-            the <xref href="ui_toolbar_e3.dita">Toolbar</xref>. A thesaurus contains a set
-            vocabulary, which is used for the metadata of the database objects, such as date,
+            the <xref href="ui_toolbar_e3.dita">Toolbar</xref>. A thesaurus contains "controlled
+            vocabulary", which is used for the metadata of the database objects, such as date,
             location, provenance, etc. All terms of a thesaurus reflect a semantic network of
             concepts including relationships between synonyms, broader and narrower (parent/child)
             contexts, and other related concepts. Thesaurus entries are offered in the Passport

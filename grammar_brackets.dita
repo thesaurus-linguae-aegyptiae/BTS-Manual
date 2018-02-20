@@ -4,7 +4,7 @@
  <title>Brackets</title>
  <conbody>
   <p>Only consonants of words or full words that are lost or partially damaged are to be put into
-   the brackets (“[ ]”/“⸢ ⸣“),  and only if those signs are an intrinsic part of the writing. This
+   the brackets (“[ ]”/“⸢ ⸣“), and only if those signs are an intrinsic part of the writing. This
    means that the consonants which act as complements of fully existing ideograms should not be
    surrounded by brackets. If a word is partially destroyed but is still fully readable (e.g. if a
    determinative or a complement is lost, but the word is clearly written) then there is no need for
@@ -76,8 +76,8 @@
     </tgroup>
    </table>
   </p>
-  <p>NOTE: For 〈...〉 use the font BBAWLibertine, do not use &lt;...> from your normal keyboard as
-   these will not be valid.</p>
+  <p>NOTE: For square brackets ...〉 use the font BBAWLibertine, do not use the standard &lt;...>
+   available in any other font as these will not be valid.</p>
   <p>NOTE: ((...)) is not to be used for glosses, please use the Gloss function.</p>
   <p/>
   <p><b>General rules for using brackets</b></p>
@@ -85,14 +85,14 @@
    <ul id="ul_jr1_fmy_2x">
     <li>Brackets must always come in pairs. You have to close each bracket which you have opened.
      Usually the system will do this automatically, but for 〈...〉 and 〈〈...〉〉 it does not work.
-     Pressing "CTRL+Spacebar" will show the characters which are allowed in the position of the
+     Pressing "CTRL+Space bar" will show the characters which are allowed in the position of the
      cursor. For recurring elements, you can define a template in the <xref
       href="ui_preferences2.dita#concept_trz_tw2_yr">Preferences</xref>.</li>
    </ul>
   </p>
   <ul id="ul_omg_fmy_2x">
    <li>
-    <p>Brackets have to be surround each token (word), e.g. <i>[jw] [nfr]</i> (not: <i>[jw
+    <p>Brackets have to surround each token (word), e.g. <i>[jw] [nfr]</i> (not: <i>[jw
      nfr]</i>).</p>
    </li>
    <li>Brackets can be combined as long as the bracket opened last is the next one to be closed,

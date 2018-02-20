@@ -3,10 +3,9 @@
 <concept id="concept_cpy_xss_mr">
   <title>Passport Editor</title>
   <conbody>
-    <p>The Passport Editor is located in the bottom middle of the Text Corpus View. It contains the
-      metadata of the selected database object. It is divided into different subsections which are
-      organized in tabs. These categories vary depending on the type of the database object, i.e.
-      TCObjects have different tabs compared to Texts. </p>
+    <p>The Passport Editor is located in the bottom center of the Text Corpus View. It contains the
+      metadata of the selected database objectand is organized in tabs. The tabs vary depending on
+      the type of the database object, i.e. TCObjects have different tabs compared to Texts. </p>
     <p>If you are working on a child-element and want it to have the same metadata as the
       parent-element, click <image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr"
       /> "Inherit Passport Data" in the top right corner of the Passport Editor. Note that the
@@ -17,9 +16,7 @@
       to overwrite the already existing metadata of the child-element with the metadata of the
       parent-element.</p>
     <p>NOTE: Both inheritance procedures apply to all tabs at once, not just the active one. </p>
-    <p>NOTE: Make sure that all entered metadata is correct, otherwise you might inherit errors in
-      the child-elements.</p>
-    <p>NOTE: The inheritance functions cannot be undone.</p>
+    <p>NOTE: The inheritance function cannot be undone.</p>
     <p/>
     <p><image
         href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Passport_Editor.png"

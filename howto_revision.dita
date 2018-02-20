@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ijb_wr4_kx">
-  <title>Revision History/Conflict Dialogue</title>
+  <title>Revision History / Conflict Dialogue</title>
   <body>
     <p><b>Revision History</b></p>
-    <p>By right-clicking on a database object or by clicking Edit/Open Revision History <image
+    <p>By right-clicking on a database object or by clicking Edit / Open Revision History <image
         href="Images/icons/full/icon16/history.png" id="image_cck_fs4_kx"/> in the Menu bar, you can
       open the revision history of the selected database object in order to compare different
       versions and to restore a previous version.</p>
@@ -23,13 +23,13 @@
     <p>If two users work simultaneously on one database object, it is possible that they each
       produce different versions of the same database object at the same time. This is indicated by
       the icon <image href="Images/icons/full/ovr16/conflicts-small.png" id="image_av1_g24_kx"/> in
-      the Navigator tree. The conflict dialogue solves the problem of which version is the preferred
-      one.</p>
-    <p>NOTE: the addition of a padlock symbol to a database object's icon in the Navigator Tree
-      shows which texts other users are currently working on, please try not to work on texts which
-      are already in use.</p>
-    <p>The window is divided into two parts (as for the Revision History): the left side displays
-      the current version; the right side shows the conflicting versions.</p>
+      the Navigator tree. The conflict dialogue solves the problem by letting you choose the
+      preferred version.</p>
+    <p>NOTE: a padlock symbol on a database object's icon in the Navigator Tree shows which texts
+      other users are currently working on; please try not to work on texts which are already in
+      use.</p>
+    <p>The window is divided into two parts: the left side displays the current version; the right
+      side shows the conflicting versions.</p>
     <p>In the lower part there are the usual tabs, e.g. Passport Editor and Egyptian Text Editor,
       for a database object. Select a conflicting version by left-clicking to compare it to the
       current version. You can navigate between the tabs to see the changes made in the respective

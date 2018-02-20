@@ -7,7 +7,7 @@
             the Text Editor. This window will remain deactivated (greyed out) during
             transliteration, and until you press the button <image
                 href="Images/icons/full/icon16/lemma-load.png" id="image_ynz_vnc_xt"/> "Load Text
-            Lemmata" or you have switched between the Text Editor and the Sign Text Editor tabs.</p>
+            Lemmata" or you switch between the Text Editor and the Sign Text Editor tabs.</p>
   <p>Make sure you have selected the right language in the drop-down menu on the right (<image
                 href="Images/icons/full/icon16/locale.png" id="image_krw_wmv_nr"/>): German (de),
             English (en), French (fr), Spanish (es), Italian (it), Arabic (ar), or Russian (ru). The
@@ -24,13 +24,13 @@
             "Transliteration" subsection. You will have to enter the translation sentence by
             sentence. </p>
         <p>Within an ancient Egyptian grammatical sentence, it is possible to segment the modern
-            translation by using the ENTER key. Enter only one translation for each sentence; the
-            choice of language is not intended for multilingual translations of a single text.</p>
-        <p>We recommend entering a readable and understandable translation in the modern language,
-            while still maintaining the meaning of the ancient text.</p>
-        <p>NOTE: As the translation is entered sentence-by-sentence, changing the boundaries of a
-            sentence after translating can result in the loss of that translation; please make sure
-            before you start translating that you are happy with your text's segementation.</p>
+            translation by using the ENTER key. Enter only one translation variant for each
+            sentence; the choice of language is not intended for different translation variants of a
+            single text.</p>
+        <p>NOTE: As the translation is entered sentence-by-sentence, changing the sentence
+            boundaries in "Transliteration" tab can result in the loss of that translation; please
+            make sure before you start translating that you are happy with the text's
+            segmentation.</p>
         <p><b>Using transliteration signs in the translation</b></p>
         <p>You can use transliteration signs in your translation. This might be necessary if there
             are only traces of a word preserved or if there is no translation available, e.g.

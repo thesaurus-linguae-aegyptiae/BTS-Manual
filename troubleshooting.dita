@@ -28,8 +28,9 @@
       </ul>
       <ul id="ul_cw1_r2c_lx">
         <li><b>Text Corpus Object/Text is not visible</b><p>Problem: A TCObject or a text you have
-            previously created or edited is not visible. </p><p>Solution: This can happen when the
-            corpus is not indexed properly. Re-index the respective corpus.</p></li>
+            previously created or edited is not visible. </p><p>Solution: Right mouse-click on the
+            object and select "Refresh selected node". Alternatively, objects may not be displayed
+            if the corpus is not indexed properly. Re-index the respective corpus.</p></li>
       </ul>
       <ul id="ul_s1c_r2c_lx">
         <li><b>Annotation is not visible</b><p>Problem: An annotation you have just added is not
@@ -56,7 +57,7 @@
       <ul id="ul_rrf_ryq_sx">
         <li><b>The lemmatizer does not offer any options</b><p>Problem: The lemmatizer remains blank
             and does not offer any options for the token.</p><p>Solution 1: Make sure that the
-            lemmatizer is activate (i.e. the Activate button is blue in colour).</p><p>Solution 2:
+            lemmatizer is active (i.e. the "Activate" button is blue in colour).</p><p>Solution 2:
             The word list may not have been indexed properly. Re-index the word list.</p></li>
       </ul>
       <ul id="ul_vng_bvq_sx">

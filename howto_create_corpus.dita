@@ -10,12 +10,12 @@
     <p>
       <ol id="ol_ikk_dsy_qt">
         <li>Click on the <image href="Images/icons/full/icon16/corpus-add.png" id="image_rbk_ssv_ps"
-          /> "New Corpus" icon located above the <xref href="ui_corpusnavigator_e9.dita">Corpus
+          /> "New Corpus" icon located next the <xref href="ui_corpusnavigator_e9.dita">Corpus
             Navigator</xref>. Alternatively, right-click on any corpus and select "Create New Text
           Corpus".</li>
         <li>Choose a name and a prefix (the latter is a short name under which the corpus will be
-          saved in the database). <p>NOTE: No special signs, spaces, or capital letters are allowed
-            in the prefix.</p></li>
+          saved in the database). <p>NOTE: No special characters, spaces, or capital letters are
+            allowed in the prefix.</p></li>
         <li>Select the check box if you want to "Synchronize corpus with central database", this
           will allow other users to see your new corpus. Otherwise, it will remain in offline mode
           on your PC. After you have finished, click "OK"; if you want to cancel the creation, press

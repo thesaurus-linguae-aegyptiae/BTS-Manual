@@ -7,13 +7,12 @@
       e.g. line count, ambiguities, plural- and dual-endings etc. You can use this function to speed
       up the input of transliteration.</p>
     <p>Access the already-existing templates through the Content Assist (right-click in the Text
-      Editor Transliteration field or press CTRL + Spacebar and choose it from the menu). The
-      already-existing templates are essentially what you can find on the keyboard layout and type
-      manually. Depending on the position of your cursor (i.e. is it within a sentence/word or
-      outside a sentence marked by §§) you will get a different set of templates to choose from.
-      This is helpful if you are ever unsure about what can be inserted in a given position in the
-      transliteration. In the example below, the position is in line 3, where no §§ have been added
-      yet, hence the Content Assist gives you only one option: to enter §. </p>
+      Editor Transliteration field or press CTRL + Spacebar and choose it from the menu). Depending
+      on the position of your cursor (i.e. is it within a sentence/word or outside a sentence marked
+      by §§) you will get a different set of templates to choose from. This is helpful if you are
+      ever unsure about what can be inserted in a given position in the transliteration. In the
+      example below, the position is in line 3, where no §§ have been added yet, hence the Content
+      Assist gives you only one option: to enter §. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template1.png" id="image_icd_3q2_1v"
       /></p>
     <p/>
@@ -26,16 +25,15 @@
       items (e.g. plural and dual endings). All other contexts should not be used.</p>
     <p>You can add a short description to your template to explain what it does; this is not
       mandatory. The template's name and description will be displayed in the Content Assist. In the
-      field "Pattern" enter the text which will be entered into the transliteration. The button
+      field "Pattern" enter the pattern which will be entered into the transliteration. The button
       "Insert Variable..." allows you to choose from some pre-set patterns which you can use for
-      your template, e.g. brackets etc. The example below demonstrates how a template works: </p>
+      your template, e.g. brackets etc. The screen-shot below demonstrates a template for
+      line-count: </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template2.png" id="image_gjh_wq2_1v"
       /></p>
-    <p>When you are finished, click OK and the template will appear in the list and is ready to be
-      used (you can edit or remove it at a later date if you want to). Right-click within the §§
-      signs and open the Content Assist (CTRL + Spacebar). Scroll to the bottom where the new
-      template is located (using either the mouse or the arrow keys). Clicking on it once will
-      display the pattern which will be inserted to the text; double-clicking (or ENTER) will add
+    <p>When you are finished, click OK. The template is ready to be used and will appear at the
+      bottom of the Content Assist list (right mouse-click or CTRL + Spacebar).  Clicking on it once
+      will display the pattern which will be inserted to the text; double-click (or ENTER) will add
       the template to the transliteration. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Template3.png" id="image_ntn_hr2_1v"
       /></p>

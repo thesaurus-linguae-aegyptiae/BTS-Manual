@@ -5,7 +5,7 @@
  <conbody>
   <p>The Relations tab gives information on the relationships between the database objects. The
    default setting is the relationship between the selected database object and its parent database
-   object/corpus ("Part of"). BTS supports polyhierarchies, meaning that database objects can have
+   object/corpus ("Part of"). BTS supports poly-hierarchies, meaning that database objects can have
    more than one parent-element; this allows different viewing rights for the same database
    object.</p>
   <p><b>Relation</b></p>
@@ -43,17 +43,15 @@
    object.</p>
   <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
    <b>Add Relation:</b> Click it to add more relationships for your database object. BTS allows
-   polyhierarchy; one item can have more than one parent-element. Related items do not have to
+   poly-hierarchy; one item can have more than one parent-element. Related items do not have to
    belong to the same corpus.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_ogn_dyj_qr"/>
    <b>Remove Widget:</b> This removes a relationship from your database object.</p>
   <p>NOTE: If the last relation is removed, the database object will remain in the database as an
    "Orphan" and is still accessible via the Search Dialogue.</p>
   <p>NOTE: If a database object has more than one relation, it is displayed in each respective
-   position in the Navigator Tree (along with all of its child-elements). This does not mean that
-   the database object has been duplicated as the physical save location of a database object is
-   separate from its relationships. To delete one of these relationships, use the "Remove Widget"
-   button in the Relation tab. Do not delete the database object itself, unless you want to
-   permanently remove it from display in the Navigator Tree.</p>
+   position in the Navigator Tree (along with all of its child-elements). To delete one of these
+   relationships, use the "Remove Widget" button in the Relation tab. Do not delete the database
+   object itself, unless you want to permanently remove it from display in the Navigator Tree.</p>
  </conbody>
 </concept>

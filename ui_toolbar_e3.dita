@@ -9,10 +9,10 @@
     <p><image href="Images/icons/full/obj16/add.png" id="image_izv_hlr_4r"/>
       <b>New</b>
     </p>
-    <p>Click the black triangle to the right of the plus sign to open the context menu.</p>
-    <p>Here you can choose between creating a new corpus, a text corpus object, a text, or an
-      annotation. If you do not select a corpus in the Navigator window beforehand, the options in
-      this context menu will be disabled. </p>
+    <p>Clicking on the black triangle next to the "plus" sign opens the context menu. Here you can
+      choose between creating a new corpus, a text corpus object, a text, or an annotation. If you
+      do not select a corpus in the Navigator window beforehand, the options in this context menu
+      will be disabled. </p>
     <p><image href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/>
       <b>Save</b>
     </p>
@@ -38,11 +38,11 @@
     <p><image href="Images/icons/full/icon16/preferences.png" id="image_rkn_4nr_4r"/>
       <b>Preferences</b>
     </p>
-    <p>This option is available in two places on the Toolbar (left and right) and leads to
-      Preferences (see <xref href="ui_preferences.dita"/>). </p>
-    <p>Next to the cup <image href="Images/icons/full/icon16/user.png" id="image_chv_5nr_4r"/> icon
-      is the name of the current user. Next to pencil <image
-        href="Images/icons/full/icon16/edit.png" id="image_cbs_ynr_4r"/> and key <image
+    <p>This option is available twice on the Toolbar (on the left and on the right side) and leads
+      to Preferences (see <xref href="ui_preferences.dita"/>). </p>
+    <p>Next to the "cup" <image href="Images/icons/full/icon16/user.png" id="image_chv_5nr_4r"/>
+      icon is the name of the current user. Next to "pencil" <image
+        href="Images/icons/full/icon16/edit.png" id="image_cbs_ynr_4r"/> and "key" <image
         href="Images/icons/full/icon16/userrole.png" id="image_g5n_14r_4r"/> icons is this user's
       role in the selected corpus/database object; the default role is "Guest" until you select a
       corpus/database object. </p>
@@ -62,14 +62,14 @@
         id="image_wvw_mkp_5t"/>
       <i>Abstract Text</i> Views by clicking on their respective icons located on the righthand side
       of the Toolbar.</p>
-    <p>NOTE: The Abstract Text view is  currently unavailable. In the future it will compile the
-      different witnesses of a single text (e.g. Sinuhe) by e.g. displaying the concordance of
-      paragraphs. The metadata concerning the "abstract text" can be entered in this View, e.g. the
-      bibliographical references for each witness. </p>
-    <p>To the right of the <image href="Images/icons/full/icon16/corpus.png" id="image_vrb_v4r_4r"/>
-      icon you can see your main working corpus. When you start BTS "No Corpus" is displayed. To set
-      your main working corpus, click on the <image href="Images/icons/full/icon16/preferences.png"
-        id="image_tsm_5q1_sr"/> Preferences icon and go to <xref href="ui_berlintextsystem.dita"
-        >Corpus Settings</xref>.</p>
+    <p>NOTE: The Abstract Text view is currently unavailable. In the future it will compile the
+      different witnesses of a single text (e.g. Sinuhe) by displaying the concordances. The
+      metadata concerning the "abstract text" can be entered in this View, e.g. the bibliographical
+      references for each witness. </p>
+    <p>To the right of the "drawer" <image href="Images/icons/full/icon16/corpus.png"
+        id="image_vrb_v4r_4r"/> icon you can see your main working corpus. When you start BTS "No
+      Corpus" is displayed. To set your main working corpus, click on the <image
+        href="Images/icons/full/icon16/preferences.png" id="image_tsm_5q1_sr"/> Preferences icon and
+      go to <xref href="ui_berlintextsystem.dita">Corpus Settings</xref>.</p>
   </body>
 </topic>

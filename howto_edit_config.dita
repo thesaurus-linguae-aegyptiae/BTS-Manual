@@ -4,7 +4,7 @@
   <title>Editing the configuration</title>
   <body>
     <p>This function is available to users with administrator rights only.</p>
-    <p>To open the configuration window, select "Preferences"/"Edit Configuration" from the Menu
+    <p>To open the configuration window, select "Preferences" / "Edit Configuration" from the Menu
       bar. </p>
     <p>The "Currently Active Configuration" is by default "Altägyptisches Wörterbuch (AAEW)", but if
       other configurations are available, they will appear in the drop-down menu above.</p>

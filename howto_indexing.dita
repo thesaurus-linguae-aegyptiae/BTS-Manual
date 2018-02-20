@@ -3,7 +3,7 @@
 <topic id="topic_p43_tmp_kx">
   <title>Indexing the database</title>
   <body>
-    <p>To index or re-index the database open the "Database Manager" by clicking Preferences/Open
+    <p>To index or re-index the database open the "Database Manager" by clicking Preferences / Open
       Database Manager in the Menu bar. The "Database Manager" window will open automatically each
       time you start BTS, if there are any errors in the index. </p>
     <p>The "Database manager" window displays all available database collections in a list. The
@@ -13,13 +13,13 @@
       done in the database itself (which would take time) but in the document indexes. The status of
       a corpus' indexing process is indicated by the background colour of its line in the "Database
       Manager". Each line can have one of three background colours. Green means that everything is
-      indexed properly. Yellow and red indicate that a problem has occured in this corpus;
+      indexed properly. Yellow and red indicate that a problem has occurred in this corpus;
       additionally, the status of the corpus will be displayed in the "Status" column (OK- green,
       ERROR- red or INDEXING...- yellow). The column "Index Doc Count" shows the number of the
       already indexed documents in this corpus, and the "% indexed" column shows the percentage of
       the indexing process.</p>
     <p><b>Re-Indexing</b></p>
-    <p>BTS indexes the databases itself automatically when it receives new data from the server, but
+    <p>BTS indexes the databases automatically when it receives new data from the server, but
       sometimes this process produces errors and requires manual re-indexing, causing the "Database
       Manager" to open.</p>
     <p>Databases that are not indexed successfully are marked either in yellow or red. If indexing

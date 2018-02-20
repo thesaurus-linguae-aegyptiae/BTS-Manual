@@ -4,21 +4,20 @@
   <title>Editor</title>
   <body>
     <p>Editors may review and correct database objects owned by other users even if no specific
-      rights for the database object were granted to them, allowing them to review and edit the
-      data.</p>
+      rights for the database object (i.e. user statuses) were granted to them. This applies to
+      database objects with visibility types "public" (default), "project", or "all authenticated".
+      In other instances (with visibility types "reader" and "group"), editors have access to the
+      given database objects if they have been assigned the Updater or Reader status.</p>
     <p><b>Rights</b></p>
     <p>
       <ul id="ul_v25_l4v_bt">
-        <li>Can edit all items in a database, i.e. a corpus, a lemma list, or the thesaurus
+        <li>Can edit all items in a database, i.e. the text corpus, the lemma list, or the thesaurus
           database, where they have been assigned editor rights.</li>
         <li>Can add or remove database objects within a corpus.</li>
         <li>Can assign the Updater or Reader status to other users, but only for individual database
           objects.</li>
-        <li>Can technically change their own status as a Reader or an Updater. This is irrelevant
-          however, because the user role "Editor" takes precedence (as in the case of the
-            Admin).<p>NOTE: These rights apply only for database objects with visibility "project",
-            "public", or "all authenticated". In all other instances, the editor has only access to
-            the database objects if they have been assigned the Updater or Reader status.</p></li>
+        <li>Can change their own status as a Reader or an Updater. This is irrelevant however,
+          because the user role "Editor" takes precedence (as in the case of the Admin).</li>
       </ul>
     </p>
     <p><b>Limitations</b></p>
@@ -26,7 +25,7 @@
       <ul id="ul_lwp_n4v_bt">
         <li>In cases where the corpus was created by someone else, editors can modify individual
           database objects, but are attributed a guest role for the corpus itself (i.e. they cannot
-          edit the corpus passport data, or assign Updaters/Readers for an entire corpus). </li>
+          edit the corpus passport data, or assign Updaters / Readers for an entire corpus). </li>
         <li>The editor cannot create new corpora within a project.</li>
       </ul>
     </p>

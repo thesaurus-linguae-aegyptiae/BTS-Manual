@@ -6,11 +6,10 @@
     <p>This tab allows you to enter external IDs of your lemma to create links to other external
       projects and databases. By default a <image href="Images/icons/full/obj16/add.png"
         id="image_hjw_n3w_zs"/> button will be displayed. Click it to add an external ID. </p>
-    <p>NOTE: Lemmata transferred from the project "Altägyptisches Wörterbuch" display here the ID
-      from the project "Altägyptisches Wörterbuch" in the field External ID. In this case, the field
-      type has the value aaew_wcn. For hieroglpyphic and hieratic lemma, this will be the same as
-      their BTS ID; for demotic lemma, this will be their ID from the TLA (i.e. without the addition
-      of "d" and "m").</p>
+    <p>NOTE: Lemmata imported  from the project "Altägyptisches Wörterbuch" display the WCN ("word
+      corpus number") as the "External ID". In this case, the field type has the value aaew_wcn. For
+      hieroglyphic and hieratic lemma, this will be the same as their BTS ID; for demotic lemma,
+      this will be their ID from the TLA (i.e. without the addition of "d" and "m").</p>
     <p>
       <ul id="ul_w2b_jnf_cv">
         <li><b>Provider:</b> Select the provider (the external project) from the drop-down

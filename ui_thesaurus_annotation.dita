@@ -3,12 +3,12 @@
 <concept id="concept_pvg_kqd_4r">
  <title>Annotations</title>
  <conbody>
-  <p>The Annotation and Text Translation window is located on the righthand side of the default BTS
-   User Interface.</p>
+  <p>The Annotation and Text Translation window is located on the right-hand side of the default BTS
+   Thesaurus View.</p>
   <p>For each thesaurus entry you can enter an "Annotation" <image
     href="Images/icons/full/icon16/annotation.png" id="image_p3k_pz3_sr"/> and a "Comment" <image
     href="Images/icons/full/icon16/comment.png" id="image_qrx_zz3_sr"/>. The relevant buttons are
-   located in the toolbar of the Thesaurus Navigator (on the lefthand side of the Workspace). Each
+   located in the toolbar of the Thesaurus Navigator (on the left-hand side of the Workspace). Each
    annotation or comment offers the following additional functions:</p>
   <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
    <b>Add Current Text Selection as Reference</b>: The selected part is referenced to the current
@@ -25,7 +25,7 @@
   <p>By clicking the "Edit Comment" button, a "Comment Editor" window will appear. You can enter or
    edit the title of your comment in the upper field and the content of your comment in the lower
    field. Below there is also a section where you can see and edit the relationship of the comment
-   with the theasuraus entry.</p>
+   with the thesaurus entry.</p>
   <p><image href="Images/icons/full/obj16/delete.png" id="image_m3d_ry4_sr"/>
    <b>Delete</b>: Will delete the selected annotation or comment.</p>
   <p>To learn more about annotations see <xref href="howto_annotations.dita"/>.</p>

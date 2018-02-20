@@ -10,26 +10,26 @@
       Status bar is called the <b>Workspace</b>. </p>
     <p>
       <ul id="ul_esg_5qc_lx">
-        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allows you to file and edit new
-          projects, to get access to different windows and to the preferences.</li>
+        <li>The <xref href="ui_menubar.dita">Menu bar</xref> allows you to create and edit projects,
+          provides access to configuration windows and system preferences.</li>
       </ul>
     </p>
     <p>
       <ul id="ul_eys_5qc_lx">
-        <li>The <xref href="ui_toolbar_e3.dita">Toolbar</xref> offers quick access via icons to all
-          functions, such as opening a context menu, saving and undoing work, displaying the name of
-          the current project, and, via the right margin, opening one of the four different views to
-          work in.</li>
+        <li>The <xref href="ui_toolbar_e3.dita">Toolbar</xref> offers quick access to all functions
+          via icons, including the selection of the four different views to work in. It also
+          displays the project title, as well as the username with its role. </li>
       </ul>
       <ul id="ul_tyk_vqc_lx">
         <li>The <xref href="ui_workspace.dita">Workspace</xref> is the part of the BTS UI where all
-          database records are entered and processed. The workspace contains different views
-          according to what you want to do, i.e. whether you wish to edit texts (Text Corpus View),
-          edit the lemma list (Lemma View), work on the thesauri (Thesaurus View), or create
-          abstract texts (Abstract Text View); these Views can be accessed via the Toolbar. The
-          workspace of each view is subdivided into four windows: the Navigator window
-          (left/yellow), the Editor window (middle above/blue), the Passport Editor window (middle
-          below/green), and the Annotation window (right/red).</li>
+          database records are entered and processed. The workspace has different views according to
+          the type of editor's activity, either editing texts (Text Corpus View), editing the lemma
+          list (Lemma View), working on the thesauri (Thesaurus View) or creating abstract texts
+          (Abstract Text View); the Views can be accessed via the Toolbar. The workspace of each
+          view is subdivided into four windows, marked with colors on the schema below: the
+          Navigator window on the left (yellow), the Editor window in the top center (blue), the
+          Passport Editor window in the bottom center (green) and the Annotation window on the right
+          (red).</li>
       </ul>
     </p>
     <p>

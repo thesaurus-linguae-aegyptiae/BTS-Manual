@@ -11,8 +11,8 @@
       <ul id="ul_v25_l4v_bt">
         <li>Can add database objects within a corpus.</li>
         <li>Can edit database objects for which they were given the Updater status.</li>
-        <li>Can assign the Reader/Updater status for other users, but only if they themself have the
-          Updater status.</li>
+        <li>Can assign the Reader / Updater status for other users, but only if they have the
+          Updater status themselves.</li>
         <li>Can change their own status from an Updater to a Reader for a database object and thus
           lose their editing rights, meaning they will not be able to change back to Updater.</li>
       </ul>
@@ -20,11 +20,11 @@
     <p><b>Limitations</b></p>
     <p>
       <ul id="ul_lwp_n4v_bt">
-        <li>Cannot edit the database objects of other users within a corpus when they are a Reader
-          or no status is assigned to them.</li>
+        <li>Cannot edit the database objects of other users within a corpus when they have a Reader
+          or no status.</li>
         <li>If a database object within a corpus has a visibility status <i>Reader</i>,
-          <i>Group</i>, or <i>Project</i>, the Researcher will not be able to see it unless they
-          have the Updater/Reader user status.</li>
+          <i>Group</i>, or <i>Project</i>, the Researcher will not be able to see it unless (s)he
+          has the Updater/Reader user status.</li>
       </ul>
     </p>
   </body>

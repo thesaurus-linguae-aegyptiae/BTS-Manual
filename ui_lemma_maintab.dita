@@ -20,7 +20,7 @@
         <li><b>SortKey:</b> By default all lemmata on the same level have "0" as a sort key and are
           thus sorted alphabetically. Defining a "SortKey" in the Passport data of the database
           object will change its position in relation to other database objects, with "0" at the
-            top.<p>NOTE: If your database object is in a polyhierarchical position, changes in the
+            top.<p>NOTE: If your database object is in a poly-hierarchical relations, changes in the
             sortkey apply to all of its relationships.</p></li>
       </ul>
     </p>
@@ -35,18 +35,19 @@
     </p>
     <p>
       <ul id="ul_sjn_2lf_cv">
-        <li><b>Author:</b> Displays the author (i.e. creator) of the lemma; this assigned
+        <li><b>Author:</b> Displays the author (i.e. creator) of the lemma; the value is assigned
           automatically. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_kyw_flf_cv">
-        <li><b>Date:</b> Display the date of creation of the lemma; this assigned automatically. </li>
+        <li><b>Date:</b> Displays the date the lemma entry was created; the value is assigned
+          automatically. </li>
       </ul>
     </p>
     <p>
       <ul id="ul_v5l_jlf_cv">
-        <li><b>Visibility:</b> Define who can see the lemma (public, project, group, reader,
+        <li><b>Visibility:</b> Defines who can see the lemma (public, project, group, reader,
           all_authenticated). See also <xref href="user_roles.dita"/>.</li>
       </ul>
     </p>
@@ -56,7 +57,7 @@
           four options: published (lemma is certain and confirmed), published-awaiting-review (lemma
           is not yet confirmed), published-obsolete (is obsolete and will be displayed in
           publication), and obsolete (obsolete and will not be displayed in publication).<p>NOTE:
-            Obsolete lemmata are viewable in the Lemma Navigator but are not available during
+            Obsolete lemmata are displayed in the Lemma Navigator but are not available during
             lemmatization.</p></li>
       </ul>
     </p>

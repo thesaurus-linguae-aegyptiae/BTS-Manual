@@ -4,16 +4,16 @@
  <title>Introduction</title>
  <conbody>
   <p>Welcome to Berlin Text System V 3.0 - a new Java software with a Couch DB database and an
-   Elastic search engine, designed for editing and annotating Ancient Egyptian texts. Entering texts
-   into the <b>Text Editor</b> allows the texts to be annotated in different layers; one of the main
-   functions of the system is the lexical and grammatical annotation of words in texts. Using an
-   integrated lemmatizer, all words are connected to the appropriate entries in the <b>Lemma
-    List</b>, which is constantly updated and contains all known words of the Ancient Egyptian
-   vocabulary. Furthermore, all texts (here called 'database objects') can be enriched with
-   metadata, such as provenance, materiality, and date, which can be selected from a controlled
-   vocabulary of <b>Thesauri</b>. Additionally, in the <b>Abstract Text</b> function the different
-   textual witnesses of a text can be combined in one view, showing the text's development over
-   time.</p>
+      Elastic search engine, designed for editing and annotating Ancient Egyptian texts. Entering
+      texts into the <b>Text Editor</b> allows the texts to be annotated in different layers; one of
+      the main functions of the system is the lexical and grammatical annotation of words in texts.
+      Using an integrated lemmatizer, all words are connected to the appropriate entries in the
+        <b>Lemma List</b>, which is constantly updated and contains all known words of the Ancient
+      Egyptian vocabulary. Furthermore, all texts (here called 'database objects') can be enriched
+      with metadata, such as provenance, materiality, and date, which can be selected from a
+      controlled vocaBTS troubleshooting chapterbulary of <b>Thesauri</b>. Additionally, in the
+        <b>Abstract Text</b> function, the different textual witnesses of a text can be combined in
+      one view, showing the text's development over time.</p>
   <p>The four major components - Text Editor, Lemma List, Thesaurus, and Abstract Text are briefly
    described below:</p>
   <p>
@@ -72,8 +72,8 @@
      transliteration in BTS.</li>
    </ul>
    <ul id="ul_i1f_zcc_lx">
-    <li>The <b>BTS troubleshooting</b> chapter offers solutions for common questions. and
-     problems.</li>
+    <li>The <b>BTS troubleshooting</b> chapter offers solutions for common questions and
+          problems.</li>
    </ul>
    <ul id="ul_r53_cpd_lx">
     <li>The <b>Glossary</b> gives an overview of the most important terms used in the BTS user
