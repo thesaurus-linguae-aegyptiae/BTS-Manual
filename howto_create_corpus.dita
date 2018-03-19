@@ -3,14 +3,14 @@
 <topic id="topic_umb_xrq_nt">
   <title>Creating a corpus</title>
   <body>
-    <p>The following function is only available to users with global administrator rights. The
+    <p>The following function is only available to users with global Administrator rights. The
       detailed descriptions of the User Interface (UI) elements can be found in section <xref
         href="ui_corpora.dita"/>.</p>
     <p><b>Creating a corpus</b></p>
     <p>
       <ol id="ol_ikk_dsy_qt">
         <li>Click on the <image href="Images/icons/full/icon16/corpus-add.png" id="image_rbk_ssv_ps"
-          /> "New Corpus" icon located next the <xref href="ui_corpusnavigator_e9.dita">Corpus
+          /> "New Corpus" icon located next to the <xref href="ui_corpusnavigator_e9.dita">Corpus
             Navigator</xref>. Alternatively, right-click on any corpus and select "Create New Text
           Corpus".</li>
         <li>Choose a name and a prefix (the latter is a short name under which the corpus will be

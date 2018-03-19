@@ -8,9 +8,9 @@
    important step for enabling subsequent lexical searches in the database, the creation of word
    indexes, and other lexical analyses. </p>
   <p>NOTE: You can only use the lemmatizer if the Sign Text Editor tab is open.</p>
-  <p>NOTE: After selecting the Lemmatizer tab or a text in the Text Corpus Navigator, the name of
-   the lemmatizer will change to that of the selected text. Move your cursor over the tab header to
-   see its original name.</p>
+  <p>NOTE: After selecting the Lemmatizer tab or a text in the Text Corpus / Lemma Navigator, the
+   name of the lemmatizer will change to that of the selected item. Move your cursor over the tab
+   header to see its original name.</p>
   <p/>
   <p><image
     href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Lemmatizer.png"
@@ -50,11 +50,12 @@
    <ul id="ul_tkx_fqx_gx">
     <li><b>Flexion and Translation</b><p>The section <b>Flexion</b> (bottom center) and
        <b>Translation</b> (bottom right) show the default inflection number "3" and translation
-      options for the selected lemma. The inflection number and translation can either be selected
-      from the available ones (lower text box; note this feature is not yet available for
-      inflection) or manually entered (upper text box). Make sure you select the correct language
-      for your translation by using the button <image href="Images/icons/full/icon16/locale.png"
-       id="image_ons_sxf_ms"/> on the right . </p></li>
+      options for the selected lemma. Default inflection number can be set in <xref
+       href="howto_prefs.dita#ul_ylp_vl2_vt">Personal preferences / Lematizer</xref>. The inflection
+      number and translation can either be selected from the available ones (lower text box; note
+      this feature is not yet available for inflection) or manually entered (upper text box). Make
+      sure you select the correct language for your translation by using the button <image
+       href="Images/icons/full/icon16/locale.png" id="image_ons_sxf_ms"/> on the right . </p></li>
    </ul>
   </p>
   <p/>

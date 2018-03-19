@@ -30,6 +30,8 @@
       ((n(,j)⁝⁝)).</p>
     <p/>
     <p>All grammar errors in the transliteration should be corrected before saving or switching to
-      the Sign Text Editor, otherwise you might lose your data.</p>
+      the Sign Text Editor, otherwise you might lose your data. When the file you are trying to save
+      contains errors, BTS will offer you two options “Save with errors” and “Don’t save”. To
+      prevent the data loss we recommend correcting the errors first and then saving the file. </p>
   </body>
 </topic>

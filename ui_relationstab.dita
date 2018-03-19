@@ -39,7 +39,7 @@
    <b>Search Object:</b> Search for the database object you want to establish a relation with. The
    search may take a few seconds before the results are displayed.</p>
   <p><image href="Images/Icons_updated/full/icon16/passport.png" id="image_pkx_gm2_hx"/>
-   <b>Open Object in Passport Editor:</b> Displays the passport data of the related database
+   <b>Open Object in Passport Data Editor:</b> Displays the passport data of the related database
    object.</p>
   <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
    <b>Add Relation:</b> Click it to add more relationships for your database object. BTS allows

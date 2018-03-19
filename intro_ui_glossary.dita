@@ -16,11 +16,11 @@
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Toolbar.png"
                      id="image_flf_4yw_st"/></p></li>
             <li>Icon</li>
-            <li>ToolTip (only activated upon mouseover)<p><image
+            <li>ToolTip (only activated upon mouse-over)<p><image
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Icon.png"
                      id="image_ptv_pyw_st"/></p></li>
             <li>Workspace: the main working field between the Toolbar and Statusbar.</li>
-            <li> View (Workspace modes): the Text Corpus View, the Lemma View (i.e. Lemma list), the
+            <li>View (Workspace modes): the Text Corpus View, the Lemma View (i.e. Lemma list), the
                Thesaurus View (i.e. management of metadata), and the Abstract Text View. These four
                Views differ with respect to their content. The default setting of the Workspace is
                the Text Corpus View for editing and annotating texts. </li>
@@ -33,17 +33,59 @@
                      href="Images/new%20screenshots/BTS%20Screenshots/UI%20Glossary/UI%20Glossary_Node.png"
                      id="image_vgm_5yw_st"/></p><p/><p>The following terms are used throughout the
                   manual and defined here:</p></li>
-            <li>Database object: any record of the database.</li>
-            <li>Text Corpus Object: a record of the corpus database, which is not a text but is main
-               used to refer to a physical artefact. Texts and Text Corpus Objects are in
-               child-parent relationships; TCObjects always contain Texts.</li>
+            <li>Artefact: the physical item which carries your text, e.g. which would be found
+               during excavation; compare to Database object / Object.</li>
+            <li>Database object / Object: used here to refer generically to the records, files, and
+               general items within the database; compare to Artefact.</li>
+            <li>Text Corpus Object (TCObject): a record of the corpus database, which is not a text
+               but is mainly used to refer to a physical artefact. Texts and Text Corpus Objects are
+               in child-parent relationships; TCObjects always contain Texts</li>
             <li>Child-parent relationship: the relation of subordination between two records of the
-               database.</li>
+               database</li>
             <li>Lemma: the canonical (dictionary) form of a word</li>
             <li>Token: the representation of a lemma in the text (i.e. a word)</li>
             <li>Local and remote databases: local databases run on your PC, remote databases are
-               located on the BTS central server in Berlin.</li>
+               located on the BTS central server in Berlin</li>
             <li>WCN: Word Corpus Number, i.e. the ID of the lemma in the TLA</li>
+            <li>Caption: artefacts grouped under one heading for pragmatic reasons (e.g. the stelae
+               from Kawa or the medical papyri), see chapter <xref href="howto_create_corpusobject.dita#ul_c1c_qgp_3x" type="li">Creating a Text Corpus Object</xref>
+               </li>
+            <li>Subtext: an inscription that describes a scene or figure; subtexts are always
+               relational, i.e. they need another database object to describe their position in a
+               wall, papyrus etc. because subtexts do not have a specific order of reading in the
+               original artefact. See chapter <xref href="howto_create_corpusobject.dita#ol_z4r_kty_qt" type="li">Creating a Text</xref> </li>
+            <li>Text: the database object where you enter your text into BTS; Texts have a specific
+               order of reading in the original artefact, which can be shown using their sort keys.
+               See chapter <xref href="howto_create_corpusobject.dita#ol_z4r_kty_qt" type="li"
+                  >Creating a Text</xref></li>
+            <li>Line count: the line separation in the original text. See chapter <xref
+               href="howto_transliteration.dita#ul_ugx_ryw_ns">Sigla for textual structure</xref></li>
+            <li>Paragraph: the modern separation of a text; compare to "Line Count".</li>
+            <li>Findspot: the place where an artefact was found or located in antiquity; compare to
+               "Current Location".</li>
+            <li>Current Location: the place where an artefact is located at this point in time, for
+               artefacts in situ this will be the same as their ‘Findspot’.</li>
+            <li>Index: the database uses indexes of records and files in its searches, rather than
+               searching in each file/record, which would take a long time – this is why it’s so
+               important to make sure your BTS is properly indexed before starting work. See chapter
+                  <xref href="howto_indexing.dita"/>.</li>
+            <li>User Rights: a combination of user roles, user statuses and database objects'
+               visibility statuses, which affect the accessibility of  database objects to the user.
+               See <xref href="UserRoles_sumup.dita"/> for an overview.</li>
+            <li> Review State: the editorial state of the particular database object. See chapter
+               <xref href="howto_create_corpusobject.dita#ul_n52_nhq_3x">Defining the Review State</xref></li>
+            <li>Annotation: any extra-textual information (e.g. chapter sections, or syntactic and
+               stylistic information) you wish to add to your BTS entry; compare to Comment.</li>
+            <li>Comment: any text-editing information (e.g. varying translations of a certain
+               passage) you wish to add to your BTS entry; compare to Annotation.</li>
+            <li>Gloss: any ancient edits of a text.</li>
+            <li>Rubra: marks parts of the text which were written in red ink. For detailed
+               information see chapter <xref href="howto_annotations.dita"/>. </li>
+            <li>Flexicon/Inflection: the specific grammatical form of a word in a certain text; use
+               this to give information about the form of a lemma in a text. See <xref
+                  href="grammar_inflection.dita"/></li>
+            <li>User Interface (UI) /Graphic User Interface (GUI): the windows, views, and buttons
+               you interact with and use when you work in BTS.</li>
          </ul></p>
    </conbody>
 </concept>

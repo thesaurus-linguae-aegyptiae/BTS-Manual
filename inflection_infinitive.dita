@@ -56,7 +56,7 @@
             <row>
               <entry>61070</entry>
               <entry>inf. after aux. <i>tw=</i>/ nom. subject</entry>
-              <entry>Present I</entry>
+              <entry>present I</entry>
             </row>
             <row>
               <entry>61080</entry>
@@ -75,7 +75,7 @@
             </row>
             <row>
               <entry>65000</entry>
-              <entry>inf. after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry>inf. after aux. ꜥ<i>ḥ</i>ꜥ<i>.n</i></entry>
               <entry/>
             </row>
             <row>
@@ -115,12 +115,12 @@
             </row>
             <row>
               <entry>61130</entry>
-              <entry>inf. after neg. <i>bn </i>+ <i>jri̯ </i>+ <i>jwn</i><i>ꜣ</i></entry>
+              <entry>inf. after neg. <i>bn </i>+ <i>jri̯ </i>+ <i>jwn</i>ꜣ</entry>
               <entry/>
             </row>
             <row>
               <entry>61140</entry>
-              <entry>inf. after neg. <i>bn+ tw= (+jwn</i><i>ꜣ)</i></entry>
+              <entry>inf. after neg. <i>bn+ tw= (+jwn</i>ꜣ<i>)</i></entry>
               <entry/>
             </row>
             <row>
@@ -183,7 +183,7 @@
             <row>
               <entry>69070</entry>
               <entry>inf.gem.after aux. <i>tw=</i>/ nom. subject</entry>
-              <entry>Present I</entry>
+              <entry>present I</entry>
             </row>
             <row>
               <entry>69080</entry>
@@ -202,7 +202,7 @@
             </row>
             <row>
               <entry>69500</entry>
-              <entry>inf.gem.after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry>inf.gem.after aux. ꜥ<i>ḥ</i>ꜥ<i>.n</i></entry>
               <entry/>
             </row>
             <row>
@@ -213,7 +213,7 @@
             <row>
               <entry>69700</entry>
               <entry>inf.gem.after neg. <i>nn</i></entry>
-              <entry>Negation</entry>
+              <entry>negation</entry>
             </row>
             <row>
               <entry>69800</entry>
@@ -242,12 +242,12 @@
             </row>
             <row>
               <entry>69130</entry>
-              <entry>inf.gem.after neg. <i>bn +jri̯+ jwn</i><i>ꜣ</i></entry>
+              <entry>inf.gem.after neg. <i>bn +jri̯+ jwn</i>ꜣ</entry>
               <entry/>
             </row>
             <row>
               <entry>69140</entry>
-              <entry>inf.gem.after neg. <i>bn+ tw= (+jwn</i><i>ꜣ)</i></entry>
+              <entry>inf.gem.after neg. <i>bn+ tw= (+jwn</i>ꜣ<i>)</i></entry>
               <entry/>
             </row>
             <row>
@@ -310,7 +310,7 @@
             <row>
               <entry>61370</entry>
               <entry>inf.endg.t/after aux. <i>tw=</i>/nom. subject</entry>
-              <entry>Present I</entry>
+              <entry>present I</entry>
             </row>
             <row>
               <entry>61380</entry>
@@ -329,7 +329,7 @@
             </row>
             <row>
               <entry>65300</entry>
-              <entry>inf.endg.t/after aux. <i>ꜥḥꜥ.n</i></entry>
+              <entry>inf.endg.t/after aux. ꜥ<i>ḥ</i>ꜥ<i>.n</i></entry>
               <entry/>
             </row>
             <row>
@@ -369,12 +369,12 @@
             </row>
             <row>
               <entry>61440</entry>
-              <entry>inf.endg.t/after neg. <i>bn </i>+ <i>jri̯ </i>+ <i>jwn</i><i>ꜣ</i></entry>
+              <entry>inf.endg.t/after neg. <i>bn </i>+ <i>jri̯ </i>+ <i>jwn</i>ꜣ</entry>
               <entry/>
             </row>
             <row>
               <entry>61450</entry>
-              <entry>inf.endg.t/after neg. <i>bn</i> + <i>tw= (+jwn</i><i>ꜣ)</i></entry>
+              <entry>inf.endg.t/after neg. <i>bn</i> + <i>tw= (+jwn</i>ꜣ<i>)</i></entry>
               <entry/>
             </row>
             <row>
@@ -390,7 +390,7 @@
             <row>
               <entry>61480</entry>
               <entry>inf.endg.t/after <i>nn jw</i></entry>
-              <entry>Pseudoverbal <i>nn</i> + aux. <i>jw</i></entry>
+              <entry>pseudoverbal <i>nn</i> + aux. <i>jw</i></entry>
             </row>
           </tbody>
         </tgroup>
@@ -399,7 +399,7 @@
     <p/>
     <p><b>Infinitive st. pr. = combine with suffix codes</b> (see: <xref
         href="inflection_pronouns.dita"/>)</p>
-    <p>Example: <i>pri̯.t=j</i> "mein Herauskommen": 61301 Inf.Endg.t st.pr. 1Sg </p>
+    <p>Example: <i>pri̯.t=j</i> "mein Herauskommen": 61301 inf.endg.t st.pr. 1Sg </p>
     <p/>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_gtv_5tj_sx">

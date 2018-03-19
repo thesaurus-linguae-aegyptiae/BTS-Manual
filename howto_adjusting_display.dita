@@ -30,14 +30,14 @@
     <p><b>Moving tabs</b></p>
     <p>If you do not like the default arrangement of the BTS tabs, most of them can be moved (some
       have to stay together, like the sub-tabs of the Text Editor [Transliteration, Sign Text
-      Editor, and JSesh View], the sub-tabs of the Passport Editor and the sub-tabs of the Corpus
+      Editor, and JSesh View], the sub-tabs of the Passport Data Editor and the sub-tabs of the Corpus
       Navigator [Text Corpora and Bin]). You can grab a tab and pull it to a different location
       within the Workspace. Below is an example of rearranged sections; Annotations have been moved
       next to the Corpus Navigator, Translation is placed below it, and Text Editor is no longer in
       the center. </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Workspace_rearranged.png"
         id="image_xxg_pgf_1v"/></p>
-    <p>It is also possible to pull a tab entirely out of the program window (see the screenshot
+    <p>It is also possible to pull a tab entirely out of the program window (see the screen-shot
       below). Tabs that have been removed from the program and now have individual windows cannot be
       put back into the main program window; to do this you have to restart BTS.</p>
     <p>NOTE: When you remove the last window from the program window, all windows will disappear. You

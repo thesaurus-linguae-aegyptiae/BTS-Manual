@@ -3,19 +3,19 @@
 <topic id="topic_gsr_cbw_ns">
   <title>Editing passport data </title>
   <body>
-    <p>The Passport Editor is located in the bottom centre of the Text Corpus view. It is essential
+    <p>The Passport Data Editor is located in the bottom center of the Text Corpus view. It is essential
       that you enter the metadata of your TCObjects, Texts, Subtexts, and Glosses correctly, since
       only complete and accurate metadata will allow effective search queries and statistical
       evaluation of the data.</p>
     <p>Most entries in the passport data are controlled by thesaurus lists, containing dates,
       locations, provenances, etc. These "controlled vocabulary" lists also include such entries as
       "unbekannt" ("not known") or "unbestimmt" ("not defined"). You can always discuss questionable
-      facts, e.g. the findspot of an ancient Egyptian object or the date of a text, in the Comment
+      facts, e.g. the findspot of an Ancient Egyptian object or the date of a text, in the Comment
       fields.</p>
-    <p>The thesauri are not complete yet. In case a Thesaurus entry you need is missing, please send
-      a proposal to the BTS team in Berlin: aegypt1@bbaw.de.</p>
+    <p>The thesauri are not complete yet. If a Thesaurus entry you need is missing, please send a
+      proposal to the BTS team in Berlin: aegypt1@bbaw.de.</p>
     <p/>
-    <p>For detailed descriptions of the passport editor fields and how they are used see <xref
+    <p>For detailed descriptions of the Passport Data Editor fields and how they are used see <xref
         href="ui_passporteditor.dita"/>.</p>
     <p/>
   </body>

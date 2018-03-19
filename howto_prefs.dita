@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_wzx_fgd_lx">
-  <title>Preferences</title>
+  <title>Personal preferences</title>
   <body>
     <p>To get to the "Preferences" window, either click the button <image
         href="Images/icons/full/icon16/preferences.png" id="image_ilm_dg1_nr"/> in the left part of
@@ -12,7 +12,7 @@
       Interface.</p>
     <p/>
     <p>Expanding <b>"Berlin Text System General"</b> will present several options:</p>
-    <p><b>Corpus Settings</b></p>
+    <p id="Corp_set1"><b>Corpus Settings</b></p>
     <p>Here you can choose the set of corpora you are going to work with. Every corpus that does not
       appear in the active corpora list on the right will not be accessed by BTS ( i.e. not
       activated in the Corpus Navigator Tree and included in the search queries). To activate a
@@ -82,7 +82,7 @@
     </p>
     <p>NOTE: "Default Visibility" and "Default Review State" apply to all newly created database
       objects, including annotations, rubra, comments etc. However, a change in an existing
-      element's Visibility or Review State IS NOT automatically transferred to its child elements. </p>
+      element's Visibility or Review State IS NOT automatically transferred to its child-elements. </p>
     <p><b>Lemmatizer</b>
     </p>
     <p>The Lemmatizer allows you to set a default inflection (the program's default inflection is
@@ -93,8 +93,9 @@
     </p>
     <p>Here you can select your main working project from the drop-down menu. The field below the
       drop-down gives you an opportunity to choose and add further projects from which you want to
-      load and read data. Clicking on button "Apply" will download the added projects.  Clicking on
-      "Restore Default" will restore the default settings. </p>
+      load and read data. Clicking on button "Apply" will download the added projects. Clicking on
+      "Restore Default" will restore the default settings. The default project is "Altägyptisches
+      Wörterbuch BBAW".  </p>
     <p><b>Remember me</b></p>
     <p>Select the check box "Remember my login credentials on start up" to be logged in
       automatically when starting BTS. </p>

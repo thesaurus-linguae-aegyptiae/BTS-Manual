@@ -9,7 +9,7 @@
     href="Images/new%20screenshots/BTS%20Screenshots/Text%20Corpus%20Workspace/Annotations.png"
     id="image_jnl_vtp_5t"/></p>
   <p><b>Annotations</b></p>
-  <p>The Annotations tab contains the following : </p>
+  <p>The Annotations tab contains the following: </p>
   <p><image href="Images/icons/full/icon16/annotation.png" id="image_p3k_pz3_sr"/> Annotation</p>
   <p><image href="Images/icons/full/icon16/rubrum.png" id="image_fjn_yz3_sr"/> Rubrum</p>
   <p><image href="Images/icons/full/icon16/comment.png" id="image_qrx_zz3_sr"/> Comment</p>
@@ -38,7 +38,7 @@
     href="Images/icons/full/icon16/subtext.png" id="image_mb4_q1j_sr"/> "Glosses".</p>
   <ul id="ul_k1y_2cv_1cb">
    <li>
-    <p>Clicking on "Open Annotation" will display the Passport Editor for annotations and rubra;
+    <p>Clicking on "Open Annotation" will display the Passport Data Editor for annotations and rubra;
      each annotation has its own ID and its relationship with the chosen text is shown in the
      "Relations" tab. </p>
    </li>
@@ -61,7 +61,7 @@
   <p>The "Text translation" section shows a full sentence-by-sentence translation of your text. If
    your translation does not appear, make sure you have selected the correct language with <image
     href="Images/icons/full/icon16/locale.png" id="image_w1q_vm3_ns"/>. Sentences which have not
-   been translated yet are marked as "## no trans: de ##§" / "## no trans: en ##§" etc. Clicking on
+   been translated yet are marked as "## no trans: de ##§" or "## no trans: en ##§" etc. Clicking on
    a sentence will highlight it in the "Sign text editor", the "Transliteration" tabs, and the
    "Sentence translation" field. A mistake in the continuous translation can only be altered in the
    "Sentence translation" field, and not in the "Text translation" field.</p>

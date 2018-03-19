@@ -19,8 +19,6 @@
    Annotation: Adds an annotation to the selected lemma. </p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/> Add Comment:
    Adds a comment to the selected lemma. </p>
-  <p><image href="Images/icons/full/obj16/delete.png" id="image_klw_ttb_qr"/> Delete: This moves an
-   entry from the WL to the Bin. Deleting entries that are in the Bin deletes them permanently.</p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_oct_xtb_qr"/> Open Simple Search
    Dialog: This opens a function to search the WL for specific entries.</p>
   <p><b>WL</b></p>
@@ -32,7 +30,7 @@
   <p>Each lemma entry consists of an icon (indicating the Review State of the lemma, see below),
    transliteration, translation, word class, physical location of the database object, and the
    number of relationships.</p>
-  <p>Next to each lemmata there is one of the following icons:</p>
+  <p>Next to each lemma there is one of the following icons:</p>
   <p><image href="Images/Icons_updated/full/icon16/lemma_checked.png" id="image_gwr_wky_gx"/> The
    lemma is certain and confirmed.</p>
   <p><image href="Images/icons/full/icon16/lemma-uncertain.png" id="image_vpc_mpl_yr"/> The meaning
@@ -47,9 +45,9 @@
   <p><image href="Images/Icons_updated/full/icon16/root.png" id="image_b24_2hx_3x"/> represents root
    entries; their Review State is indicated by the same small icons as above.</p>
   <p><b>Bin</b></p>
-  <p>Root/child entries which have been deleted from the word list are moved to the Bin. The entries
-   in the Bin are no longer grouped alphabetically. Deleting an item in the Bin will delete it
-   permanently. Note the "Bin" may take some time to open the first time after installing BTS. </p>
+  <p>Root/child entries which have been deleted from the WL are moved to the Bin. The entries in the
+   Bin are no longer grouped alphabetically. Deleting an item in the Bin will delete it permanently.
+   Note the "Bin" may take some time to open the first time after installing BTS. </p>
   <p><b>Drop-down menu</b> "<image href="Images/icons/extra%20icons/options_dreieck.png"
     id="image_umy_spv_ps"/>"</p>
   <p>Clicking the drop-down menu <image href="Images/icons/extra%20icons/options_dreieck.png"
@@ -57,8 +55,15 @@
    few additional ones:</p>
   <p>
    <ul id="ul_vmj_thf_cv">
-    <li>Delete Permanently: Use this option to delete an item permanently (without moving it to the
-     Bin). Clicking on "Delete Permanently" will open a confirmation dialogue.</li>
+    <li>
+     <p><image href="Images/icons/full/obj16/delete.png" id="image_klw_ttb_qr"/> Move to trash: This
+      moves an entry from the WL to the Bin. </p>
+    </li>
+    <li>
+     <p><image href="Images/icons/full/obj16/delete.png" id="image_v5h_ycs_bdb"/> Delete
+      Permanently: Use this option to delete an item permanently (without moving it to the Bin).
+      Clicking on "Delete Permanently" will open a confirmation dialogue.</p>
+    </li>
    </ul>
   </p>
   <p>
@@ -93,7 +98,7 @@
     <li>Filter: Apply different filters to the available lemma list: <p>
       <ul id="ul_ybc_myp_gx">
        <li>Filter by Project/Creator/Updaters/Review Status/Visibility/Types by clicking the
-        relevant check boxes. To undo the filter, deselect the check boxes. </li>
+        relevant check-boxes. To undo the filter, deselect the check-boxes. </li>
        <li>Filter only invalid Lemmata: This displays all lemma that do not follow the formal system
         grammar.</li>
       </ul>

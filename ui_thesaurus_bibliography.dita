@@ -3,7 +3,7 @@
 <concept id="concept_ewq_twf_yr">
  <title>Bibliography</title>
  <conbody>
-  <p>Enter bibliographical information here; the tab contains: </p>
+  <p>Enter bibliographical information using the below tabs: </p>
   <p>
    <ul id="ul_o4n_dy2_cv">
     <li><b>Bibliographical text field:</b> Here you can enter the bibliographical data manually.
@@ -21,17 +21,16 @@
           </p><p>
             <ul id="ul_fcs_vqm_hx">
               <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
-                <b>Search Object:</b> You can select the bibliographical entry from the Thesaurus.
-              </li>
+                <b>Search Object:</b> Select the bibliographical entry from the Thesaurus. </li>
             </ul>
             <ul id="ul_vgm_drm_hx">
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
-                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected
                 thesaurus entry. </li>
             </ul>
             <ul id="ul_gc3_grm_hx">
               <li><b>Pages/plates:</b> Enter the pages/plate number for the bibliographical item and
-                select the relevant check boxes. </li>
+                select the relevant check-boxes. </li>
               <li><b>Comment:</b> Use this to comment on your reference.</li>
             </ul>
             <ul id="ul_qt3_jrm_hx">

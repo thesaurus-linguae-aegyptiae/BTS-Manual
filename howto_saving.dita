@@ -21,7 +21,10 @@
             </ul>
           </p></li>
         <li>If you have not saved your data before leaving the program, clicking on "Exit BTS" or
-          "Restart BTS" will trigger the warning: "Select the parts to save" . </li>
+          "Restart BTS" will trigger the warning: "Select the parts to save". When the file you are
+          trying to save contains errors, BTS will offer you two options “Save with errors” and
+          “Don’t save”. To prevent the data loss we recommend correcting the errors first and then
+          saving the file. </li>
       </ul>
     </p>
     <p/>

@@ -13,11 +13,11 @@
             Editor window of the Text Editor and the Lemma Editor, and provide choices for the
             metadata of Text Corpus Objects, Texts, and Lemma entries. Any user can see the contents
             of the Thesaurus View, but the right to create or modify elements is restricted to
-            certain user roles. </p>
+            certain user roles (see <xref href="user_roles.dita"/>). </p>
         <p>NOTE: This chapter provides a general description of the Workspace with its windows and
             tabs of the Thesaurus View. For a step-by-step instruction of how to enter or edit a new
-            Thesaurus entry please refer to the relevant chapter in the User Guide section of this
-            manual (<xref href="howto_thesaurus.dita"/>).</p>
+            Thesaurus entry please refer to the relevant chapter in the Advanced user guide (<xref
+                href="howto_thesaurus.dita"/>).</p>
         <p>If a Thesaurus entry you need is missing, please send a proposal to the BTS team in
             Berlin: aegypt1@bbaw.de. </p>
         <p>The three windows from left to right are: Thesaurus Navigator, Passport Data Editor, and

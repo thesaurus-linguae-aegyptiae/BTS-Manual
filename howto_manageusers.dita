@@ -3,7 +3,7 @@
 <topic id="topic_dh2_vln_y5">
   <title>Managing users and user groups</title>
   <body>
-    <p>This function is available to users with global administrator rights only. </p>
+    <p>This function is available to users with global Administrator rights only. </p>
     <p>To open the user management function select "Open User Manager" from the drop-down menu
       "Preferences" of the Menu bar. In the  window "User Management" select the tab: "Manage Users
       and User Groups".</p>
@@ -20,11 +20,11 @@
       and a password need to be entered here. In the third section, there is a drop-down menu, where
       you can choose existing users and add them to the group by clicking on "Add user to
       Group".</p>
-    <p>Clicking on a username allows you to modify the user information on the right side of the
-      window, including fields such as "ID of User", "Forename", "Surname", "Email", "Website",
+    <p>Clicking on a username allows you to modify the user information on the right-hand side of
+      the window, including fields such as "ID of User", "Forename", "Surname", "Email", "Website",
       "Description", "Web Description", "Siglum", and "Comment". The ID field shows the username
-      which was given to this user during initial creation of that user; this name can no longer be
-      edited. The check box "User is Database Administrator" can be checked. Required fields are
+      which was given to this user during the initial creation of that user; this name can no longer
+      be edited. The check box "User is Database Administrator" can be checked. Required fields are
       marked by an asterisk (*).</p>
     <p>Functions of the buttons in this tab:</p>
     <p><image href="Images/icons/full/icon16/users-add.png" id="image_xgh_3vk_4r"/>
@@ -43,7 +43,7 @@
     <p>Redo the last undone action.</p>
     <p><image href="Images/icons/full/icon16/userrole-edit.png" id="image_bx3_cyk_4r"/>
       <u>Edit updaters of selected database object</u></p>
-    <p>Opens a window where you can assign either the "Reader" or "Updater" role to a user in
+    <p>Opens a window where you can assign either the "Reader" or "Updater" status to a user in
       relation to a user group.</p>
   </body>
 </topic>

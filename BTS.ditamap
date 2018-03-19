@@ -42,6 +42,7 @@
     <topicref href="howto_specialsigns.dita"/>
     <topicref href="howto_inversions.dita"/>
     <topicref href="howto_grouping.dita"/>
+    <topicref href="guidelines_hieroglyphs.dita"/>
    </topicref>
   </topicref>
   <topicref href="howto_grammar_check.dita"/>
@@ -59,7 +60,6 @@
  </topicref>
  <topicref href="howto_admin.dita">
   <topicref href="howto_create_corpus.dita"/>
-  <topicref href="howto_create_corpusobject.dita"/>
   <topicref href="howto_lemma.dita"/>
   <topicref href="howto_thesaurus.dita"/>
   <topicref href="howto_project.dita"/>
@@ -181,6 +181,5 @@
    <topicref href="inflection_other.dita"/>
   </topicref>
  </topicref>
- <topicref href="guidelines_hieroglyphs.dita"/>
  <topicref href="troubleshooting.dita"/>
 </map>

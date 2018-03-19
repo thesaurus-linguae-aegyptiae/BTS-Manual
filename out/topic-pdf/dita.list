@@ -1,9 +1,9 @@
-#Mon Oct 24 16:08:23 CEST 2016
+#Mon Mar 19 17:46:51 CET 2018
 relflagimagelist=
-user.input.dir=C\:\\Users\\boehme\\Documents\\GitHub\\BTS-Manual
+user.input.dir=P\:\\Handbuch\\Aktuelle Version DITA Files\\bts
 copytotarget2sourcemaplist=
 uplevels=
-user.input.file=inflection_suffixconjugation.dita
+user.input.file=intro_install.dita
 user.input.file.listfile=usr.input.file.list
 tempdirToinputmapdir.relative.value=
 relflagimagefile=relflagimage.list

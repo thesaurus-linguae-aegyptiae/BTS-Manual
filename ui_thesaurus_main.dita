@@ -57,7 +57,8 @@
                   <ul id="ul_m2c_fzf_cv">
                         <li><b>Review State:</b> Shows the Review State of the thesaurus entry
                               (published, reviewed, awaiting-update, awaiting-review, new,
-                              transformed awaiting update).</li>
+                              transformed awaiting update). See also <xref
+                                    href="howto_create_corpusobject.dita#image_bg2_phq_3x">"Defining the Review State"</xref></li>
                   </ul>
             </p>
   <p>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_jjm_czk_sx">
-  <title>Guidelines for Encoding Hieroglyphs</title>
+  <title>Guidelines for encoding hieroglyphs</title>
   <body>
     <p/>
     <p>For detailed information and instructions on how to encode hieroglyphs please see the
-      following document:</p>
-    <p><xref href="Hieroglypheneingabe_Richtlinien.pdf" format="pdf"><image
+      following document (in German only):</p>
+    <p><xref href="out/pdf/Hieroglypheneingabe_Richtlinien.pdf" format="pdf"><image
           href="Images/icons/Adobe_PDF_file_icon_24x24.png" id="image_bxp_nzk_sx"/> Encoding of
         hieroglyphs</xref></p>
   </body>

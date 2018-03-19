@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_cpy_xss_mr">
-  <title>Passport Editor</title>
+  <title>Passport Data Editor</title>
   <conbody>
-    <p>The Passport Editor is located in the bottom center of the Text Corpus View. It contains the
-      metadata of the selected database objectand is organized in tabs. The tabs vary depending on
+    <p>The Passport Data Editor is located in the bottom center of the Text Corpus View. It contains the
+      metadata of the selected database object and is organized in tabs. The tabs vary depending on
       the type of the database object, i.e. TCObjects have different tabs compared to Texts. </p>
     <p>If you are working on a child-element and want it to have the same metadata as the
       parent-element, click <image href="Images/icons/full/icon16/inherit.png" id="image_fdk_2rt_mr"
-      /> "Inherit Passport Data" in the top right corner of the Passport Editor. Note that the
+      /> "Inherit Passport Data" in the top right-hand corner of the Passport Data Editor. Note that the
       parent data will only be copied into empty fields of the child-element; if the fields were
       already filled out, their content will not be changed. </p>
     <p>The option "Inherit Overwrite Passport Data", available via the drop-down menu "<image

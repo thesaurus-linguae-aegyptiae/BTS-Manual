@@ -27,7 +27,7 @@
   <p>
    <ul id="ul_ow5_zgf_fx">
     <li>Complete destruction at the beginning of a line/column: “--Anfang der Zeile/Kolumne
-     zerstört--"-</li>
+     zerstört--".</li>
    </ul>
   </p>
   <p>
@@ -68,14 +68,14 @@
   <p/>
   <p><b>Representatives</b></p>
   <p>If the number of words missing can precisely be determined (e.g. if the words are completely
-   lost, but their the determinatives preserved), use three underscores in brackets "[___]". E.g.:
+   lost, but their determinatives preserved), use three underscores in brackets "[___]". E.g.:
    "[___] [___]" for 2 missing words. These representations are treated as words by BTS and can be
    lemmatized. </p>
   <p>In some cases, the missing word's word class, number, and gender can be determined. There are
    entries in the lemma list for each of these options; you have to search the WCN number via the
    magnifying glass (see <xref href="howto_lemmatizing.dita"/>). For a list of the relevant WCN
    numbers, see <xref href="howto_lemmatizing_unknownwords.dita"/>, or alternatively you can search
-   for "[Wort]" (full text search with both check boxes deactivated) and the list will appear at the
+   for "[Wort]" (full text search with both check-boxes deactivated) and the list will appear at the
    bottom of the results.</p>
  </conbody>
 </concept>

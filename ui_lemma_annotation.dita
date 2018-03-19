@@ -3,11 +3,11 @@
 <concept id="concept_o2k_jpd_4r">
  <title>Annotations</title>
  <conbody>
-  <p>The Annotation and Text Translation window is placed on the right-hand side of the default BTS
+  <p>The Annotation and Text Translation window is located on the right-hand side of the default BTS
    Lemma View.</p>
   <p>For each lemma entry an "Annotation" <image href="Images/icons/full/icon16/annotation.png"
     id="image_p3k_pz3_sr"/> and/or a "Comment" <image href="Images/icons/full/icon16/comment.png"
-    id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are placed in the toolbar of the
+    id="image_qrx_zz3_sr"/> can be entered. The relevant buttons are located in the toolbar of the
    Lemma Navigator (on the left-hand side of the workspace). Each annotation or comment offers the
    following additional functions:</p>
   <p><image href="Images/icons/full/icon16/chain-add.png" id="image_ult_dv3_sr"/>
@@ -20,7 +20,7 @@
   <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
    <b>Edit Comment or Edit Annotation</b>: This opens a window where you can edit the content of the
    annotation or comment.</p>
-  <p>Clicking on "Edit Annotation" will display the passport editor for annotations. Each annotation
+  <p>Clicking on "Edit Annotation" will display the Passport Data Editor for annotations. Each annotation
    will have its own ID and its relationship with the selected lemma will be shown in the
    "Relations" tab. </p>
   <p>By clicking the "Edit Comment" button, a "Comment Editor" window will appear. Here you can

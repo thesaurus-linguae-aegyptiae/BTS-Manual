@@ -6,7 +6,7 @@
     <p>To encode the inflection of a word (i.e. its grammatical form in the given text), switch to
       the Sign Text Editor tab and activate the Lemmatizer. </p>
     <p>Assign an inflection code to each word (token). The inflection codes apply to forms that are
-      distinguished morphologically. It does not encode forms that depend on grammatical theory,
+      distinguished morphologically. BTS does not encode forms that depend on grammatical theory,
       e.g. there is no differentiation between morphologically identical <i>sḏm=f</i>-forms. For a
       list of codes see <xref href="grammar_inflection.dita"/>.</p>
     <p>We recommend lemmatizing a text before filling out the field "Flexion" for each word. If you

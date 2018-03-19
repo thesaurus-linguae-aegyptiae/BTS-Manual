@@ -58,7 +58,7 @@
     <p><image href="Images/icons/full/icon16/search.png" id="image_f4p_lyh_sr"/>
       <b>Search Object:</b> Search for a lemma which you want to establish a relationship with.</p>
     <p><image href="Images/Icons_updated/full/icon16/passport.png" id="image_pkx_gm2_hx"/>
-      <b>Open Object in Passport Editor:</b> Displays the passport data of the related lemma.</p>
+      <b>Open Object in Passport Data Editor:</b> Displays the passport data of the related lemma.</p>
     <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
       <b>Add Relation:</b> Click to add more relations. BTS allows polyhierarchy, meaning one
       database object can have more than one parent-element. </p>

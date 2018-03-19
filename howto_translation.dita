@@ -23,7 +23,7 @@
             highlight it and the corresponding transliterated sentence will be underlined in the
             "Transliteration" subsection. You will have to enter the translation sentence by
             sentence. </p>
-        <p>Within an ancient Egyptian grammatical sentence, it is possible to segment the modern
+        <p>Within an Ancient Egyptian grammatical sentence, it is possible to segment the modern
             translation by using the ENTER key. Enter only one translation variant for each
             sentence; the choice of language is not intended for different translation variants of a
             single text.</p>
@@ -34,8 +34,8 @@
         <p><b>Using transliteration signs in the translation</b></p>
         <p>You can use transliteration signs in your translation. This might be necessary if there
             are only traces of a word preserved or if there is no translation available, e.g.
-                "<i>jꜣ.t</i>-tree". In this case, write the transliteration between two "$" signs so
-            that the system knows to transform the text into cursive in the TLA, e.g.:
+                "<i>j</i>ꜣ<i>.t</i>-tree". In this case, write the transliteration between two "$"
+            signs so that the system knows to transform the text into cursive in the TLA, e.g.:
             $jꜣ.t$-tree.</p>
         <p/>
         <p>NOTE: Before you enter your translation, make sure that the relevant sentence is active.

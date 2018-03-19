@@ -5,7 +5,7 @@
   <body>
     <p><b>Idiomatic expressions and collocations</b></p>
     <p>Some words are collocated with a verb so that they form an idiomatic expression. This
-      collocation will be determined by setting the correct entry for the verb in the lemmatizer.
+      collocation will be determined by selecting the correct entry for the verb in the lemmatizer.
       The word itself has to be lemmatized as it is.</p>
     <p>
       <table id="table_qz5_lkb_lt">
@@ -18,16 +18,17 @@
               <entry><b>correct lemmatization</b></entry>
             </row>
             <row>
-              <entry><i>jri̯ </i><i>ꜣh.w</i> – to feel pain</entry>
-              <entry>1) <i>jri̯ (ꜣh.w)</i> (WCN: 851959); 2) <i>ꜣh.w </i>(WCN: 174)</entry>
+              <entry><i>jri̯ </i>ꜣ<i>h.w</i> – to feel pain</entry>
+              <entry>1) <i>jri̯ (</i>ꜣ<i>h.w)</i> (WCN: 851959); 2) ꜣ<i>h.w </i>(WCN: 174)</entry>
             </row>
             <row>
-              <entry><i>rḏi̯ jꜣ.w</i> – to praise s.o.</entry>
-              <entry>1) <i>rḏi̯ (jꜣ.w)</i> (WCN: 851491); 2) <i>jꜣ.w</i> (WCN: 20360)</entry>
+              <entry><i>rḏi̯ j</i>ꜣ<i>.w</i> – to praise s.o.</entry>
+              <entry>1) <i>rḏi̯ (j</i>ꜣ<i>.w)</i> (WCN: 851491); 2) <i>j</i>ꜣ<i>.w</i> (WCN:
+                20360)</entry>
             </row>
             <row>
-              <entry><i>sḏm ꜥš</i> – to serve</entry>
-              <entry>1)<i> sḏm (ꜥš)</i> (WCN: 150630); 2) <i>ꜥš</i> (WCN: 40900)</entry>
+              <entry><i>sḏm </i>ꜥ<i>š</i> – to serve</entry>
+              <entry>1)<i> sḏm (</i>ꜥ<i>š)</i> (WCN: 150630); 2) ꜥ<i>š</i> (WCN: 40900)</entry>
             </row>
           </tbody>
         </tgroup>
@@ -45,7 +46,7 @@
     <p>Sometimes titles, epithets, and other compound words might be split up by a suffix pronoun or
       a personal name. In this case, the separation has to be marked by "+", and the suffix or
       personal name is lemmatized normally. The first part of the compound word is lemmatized with
-      the complete compound noun, the second part is left without lemmatization.</p>
+      the WCN of the whole compound, the second part is left without lemmatization.</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_d1q_3ym_fx">
         <tgroup cols="2">
@@ -59,14 +60,14 @@
           </thead>
           <tbody>
             <row>
-              <entry><i>ḥꜣ.tj-ꜥ+ Mꜥḥ +n-Nfr-wsj</i></entry>
-              <entry>1) <i>ḥꜣ.tj-ꜥ+</i> (WCN: 857144); 2) <i>Mꜥḥ</i> (WCN: 600439); 3) <i>+n-Nfr-wsj
-                </i>(WCN: -)</entry>
+              <entry><i>ḥ</i>ꜣ<i>.tj-ꜥ+ M</i>ꜥ<i>ḥ +n-Nfr-wsj</i></entry>
+              <entry>1) <i>ḥ</i>ꜣ<i>.tj-</i>ꜥ<i>+</i> (WCN: 857144); 2) <i>M</i>ꜥ<i>ḥ</i> (WCN:
+                600439); 3) <i>+n-Nfr-wsj </i>(WCN: -)</entry>
             </row>
             <row>
               <entry><i>rn+ =f +nfr</i></entry>
-              <entry>1) <i>rn+</i> (WCN: 94780); 2) <i>=f</i> (WCN: 10050); 3) <i>+nfr</i> (WCN:
-                -)</entry>
+              <entry>1) <i>rn+</i> (WCN: 94780 for <i>rn-nfr</i>); 2) <i>=f</i> (WCN: 10050); 3)
+                  <i>+nfr</i> (WCN: -)</entry>
             </row>
           </tbody>
         </tgroup>

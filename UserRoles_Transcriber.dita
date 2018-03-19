@@ -21,7 +21,8 @@
         <li>Without a Reader status for a given database object, the Transcriber can only view the
           item, but is not allowed to edit it in any way.</li>
         <li>Database objects with a visibility status <i>Reader</i>, <i>Group</i>, or <i>Project</i>
-          will not be visible if no status is assigned to the Transcriber.</li>
+          will not be visible if the Transcriber has not been assigned a status for those database
+          objects.</li>
       </ul>
     </p>
   </body>

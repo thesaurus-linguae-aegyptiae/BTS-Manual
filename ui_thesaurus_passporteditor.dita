@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_wpd_hqd_4r">
- <title>Passport Editor</title>
+ <title>Passport Data Editor</title>
  <conbody>
-    <p>The Passport Editor section is located in the centre of the Thesaurus View. It contains the
-      metadata of the selected thesaurus entry, divided into different subsections (tabs). These
+    <p>The Passport Data Editor section is located in the center of the Thesaurus View. It contains the
+      metadata of the selected thesaurus entry, divided into different sub-sections (tabs). These
       categories vary depending on the type of the database object, e.g. the tabs "Thesaurus: Date"
       and "Thesaurus: Coordinates" only apply to specific types of thesauri. </p>
     <p>If you are working on a child-element and want it to have the same metadata as its
       parent-element, you can click <image href="Images/icons/full/icon16/inherit.png"
-        id="image_fdk_2rt_mr"/> "Inherit Passport Data" in the top right corner of the Passport
-      Editor. Note that the parent-element's data will be only be copied into empty fields of the
-      child-element. If the child element's fields have already been filled out, then their content
+        id="image_fdk_2rt_mr"/> "Inherit Passport Data" in the top right-hand corner of the Passport
+      Editor. Note that the parent-element's data will only be copied into empty fields of the
+      child-element. If the child-element's fields have already been filled out, then their content
       will not be changed. </p>
     <p>The option "Inherit Overwrite Passport Data", available via the drop-down menu "<image
         href="Images/icons/extra%20icons/options_dreieck.png" id="image_umy_spv_ps"/>", allows you

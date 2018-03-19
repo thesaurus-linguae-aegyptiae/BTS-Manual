@@ -172,7 +172,7 @@
             <entry><i>Public</i></entry>
             <entry>Can view, not edit</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can only edit Hieroglyphs</entry>
+            <entry>Can only edit hieroglyphs</entry>
             <entry morerows="4">
               <p> </p>
               <p> </p>
@@ -187,25 +187,25 @@
             <entry><i>Reader</i></entry>
             <entry>Cannot view</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can only edit Hieroglyphs</entry>
+            <entry>Can only edit hieroglyphs</entry>
           </row>
           <row>
             <entry><i>Group</i></entry>
             <entry>Cannot view</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can only edit Hieroglyphs</entry>
+            <entry>Can only edit hieroglyphs</entry>
           </row>
           <row>
             <entry><i>Project</i></entry>
             <entry>Cannot view</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can only edit Hieroglyphs</entry>
+            <entry>Can only edit hieroglyphs</entry>
           </row>
           <row>
             <entry><i>All Authenticated</i></entry>
             <entry>Can view, not edit</entry>
             <entry>Can view, not edit</entry>
-            <entry>Can only edit Hieroglyphs</entry>
+            <entry>Can only edit hieroglyphs</entry>
           </row>
           <row>
             <entry namest="col1" nameend="col5"><b>GUEST</b></entry>

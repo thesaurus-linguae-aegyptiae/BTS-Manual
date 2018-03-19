@@ -11,12 +11,13 @@
             and add the corpora you are going to be working with to the "Active Corpora" list. Press
             "Apply" to save the changes.</p></li>
         <li><b>Activate "Sort by sort key" option</b><p>Expand "Corpus Settings". Click "Corpus
-            Navigator Settings" and activate the check box "Corpus Navigator sort by sort key" if it
-            is not already activated. Press "Apply" to save the changes. Repeat the same for "Lemma
-            Navigator Settings" and "Thesaurus Navigator Settings" located in "Lemma List Settings"
-            and "Thesaurus Settings" respectively. </p><p>NOTE: By default all database objects have
-            "0" as sort key and, as a result, are organized in alphabetical order on the same level.
-          </p></li>
+                        Navigator Settings" and activate the check box "Corpus Navigator sort by
+                        sort key" if it is not already activated. Press "Apply" to save the changes.
+                        Repeat the same for "Lemma Navigator Settings" and "Thesaurus Navigator
+                        Settings" located in "Lemma List Settings" and "Thesaurus Settings"
+                        respectively. </p><p>NOTE: By default all database objects have "0" as a
+                        sort key and, as a result, are organized in alphabetical order on the same
+                        level. </p></li>
         <li><b>Activate "Remember Me" option</b><p>By selecting the check box "Remember my login
             credentials on start-up" you can save your login credentials, so that BTS logs you in
             automatically each time the programm starts.</p></li>

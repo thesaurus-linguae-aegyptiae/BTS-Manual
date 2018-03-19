@@ -6,7 +6,7 @@
   <p>The Thesaurus Navigator is located on the left-hand side of the Workspace in the Thesaurus
    view. The Thesaurus list contains a set vocabulary of unique concepts for describing database
    objects. Such metadata enables search queries on a global or local level of the database, and are
-   attributed to the database objects in the Passport Editor.</p>
+   attributed to the database objects in the Passport Data Editor.</p>
   <p> </p>
   <p><b>Toolbar</b></p>
   <p>The toolbar of the Thesaurus navigator contains the following: </p>
@@ -19,9 +19,7 @@
    Annotation: Adds an annotation to the selected thesaurus entry. </p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/> Add Comment:
    Adds a comment to the selected thesaurus entry. </p>
-  <p><image href="Images/icons/full/obj16/delete.png" id="image_ffn_kxb_qr"/> Delete: This moves an
-   entry from the Thesaurus tree to the <image href="Images/icons/full/icon16/bin.png"
-    id="image_dtn_nxb_qr"/> Bin.</p>
+  <p/>
   <p><image href="Images/icons/full/icon16/search.png" id="image_zkc_1yb_qr"/> Search: Search the
    Thesaurus for specific entries. </p>
   <p><b>Bin</b></p>
@@ -34,8 +32,12 @@
   <p>Offers all the options available in the Toolbar above, plus the following:</p>
   <p>
    <ul id="ul_gkz_svf_cv">
-    <li>Delete Permanently: Delete the selected entry permanently. Clicking on this will open a
-     confirmation dialogue.</li>
+    <li><image href="Images/icons/full/obj16/delete.png" id="image_ffn_kxb_qr"/> Move to trash: This
+     moves an entry from the Thesaurus tree to the <image href="Images/icons/full/icon16/bin.png"
+      id="image_dtn_nxb_qr"/> Bin.</li>
+    <li><image href="Images/icons/full/obj16/delete.png" id="image_ifb_bds_bdb"/> Delete
+     Permanently: Delete the selected entry permanently. Clicking on this will open a confirmation
+     dialogue.</li>
    </ul>
   </p>
   <p>
@@ -63,7 +65,7 @@
   <p>
    <ul id="ul_lhl_xvf_cv">
     <li>Filter: Filter the corpora by Project/Creator/Updaters/Review Status/Visibility/Types by
-     clicking the relevant check boxes. To undo the filter, unselect the check boxes. </li>
+     clicking the relevant check-boxes. To undo the filter, unselect the check-boxes. </li>
    </ul>
   </p>
  </conbody>

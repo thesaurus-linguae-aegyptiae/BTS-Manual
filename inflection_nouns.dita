@@ -7,8 +7,8 @@
     <p>The inflected forms of nouns are encoded. Plural and dual forms are transliterated in their
       written forms and assigned the relevant inflection code. If they appear in status
       pronominalis, then the suffix is encoded as the last digit of the code. Status constructus
-      (i.e. direct genitive) is encoded at the regens; the rectum is assigned code 3, i.e. form is
-      no different to BWL.</p>
+      (i.e. direct genitive) is encoded at the regens; the rectum is assigned code 3, i.e. the form
+      is no different to BWL.</p>
     <p>Last digit = suffix code (see: <xref href="inflection_pronouns.dita"/>).</p>
     <p>
       <table frame="all" rowsep="1" colsep="1" id="table_hps_h5j_sx">
@@ -40,22 +40,22 @@
             <row>
               <entry>70350</entry>
               <entry>subst.du.st.pr."</entry>
-              <entry><i>ꜥ.wj=f</i>  = 70354</entry>
+              <entry>ꜥ<i>.wj=f</i> = 70354</entry>
             </row>
             <row>
               <entry>70060</entry>
               <entry>subst.st.cs.</entry>
-              <entry><i>ḥm,t w</i><i>ꜥb</i> (direct genitive)</entry>
+              <entry><i>ḥm,t w</i>ꜥ<i>b</i> (direct genitive)</entry>
             </row>
             <row>
               <entry>70160</entry>
               <entry>subst.pl.st.cs.</entry>
-              <entry><i>tꜣš.w km,t</i></entry>
+              <entry><i>t</i>ꜣ<i>š.w km,t</i></entry>
             </row>
             <row>
               <entry>70360</entry>
               <entry>subst.du.st.cs.</entry>
-              <entry><i>ꜥ.wj nṯr</i></entry>
+              <entry>ꜥ<i>.wj nṯr</i></entry>
             </row>
           </tbody>
         </tgroup>

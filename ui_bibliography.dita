@@ -50,12 +50,12 @@
             </ul>
             <ul id="ul_vgm_drm_hx">
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
-                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected
                 thesaurus entry. </li>
             </ul>
             <ul id="ul_gc3_grm_hx">
               <li><b>Pages/plates:</b> Enter the pages/plate numbers for the bibliographical item
-                and select the appropriate check boxes (see above).</li>
+                and select the appropriate check-boxes (see above).</li>
               <li><b>Comment:</b> Use this to comment on your bibliographical reference.</li>
             </ul>
             <ul id="ul_qt3_jrm_hx">

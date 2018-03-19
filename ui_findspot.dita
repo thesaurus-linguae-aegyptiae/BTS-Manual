@@ -3,7 +3,7 @@
 <concept id="concept_xt1_ryf_yr">
  <title>Findspot</title>
  <conbody>
-  <p>This tab allows you to enter data concerning the findspot of the ancient Egyptian artefact
+  <p>This tab allows you to enter data concerning the findspot of the Ancient Egyptian artefact
    which bears your text.</p>
   <p>This tab is divided into two sections: "Place" which denotes the last findspot of your
    artefact, and "Former Place" which denotes any past findspots of that artefact. </p>
@@ -26,7 +26,7 @@
        <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
         <b>Search Object:</b> Select the findspot from the Thesaurus.</li>
        <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
-        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected thesaurus
         entry.</li>
       </ul>
      </p></li>
@@ -53,13 +53,13 @@
   <p><b>Former place</b></p>
   <p>
    <ul id="ul_tzb_5my_bv">
-    <li><b>former_place:</b> Displays the name of the selected thesaurus entry which you can choose
-     using the search function below.<p>
+    <li><b>former_place:</b> Displays the name of the selected thesaurus entry (i.e. former place)
+     which you can choose using the search function below.<p>
       <ul id="ul_tj4_ycm_hx">
        <li><image href="Images/icons/full/icon16/search.png" id="image_jh2_jvf_hx"/>
         <b>Search Object:</b> Select the former place from the Thesaurus.</li>
        <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_ijt_jvf_hx"/>
-        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected thesaurus
         entry.</li>
       </ul>
      </p></li>

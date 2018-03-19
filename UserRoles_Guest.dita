@@ -4,10 +4,8 @@
   <title>Guest</title>
   <body>
     <p>Guests can read data but are not allowed to create new database objects or edit them. Guests
-      will not be able to see the database objects with a visibility status set to Reader, Group, or
-      Project if no status ( Reader / Updater) has been assigned to them. </p>
-    <p>However, guests can view the content of a particular corpus, even if no user status has been
-      provided. Similarly, guests can view the Lemma list and the Thesaurus database, but not modify
-      them.  </p>
+      will not be able to see the database objects with a visibility status set to <i>Reader</i>,
+        <i>Group</i>, or <i>Project</i> if no status ( Reader/Updater) has been assigned to them.
+      Similarly, guests can view the Lemma list and the Thesaurus database, but not modify them. </p>
   </body>
 </topic>

@@ -16,7 +16,7 @@
        <li><image href="Images/icons/full/icon16/search.png" id="image_ns4_ttf_hx"/>
         <b>Search Object:</b> Select the location from the Thesaurus.</li>
        <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
-        <b>Open Object in Passport Editor:</b> Displays the passport data of the selected thesaurus
+        <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected thesaurus
         entry.</li>
       </ul>
      </p></li>

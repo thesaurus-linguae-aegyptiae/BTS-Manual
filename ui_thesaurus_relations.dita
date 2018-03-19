@@ -22,7 +22,7 @@
    <b>Search Object:</b> Search for the thesaurus entry you want to establish a relationship
    with.</p>
   <p><image href="Images/Icons_updated/full/icon16/passport.png" id="image_pkx_gm2_hx"/>
-   <b>Open Object in Passport Editor:</b> Displays the passport data of the related thesaurus
+   <b>Open Object in Passport Data Editor:</b> Displays the passport data of the related thesaurus
    entry.</p>
   <p><image href="Images/icons/full/obj16/add.png" id="image_kxg_cyj_qr"/>
    <b>Add Relation:</b> Click to add more relationships. BTS allows polyhierarchy so one item can

@@ -20,7 +20,7 @@
   <p><image href="Images/icons/full/icon16/edit.png" id="image_jjk_l5t_mr"/>
    <b>Edit Comment or Edit Annotation</b>: This opens a window where you can edit the content of the
    annotation or comment.</p>
-  <p>Clicking on "Edit Annotation" will display the Passport Editor. Each annotation has its own ID
+  <p>Clicking on "Edit Annotation" will display the Passport Data Editor. Each annotation has its own ID
    and its relationship to the selected thesaurus entry is shown in the "Relations" tab. </p>
   <p>By clicking the "Edit Comment" button, a "Comment Editor" window will appear. You can enter or
    edit the title of your comment in the upper field and the content of your comment in the lower

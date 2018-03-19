@@ -6,9 +6,10 @@
     <p>The forms of the suffix conjugation can be either unmarked, geminated, or a special form. The
       codes below only distinguish between written forms, i.e. forms that can be determined by their
       external appearance (<i>-.n-</i>, <i>-.w-</i>, <i>-.t-</i>, <i>-.tw-</i>, <i>-.jn-</i>,
-        <i>-.ḫr-</i>, <i>-.kꜣ-</i>, and combinations). Syntactical and semantic implications are not
-      taken into account. Suffix pronouns are encoded as the last digit of the codes listed in the
-      below sections; nominal subjects and lost subjects are encoded with a 0 as the last digit. </p>
+        <i>-.ḫr-</i>, <i>-.k</i>ꜣ<i>-</i>, and combinations). Syntactical and semantic implications
+      are not taken into account. Suffix pronouns are encoded as the last digit of the codes listed
+      in the below sections; nominal subjects and lost subjects are encoded with a 0 as the last
+      digit. </p>
     <p>Prefixed forms of the suffix conjugation are encoded with 1 as the second digit of the codes
       listed below, e.g. 11021 = pref. SK.akt.kzl.1sg. For the encoding of complex verbal forms and
       negated forms of the suffix conjugation see the below tables.</p>
@@ -33,7 +34,7 @@
             <row>
               <entry>10020</entry>
               <entry>SK.akt.kzl</entry>
-              <entry><i>pri̯, rḏi̯, ḏi̯, sḏm, </i><i>mꜣ </i></entry>
+              <entry><i>pri̯, rḏi̯, ḏi̯, sḏm, </i><i>m</i>ꜣ<i> </i></entry>
             </row>
             <row>
               <entry>10040</entry>
@@ -43,7 +44,7 @@
             <row>
               <entry>10100</entry>
               <entry>SK.akt.gem</entry>
-              <entry><i>ḏḏ </i>, <i>jrr </i>, <i>mꜣꜣ</i>, <i>wnn</i></entry>
+              <entry><i>ḏḏ </i>, <i>jrr </i>, <i>m</i>ꜣꜣ, <i>wnn</i></entry>
             </row>
             <row>
               <entry>10120</entry>
@@ -172,22 +173,22 @@
             </row>
             <row>
               <entry>10720</entry>
-              <entry>SK.<i>kꜣ</i>-.akt.kzl</entry>
+              <entry>SK.<i>k</i>ꜣ-.akt.kzl</entry>
               <entry/>
             </row>
             <row>
               <entry>10730</entry>
-              <entry><i>kꜣ</i> SK.akt.kzl</entry>
+              <entry><i>k</i>ꜣ SK.akt.kzl</entry>
               <entry/>
             </row>
             <row>
               <entry>10760</entry>
-              <entry>SK.<i>kꜣ</i>-.akt.gem</entry>
+              <entry>SK.<i>k</i>ꜣ-.akt.gem</entry>
               <entry/>
             </row>
             <row>
               <entry>10770</entry>
-              <entry><i>kꜣ</i> SK. akt.gem</entry>
+              <entry><i>k</i>ꜣ SK. akt.gem</entry>
               <entry/>
             </row>
             <row>
@@ -197,17 +198,17 @@
             </row>
             <row>
               <entry>10790</entry>
-              <entry><i>kꜣ</i> SK.-<i>tw</i>-pass.kzl</entry>
+              <entry><i>k</i>ꜣ SK.-<i>tw</i>-pass.kzl</entry>
               <entry/>
             </row>
             <row>
               <entry>10820</entry>
-              <entry>SK.<i>kꜣ</i>-.<i>tw</i>-pass.gem</entry>
+              <entry>SK.<i>k</i>ꜣ-.<i>tw</i>-pass.gem</entry>
               <entry/>
             </row>
             <row>
               <entry>10830</entry>
-              <entry><i>k3</i> SK.-<i>tw</i>-pass.gem</entry>
+              <entry><i>k</i>ꜣ SK.-<i>tw</i>-pass.gem</entry>
               <entry/>
             </row>
             <row>
@@ -218,7 +219,7 @@
             <row>
               <entry>10850</entry>
               <entry>SK.<i>t</i>-.akt.gem</entry>
-              <entry><i>sꜣꜣ.t=f</i></entry>
+              <entry><i>s</i>ꜣꜣ<i>.t=f</i></entry>
             </row>
             <row>
               <entry>10860</entry>
@@ -326,7 +327,7 @@
             </row>
             <row>
               <entry>14000</entry>
-              <entry>SK after aux.<i>ꜥḥꜥ.n</i></entry>
+              <entry>SK after aux.ꜥ<i>ḥ</i>ꜥ<i>.n</i></entry>
               <entry>SK.kzl.,<i>.n</i>-,.<i>w</i>-form</entry>
             </row>
             <row>
@@ -358,7 +359,7 @@
         </tgroup>
       </table>
     </p>
-    <p>Example: <i>ꜥḥꜥ.n sḏm.n=sn</i>: <i>ꜥḥꜥ.n</i> + 14389 + <i>=sn</i></p>
+    <p>Example: ꜥ<i>ḥ</i>ꜥ<i>.n sḏm.n=sn</i>: ꜥ<i>ḥ</i>ꜥ<i>.n</i> + 14389 + <i>=sn</i></p>
     <p/>
     <p><b>Negated suffix conjugation</b> (100000)</p>
     <p>Negation words are encoded separately; the negation is encoded at the verbal form: place the
@@ -396,7 +397,7 @@
             <row>
               <entry>5</entry>
               <entry><i>n-zp/jw,t-zp </i>+ SK</entry>
-              <entry><i>n-zp: </i>indicative; <i>jw,t-zp </i>subjunktive</entry>
+              <entry><i>n-zp: </i>indicative; <i>jw,t-zp </i>subjunctive</entry>
             </row>
             <row>
               <entry>6</entry>

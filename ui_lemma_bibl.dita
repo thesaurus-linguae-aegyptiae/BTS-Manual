@@ -7,8 +7,8 @@
     <p>
       <ul id="ul_o4n_dy2_cv">
         <li><b>Bibliographical text field:</b> Here you can enter the bibliographical data manually.
-          You can only use this field for time being as the function below is unavailable. Divide
-          your bibliographical items with a semi-colon ";".<p>Example: Wb 1, 25; EAG § 159;
+          You can only use this field for the time being as the function below is unavailable.
+          Divide your bibliographical items with a semi-colon ";".<p>Example: Wb 1, 25; EAG § 159;
             Schenkel, Einf., 105; ENG §§ 59-64; JWSpG § 216</p></li>
       </ul>
     </p>
@@ -27,12 +27,12 @@
             </ul>
             <ul id="ul_vgm_drm_hx">
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
-                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected
                 thesaurus entry. </li>
             </ul>
             <ul id="ul_gc3_grm_hx">
               <li><b>Pages/plates:</b> Enter the pages/plate number for the bibliographical item and
-                select the relevant check boxes.</li>
+                select the relevant check-boxes.</li>
               <li><b>Comment:</b> Use this field to comment on your reference.</li>
             </ul>
             <ul id="ul_qt3_jrm_hx">

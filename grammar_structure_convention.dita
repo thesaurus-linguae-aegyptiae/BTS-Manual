@@ -18,7 +18,7 @@
             </row>
             <row>
               <entry>space</entry>
-              <entry>All words, including suffix pronouns, are separated by space.</entry>
+              <entry>All words, including suffix pronouns, are separated by space</entry>
             </row>
             <row>
               <entry>:</entry>
@@ -46,7 +46,7 @@
             </row>
             <row>
               <entry>~</entry>
-              <entry>syllabic writings, e.g. <i>gꜣ~wꜣ~šꜣ</i></entry>
+              <entry>syllabic writings, e.g. <i>g</i>ꜣ<i>~w</i>ꜣ<i>~š</i>ꜣ</entry>
             </row>
             <row>
               <entry/>
@@ -214,6 +214,7 @@
     </p>
     <p/>
     <p><b>Stem Modification</b></p>
+    <p>Stem modification (e.g. gemination) is marked with "!".</p>
     <p>
       <table id="table_lsj_gkb_lt">
         <tgroup cols="1">
@@ -229,13 +230,14 @@
               <entry><i>wn! =f (wnn)</i></entry>
             </row>
             <row>
-              <entry><i>mꜣn! =f</i></entry>
+              <entry><i>m</i>ꜣ<i>n! =f</i></entry>
             </row>
           </tbody>
         </tgroup>
       </table>
     </p><p/>
     <p><b>Compound Words</b></p>
+    <p>Compound words are written with hyphen (-)</p>
     <p>
       <table id="table_gvd_3kb_lt">
         <tgroup cols="1">
@@ -291,7 +293,7 @@
               <entry>a title</entry>
             </row>
             <row>
-              <entry><i>ḥꜣ.tj-ꜥ-n-Nḫb</i></entry>
+              <entry><i>ḥ</i>ꜣ<i>.tj-</i>ꜥ<i>-n-Nḫb</i></entry>
               <entry>a title</entry>
             </row>
             <row>
@@ -305,7 +307,8 @@
     <p/>
     <p><b>Cartouches, Serekhs etc.</b></p>
     <p>Cartouches "𓍹 ... 𓍺", Serekhs "𓉘 ... 𓊂", and enclosures of places names "𓊆 ... 𓊇" etc.
-      are treated as determinatives and are thus not represented in the transliteration. </p>
+      are treated as determinatives and are represented not in the transliteration but in the
+      hieroglyphic encoding (see <xref href="howto_specialsigns.dita"/>).</p>
     <p/>
     <p><b>Verse Points</b></p>
     <p>Verse points are represented in the transliteration (not hieroglyphic encoding) with the

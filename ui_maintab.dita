@@ -56,7 +56,9 @@
     <p>
       <ul id="ul_n3f_5jy_bv">
         <li><b>Review State:</b> Defines the Review State of the database object (published,
-          reviewed, awaiting-update, awaiting-review, new, or transformed awaiting update). </li>
+          reviewed, awaiting-update, awaiting-review, new, or transformed awaiting update). See
+          section <xref href="howto_create_corpusobject.dita#ul_n52_nhq_3x">Defining the Review
+            State)</xref> for more detail.</li>
       </ul>
     </p>
     <p>

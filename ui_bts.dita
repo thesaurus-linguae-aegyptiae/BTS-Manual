@@ -11,7 +11,7 @@
     <p>
       <ul id="ul_esg_5qc_lx">
         <li>The <xref href="ui_menubar.dita">Menu bar</xref> allows you to create and edit projects,
-          provides access to configuration windows and system preferences.</li>
+          and provides access to configuration windows and system preferences.</li>
       </ul>
     </p>
     <p>
@@ -27,8 +27,8 @@
           list (Lemma View), working on the thesauri (Thesaurus View) or creating abstract texts
           (Abstract Text View); the Views can be accessed via the Toolbar. The workspace of each
           view is subdivided into four windows, marked with colors on the schema below: the
-          Navigator window on the left (yellow), the Editor window in the top center (blue), the
-          Passport Editor window in the bottom center (green) and the Annotation window on the right
+          Navigator window on the left (yellow), the Editor window in the top middle (blue), the
+          Passport Data Editor window in the bottom middle (green) and the Annotation window on the right
           (red).</li>
       </ul>
     </p>

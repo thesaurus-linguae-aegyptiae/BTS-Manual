@@ -7,9 +7,9 @@
       script, e.g. in the title <i>ḥm-nṯr</i> or the preposition <i>ḫft</i> which is usually written
       with <i>t</i> before <i>f</i>.</p>
   <p><i>When the inverted words do not form a single lemma</i>, e.g. an inverted writing of <i>mj
-        Rꜥw</i>, encode each word with the signs that belong to it. The inverted sign-sequence
-      cannot be reproduced / depicted with the hieroglyphs, but use the option "Select Single Glyph"
-      to mark such inversions (see below).</p>
+        R</i>ꜥ<i>w</i>, encode each word with the signs that belong to it. The inverted
+      sign-sequence cannot be reproduced / depicted with the hieroglyphs, but use the option "Select
+      Single Glyph" to mark such inversions (see below).</p>
   <p><i>When the inversion occurs while the word boundaries are broken</i>, e.g. <image
         href="Images/Hypszer/Handbuch-Screenschots/Hieros.jpg" id="image_hdj_gzt_mr"/> ,the signs
       have to be assigned to the words they belong to (in this case V30+G7 and I9 separately). The
@@ -17,10 +17,11 @@
       option "Select Single Glyph" to mark such inversions (see below).</p>
     <p><b>Select Single Glyphs</b></p>
   <p>This function is available for the last two types of inversions. To mark the correct position
-      of G7's determinative, select it using the buttons |&lt;, &lt;, >, and >|. The selected sign
-      will be marked red. After that set the "Order in Sentence" to the position where the sign
-      occurs in the manuscript. Then do the same with the I9 sign. In the example below G7 and I9
-      have to switch to positions 7 and 6 accordingly. </p>
+      of the determinative (G7, "falcon of Horus on a standard") select it using the buttons |&lt;,
+      &lt;, >, and >|. The selected sign will be marked red. After that set the value "Order in
+      Sentence" to the position number under which the sign occurs in the manuscript. Then do the
+      same with the I9 character ("horned viper"). In the example below G7 and I9 have to switch the
+      positions from 6 to 7 (G7) and from 7 to 6 (I9) accordingly. </p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Inversion.png"
     id="image_rbc_12y_st"/></p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Inversion2.png"

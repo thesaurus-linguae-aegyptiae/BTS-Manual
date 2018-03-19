@@ -8,7 +8,7 @@
       the number of lost words. If a word or a sequence of words is illegible or only partly
       legible, use underscores, e.g. "_b_"; "n_[_],t"; "[_]_[_]"; [___].pl etc. In some cases it
       might be possible to determine a missing word's class, number, and gender, and so there are
-      entries in the lemma list for each of these options with which you can lemmatize the notes
+      entries in the lemma list for each of these options, with which you can lemmatize the notes
       above. To do this you have to search the WCN number via the search function (see <xref
         href="howto_lemmatizing.dita"/>); the following list shows the relevant WCN numbers.</p>
     <p> </p>

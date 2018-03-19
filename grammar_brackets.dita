@@ -96,11 +96,11 @@
      nfr]</i>).</p>
    </li>
    <li>Brackets can be combined as long as the bracket opened last is the next one to be closed,
-    e.g. <i>[ḫp(r)]</i>, <i>⸢ḫp(r)⸣</i>, <i>⸮[ḫ]p(r)?</i> etc. Interlacing different kinds of
-    brackets is not valid, e.g. <i>⸮[ḫ?]pr</i>.<p>NOTE: Some combinations of round and double round
+    e.g. <i>[ḫp(r)]</i>, ⸢<i>ḫp(r)</i>⸣, <i>[ḫ]p(r)?</i> etc. Interlacing different kinds of
+    brackets is not valid, e.g. <i>[ḫ?]pr</i>.<p>NOTE: Some combinations of round and double round
      brackets result in errors, even if they are valid. For example <i>((n(,j)))</i> is not valid in
      the BTS grammar. In such cases, use the dummy sign "⁝⁝" (i.e. two "⁝"; see <xref
-      href="intro_keyboard.dita"/>), e.g. <i>((n(,j)⁝⁝))</i>.</p></li>
+      href="intro_keyboard.dita"/>), e.g. <i>((n(,j)</i>⁝⁝<i>))</i>.</p></li>
   </ul>
  </conbody>
 </concept>

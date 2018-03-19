@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_yqt_fpq_zs">
-  <title>Description of User rights</title>
+  <title>Description of User Rights</title>
   <body>
     <p>Access rights, which different users have to database objects, are conditioned by the
       following criteria: </p>
@@ -25,8 +25,8 @@
     <p>
       <ul id="ul_lzg_jpm_ft">
         <li>Access all entries in the drop-down menu "Window".</li>
-        <li>Access "Preferences / Database Manager".</li>
-        <li>Adjust individual settings in "Preferences / Preferences".</li>
+        <li>Access "Preferences/Database Manager".</li>
+        <li>Adjust individual settings in "Preferences/Preferences".</li>
         <li>Access all options in the drop-down menu "Help".</li>
       </ul>
     </p>
@@ -41,22 +41,17 @@
         href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref> in the corpus "bbawamarna", but
       a <xref href="UserRoles_Transcriber.dita#topic_k1v_znv_bt">Transcriber</xref> in the corpus
       "bbawbriefe". </p>
-    <p>NOTE: Unless specifically set by a BTS administrator, the default user role is <xref
+    <p>NOTE: Unless specifically set by a BTS Administrator, the default user role is <xref
         href="UserRoles_Guest.dita#topic_bvq_b4v_bt">Guest</xref>.</p>
     <p><b>User status</b></p>
-    <p>The status of <i>Reader</i> or <i>Updater</i> can be assigned to an user with respect to
-      specific database objects. E.g. a researcher with the status of Updater can edit all items in
-      a given corpus. If his / her status is changed to Reader, the user will only be able to view
-      the items. The Updater and Reader status with regard to specific database objects in a corpus
-      can be assigned to a user by an <xref href="UserRoles_Admin.dita#topic_ih3_blv_bt"
-        >Admin</xref>, <xref href="UserRoles_Editor.dita#topic_mvz_rmv_bt">Editor</xref>, or <xref
-        href="UserRoles_Researcher.dita#topic_atn_xnv_bt">Researcher</xref> (the latter needs to
-      have the Updater status) of a given corpus. This is done by right-clicking on a database
-      object, selecting "Edit Updaters / Readers", and assigning a user to a user status through the
-      menu on the right.</p>
-    <p>NOTE: Obtaining the Reader / Updater status for an entire corpus does not extend to
-      individual items within that corpus; such a status has to be assigned for every database
-      object which the user is allowed to edit.</p>
+    <p>The status of <i>Reader</i> or <i>Updater</i> can be assigned to a user with respect to
+      specific database objects. This is done by right-clicking on a database object, selecting
+      "Edit Updaters/Readers", and assigning a user to a user status through the menu on the right.
+      A Researcher with the status of Updater can edit database objects; if their status is changed
+      to Reader, the user will only be able to view the database objects.</p>
+    <p>NOTE: Obtaining the Reader/Updater status for an entire corpus does not extend to individual
+      items within that corpus; such a status has to be assigned for every database object which the
+      user is allowed to edit.</p>
     <p><b>Visibility type</b></p>
     <p>Another factor restricting user rights is the <i>Visibility type</i> of a database object,
       which can be set in the Main tab of the <xref href="ui_passporteditor.dita">Passport
@@ -64,8 +59,8 @@
       Authenticated. Depending on the visibility type of a database object, it may only be available
       for viewing or editing to the users with the necessary rights. </p>
     <p/>
-    <p>Default visibility type is "public", unless another setting has been made in "Preferences /
-      Corpus Navigator Settings" (see chapter  <xref href="ui_berlintextsystem.dita"
+    <p>Default visibility type is "public", unless another setting has been made in
+      "Preferences/Corpus Navigator Settings" (see chapter <xref href="ui_berlintextsystem.dita"
         >Preferences</xref>). The default visibility applies to all newly created database objects,
       which also includes annotations, rubra, comments etc. A change in the visibility status of a
       parent database object does not affect the status of any of its children. </p>

@@ -4,7 +4,7 @@
  <title>Transliteration</title>
  <conbody>
   <p>To enter or edit the transliteration of your texts, click on the "Transliteration" tab of the
-        <xref href="ui_texteditor_e10.dita">Text Editor</xref> in the top centre of the Text Corpus
+        <xref href="ui_texteditor_e10.dita">Text Editor</xref> in the top center of the Text Corpus
       view.</p>
   <p/>
     <p><b>1. Segmentation of a text</b></p>
@@ -15,11 +15,12 @@
       <ul id="ul_yp5_2sz_2x">
         <li>Main and subordinate clauses (e.g. relative clause  with <i>n.tj</i>, <i>jw.tj</i>) </li>
         <li>The emphatic (2nd tense) construction and its (adverbial) extension.</li>
-        <li>Protasis and apodosis of a conditional clause (e.g. <i>jr ḏd=f nj ꜥnḫ=f pw</i>).</li>
+        <li>Protasis and apodosis of a conditional clause (e.g. <i>jr ḏd=f nj </i>ꜥ<i>nḫ=f
+          pw</i>).</li>
         <li>Subjunctive clauses and clauses introduced by <i>wn.t</i>, <i>n.tjt</i>, or
             <i>jw.tjt</i> together with the main clause.</li>
-        <li>Prepositional clauses and the main clause (e.g. <i>ḫr m-ḫt hrw.w 3 swꜣw ḥr nn</i> + main
-          clause + <i>r rdj.t</i> ...).</li>
+        <li>Prepositional clauses and the main clause (e.g. <i>ḫr m-ḫt hrw.w 3 sw</i>ꜣ<i>w ḥr nn</i>
+          + main clause + <i>r rdj.t</i> ...).</li>
       </ul>
     </p>
    <p>The following are treated as separate sentences: </p>
@@ -166,7 +167,7 @@
           </ul><p>NOTE: You cannot use a colon between "#" more than once, e.g. #lc: [1:4]# is not
             valid.</p><p>NOTE: You cannot use a colon directly after or directly before
             "#".</p><p>NOTE: The line count provided by BTS in the Text Editor is only temporary and
-            refers to lines in BTS (not the original text). It changes at each line break.</p></li>
+            refers to lines in BTS (not the original text). </p></li>
       </ul>
     </p>
    <p>
@@ -201,12 +202,12 @@
       counts (#lc: ...#), and --2Q--, are not allowed within ambiguity markers.</p>
     <p/>
     <p><b>7. Using Templates</b></p>
-    <p>It is possible to use templates to speed up the transliteration process. A list of templates
-      is offered once you right mouse-click in text input field of the Text Editor and select
-      "Content Assist", or when you press "CRTL+Spacebar". The position of the cursor (i.e. is it
-      within a sentence / word or outside a sentence marked by §§) determines what set of templates
-      you can select from. You can alter these positions by changing the "Context" of your templates
-      (for more details see chapter <xref href="howto_templates.dita"/>).</p>
+    <p>You can use templates to speed up the transliteration process. A list of templates is offered
+      once you right mouse-click in text input field of the Text Editor and select "Content Assist",
+      or when you press "CRTL+Spacebar". The position of the cursor (i.e. is it within a
+      sentence/word or outside a sentence marked by §§) determines which set of templates you can
+      select from. You can alter these positions by changing the "Context" of your templates (for
+      more details see chapter <xref href="howto_templates.dita"/>).</p>
     <p/>
     <p><b>8. Copy&amp;Paste functions</b></p>
     <p>BTS supports copy&amp;paste function within the same or different texts.</p>
@@ -273,8 +274,8 @@
    <p>NOTE: You are not allowed to "Paste with Lemmata" into an empty text. You will first need to
       enter a dummy text and press "Load Text Lemmata" or switch to the Sign Text Editor and back.
       After pasting your text you can then delete the dummy.</p>
-    <p>NOTE: The sentence you want to copy, in addition to the sentence in, before, or after which
-      you want to paste the copied sentence must be active. Activation is shown by the sign <image
+    <p>NOTE: The sentence you want to copy, in addition to the sentence before, after or in which
+      you want to paste the copied sentence, must be active. Activation is shown by the sign <image
         href="Images/icons/full/icon16/locale.png" id="image_szd_1fs_2x"/> directly to the left of
       the sentence. It might take some time or a switch between database objects, before the
       sentence is activated (compare note on <xref href="howto_translation.dita">translation</xref>

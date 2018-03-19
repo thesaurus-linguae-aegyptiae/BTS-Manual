@@ -9,8 +9,8 @@
       therefore essential that you lemmatize your text correctly.</p>
     <p><b>Opening and activating the lemmatizer</b></p>
     <p>To lemmatize a transliterated text you need two tabs open: <xref
-        href="ui_texteditor_e10.dita">Sign Text Editor</xref> (default location: top centre) and
-        <xref href="ui_lemmatizer.dita">Lemmatizer</xref> (default location: bottom centre; note
+        href="ui_texteditor_e10.dita">Sign Text Editor</xref> (default location: top center) and
+        <xref href="ui_lemmatizer.dita">Lemmatizer</xref> (default location: bottom center; note
       that the title of this tab changes as soon as you select a database object in the Navigator
       tab). Only non-grey tokens in the "Sign Text Editor" are lemmata and can be lemmatized. </p>
     <p><image href="Images/STE.png" id="image_erk_k3s_2x"/></p>
@@ -25,7 +25,7 @@
             activated).<p>NOTE: You should always deactivate the Lemmatizer after you have finished
             the lemmatization to avoid unintentional lemmatizations.</p></li>
         <li>"Selected Word" displays the transliteration of the lemma selected in the "Sign Text
-          Editor". In the example above <i>wbn</i> has already been lemmatized, so the other fields
+          Editor". In the example above, <i>wbn</i> has already been lemmatized so the other fields
           are filled out. If you find out that you have made an error in the transliteration, you
           should modify it in the "Selected Word" field; the change will be updated in the
           Sign-Text-Editor and the Transliteration tab automatically. Note that the lemmatizer will
@@ -45,9 +45,9 @@
           appropriate code (see <xref href="grammar_inflection.dita"/>).</li>
         <li>In the field "Translation" you can choose one or several translations from the lower
           field; to choose several left-click and hold CTRL at the same time. If none of the options
-          seems suitable, you can enter your own translation instead. Make sure you have selected
-          the right language in the drop-down menu on the right; the only choices currently
-          available are German and English. </li>
+          seem suitable, you can enter your own translation instead. Make sure you have selected the
+          right language in the drop-down menu on the right; the only choices currently available
+          are German and English. </li>
       </ol>
     </p>
     <p><b>Organization of the lemma list</b></p>

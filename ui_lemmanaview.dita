@@ -3,10 +3,12 @@
 <concept id="concept_llt_1kd_4r">
  <title>Lemma View</title>
  <conbody>
-  <p>Lemma View can be activated by left-clicking the Lemma icon in the <xref
+  <p>Lemma View can be activated by left-clicking the Lemma icon <image
+        href="Images/icons/full/icon16/lemmata.png" id="image_ffx_yyx_qt"/> in the <xref
         href="ui_toolbar_e3.dita">Toolbar</xref>. Any user can see the contents of the Lemma View,
       but the ability to modify it is restricted to certain <xref
         href="user_roles.dita#topic_yqt_fpq_zs">user roles</xref>. </p>
+    <p/>
     <p>In the Lemma View, authorized users can add and edit lemma entries, including their
       transliteration, hieroglyphic spellings, and metadata.</p>
     <p>NOTE: This chapter provides a general description of the Workspace with its windows and tabs.
@@ -15,7 +17,7 @@
     <p>If a lemma entry you need is missing, please send a proposal to the BTS team:
       aegypt1@bbaw.de. </p>
     <p>The Lemma View contains four sections: Lemma Navigator on the left (marked yellow on the
-      screen-shot), Lemma Editor (top center, marked blue), Passport Editor, which includes
+      screen-shot), Lemma Editor (top center, marked blue), Passport Data Editor, which includes
       Lemmatizer and Hieroglyphic Type Writer (center bottom, marked green) and Annotation (on the
       right, marked red). </p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Lemma-view_new.png"

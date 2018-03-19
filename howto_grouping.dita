@@ -11,10 +11,8 @@
             text and want to look for words that fit the lacuna). For details on the encoding of
             hieroglyphs and hieroglyphic groups see <xref href="guidelines_hieroglyphs.dita"/>.</p>
   <p><b>1. If you decide not to group hieroglyphs</b>, use a hyphen between the single hieroglyphs
-      and encode the signs according to their sequence in the text. For the BTS sequence conventions
-      see chapter 2.1 <xref href="Hieroglypheneingabe_Richtlinien.pdf" format="pdf"><image
-          href="Images/icons/Adobe_PDF_file_icon_24x24.png" id="image_bxp_nzk_sx"/> Guidelines for
-        the encoding of hieroglyphs</xref>.</p>
+            and encode the signs according to their sequence in the text. For the BTS sequence
+            conventions see the next chapter <xref href="guidelines_hieroglyphs.dita"/>.</p>
   <p><b>2. If you group hieroglyphs</b>, you can also use ":" and "*". Grouping with "&amp;" is not
       allowed, because this alters the sequence of hieroglyphs, e.g. "d&amp;D" would produce the
       correct appearance of the hieroglyphic group but it would imply the sequence "d-D" for

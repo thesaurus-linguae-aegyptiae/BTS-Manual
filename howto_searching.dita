@@ -7,16 +7,16 @@
       Thesaurus). </p>
     <p>In the toolbar of the Navigator click on the search icon <image
         href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>. A window will appear
-      with an input field and two check boxes:</p>
+      with an input field and two check-boxes:</p>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/Search_Function.png"
         id="image_fkx_zr2_vt"/></p>
-    <p>The search works as a full-text search. Therefore, the search is performed on the name of the
-      database object, its metadata, and its textual data (i.e. the transliteration, translation
-      etc.). Spaces and hyphens between words in the search field are interpreted as separate words.
-      The search terms are combined with the operator OR, so when you search for "Papyrus Westcar",
-      the program will look for "Papyrus" and "Westcar" separately, and present you with the results
-      that contain Papyrus and/or Westcar. If you want to search for whole phrases you will have to
-      put it in the quotation marks in the search field.</p>
+    <p>The search works as a full-text search meaning it is performed on the name of the database
+      object, its metadata, and its textual data (i.e. the transliteration, translation etc.).
+      Spaces and hyphens between words in the search field mean those words are interpreted as
+      separate words. The search terms are combined with the operator OR, so when you search for
+      "Papyrus Westcar", the program will look for "Papyrus" and "Westcar" separately, and present
+      you with the results that contain Papyrus and/or Westcar. If you want to search for whole
+      phrases, you will have to put it in the quotation marks in the search field.</p>
     <p>Your search results will be organised alphabetically; if there are a lot of results, these
       will be collected into groups. The order of the results does not reflect the order of database
       objects in the Navigator Tree.</p>

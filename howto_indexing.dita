@@ -16,8 +16,8 @@
       indexed properly. Yellow and red indicate that a problem has occurred in this corpus;
       additionally, the status of the corpus will be displayed in the "Status" column (OK- green,
       ERROR- red or INDEXING...- yellow). The column "Index Doc Count" shows the number of the
-      already indexed documents in this corpus, and the "% indexed" column shows the percentage of
-      the indexing process.</p>
+      already indexed documents in this corpus, and the "% indexed" column shows the percentage
+      level of completion of the indexing process.</p>
     <p><b>Re-Indexing</b></p>
     <p>BTS indexes the databases automatically when it receives new data from the server, but
       sometimes this process produces errors and requires manual re-indexing, causing the "Database
@@ -30,9 +30,9 @@
     <p>Re-indexing has three options: </p>
     <p>- Re-index all</p>
     <p>- Re-index all non-OK (only re-indexes those collections with errors)</p>
-    <p>- Re-index individual DB collection. </p>
-    <p>To re-index individual collections, select them by left-click, scroll to the right of the
-      table, and click on "Re-index" in the most right column.</p>
+    <p>- Re-index individual DB collection </p>
+    <p>To re-index individual collections, select them by left-clicking, scroll to the right of the
+      table, and click on "Re-index" in the rightmost column.</p>
     <p><b>Close</b></p>
     <p>Close the "Database Manager" window by clicking the "Close" button in the lower right corner. </p>
     <p/>
@@ -40,8 +40,8 @@
       especially the databases, word lists, and theasauri you will be working with.</p>
     <p>NOTE: The items "_recplicator" and "_uses" cannot be indexed and are always marked in red.
       You do not have to re-index these items.</p>
-    <p>NOTE: Indexing and re-indexing is specific to the BTS on your computer, and not to your
-      account, meaning that if someone already indexed the database before you, when you login the
+    <p>NOTE: Indexing and re-indexing is specific to the BTS on your computer and not to your
+      account, meaning that if someone already indexed the database before you, when you login, the
       "Database Manager" is unlikely to open automatically with an error.</p>
   </body>
 </topic>

@@ -5,15 +5,15 @@
  <conbody>
   <p><b>Shading (a complete destruction of a hieroglyph)</b></p>
   <p>A complete destruction of the hieroglyphs (when the sign cannot be recognized anymore) is not
-      to be reconstructed in square brackets (as in the transliteration). Instead, shading is
-      applied to indicate that the destroyed sign cannot be read. The size of the destruction is not
-      important as the shading will always be same size (see screen-shot below). You can enter it by
-      using "//".</p>
+            to be reconstructed in square brackets (as in the transliteration). Instead, shading is
+            applied to indicate that the destroyed sign cannot be read. The size of the destruction
+            is not important as the shading will always be the same size (see screen-shot below).
+            You can enter it by using "//".</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Shading.png" id="image_h1k_sk2_1v"/></p>
   <p><b>Partial Destruction</b></p>
   <p>When a sign is only partially destroyed (part of it still visible and identifiable), it is
       rendered by half-square brackets. The half-square brackets are entered with [?-Hieroglyph-?]
-      (see screenshot below). Enter each partially destroyed sign separately (i.e. only one sign is
+      (see screen-shot below). Enter each partially destroyed sign separately (i.e. only one sign is
       allowed in each set of brackets).</p>
   <p><image href="Images/new%20screenshots/BTS%20Screenshots/HTW_Halbklammern.png"
     id="image_ljl_2l2_1v"/></p>

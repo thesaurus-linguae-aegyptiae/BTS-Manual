@@ -6,9 +6,9 @@
     <p>(71000)</p>
     <p>The endings of adjectives showing agreement in gender and number are encoded when the
       adjective is used attributively. To allow searches for attributive adjectives, the forms which
-      are the same as those in BWL  (i.e. sg. m.) are encoded as well. Adjectives in status
+      are the same as those in BWL (i.e. sg. m.) are encoded as well. Adjectives in status
       constructus (e.g. <i>nj-sw</i>) are transliterated with a hyphen and encoded with the endings
-      of the pronouns (see: <xref href="inflection_pronouns.dita"/>). Code 3 (i.e. form is no
+      of the pronouns (see: <xref href="inflection_pronouns.dita"/>). Code 3 (i.e. the form is no
       different to BWL) is used for independent pronouns because they always appear uninflected
       (e.g. <i>nfr-sw-</i>construction).</p>
     <p>Last digit = suffix and dependent pronoun codes (see: <xref href="inflection_pronouns.dita"
@@ -53,7 +53,7 @@
             <row>
               <entry>71100</entry>
               <entry>adj.st.cs.</entry>
-              <entry>last two digits: dependend pronouns</entry>
+              <entry>last two digits: dependent pronouns</entry>
             </row>
             <row>
               <entry>71200</entry>
@@ -88,8 +88,8 @@
             </row>
             <row>
               <entry>71260</entry>
-              <entry>adj. in SK m. Präfix <i>n</i><i>ꜣ</i></entry>
-              <entry>last digit: suffix; Late Period: [<i>n</i><i>ꜣ:nfr=f</i>]</entry>
+              <entry>adj. in SK m. Präfix <i>n</i>ꜣ</entry>
+              <entry>last digit: suffix; Late Period: [<i>n</i>ꜣ<i>:nfr=f</i>]</entry>
             </row>
           </tbody>
         </tgroup>

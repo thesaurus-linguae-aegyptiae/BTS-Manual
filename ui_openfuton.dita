@@ -3,7 +3,7 @@
 <concept id="concept_bnp_vw2_yr">
  <title>Open Futon</title>
  <conbody>
-  <p>This menu item is only available to users with administrator rights.</p>
+  <p>This menu item is only available to users with Administrator rights.</p>
   <p>Futon is a web-based Graphic User Interface (GUI) which provides a basic interface to the
             majority of the functionality of CouchDB. This is a "backdoor" to the database, allowing
             you to create, update, delete, and view documents, and access the configuration

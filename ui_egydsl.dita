@@ -4,7 +4,7 @@
   <title>EgyDsl</title>
   <body>
     <p/>
-    <p>In the "EgyDsl" menu entry (Dsl = Domain specific language) you can change the appearance of
+    <p>In the "EgyDsl" menu entry (Dsl = Domain Specific Language) you can change the appearance of
       your BTS. This includes applying different colours and scripts, as well as importing and
       editing templates.</p>
     <p/>
@@ -28,8 +28,8 @@
     <p>
       <ul id="ul_flq_r5n_y5">
         <li>Context: Choose the context where your template can be used. E.g. while your mouse is
-          position inside a word in a text, the Content Assist will only allow you to use templates
-          that have the context "WordPart". There are only two options you should use here:<p>
+          positioned inside a word in a text, the Content Assist will only allow you to use
+          templates that have the context "WordPart". There are only two options you should use here:<p>
             <ul id="ul_clg_55c_lx">
               <li>SentenceItem: For templates inside a sentence.</li>
               <li>WordPart: For templates inside a word.</li>
@@ -74,7 +74,7 @@
     </p>
     <p>Select the template you want to export from the template list and press this button to export
       it. Browse the explorer to the location where you want to save your file. Enter a name for the
-      file inside the pop-up-window and press "save".</p>
+      file inside the pop-up window and press "save".</p>
     <p/>
     <p><b>Restore Default</b></p>
     <p>Click this button to delete all templates from the list.</p>

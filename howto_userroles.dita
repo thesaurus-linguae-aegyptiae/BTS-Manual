@@ -3,7 +3,7 @@
 <topic id="topic_tck_1mn_y5">
   <title>Organizing user roles and rights</title>
   <body>
-    <p>This function is available to users with administrator rights only. </p>
+    <p>This function is available to users with Administrator rights only. </p>
     <p>To open user role administration select "Open User Manager" from the drop-down menu
       "Preferences" of the Menu bar, which opens the window "User Management". Select the tab:
       "Administrate User Roles and Rights".</p>
@@ -11,16 +11,16 @@
       a corpus and then users are assigned to existing roles (i.e. Project -> Corpus -> User Role ->
       User Name).</p>
     <p><b>1st Level: Projects</b></p>
-    <p>A list of projects is displayed in the field on the left side. Clicking on a project, will
-      show its data in the field on the right. The data include: Project ID, Project Name, Project
-      Prefix, Description, Connection Type, Server URL, and DB Path. You can also click on the blue
-      link below "Add Database Collection", and in the pop-up window give the name of the
-      collection, and check boxes "Synchronize Collection" and "Index Collection for Full Text
+    <p>A list of projects is displayed in the field on the left-hand side. Clicking on a project
+      will show its data in the field on the right. The data include: Project ID, Project Name,
+      Project Prefix, Description, Connection Type, Server URL, and DB Path. You can also click on
+      the blue link below "Add Database Collection", and in the pop-up window give the name of the
+      collection, and check-boxes "Synchronize Collection" and "Index Collection for Full Text
       Search" if needed. Clicking "OK" will add the collection to the selected project and it will
       appear at the bottom after opening the project tree.</p>
     <p><b>2nd Level: DB Collections</b></p>
     <p>For each collection the data will also be displayed on the right. "DB Collection Name" is
-      shown but cannot be edited. Two check boxes can be selected: "Synchronize with Server" and
+      shown but cannot be edited. Two check-boxes can be selected: "Synchronize with Server" and
       "Index Collection". Below is a drop-down menu "Create New Roles Description", where you can
       choose between admins, editors, researchers, transcribers, or guest roles for the users. After
       selecting one option from the drop-down menu, click on the blue link "Add New User Roles

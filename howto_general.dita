@@ -2,5 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_oyn_2lg_mr">
  <title>General user guide: How to edit a text</title>
- <conbody/>
+ <conbody>
+  <p>The following instructions are intended for users with basic user rights. All features covered
+   here also apply to users with Editor and Administrator rights.</p>
+  <p>When you start up BTS, enter your username and password (if you clicked “Remember Me” login
+   should happen automatically). Please be aware that login can take a few minutes as the program
+   automatically loads the Database Manager during start-up. This is so that you can check whether
+   your databases are indexed correctly before beginning work (see <xref href="howto_indexing.dita"
+   />). The program will also notify you of any updates at this point; please note that installing
+   updates means you will then have to restart BTS.</p>
+ </conbody>
 </concept>

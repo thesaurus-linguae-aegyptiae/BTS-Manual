@@ -23,7 +23,7 @@
                 itself and not metadata like the other information you can enter into the Passport
                 Editor. Alternatively, you can use the comment field.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_jt4_ttf_hx"/>
-                <b>Open Object in Passport Editor:</b> Displays the Passport Data of the selected
+                <b>Open Object in Passport Data Editor:</b> Displays the Passport Data of the selected
                 thesaurus entry.</li>
               <li><b>Comment:</b> Add a comment on the language.</li>
             </ul>
@@ -38,7 +38,7 @@
               <li><image href="Images/icons/full/icon16/search.png" id="image_spl_4bm_hx"/>
                 <b>Search Object:</b> Select the script from the Thesaurus.</li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_xvh_rbm_hx"/>
-                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
               <li><b>Comment:</b> Add a comment on the script.</li>
             </ul>
@@ -55,7 +55,7 @@
                   for this field is currently unavailable. Please use the comment field
                 instead.</p></li>
               <li><image href="Images/Icons_updated/full/icon16/passport.png" id="image_xmn_rbm_hx"/>
-                <b>Open Object in Passport Editor:</b> Displays the passport data of the selected
+                <b>Open Object in Passport Data Editor:</b> Displays the passport data of the selected
                 thesaurus entry.</li>
               <li><b>Comment:</b> Add a comment on the text type.</li>
             </ul>

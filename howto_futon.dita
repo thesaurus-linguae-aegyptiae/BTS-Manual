@@ -3,9 +3,9 @@
 <topic id="topic_usg_nz4_kx">
   <title>Opening the Futon and Elastic Search Graphic User Interface</title>
   <body>
-    <p>This feature is only available to users with administrator rights.</p>
-    <p>The administrator can open the Futon and the "Elastic Search" Graphic User Interface (GUI)
-      via "Window"/"Open Futon" or "Window"/"Open ES GUI", respectively, in the Menu bar.</p>
+    <p>This feature is only available to users with Administrator rights.</p>
+    <p>The Administrator can open the Futon and the "Elastic Search" Graphic User Interface (GUI)
+      via "Window"/"Open Futon" or "Window"/"Open ES GUI" respectively, in the Menu bar.</p>
     <p><b>Open Futon</b></p>
     <p>Futon is a web-based GUI which provides a basic interface to the majority of the
       functionality of CouchDB. This is a "backdoor" to the database, allowing you to create,

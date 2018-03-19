@@ -57,15 +57,15 @@
             center</b>
         </p>
         <p>At the bottom, three tabs are grouped together in one window. The Text Corpus and Lemma
-          views display all three. Thesaurus and Abstract Text views have only the "Passport Data
-          Editor" tab. </p>
+          views display all three. The Thesaurus and Abstract Text views have only the "Passport
+          Data Editor" tab. </p>
         <p>NOTE: As soon as a database object is selected in the Navigator window, the titles of the
           tabs "Text Editor", "Passport Data Editor", "Lemmatizer", and "Translation" adopt the
           selected database object name.</p>
       </li>
       <li><b>"Annotation and Translation" window on the right</b></li>
     </ul>
-    <p>In Lemma, Thesaurus, and Abstract Text views the "Translation" tab is not displayed.</p>
+    <p>In the Lemma, Thesaurus, and Abstract Text views the "Translation" tab is not displayed.</p>
     <p/>
     <p><image href="Images/new%20screenshots/BTS%20Screenshots/BTS.png" id="image_knr_fdx_st"/></p>
   </body>

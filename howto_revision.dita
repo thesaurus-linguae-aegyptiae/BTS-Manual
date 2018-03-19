@@ -8,10 +8,10 @@
         href="Images/icons/full/icon16/history.png" id="image_cck_fs4_kx"/> in the Menu bar, you can
       open the revision history of the selected database object in order to compare different
       versions and to restore a previous version.</p>
-    <p>The Revision History window is divided into two parts. The left side displays the master
-      version, i.e. the current version. The right side shows the previous saved versions ("Select
-      Compare Version").</p>
-    <p>In the lower part there are the usual tabs, e.g. Passport Editor and Egyptian Text Editor,
+    <p>The Revision History window is divided into two parts. The left-hand side displays the master
+      version, i.e. the current version. The right-hand side shows the previous saved versions
+      ("Select Compare Version").</p>
+    <p>In the lower part there are the usual tabs, e.g. Passport Data Editor and Egyptian Text Editor,
       for the database object. Select a past version by left-clicking to compare it to the current
       version. You can navigate between the tabs to see the changes made in the respective
       versions.</p>
@@ -28,9 +28,9 @@
     <p>NOTE: a padlock symbol on a database object's icon in the Navigator Tree shows which texts
       other users are currently working on; please try not to work on texts which are already in
       use.</p>
-    <p>The window is divided into two parts: the left side displays the current version; the right
-      side shows the conflicting versions.</p>
-    <p>In the lower part there are the usual tabs, e.g. Passport Editor and Egyptian Text Editor,
+    <p>The window is divided into two parts: the left-hand side displays the current version; the
+      right-hand side shows the conflicting versions.</p>
+    <p>In the lower part there are the usual tabs, e.g. Passport Data Editor and Egyptian Text Editor,
       for a database object. Select a conflicting version by left-clicking to compare it to the
       current version. You can navigate between the tabs to see the changes made in the respective
       versions. </p>

@@ -20,8 +20,8 @@
           hieroglyphs for a text.</li>
         <li>You can enter a translation for your lemma in the field below (make sure to choose the
           language of your translation beforehand).</li>
-        <li>Add information on transliteration, part of speech, and review state in the main tab of
-          the Passport Editor.</li>
+        <li>Add information on the transliteration, part of speech, and review state in the main tab
+          of the Passport Data Editor.</li>
         <li>Add a bibliographical reference in the <xref
             href="ui_lemma_passporteditor.dita#concept_ws4_2pd_4r">Passport
           Editor</xref>.</li>
@@ -37,7 +37,7 @@
     </p>
     <p></p>
     <p><b>Transliteration</b></p>
-    <p>The lemma transliteration section is identical to <xref
+    <p>The lemma transliteration section is identical to that in the <xref
         href="ui_texteditor_e10.dita#concept_f4v_hqm_mr">Text Editor</xref>. Transliterate the lemma
       in this field between the "§" signs (so that the "§" marks the beginning and the end of the
       lemma), otherwise the lemma will not be valid. </p>

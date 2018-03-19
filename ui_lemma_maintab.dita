@@ -19,17 +19,17 @@
       <ul id="ul_mwv_clf_cv">
         <li><b>SortKey:</b> By default all lemmata on the same level have "0" as a sort key and are
           thus sorted alphabetically. Defining a "SortKey" in the Passport data of the database
-          object will change its position in relation to other database objects, with "0" at the
-            top.<p>NOTE: If your database object is in a poly-hierarchical relations, changes in the
-            sortkey apply to all of its relationships.</p></li>
+          object (lemma) will change its position in relation to other database objects (lemmata),
+          with "0" at the top.<p>NOTE: If your database object (lemma) is in a poly-hierarchical
+            relations, changes in the sortkey apply to all of its relationships.</p></li>
       </ul>
     </p>
     <p>
       <ul id="ul_rjx_dlf_cv">
         <li><b>ID:</b> Displays the ID of the lemma, which is generated automatically by BTS and
-          cannot be changed. For hieroglyphic and hieratic lemma, this ID will match that lemma's ID
-          in the TLA, for demotic lemma, this ID will be that lemma's TLA ID with the addition of a
-          "d" at the front, followed by an "m" if the TLA ID is a negative number, e.g. dm12345 or
+          cannot be changed. For hieroglyphic and hieratic lemmata, this ID will match that lemma's
+          ID in the TLA, for Demotic lemma, this ID will be that lemma's TLA ID with the addition of
+          a "d" at the front, followed by an "m" if the TLA ID is a negative number, e.g. dm12345 or
           d12345.</li>
       </ul>
     </p>
@@ -75,8 +75,8 @@
     </p>
     <p>
       <ul id="ul_afw_nlf_cv">
-        <li><b>History:</b> Click to see all historic changes of the selected lemma. Information
-          includes the username of the editor and the date of the change. To close this, click to
+        <li><b>History:</b> Click to see all historic changes to the selected lemma. Information
+          includes the username of the editor and the date of the change. To close this, click on
           another lemma. To restore a previous version of a database object, use the Open Revision
           History dialogue (see <xref href="howto_revision.dita"/>).</li>
       </ul>

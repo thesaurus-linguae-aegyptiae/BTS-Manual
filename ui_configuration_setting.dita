@@ -3,8 +3,8 @@
 <concept id="concept_fvw_qld_cs">
  <title>Edit the configuration</title>
  <conbody>
-  <p>This function is available to users with administrator rights only.</p>
+  <p>This function is available to users with Administrator rights only.</p>
   <p>This feature allows you to edit the configuration of a particular project with regard to object
-   types, revision status, visibility, options in the passport editor etc.</p>
+   types, revision status, visibility, options in the Passport Data Editor etc.</p>
  </conbody>
 </concept>

@@ -3,17 +3,17 @@
 <topic id="topic_ymm_ddc_lx">
   <title>BTS Troubleshooting</title>
   <body>
-    <p>The following list offers solutions for common problems. If the solutions do not solve your
-      individual problem or you experience problems that should be listed here, please contact the
-      BTS team: aegypt1@bbaw.de</p>
+    <p>The following list offers solutions for the most common problems. If the solutions do not
+      solve your individual problem or you experience problems that should be listed here, please
+      contact the BTS team: aegypt1@bbaw.de</p>
     <p/>
     <p>
       <ul id="ul_udn_42c_lx">
-        <li><b>BTS hangs up during starting process</b><p>Problem: BTS gets stuck during starting
-            process if it cannot get a connection to the server. This might be due to down time on
-            the server. </p><p>Solution: Disconnect your internet connection and restart BTS.
-            Without an internet connection, BTS will start in offline mode and will not try to
-            access the server.</p></li>
+        <li><b>BTS pauses during start-up</b><p>Problem: BTS gets stuck during start-up if it cannot
+            get a connection to the server. This might be due to down time on the server.
+            </p><p>Solution: Disconnect your internet connection and restart BTS. Without an
+            internet connection, BTS will start in offline mode and will not try to access the
+            server.</p></li>
       </ul>
       <ul id="ul_cwx_q2c_lx">
         <li><b>All windows and tabs have disappeared</b><p>Problem: All windows and tabs have
@@ -27,10 +27,23 @@
           Windows-XP-mode.</p></li>
       </ul>
       <ul id="ul_cw1_r2c_lx">
-        <li><b>Text Corpus Object/Text is not visible</b><p>Problem: A TCObject or a text you have
-            previously created or edited is not visible. </p><p>Solution: Right mouse-click on the
-            object and select "Refresh selected node". Alternatively, objects may not be displayed
-            if the corpus is not indexed properly. Re-index the respective corpus.</p></li>
+        <li><b>A recently created Text Corpus Object/Text is not visible</b><p>Problem: A TCObject
+            or a text you have previously created or edited is not visible. </p><p>Solution: Right
+            mouse-click on the object and select "Refresh selected node". Alternatively, objects may
+            not be displayed if the corpus is not indexed properly. Re-index the respective
+            corpus.</p></li>
+        <li><b>My recently created database object has a different save location to its position in
+            the Navigator Tree</b><p>Problem: The location in square brackets at the end of the
+            database object’s name does not match its position in the Tree.</p><p>Solution: The
+            physical save location of a database object will be your main working corpus at the time
+            of the database object’s creation; you can choose your main working corpus in
+            Preferences (see chapters <xref href="ui_preferences2.dita"/> and <xref
+              href="howto_create_corpusobject.dita"/>.</p></li>
+        <li><b>I cannot see or edit a database object which I should be able to.</b><p>Solution: You
+            may not have been ascribed the correct user role, and/or Updater/Researcher status,
+            and/or the database object may not have the correct visibility status. All of these user
+            restrictions work independently, and it only takes one to restrict your access
+            irrespective of the others (see chapter <xref href="user_roles.dita"/>).</p></li>
       </ul>
       <ul id="ul_s1c_r2c_lx">
         <li><b>Annotation is not visible</b><p>Problem: An annotation you have just added is not
@@ -38,11 +51,11 @@
             properly. Re-index the respective corpus.</p></li>
       </ul>
       <ul id="ul_tcd_bvq_sx">
-        <li><b>There are no corpus icons in the Navigator Tree or they cannot be
-            opened</b><p>Problem: After BTS opens there are no brown and black icons in the
-            Navigator tree, or they are visible but cannot be opened. This can often happen if you
-            have had to re-index the databases more than once during start-up.</p><p>Solution:
-            Something went wrong during the start-up process. Please restart BTS.</p></li>
+        <li><b>"Text Corpus Navigator" displays no icons / icons cannot be opened</b><p>Problem:
+            After BTS opens there are no brown and black icons in the Navigator tree, or they are
+            visible but cannot be opened. This can often happen if you have had to re-index the
+            databases more than once during start-up.</p><p>Solution: Something went wrong during
+            the start-up process. Please restart BTS.</p></li>
       </ul>
       <ul id="ul_by2_bvq_sx">
         <li><b>My translation has not been saved</b><p>Problem: A translation entered in the
@@ -65,7 +78,7 @@
             the lemmatizer does not offer the correct option for a specific token, despite entering
             different transliterations for that token.</p><p>Solution 1: The word list may not have
             been indexed properly. Re-index the word list.</p><p>Solution 2: The lemma may not exist
-            in the word list. Please contact the BTS team.</p></li>
+            in the word list. Please contact the BTS team.</p><p/></li>
       </ul>
     </p>
   </body>

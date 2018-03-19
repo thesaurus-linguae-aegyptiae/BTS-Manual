@@ -33,8 +33,8 @@
     <li>The <b>Thesaurus</b> contains vocabulary which is used for the metadata of the database
      objects, such as date, location, provenance etc. A controlled vocabulary for metadata is
      necessary to maintain data consistency and effective search functions. All terms in the
-     thesaurus reflect a semantic network of concepts including parent/child relationships.
-     Thesaurus entries are offered in the Passport Editor section of either the Text Editor in the
+     thesaurus reflect a semantic network of concepts including parent-child relationships.
+     Thesaurus entries are offered in the Passport Data Editor section of either the Text Editor in the
      Text Corpus View or the Lemma Editor in the Lemma view.</li>
    </ul>
    <ul id="ul_yzc_tzb_lx">
@@ -59,13 +59,13 @@
    <ul id="ul_ebg_l1c_lx">
     <li>The <b>Guide for advanced and privileged users</b> shows users with the necessary editing
      rights how to edit the lemma list and the thesaurus entries, and contains information for
-     administrators and editors.</li>
+     Administrators and Editors.</li>
    </ul>
   </p>
   <p>
    <ul id="ul_jhq_nz1_pt">
     <li>The <b>BTS User Interface</b> chapter is a detailed explanation of all elements available in
-     the BTS user interface. This chapter serves as a reference to the "Guide" chapters.</li>
+          the BTS User Interface. This chapter serves as a reference to the "Guide" chapters.</li>
    </ul>
    <ul id="ul_eqy_l1c_lx">
     <li>The <b>BTS Grammar Rules</b> chapter is a compilation of the essential rules for

@@ -3,7 +3,7 @@
 <concept id="concept_ipd_22f_yr">
  <title>Open ES Graphic User Interface</title>
  <conbody>
-        <p>This menu item is only available to users with administrator rights.</p>
+        <p>This menu item is only available to users with Administrator rights.</p>
   <p>It opens the "Elastic Search" Graphic User Interface (GUI) with your standard internet browser,
                   allowing you to see the "backdoor" of the queries done in BTS. </p>
             <p>For details see: https://github.com/jettro/elasticsearch-gui</p>

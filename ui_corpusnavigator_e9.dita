@@ -13,10 +13,10 @@
     id="image_exj_k4p_5t"/></p>
   <p>Next to its name, the physical save location of the database object is displayed in square
    brackets. The number of elements it contains is shown in round brackets. </p>
-  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/>:  this icon notes any
+  <p><image href="Images/icons/full/icon16/corpus.png" id="image_plq_kjs_4r"/>: This icon notes any
    active corpus in the Tree, for which you have the Updater or Reader status. </p>
-  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/>:  this icon
-   notes any other corpus which the user has the user right to see (but not edit etc.).</p>
+  <p><image href="Images/icons/full/icon16/corpus-disabled.png" id="image_pxc_mjs_4r"/>: This icon
+   notes any other corpus which you have the user right to see (but not edit etc.).</p>
   <p>There is the option to filter the Navigator Tree to e.g. only show active corpora, for further
    details see below. For activating and deactivating corpora use the Corpus Settings, see <xref
     href="howto_prefs.dita"/>.</p>
@@ -33,38 +33,27 @@
   <p>Corpus Navigator-specific buttons are the following: </p>
   <p><image href="Images/icons/full/icon16/corpus-add.png" id="image_ksx_zjs_4r"/>
    <u>Create New Text Corpus</u></p>
-  <p>Click to create a new corpus (only available to administrators).</p>
+  <p>Click to create a new corpus (only available to Administrators).</p>
   <p><image href="Images/icons/full/icon16/tcobject-add.png" id="image_szx_zjs_4r"/>
    <u>Add Text Corpus Object </u></p>
   <p>Adds a "child" (a lower level) element to the currently selected database object. It receives a
    default title "BTSTC Object"; select the newly created element by clicking it and use the
-   Passport Editor to rename it and enter its metadata. </p>
+   Passport Data Editor to rename it and enter its metadata. </p>
   <p>NOTE: The child-element is physically saved into your main working corpus, while its location
-   in the Navigator Tree is determined by its relationships with other database objects.</p>
+   in the Navigator Tree is determined by its relationships with other database objects. See <xref
+    href="howto_create_corpusobject.dita"/> for details. </p>
   <p><image href="Images/icons/full/icon16/text-add.png" id="image_ahy_zjs_4r"/>
    <u>Add Text </u></p>
   <p>Adds a Text as a child-element to the selected database object. It is called "BTS Text" until
-   you rename it in the Passport Editor. </p>
-  <p>NOTE: The physical location where the child element is saved is the main working corpus you
+   you rename it in the Passport Data Editor. </p>
+  <p>NOTE: The physical location where the child-element is saved is the main working corpus you
    chose in the <xref href="ui_preferences2.dita#concept_trz_tw2_yr">Preference Settings</xref>.</p>
   <p><image href="Images/icons/full/icon16/annotation-add.png" id="image_cpy_zjs_4r"/>
    <u>Add Annotation </u></p>
-  <p>Adds an annotation to the selected node. </p>
+  <p>Adds an annotation to the selected node. See <xref href="howto_annotations.dita"/> for details. </p>
   <p><image href="Images/icons/full/icon16/comment-add.png" id="image_vm2_gbg_ys"/>
    <u>Add Comment </u></p>
-  <p>Adds a comment to the selected node.</p>
-  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
-  <p><?oxy_custom_end?><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r"/>
-   <u>Delete</u></p>
-  <p>Deletes the selected database object from the Corpus Navigator tree and moves it into the "Bin"
-   tab. In the Bin you can either restore it or permanently delete it by right-clicking and
-   selecting the appropriate option. Note that you are only allowed to delete your own database
-   objects, texts etc.</p>
-  <p>NOTE: This only deletes the selected database object. All child-elements (e.g. Subtexts,
-   Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Orphans" at the bottom of
-   the Navigator tree and are still accessible via the Search Dialogue. If you want to delete both a
-   parent node and its children, you have to delete all child-elements before deleting the
-   respective parent database object.</p>
+  <p>Adds a comment to the selected node. See <xref href="howto_annotations.dita"/> for details. </p>
   <p><image href="Images/icons/full/icon16/search.png" id="image_ocz_zjs_4r"/>
    <u>Open Simple Search Dialogue</u></p>
   <p>Opens a search dialogue, which allows you to search for specific database objects, phrases.
@@ -75,8 +64,21 @@
    will display a drop-down menu containing the options described above plus these additional ones: </p>
   <p>
    <ul id="ul_xf1_h1y_bv">
-    <li>Delete Permanently: Use this option to delete an item permanently (i.e. it will not be moved
-     to the Bin). Clicking on "Delete Permanently" will open a confirmation dialogue.</li>
+    <li>
+     <p><image href="Images/icons/full/obj16/delete.png" id="image_awy_zjs_4r"/> Move to trash:
+      Deletes the selected database object from the Corpus Navigator tree and moves it into the
+      "Bin" tab. In the Bin you can either restore it or permanently delete it by right-clicking and
+      selecting the appropriate option. Note that you are only allowed to delete your own database
+      objects, texts etc.</p>
+     <p>NOTE: This only deletes the selected database object. All child-elements (e.g. Subtexts,
+      Annotations, Comments, Rubra, Glosses etc.) remain in the database as "Orphans" at the bottom
+      of the Navigator tree and are still accessible via the Search Dialogue. If you want to delete
+      both a parent node and its children, you have to delete all child-elements before deleting the
+      respective parent database object.</p>
+    </li>
+    <li><image href="Images/icons/full/obj16/delete.png" id="image_txb_tcs_bdb"/> Delete
+     Permanently: Use this option to delete an item permanently (i.e. it will not be moved to the
+     Bin). Clicking on "Delete Permanently" will open a confirmation dialogue.</li>
    </ul>
   </p>
   <p>
@@ -116,7 +118,7 @@
     <li>Filter: Allows you to filter the corpora in the Navigator Tree: <p>
       <ul id="ul_ybc_myp_gx">
        <li>Filter by Project / Creator / Updaters / Review Status / Visibility / Types by clicking
-        the relevant check boxes; to undo the filter, unselect the checkboxes. </li>
+        the relevant check-boxes; to undo the filter, unselect the checkboxes. </li>
        <li>Only active text corpora: Displays only active corpora, marked by the icon <image
          href="Images/icons/full/icon16/corpus.png" id="image_tff_typ_gx"/>.</li>
        <li>Filter only invalid texts: Displays all texts that do not comply with the formal system
@@ -155,7 +157,7 @@
    </ul>
    <ul id="ul_egh_xwp_3x">
     <li><image href="Images/icons/full/icon16/tcobject.png" id="image_nw4_yhp_3x"/>
-     <b>TCObject:</b> The Text Corpus Object is the physical ancient Egyptian artefact which bears
+     <b>TCObject:</b> The Text Corpus Object is the physical Ancient Egyptian artefact which bears
      your text (e.g. the Papyrus Harris 500 or the sphinx stele of Thutmose IV.).</li>
    </ul>
    <ul id="ul_obj_xwp_3x">
@@ -172,7 +174,7 @@
      several texts, e.g. Papyrus Harris 500 contains "The Doomed Prince", "The Taking of Joppe" etc.
      Each of these tales/poems receives its own database object "Text", which are then subordinated
      to the TCObject "Papyrus Harris 500. The order of these Texts within the physical artefact can
-     be indicated by changing their SortKeys.</li>
+     be indicated by changing their <xref href="ui_maintab.dita">SortKeys</xref>.</li>
    </ul>
    <ul id="ul_pwm_rwp_3x">
     <li><image href="Images/icons/full/icon16/subtext.png" id="image_cb2_4gp_3x"/>

@@ -16,9 +16,10 @@
     <p><image href="Images/icons/full/icon16/save-all.png" id="image_n2f_tlr_4r"/>
       <b>Save</b>
     </p>
-    <p>Save the changes you made in the current active window or tab. If you have not made any new
-      changes to the database object, this icon will be inactive (grey). If you attempt to close the
-      program, a window will ask you to save any changes which have not already been manually saved. </p>
+    <p>Save the changes you have made in the current active window or tab. If you have not made any
+      new changes to the database object, this icon will be inactive (grey). If you attempt to close
+      the program, a window will ask you to save any changes which have not already been manually
+      saved. </p>
     <p>NOTE: There is no auto-save function in BTS; the program will automatically save your file
       when you click on another database object, but make sure you also manually save your work
       regularly to avoid data loss!</p>
@@ -30,7 +31,9 @@
     <p>Undo the last action(s). The Undo-button only applies to changes in the Text Editor and can
       only undo actions which you have done during the current session. Once you have switched to
       another database object, this feature will no longer be available. Newly created database
-      objects cannot be deleted by using this button.</p>
+      objects cannot be deleted by using this button. For removing the item right-click and select
+        <image href="Images/icons/full/obj16/delete.png" id="image_ctd_3cw_ns"/><xref
+        href="howto_create_corpusobject.dita#ol_awf_h1x_3x">"Move to trash"</xref> instead. </p>
     <p><image href="Images/icons/full/icon16/redo.png" id="image_ffc_mnr_4r"/>
       <b>Redo</b>
     </p>
@@ -41,10 +44,10 @@
     <p>This option is available twice on the Toolbar (on the left and on the right side) and leads
       to Preferences (see <xref href="ui_preferences.dita"/>). </p>
     <p>Next to the "cup" <image href="Images/icons/full/icon16/user.png" id="image_chv_5nr_4r"/>
-      icon is the name of the current user. Next to "pencil" <image
+      icon is the name of the current user. Next to the "pencil" <image
         href="Images/icons/full/icon16/edit.png" id="image_cbs_ynr_4r"/> and "key" <image
-        href="Images/icons/full/icon16/userrole.png" id="image_g5n_14r_4r"/> icons is this user's
-      role in the selected corpus/database object; the default role is "Guest" until you select a
+        href="Images/icons/full/icon16/userrole.png" id="image_g5n_14r_4r"/> icons is your user role
+      in the selected corpus/database object; the default role is "Guest" until you select a
       corpus/database object. </p>
     <p><image href="Images/icons/full/icon16/project.png" id="image_dn3_jm1_sr"/> displays the name
       of the current project.</p>
@@ -60,8 +63,8 @@
       <i>Lemma</i>, <image href="Images/icons/full/icon16/thss.png" id="image_jxq_lkp_5t"/>
       <i>Thesaurus</i>, and <image href="Images/icons/full/icon16/abstracttexts.png"
         id="image_wvw_mkp_5t"/>
-      <i>Abstract Text</i> Views by clicking on their respective icons located on the righthand side
-      of the Toolbar.</p>
+      <i>Abstract Text</i> Views by clicking on their respective icons located on the right-hand
+      side of the Toolbar.</p>
     <p>NOTE: The Abstract Text view is currently unavailable. In the future it will compile the
       different witnesses of a single text (e.g. Sinuhe) by displaying the concordances. The
       metadata concerning the "abstract text" can be entered in this View, e.g. the bibliographical

@@ -4,7 +4,7 @@
  <title>Annotations, Rubra, Glosses, and Comments</title>
  <conbody>
     <p>BTS text editing tools include annotations, rubra, glosses, and comments which can be applied
-      to a word or a sequence of words, and/or a sentence or several sentences. </p>
+      to a word(s), phrase(s), or sentence(s). </p>
     <p>NOTE: This function does not apply to single letters within a word, e.g. if in the pronoun
         <i>jn</i> the <i>n</i> was omitted and later added in red: <i>j((n))</i>, this <i>n</i>
       cannot be individually annotated.</p>
@@ -23,7 +23,8 @@
             a text if the sequence of these parts is clear. To mark sections of a text where the
             sequence of the chapters is not clear or ambiguous (e.g. a Ptolemaic temple scene with a
             main text and various smaller texts describing specific parts of the scene), then you
-            should enter these texts separately as <b>Subtext</b>s.</p></li>
+            should enter these texts separately as <b>Subtext</b>s (see section "Creating a Text" in
+            chapter <xref href="howto_create_corpusobject.dita"/>).</p></li>
       </ul>
     </p>
     <p>
@@ -43,9 +44,10 @@
         <li><b>Comment</b> is additional information on a text which can discuss problems with
           translating a phrase or a word (unlike annotations, comments cannot have metadata such as
           e.g. bibliographical information). <p>The distinction between Annotations and Comments may
-            seem arbitrary but is to allow a varied visibility and save locations of such additions.
-            It also means that you can annotate database objects in a corpus in which you are a
-            guest, without altering the original database object for other users.</p></li>
+            seem arbitrary but is in place to allow a variety in the visibility and save locations
+            of such additions. It also means that you can annotate database objects in a corpus in
+            which you are a guest, without altering the original database object for other
+            users.</p></li>
       </ul>
     </p>
     <p><b>Annotating a text</b></p>
@@ -75,7 +77,7 @@
     <p>
       <ul id="ul_qfs_mlj_lx">
         <li><image href="Images/icons/full/icon16/subtext-add.png" id="image_zxr_pqs_mr"/>
-          <b>Add Glosses</b>: Clicking on this button will add a "child"-element to your text in the
+          <b>Add Glosses</b>: Clicking on this button will add a child-element to your text in the
           corpora tree. The gloss can be edited like a regular text and can have passport data etc.
           Once created, it is labelled "BTS Text" until you rename it.</li>
       </ul>
@@ -105,7 +107,7 @@
       between two "$" signs, so that the system knows to transform that text into cursive in the
       TLA, e.g.: $sḏm$.</p>
     <p><b>Deleting annotations</b></p>
-    <p>You can delete the annotation by selecting it and clicking <image
+    <p>You can delete an annotation by selecting it and clicking <image
         href="Images/icons/full/obj16/delete.png" id="image_b2z_jy4_sr"/> "Delete" in the upper
       right corner of the Annotation tab. A confirmation window will appear, click "Delete" to
       confirm or "Cancel" if you have changed your mind.</p>

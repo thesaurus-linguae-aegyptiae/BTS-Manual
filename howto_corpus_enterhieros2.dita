@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_wn2_hzy_qt">
-  <title>Entering Hieroglyphs</title>
+  <title>Entering hieroglyphs</title>
   <body>
     <p>To enter or edit the hieroglyphs of your text, switch to the Sign Text Editor and then open
-      the Hieroglyph Type Writer (HTW). HTW is based on JSesh application created by Serge
+      the Hieroglyph Type Writer (HTW). HTW is based on a JSesh application created by Serge
       Rosmorduc. Make sure you have switched your keyboard back to normal, if you have just been
       entering transliteration.</p>
     <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
@@ -22,7 +22,7 @@
         <li>When entering the first letters of the transliteration of a lemma, the programme will
           show you a list of hieroglyphs to choose from. Every hieroglyph has a number in red next
           to it; the first sign (1) is selected by default unless you choose otherwise by pressing
-          CTRL and the number of your chosen sign. E.g. in the following screenshot there are four
+          CTRL and the number of your chosen sign. E.g. in the following screen-shot there are four
           options shown for the input 'n', if you wanted to select the N35B-sign you would have to
           press CTRL+3.<p><image
               href="Images/new%20screenshots/BTS%20Screenshots/Hieros_Eingabe/Zeichenauswahl1.png"
@@ -60,7 +60,7 @@
           you need to delete the already entered hieroglyphs, you can simply use the BACKSPACE or
           DELETE buttons on your keyboard and confirm by pressing ENTER. You can also click on the
             <image href="Images/icons/full/icon16/hieroglyphetw-delete.png" id="image_ec2_4tg_wr"/>
-          "Remove Hieroglyph Data" in the toolbar in the top right corner.</li>
+          "Remove Hieroglyph Data" in the toolbar in the top right-hand corner.</li>
       </ol>
     </p>
   </body>

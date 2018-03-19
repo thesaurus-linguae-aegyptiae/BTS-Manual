@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ohd_sq5_fs">
- <title>Update / Uninstall BTS</title>
+ <title>Update/Uninstall BTS</title>
  <conbody>
   <p>
    <ol id="ol_vhy_cr5_fs">
@@ -10,20 +10,14 @@
             be installed via the program's user interface as well, by clicking "Help / Update
             Application" in the top menu bar.</p></li>
     <li><u>Uninstall BTS</u><p>BTS is not listed in the "Control Panel/Programs/Programs and
-                                                Features" section of your operating system, and so
-                                                it cannot be uninstalled in the regular way. To
-                                                uninstall the program, close the BTS program window
-                                                and delete all files from the installation folder.
-                                                </p><p>NOTE: You might have to restart your system
-                                                before deleting the folder because the DB services
-                                                might be still running in the background after
-                                                closing the program, blocking the deletion.
-                                                </p><p>NOTE: Using "Help / Uninstall software" entry
-                                                in the upper menu bar of BTS will not uninstall the
-                                                program completely, it will only uninstall
-                                                individual components. You will might have to close
-                                                the program window and delete again the files, which
-                                                were blocked by running DB services. </p></li>
+      Features" section of your operating system, and so it cannot be uninstalled in the regular
+      way. To uninstall the program, close the BTS program window and delete all files from the
+      installation folder. </p><p>NOTE: You might have to restart your system before deleting the
+      folder because the DB services might be still running in the background after closing the
+      program, blocking the deletion. </p><p>NOTE: Using "Help/Uninstall software" entry in the
+      upper menu bar of BTS will not uninstall the program completely, it will only uninstall
+      individual components. You will might have to close the program window and delete again the
+      files, which were blocked by running DB services. </p></li>
    </ol>
   </p>
  </conbody>

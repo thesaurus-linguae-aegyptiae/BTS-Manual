@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ivy_kzc_cs">
- <title>Special signs and Haplography</title>
+ <title>Special signs and haplography</title>
  <conbody>
   <p><b>Dots and other hieratic signs without hieroglyphic equivalents</b></p>
   <p>Some hieratic signs like lines or dots which do not have hieroglyphic equivalents are available
@@ -20,8 +20,8 @@
   <p>A sign in a rectangular enclosure <image
                 href="Images/Hypszer/Handbuch-Screenschots/rectencl.png" id="image_icx_qcj_qr"/> is
             to be entered with "&lt;H-...->", e.g.: &lt;H-R8->. (H=<i>Ḥw.t</i>).</p>
-        <p>NOTE: For some signs there are Gardiner codes available in group O when enclosed by a
-                <i>ḥw.t</i>-sign. Use these if applicable.</p>
+        <p>NOTE: For some <i>ḥw.t</i>-signs there are Gardiner codes available in group O. Use these
+            if applicable.</p>
   <p><b>Haplographies</b></p>
   <p>Haplographies are normally encoded where they first appear in the text. When they should appear
             again, encode them in double angle brackets: [&amp;-[&amp;- + Hieroglyph +

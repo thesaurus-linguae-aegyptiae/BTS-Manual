@@ -73,11 +73,11 @@
   <p>You can also access these functions via the drop-down menu which appears when you click on the
    arrow on the right-hand side of the window. </p>
   <p>Additionally, when an annotation, rubrum or comment is created, a small rectangle will appear
-   on the right margin of the Text-Editor window in the corresponding colour (grey/red/yellow).
+   on the right-hand margin of the Text-Editor window in the corresponding colour (grey/red/yellow).
    Clicking on the rectangle will bring you to the relevant part of the text. </p>
   <p><b>Sentence translation</b></p>
   <p>At the bottom of the Text Editor there is a field where you can enter a translation of each
-   sentence. The filed is activated only after the text lemmata have been loaded (button "Load Text
+   sentence. The field is activated only after the text lemmata have been loaded (button "Load Text
    Lemmata"). Remember to switch the keyboard layout from "AAeW" back to standard when you enter
    your translation.</p>
   <p>The <image href="Images/icons/full/icon16/locale.png" id="image_plt_3yt_mr"/> "Languages" icon

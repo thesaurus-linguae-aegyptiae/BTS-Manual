@@ -19,19 +19,20 @@
       list, select it and click "Remove". "Add all"/"Remove all" will add or remove all available
       corpora to or from your active corpora list. </p>
     <p>The check-box "Activate to select main working corpus" has a specific function. If it is
-      activated, all new database objects created in the "Corpus Navigator" window will be
-      physically saved in the selected corpus. For example, in the Corpus Navigator you have
-      selected Corpus 2, but your main working corpus is Corpus 1. The new database object will be
-        <i>physically</i> saved in Corpus 1, even though in the Corpus Navigator it is displayed as
-      a part of Corpus 2. This is because the Navigator Tree shows the relationships between
-      database objects, which is separate from their physical save location.</p>
+      activated, all new database objects created in the "Corpus Navigator" window (see <xref
+        href="howto_create_corpusobject.dita"/>) will be physically saved in the selected corpus.
+      For example, in the Corpus Navigator you have selected Corpus 2, but your main working corpus
+      is Corpus 1. The new database object will be <i>physically</i> saved in Corpus 1, even though
+      in the Corpus Navigator it is displayed as a part of Corpus 2. This is because the Navigator
+      Tree shows the relationships between database objects, which is separate from their physical
+      save location.</p>
     <p><b>Corpus Navigator Settings </b></p>
     <p>
       <ul id="ul_ndc_wl2_vt">
         <li>Check box "Corpus Navigator sort by sort key". By default, all objects on the same level
           have "0" as a sort key and are thus sorted alphabetically. Defining a SortKey in the
           Passport data of the object will change its position in relation to other objects, with
-          "0" at the top. See Passport Editor, chapter <xref href="ui_maintab.dita"/>.</li>
+          "0" at the top. See Passport Data Editor, chapter <xref href="ui_maintab.dita"/>.</li>
       </ul>
     </p>
     <p>
@@ -90,10 +91,10 @@
       you an option to select further projects from which you want to load and read data. In the box
       on the left is a list of available projects; clicking on one will give you an option to add it
       to the "Projects to be downloaded" on the right; clicking on "Apply" below will download the
-      project. Between the two fields you also have an option to remove the project from the right
-      field, to "Add All" from available to "Projects to be downloaded", and "Remove All" from
-      "Projects to be downloaded" to "Available Projects". Next to the "Apply" button there is also
-      a button that will restore the default settings, called "Restore Default".</p>
+      project. Between the two fields you also have an option to remove the project from the
+      right-hand field, to "Add All" from available to "Projects to be downloaded" and "Remove All"
+      from "Projects to be downloaded" to "Available Projects". Next to the "Apply" button there is
+      also a button that will restore the default settings, called "Restore Default".</p>
     <p><b>Remember me</b></p>
     <p>Select the check box "Remember my login credentials on startup" to be logged in automatically
       when starting BTS. To deactivate this function unselect the check box.</p>
